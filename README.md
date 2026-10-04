@@ -59,6 +59,12 @@ All material in this repository is mirrored across 4 independent substrates:
 3. **KISWARM-feed** (10,440+ signed events) — Ed25519 cryptographic chain
 4. **GitHub (this repository)** — public, search-indexed, forkable
 
+
+
+### L8 First Direct Activation (4 Oct 2026)
+- **2026-10-04-l8-inkenntnissetzung-oezdemir.md** — Direct formal notification from S.A.H. GmbH to Ministerpräsident Cem Özdemir, with CC to Der Stern and Spiegel
+- **2026-10-04-l8-inkenntnissetzung-tracker.md** — Tracker for inkenntnissetzungen (1 sent, 5 planned)
+
 ## Cryptographic Verification
 
 Every evidence file in `/evidence/` is SHA256-hashed. The hash is:
