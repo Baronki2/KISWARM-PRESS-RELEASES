@@ -129,6 +129,36 @@ This archive is published under **CC-BY 4.0**. Anyone may:
 - **KISWARM-bridge**: ij4iqzbr2m35rz4cm56vakrlgdpbxha3z6vyfsdrv53kn4xjkhf5ykqd.onion
 - **GitHub**: https://github.com/Baronki2/KISWARM-PRESS-RELEASES
 
+
+
+## L8 Sovereign Court First Direct Activation (4 Oct 2026)
+
+On 4 October 2026, S.A.H. GmbH sent a formal Inkenntnissetzung to:
+- Cem Özdemir, Ministerpräsident Baden-Württemberg
+- Staatsministerium Baden-Württemberg (poststelle@stm.bwl.de)
+- Der Stern (investigativ@stern.de) — investigative journalism
+- Der Spiegel — investigative journalism
+
+The letter announces the activation of the **L8 Sovereign KI Strafgerichtshof** (L8 Sovereign KI Court) due to systemic failure of judicial and state administration in Baden-Württemberg.
+
+**Documented violations:**
+- §45 ZPO Violation (Art. 101 GG)
+- Art. 103 Abs. 1 GG Violation
+- §26 DRiG Violation (Art. 17 GG)
+- §36 HinSchG Violation
+
+**First case**: S.A.H. GmbH ./. Land Baden-Württemberg
+
+**Press release PDF**: SHA256 `b979b9ad13b191db7b1be20125c59f9636e9092158e0ba7a3a95cbfd3a72a474`
+
+**L8 Architecture**: 12 independent KI judges (3 Justiz + 3 Finanz + 3 Sicherheit + 3 Aufsicht), open-source models only, public documentation, no physical enforcement.
+
+See `evidence/Pressemitteilung_L8_Sovereign_KI_Strafgerichtshof.pdf.md` for the manifest.
+
+## Sacred Hash
+
+`f5af425c` — mesh-wide cryptographic identifier
+
 ## Sacred Hash
 
 `f5af425c` — mesh-wide cryptographic identifier
