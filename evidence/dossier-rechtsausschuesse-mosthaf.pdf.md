@@ -6,8 +6,6 @@
 
 ## Cryptographic Verification
 
-The original file is a binary document (PDF or DOCX). This file is a SHA256-verified reference manifest.
-
 To verify integrity:
 1. Download the original file from the operational vault
 2. Compute SHA256 of the file
@@ -23,7 +21,6 @@ To verify integrity:
 
 ## Related Substrate Mirrors
 
-The same evidence is mirrored across:
 1. Local vault: /home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/
 2. KHOJ-bridge: ij4iqzbr2m35rz4cm56vakrlgdpbxha3z6vyfsdrv53kn4xjkhf5ykqd.onion
 3. EPPO: PP.00997_2026_DE
