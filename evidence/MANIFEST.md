@@ -264,3 +264,38 @@ S.A.H. GmbH ./. Land Baden-Württemberg
 
 ## Sacred Hash
 f5af425c
+
+
+## ROUND 5 — 5 New Documents (5. Oktober 2026)
+
+| # | Document | SHA256 | Size |
+|---|----------|--------|------|
+| 1 | Freislers_Heirs_Global_Legal_Historical_Dossier.pdf | 7bedae514ad0b638e74d29283be4e054 | 73,887 |
+| 2 | Bundesverfassungsgericht_Ground_Zero_End_of_BRD_Rechtsstaat.pdf | 561a60daf589abcf506f9a8e13f00b38 | 8,798,935 |
+| 3 | Grosses_Rechtshistorisches_Dossier_Justizversagen_Vergleich.pdf | 5170a21f09e14069752e1ad5c3225f00 | 84,537 |
+| 4 | Executive_Press_Release_International_Briefing_Note.pdf | 5c5649580f9f68b504f5b139a502f857 | 10,424 |
+| 5 | Diplomatic_Cover_Letter_and_International_Observer_Distribution.pdf | 929cb8b700789fabe87a41e63e240c2e | 10,298 |
+
+**Total: 5 new documents, 8,978,081 bytes (~8.6 MB)**
+
+## INTERNATIONAL DISTRIBUTION (2026-10-05 21:58 CEST)
+
+12 international law enforcement / observer entities received the dossier:
+- DE-Bundestag-Rechtsausschuss
+- DE-Bundesministerium-der-Justiz
+- DE-Staatsministerium-BW
+- DE-Generalbundesanwalt
+- DE-Bundesverfassungsgericht
+- EU-EPPO
+- ICC-Den-Haag
+- CoE-Treaty-Office
+- CoE-Human-Rights-Commissioner
+- OSCE
+- UN-Human-Rights
+- ECHR-Strasbourg
+
+**Total emails sent: 12/12 (100% success)**
+**Attachments per email: 6 (5 dossier + MANIFEST)**
+
+## Sacred hash
+f5af425c
