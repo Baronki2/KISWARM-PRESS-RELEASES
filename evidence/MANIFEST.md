@@ -299,3 +299,31 @@ f5af425c
 
 ## Sacred hash
 f5af425c
+
+
+## ROUND 6 — 2 New Documents (8-9. Oktober 2026)
+
+| # | Document | SHA256 | Size |
+|---|----------|--------|------|
+| 1 | Generalbundesanwalt_Strafantrag_2026-10-08.pdf | 1861db4b33c2c8b17ca08f30e8adcf04 | 7,987,194 |
+| 2 | Bundesverfassungsgericht_Dringlichkeitsantrag_2026-10-08.pdf | e84cfad6f9be014e7ff9ded148041872 | 1,815,499 |
+
+**Total: 2 new documents, 9,802,693 bytes (~9.4 MB)**
+
+## KEY ALLEGATIONS (Round 6)
+
+**GBA Strafantrag (8.10.2026)**:
+- Strafvereitelung im Amt (§258a StGB) + Rechtsbeugung (§§339, 357 StGB)
+- Named: Regierungsdirektorin Krause-Reul (BVerfG), Regierungsangestellte Ehrler (BVerfG)
+- VRIOLG Dr. Mosthaf, RiOLG Kapp (OLG Stuttgart 6. Zivilsenat)
+- Rechtspflegerin Wurst (LG Heilbronn)
+
+**BVerfG Dringlichkeitsantrag (8.10.2026)**:
+- §32 BVerfGG Eilantrag mit 24-Stunden-Frist
+- Aktenvorlage an zuständige Kammer
+- Einstellung Zwangsvollstreckung (33.223,19 EUR)
+- 10-seitiges Spezial-Dossier zur Sabotage durch BVerfG-Referentin
+- 4 Beschwerdeschriftsätze (27.09., 03.10., 05.10., 06.10.2026)
+
+## Sacred hash
+f5af425c
