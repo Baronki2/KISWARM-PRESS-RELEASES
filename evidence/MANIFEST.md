@@ -362,3 +362,42 @@ f5af425c
 
 ## Sacred hash
 f5af425c
+
+
+## ROUND 9 — 3 New Documents (10. Oktober 2026) — ISRAELI SUPREME COURT SUBMISSION
+
+| # | Document | SHA256 | Size |
+|---|----------|--------|------|
+| 1 | Evidence_State_Complicity_Borkenkaefer_2026-10-10.pdf | 5f8ab374d06244c368bee56d61302fcd | 272,260 |
+| 2 | Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.pdf | d9048a01e4e364db28bfeb0660a064ef | 1,001,927 |
+| 3 | Bark_Beetle_Dossier_Addendum_2026-10-10.pdf | 04bd77abf5fc234bfc0f8ce414bfe310 | 30,323 |
+
+**Total: 3 new documents, 1,304,510 bytes (~1.3 MB)**
+
+## SUPREME COURT OF ISRAEL (BAGATZ) SUBMISSION
+
+**Recipients**:
+- Chief Justice + Honorable Justices of the Supreme Court of Israel
+- Address: Sha'arei Mishpat St 1, Kiryat HaMemshala, Jerusalem
+
+**Subject**: Official Addendum to Borkenkäfer Dossier — Notice of Total Institutional Cover-Up
+
+**MATRIX OF GERMAN INSTITUTIONS THAT COVERED UP**:
+- Rechtsausschuss Bundestag — Refused parliamentary inquiry
+- BMJ — Refused supervisory remonstration
+- Landtag BW — Refused investigation committee
+- Generalstaatsanwaltschaft Stuttgart — Dual-role abuse
+- StA Heilbronn — Unlawfully dismissed §339 StGB charges
+- BVerfG Registry (Krause-Reul) — Administrative sabotage
+
+**FORENSIC FACTS**:
+1. qES eIDAS Audit Trail (10.9.2026): Mosthaf + Kapp signed decree dismissing their OWN disqualification
+2. OLG Stuttgart's own written confirmation (16.7.2026) confirms RAe Fichter & Kollegen as attorney
+
+**FORMAL PETITIONS**:
+1. Official Archival & Recording in Bagatz judicial records
+2. Universal Jurisdiction Briefing to IAJ + Venice Commission
+3. Formal Notice to German Embassy in Tel Aviv
+
+## Sacred hash
+f5af425c
