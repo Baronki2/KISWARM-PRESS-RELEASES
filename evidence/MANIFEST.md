@@ -327,3 +327,38 @@ f5af425c
 
 ## Sacred hash
 f5af425c
+
+
+## ROUND 7 — 4 New Documents (10. Oktober 2026)
+
+| # | Document | SHA256 | Size |
+|---|----------|--------|------|
+| 1 | UN_Urgent_Appeal_Subversion_Judicial_Independence_Germany_2026-10-10.pdf | dc5ce1819bbc0bed89582b91878fc730 | 3,609,674 |
+| 2 | Press_Release_International_2026-10-10.pdf | e474304c3a21713c95805ef7004c54d4 | 247,859 |
+| 3 | BVerfG_Update_Dringlichkeitsantrag_v2_2026-10-10.pdf | e84cfad6f9be014e7ff9ded148041872 | 1,815,499 |
+| 4 | Freislers_Heirs_Judicial_Fact_Dossier_2026-10-10.pdf | 68ab03c866b8f6ca984d1554fbd4927a | 301,050 |
+
+**Total: 4 new documents, 5,974,082 bytes (~5.7 MB)**
+
+## UN OHCHR SUBMISSION (10.10.2026)
+
+**Recipients**:
+- UN Special Rapporteur on the Independence of Judges and Lawyers (Prof. Margaret Satterthwaite)
+- UN Special Adviser on the Prevention of Genocide (Ms. Alice Wairimu Nderitu)
+- UN High Commissioner for Human Rights (Mr. Volker Türk)
+- CC: European Parliament (Viktor Almqvist + Foreign Press)
+
+**Allegations**:
+1. Administrative Sabotage of Constitutional Protection at BVerfG (AR 6768/26) by Regierungsdirektorin Krause-Reul
+2. qES Audit Trail Proof: Mosthaf + Kapp personally signed decree dismissing disqualification motions against themselves (9.9.2026)
+3. OLG Stuttgart fabrication of "missing legal representation" (contradicting OLG's own written confirmation 16.7.2026)
+4. Prosecutorial Complicity: GBA Karlsruhe charges filed 8.10.2026 (§258a, §339, §356 StGB)
+5. Whistleblower Retaliation: §36 HinSchG violation (BfJ-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679)
+
+**Formal Requests**:
+1. Joint Urgent Appeal to Federal Republic of Germany
+2. Special Procedures Fact-Finding Mission
+3. UN Observer Status on pending BVerfG/VG Stuttgart/GBA proceedings
+
+## Sacred hash
+f5af425c
