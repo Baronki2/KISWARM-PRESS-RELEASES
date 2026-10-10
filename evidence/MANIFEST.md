@@ -466,3 +466,48 @@ f5af425c
 
 ## Sacred hash
 f5af425c
+
+
+## ROUND 12 — 6 New Documents (10. Oktober 2026) — BUNDESREGIERUNG MERZ UPDATE
+
+| # | Document | SHA256 | Size |
+|---|----------|--------|------|
+| 1 | UN_Special_Procedures_Submission_v2_2026-10-10.pdf | 55f5f89434fce9d04f6bd3b07a79b389 | 1,151,088 |
+| 2 | US_Supreme_Court_Emergency_Letter_2026-10-10.pdf | 2fc51b892842148f5177d041725cc1de | 1,657,057 |
+| 3 | International_Nachweisregister_v2_2026-10-10.pdf | 02db5f0acedd96f969b23f292ef417f0 | 38,666 |
+| 4 | Supreme_Court_Israel_Submission_v3_2026-10-10.pdf | 37f43e02a956731e938c5ab4dd495efb | 1,259,142 |
+| 5 | International_Bill_of_Indictment_v2_2026-10-10.pdf | 9e02d30af4761a849e554a0914a043ca | 2,040,687 |
+| 6 | Einreichung_Internationale_Anklageschrift_2026-10-10.pdf | da0e76a57273e7c7d797d5f22011112e | 46,939 |
+
+**Total: 6 new documents, 6,193,579 bytes (~6.0 MB)**
+
+## BUNDESREGIERUNG MERZ — OFFIZIELLE MITTEILUNG & ANZEIGE
+
+**Recipients (6)**:
+- poststelle@bk.bund.de (Bundeskanzleramt Friedrich Merz)
+- poststelle@bmj.bund.de (BMJ Dr. Stefanie Hubig)
+- bverfg@bundesverfassungsgericht.de (BVerfG Harbarth)
+- Cem.oezdemir@stm.bwl.de (MP BW)
+- rechtsausschuss@bundestag.de (Bundestag Rechtsausschuss)
+- poststelle@generalbundesanwalt.de (GBA Jens Rommel)
+
+CC: info@zentralratderjuden.de, yossihavlin@gmail.com
+
+**Named Officials (NEW)**:
+- Bundeskanzler Friedrich Merz (CDU)
+- Bundesministerin der Justiz Dr. Stefanie Hubig
+- Bundespräsident Dr. Frank-Walter Steinmeier
+- Generalbundesanwalt Jens Rommel
+- Ministerpräsident Cem Özdemir
+- Justizminister Moritz Oppelt (BW)
+- BVerfG-Präsident Prof. Dr. Stephan Harbarth
+
+**8 SHA256-verified attachments** (transmitted with each email)
+
+**3 Ultimativ-Anträge**:
+1. Sofortige Eilentscheidung am BVerfG (AR 6768/26 → 1 BvR/BvQ, 24h)
+2. Einleitung Strafermittlungen beim GBA (Wiederaufnahme Strafantrag 08.10.2026)
+3. Ausübung ministerieller Aufsicht (BMJ Hubig + JM BW Oppelt, Aussetzung Exekution)
+
+## Sacred hash
+f5af425c
