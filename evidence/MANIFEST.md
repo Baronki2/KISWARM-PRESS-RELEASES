@@ -433,3 +433,36 @@ f5af425c
 
 ## Sacred hash
 f5af425c
+
+
+## ROUND 11 — 4 New Documents (10. Oktober 2026) — INTERNATIONAL BILL OF INDICTMENT
+
+| # | Document | SHA256 | Size |
+|---|----------|--------|------|
+| 1 | International_Bill_of_Indictment_2026-10-10.pdf | 179af5f36ed7b7dfab7db7fde625de68 | 179,767 |
+| 2 | International_Nachweisregister_2026-10-10.pdf | 02db5f0acedd96f969b23f292ef417f0 | 38,666 |
+| 3 | International_Tribunal_2026-10-10.pdf | 00222536edde40eabe775d077c46f80e | 2,223,530 |
+| 4 | Rechtsgrundlage_International_Tribunal_2026-10-10.pdf | 0ad247cbeee8f25d5e7703a4223b3fd0 | 2,087,200 |
+
+**Total: 4 new documents, 4,529,163 bytes (~4.3 MB)**
+
+## INTERNATIONAL BILL OF INDICTMENT DISTRIBUTION
+
+**Recipients (8)**:
+- Israeli Bagatz (4): menahel, pa, dover, Foreign.countries @ court.gov.il
+- US SCOTUS + DOJ (4): efilingsupport, nsdfoia, usdoj-officeoflegalcounsel, CRT.FOIArequests
+
+**Subject**: Universal Jurisdiction Review — Judicial Self-Empowerment + Procedural Coercion at OLG Stuttgart 6. Zivilsenat
+
+**8 SHA256-verified attachments** (transmitted with each email):
+- 4 new International Bill of Indictment files
+- 4 supporting documents from prior rounds (SCOTUS, Bagatz, UN, Evidence)
+
+**Formal Petitions**:
+1. Accept and record into international archives
+2. Transmit notice to IAJ + Venice Commission
+3. Review under universal jurisdiction principles
+4. Issue formal notice to German Embassy in respective jurisdictions
+
+## Sacred hash
+f5af425c
