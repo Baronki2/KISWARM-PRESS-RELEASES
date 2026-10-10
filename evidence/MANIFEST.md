@@ -401,3 +401,35 @@ f5af425c
 
 ## Sacred hash
 f5af425c
+
+
+## ROUND 10 — 5 New Documents (10. Oktober 2026) — SCOTUS SUBMISSION
+
+| # | Document | SHA256 | Size |
+|---|----------|--------|------|
+| 1 | Systemic_Rule_of_Law_Collapse_Supreme_Court_US_2026-10-10.pdf | cc6cd37c2533158f5ccfd322e24ad8ba | 204,465 |
+| 2 | Supreme_Court_Israel_Submission_2026-10-10_v2.pdf | 37f43e02a956731e938c5ab4dd495efb | 1,259,142 |
+| 3 | UN_Special_Procedures_Submission_2026-10-10.pdf | 55f5f89434fce9d04f6bd3b07a79b389 | 1,151,088 |
+| 4 | Evidence_State_Complicity_v2_2026-10-10.pdf | 5f8ab374d06244c368bee56d61302fcd | 272,260 |
+| 5 | Borkenkaefer_Dossier_v2_2026-10-10.pdf | d9048a01e4e364db28bfeb0660a064ef | 1,001,927 |
+
+**Total: 5 new documents, 3,888,882 bytes (~3.8 MB)**
+
+## US SUPREME COURT (SCOTUS) SUBMISSION
+
+**Recipients (5)**:
+- efilingsupport@supremecourt.gov (SCOTUS)
+- nsdfoia@usdoj.gov (DOJ FOIA)
+- usdoj-officeoflegalcounsel@usdoj.gov (DOJ OLC)
+- FOIA@usdoj.gov (DOJ FOIA)
+- CRT.FOIArequests@usdoj.gov (DOJ Civil Rights Division)
+
+**Subject**: Transatlantic Emergency Diplomatic Appeal — Systemic Subversion of Judicial Independence in Germany — Historical Parallels to Post-1933 Collapse
+
+**Formal Petitions**:
+1. Accept and record into transatlantic rule-of-law archives
+2. Communicate findings to US Department of State and Federal Judicial Center
+3. Transmit to international judicial associations and human rights monitors
+
+## Sacred hash
+f5af425c
