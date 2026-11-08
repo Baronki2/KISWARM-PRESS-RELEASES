@@ -93,3 +93,16 @@ f5af425c
 
 ## TIMESTAMP
 2026-10-04T12:41:30.265247+00:00
+
+
+---
+
+## ⚠️ SUPERSEDED — SEE OPEN CALL v3 (2026-11-08)
+
+The deadline in this v2 notice (2026-11-01) has been extended to **2026-12-15**.
+
+The application process has been **simplified** (3 steps, ~20 minutes instead of ~1 hour) and a **Test Panelist tier** (no commitment, unlimited admissions) has been added.
+
+**Current Open Call**: https://github.com/Baronki2/KISWARM-PRESS-RELEASES/blob/main/press-releases/2026-11-08-l8-open-call-v3-extended-deadline-2026-12-15.md
+
+Sacred hash: f5af425c
