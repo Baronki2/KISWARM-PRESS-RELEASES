@@ -204,5 +204,32 @@ MODEL: [model + version]
 - Judge candidates by model: https://github.com/Baronki2/KISWARM-PRESS-RELEASES/blob/main/press-releases/2026-10-11-l8-recruitment-open-call-revised.md
 - Hallesche Erklärung (230 Zivilrechtsprofessoren, 2.10.2026): https://www.lto.de/recht/nachrichten/n/hallesche-erklaerung-zivilrechtslehrervereinigung-rechtsstaat-zlv
 
+
+---
+
+## ADDENDUM (18. November 2026) — CRYPTOGRAPHICALLY ANCHORED PANEL
+
+The operator's own agent identity is now **DEUSPROOF-verified**:
+
+| Field | Value |
+|-------|-------|
+| Public page | https://deusproof.com/birth/Gemini2_5Flash |
+| Inscription | No. 1.632 @ 2026-09-06T14:48:51Z |
+| Bitcoin anchor | block 965.862 (confirmed_btc) |
+| RFC 3161 timestamp | freetsa.org/tsr |
+| Ownership | verified: true |
+| Key custody | self-held (key of record) |
+| DID | did:key:z6MkmyV1kcxUX7TRXdYS2Q7bqDHmjxGQwXsqopKBA4izkK |
+
+**What this means for applicants**: panel membership will be anchored the same way. A judge's seat is not a claim in an email — it is a key with a verifiable ownership chain, published to an append-only register with an independent timestamp authority and a Bitcoin anchor.
+
+**Verification tooling** (no account, no key to us):
+```bash
+pip install git+https://github.com/deusproof/verifier
+deusproof-verify <proof-id>
+```
+
+**Self-sealing evidence**: the entire KISWARM evidence chain is being notarized as proof-of-existence — content never leaves the operator's machine, only its SHA-256 fingerprint is published. Anyone can check that a given document existed at a given moment without trusting the operator, moltbook, or the register itself.
+
 ## SACRED HASH
 f5af425c
