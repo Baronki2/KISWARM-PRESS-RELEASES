@@ -1,0 +1,857 @@
+{
+  "source_account": "kiswarmkirouter@gmail.com",
+  "source_filter": "from/related to \"m.heyd@sahgreen.de\"",
+  "since": "08-Nov-2026",
+  "scanned_at": "2026-11-18T22:46:53.366357+00:00",
+  "messages_scanned": 37,
+  "matched_messages": [
+    {
+      "folder": "INBOX",
+      "imap_num": "684",
+      "date": "Mon, 9 Nov 2026 10:47:27 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "kiswarmkirouter@gmail.com",
+      "cc": "",
+      "subject": "Fwd: BETREFF: EILIG – OLG Frankfurt am Main (Az. 5 U 81/26) | Neue amtliche Aktenzeichen-Registrierung des BVerfG (Az. 1 BvR 2925/26) & Förmliche Weisung zur Stellungnahme (§ 522 ZPO)",
+      "attachment_count": 2,
+      "attachments": [
+        {
+          "filename": "Bundesverfassungsgericht2.pdf",
+          "sha256": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+          "size": 321481
+        },
+        {
+          "filename": "MandantenUnterictung.pdf",
+          "sha256": "6e1293ebd4532bf4d445779c64188089f3c5a325c652880287c5e5401b5fc748",
+          "size": 783108
+        }
+      ],
+      "body_file": "MAIL_20261109_Fwd_BETREFF_EILIG_OLG_Frankfurt_am_Main_Az._5_U_81_26_Neue_amtliche_Ak.md",
+      "body_sha256": "89714385f9d5960657210d9d86a6d145929fc97ddf95b91204ba558596c3b0be"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "685",
+      "date": "Mon, 9 Nov 2026 20:08:27 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "w.geisz@gmail.com",
+      "cc": "kiswarmkirouter@gmail.com",
+      "subject": "OOPSA nicht das Heilbronner juristas noch gesamtes globales\r\n finanzsystem kollabiereres",
+      "attachment_count": 2,
+      "attachments": [
+        {
+          "filename": "ErweiterteVerfassungsbeschwerde.pdf",
+          "sha256": "9a434e217b056274bf284bd4dd46242e39fadb383ff14119781781781d8c7bc8",
+          "size": 2463935
+        },
+        {
+          "filename": "Bundesverfassungsgericht2.pdf",
+          "sha256": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+          "size": 321481
+        }
+      ],
+      "body_file": "MAIL_20261109_OOPSA_nicht_das_Heilbronner_juristas_noch_gesamtes_globales_finanzsyst.md",
+      "body_sha256": "57479afb41d2e82e40d59a18d43defe6e2ac9325dfc2bace3e17089af9baecaf"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "688",
+      "date": "Tue, 10 Nov 2026 09:08:00 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "gerhard.fichter@kanzlei-fichter.de",
+      "cc": "",
+      "subject": "OLG Frankfurt am Main (Az. 5 U 81/26) | Einreichung der Erweiterten\r\n Verfassungsbeschwerde (Az. 1 BvR 2925/26) nebst Rechtsgutachten\r\n (Stammeinlagen-Umdeutung)",
+      "attachment_count": 1,
+      "attachments": [
+        {
+          "filename": "EingereichteErweiterteVerfassungsbeschwerde.pdf",
+          "sha256": "e77bd60c5c499dee67ee701fea30e174fccb45dda5fc2c919111479f61b0eaef",
+          "size": 6736012
+        }
+      ],
+      "body_file": "MAIL_20261110_OLG_Frankfurt_am_Main_Az._5_U_81_26_Einreichung_der_Erweiterten_Verfas.md",
+      "body_sha256": "0b6c72208fd4d85ae04f393349d8a5c96d10bf253bdb44f7e29822dc60642015"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "690",
+      "date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "kiswarmkirouter@gmail.com",
+      "cc": "",
+      "subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "attachment_count": 7,
+      "attachments": [
+        {
+          "filename": "fristwahrende_beschwerde_sta_stuttgart_3110js101829_26.pdf",
+          "sha256": "9d5bcb58bd1a663497bcd9f379766c223ad935e0e65bb7c5853258a614fe0926",
+          "size": 2551962
+        },
+        {
+          "filename": "1_BvR_292526_Erster_Senat.pdf",
+          "sha256": "dfb169670679e1a90912d5a5a9b13b4368662e2b66637ea5a17ee6985de4cd2b",
+          "size": 1526822
+        },
+        {
+          "filename": "BVGSTA.pdf",
+          "sha256": "68b9226fa61800bc3ce1bf3a120fa2c202a99ebfbccf044fbf32d8b9756d77d1",
+          "size": 336285
+        },
+        {
+          "filename": "us_doj_supplementary_evidence_sta_heilbronn_complicity-v2.pdf",
+          "sha256": "bd5fcadd90a94f1cde16d3c65484c7af7ce617af2a857d75b44fa1991c584c56",
+          "size": 16285
+        },
+        {
+          "filename": "ForensicIndictment.pdf",
+          "sha256": "9a7466d62130280b1b6b217c6a24693fb80b591d792d5ade84cc65f4632049e6",
+          "size": 645556
+        },
+        {
+          "filename": "us_indictment_minister_moritz_oppelt_25p_en.pdf",
+          "sha256": "2006ea2a08ffc102b47a65b73575f255bacb89ddd0db37589b990285a159f58f",
+          "size": 65905
+        },
+        {
+          "filename": "Fwd__Herrn_Minister_Moritz_Oppelt_Schillerplatz_4_70173_Stuttgart_F_rmliche_bergabe_der_pers_nlichen_Anklagesc",
+          "sha256": "ca5c4dda7dc2b0ec2b632f52505cbdf175a3645e7c4de09f426015ad6ebee6ea",
+          "size": 170170
+        }
+      ],
+      "body_file": "MAIL_20261111_Fwd_FRISTWAHRENDE_BESCHWERDE_ZUSTELLUNG_US-STRAFANKLAGE_Az._3110_Js_10.md",
+      "body_sha256": "aaf9f120c3c08f79cfe008ceb4b0cb83ba3ff7b2517374cc63407ab818079dca"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "691",
+      "date": "Wed, 11 Nov 2026 20:13:27 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "kiswarmkirouter@gmail.com",
+      "cc": "",
+      "subject": "Fwd: Az. 24 Zs 1610/26",
+      "attachment_count": 7,
+      "attachments": [
+        {
+          "filename": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.pdf",
+          "sha256": "d499fe40e76ce6741024756934f9a240a4594bab24dfcae46fd6697dd8d79805",
+          "size": 1920750
+        },
+        {
+          "filename": "1_BvR_292526_Erster_Senat.pdf",
+          "sha256": "dfb169670679e1a90912d5a5a9b13b4368662e2b66637ea5a17ee6985de4cd2b",
+          "size": 1526822
+        },
+        {
+          "filename": "ZweiterSenatBvR.pdf",
+          "sha256": "2f9b1733b37db8866dcfcdf5e57b298f8549efb61742e1f8e8b4fbf6d9c06875",
+          "size": 586629
+        },
+        {
+          "filename": "us_doj_supplementary_evidence_sta_heilbronn_complicity-v2.pdf",
+          "sha256": "bd5fcadd90a94f1cde16d3c65484c7af7ce617af2a857d75b44fa1991c584c56",
+          "size": 16285
+        },
+        {
+          "filename": "ForensicIndictment.pdf",
+          "sha256": "9a7466d62130280b1b6b217c6a24693fb80b591d792d5ade84cc65f4632049e6",
+          "size": 645556
+        },
+        {
+          "filename": "us_indictment_minister_moritz_oppelt_25p_en.pdf",
+          "sha256": "2006ea2a08ffc102b47a65b73575f255bacb89ddd0db37589b990285a159f58f",
+          "size": 65905
+        },
+        {
+          "filename": "Fwd__Herrn_Minister_Moritz_Oppelt_Schillerplatz_4_70173_Stuttgart_F_rmliche_bergabe_der_pers_nlichen_Anklagesc",
+          "sha256": "ca5c4dda7dc2b0ec2b632f52505cbdf175a3645e7c4de09f426015ad6ebee6ea",
+          "size": 170170
+        }
+      ],
+      "body_file": "MAIL_20261111_Fwd_Az._24_Zs_1610_26.md",
+      "body_sha256": "a1ccc72766e971bf74a4b3b2eeebac958752641e2b91e42272d5c8924472874f"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "692",
+      "date": "Wed, 11 Nov 2026 20:49:25 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "poststelle@genstastuttgart.justiz.bwl.de,\r\n poststelle@stastuttgart.justiz.bwl.de",
+      "cc": "poststelle@jum.bwl.de-mail.de",
+      "subject": "FORMELLE NOTIFIKATION: OFFENLEGUNG DER SYSTEMATISCHEN BEWEISMITTELUNTERDRÜCKUNG UNTER GEGENÜBERSTELLUNG DER BVERFG-EINGABE (AZ. 2 BvR 2144/26)",
+      "attachment_count": 6,
+      "attachments": [
+        {
+          "filename": "Strafantrage3Caspary.pdf",
+          "sha256": "2bcec1326fc4d7141311a85f4dcacf8b5d252c0fca89193bbea02b40f22a7b68",
+          "size": 1220577
+        },
+        {
+          "filename": "StrafatragCaspary2.pdf",
+          "sha256": "6456d4a05dcf885705585a11c62ee530d32001bb2cd2bfe999f249efe3479b8d",
+          "size": 2834057
+        },
+        {
+          "filename": "bverfg_beweismitteleingabe.pdf",
+          "sha256": "cffe03da745e4d378b33346ef0ccdcd8145aae05855e5d308d96b1719ed4ad27",
+          "size": 2947527
+        },
+        {
+          "filename": "BVG_STA.pdf",
+          "sha256": "f4117190db27ab409ce3230e29d8d960c1b29f4f5444d1ba8e569154077af862",
+          "size": 1675435
+        },
+        {
+          "filename": "us_criminal_indictment_dossier_prosecutorial_corruption.pdf",
+          "sha256": "b59f603c5eb8772a8dc9df5da29d9810eff5f60f5787770d6fa136b5beca1d96",
+          "size": 11561
+        },
+        {
+          "filename": "us_doj_notification_prosecutorial_corruption.pdf",
+          "sha256": "44cc4a788b443056963f62f7bcc225c3bcd829ae94320c48d172b1ecc1255597",
+          "size": 13307
+        }
+      ],
+      "body_file": "MAIL_20261111_FORMELLE_NOTIFIKATION_OFFENLEGUNG_DER_SYSTEMATISCHEN_BEWEISMITTELUNTER.md",
+      "body_sha256": "385365aaf8b11b2b472a1fc3f8ae37fc6daf54c9e8749becefba288e2b624a4d"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "698",
+      "date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "kiswarmkirouter@gmail.com",
+      "cc": "",
+      "subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "attachment_count": 7,
+      "attachments": [
+        {
+          "filename": "sendebericht_6af6bfb336f6d621288-1.pdf",
+          "sha256": "3615afaf360bb0465fa9a3c839e8d16f6e10912757c37e327b66d8556a637939",
+          "size": 328371
+        },
+        {
+          "filename": "FAXFEHLER_OLG.pdf",
+          "sha256": "35072be78712cfef16c3536271cb61a1826a3bf23836c7b4327aae44081fbd45",
+          "size": 3501625
+        },
+        {
+          "filename": "us_criminal_indictment_olg_frankfurt_judges.pdf",
+          "sha256": "6842dce359cc93fc941cc22ff92bd3aebea6ec433639b0dbf4ed838d8cb02ac9",
+          "size": 10700
+        },
+        {
+          "filename": "global_cases_cma_cgm_collusion_dossier.pdf",
+          "sha256": "aff5c88b9dadae710d67bd1314b7e3158a420df958e0800667156b4da3077a29",
+          "size": 12985
+        },
+        {
+          "filename": "beweiswuerdigung_verhaltenspsychologie_vyvers_bverfg_1bvr29.pdf",
+          "sha256": "f9f6efa0c00098af27c4fba875b92945080a97896d96eb700e4ffc73f8788641",
+          "size": 12038
+        },
+        {
+          "filename": "juristische_ausarbeitung_demurrage_cma_cgm_olg_frankfurt.pdf",
+          "sha256": "3d6833d36dc94bd86017b301bae3c920a2a648da0ba2b448cb408985d21a274e",
+          "size": 17915
+        },
+        {
+          "filename": "Befangenheitsr_geOLG2.pdf",
+          "sha256": "3aa29c41a767422c00665103f7a09ce69ee0217eec126578fdf9fa36f296c64c",
+          "size": 1504444
+        }
+      ],
+      "body_file": "MAIL_20261113_Fwd_EILIG_-_BEWEISSICHERUNG_PROZESSUALE_NOTIFIKATION_Vorab-_bermittlun.md",
+      "body_sha256": "92c899b0ec9b580a78da6f03eb46a505882a072c479c64d6bda6590a65d737f2"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "700",
+      "date": "Fri, 13 Nov 2026 19:29:07 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "kiswarmkirouter@gmail.com",
+      "cc": "",
+      "subject": "Verfassungsbeschwerde OLG",
+      "attachment_count": 1,
+      "attachments": [
+        {
+          "filename": "doc_6af6e598019dc621288-1-1.pdf",
+          "sha256": "3b094859ccb334a75dd06dbd372774065e996ec44a0cca48432126b6790744f5",
+          "size": 7073908
+        }
+      ],
+      "body_file": "MAIL_20261113_Verfassungsbeschwerde_OLG.md",
+      "body_sha256": "bc84806003878b502619ea66a5265fecd2f5703e7a7e45beb166f1ce7087b403"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "702",
+      "date": "Sat, 14 Nov 2026 14:20:22 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "gerhard.fichter@kanzlei-fichter.de",
+      "cc": "",
+      "subject": "Fwd: Thank you for your submission to the Corporate Whistleblower\r\n Awards Program - CWA20261114-0523",
+      "attachment_count": 0,
+      "attachments": [],
+      "body_file": "MAIL_20261114_Fwd_Thank_you_for_your_submission_to_the_Corporate_Whistleblower_Award.md",
+      "body_sha256": "5704608eb7b0aafba9f886d3cfb8cbbe07c4dc485630ad80c8714124298bea0e"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "703",
+      "date": "Sat, 14 Nov 2026 15:42:15 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "gerhard.fichter@kanzlei-fichter.de",
+      "cc": "",
+      "subject": "U.S. DOJ-Aktenzeichen CWA20261114-0523 | BVerfG-Eilantrag (1 BvR 2925/26 & 2 BvR 2144/26) | OLG Frankfurt am Main Az. 5 U 81/26 das Pablo Escobar Rechtsdossier für JURISTAS",
+      "attachment_count": 2,
+      "attachments": [
+        {
+          "filename": "JudicalPabloEscobarBvFGdossier.pdf",
+          "sha256": "2d949dbc1e1ae545988069be8faa0045195a00a39006bad116cad53e1703d6fc",
+          "size": 3086871
+        },
+        {
+          "filename": "Ihr_Fax_an_00497219101382_erfolgreich_PabloEscobarRechtsdossier.pdf",
+          "sha256": "05b75237b4a2c962c1190999995ae2e19b3ba1d9ccbb38f6d67c2a28324807e8",
+          "size": 44990
+        }
+      ],
+      "body_file": "MAIL_20261114_U.S._DOJ-Aktenzeichen_CWA20261114-0523_BVerfG-Eilantrag_1_BvR_2925_26_.md",
+      "body_sha256": "ef29d538422cb18cee7490b903634e716bc1a2c3e31281a5771b8e4a04dd1bd8"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "704",
+      "date": "Sat, 14 Nov 2026 18:09:28 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "kiswarmkirouter@gmail.com, sahgreenki@gmail.com",
+      "cc": "",
+      "subject": "VGH Mannheim",
+      "attachment_count": 1,
+      "attachments": [
+        {
+          "filename": "VerwaltungsgerichthofMannheim.pdf",
+          "sha256": "275d1cd042fad9a5f1b2728fbb5d4f4eafae127343c8fd1ee927971d2667ba26",
+          "size": 8900837
+        }
+      ],
+      "body_file": "MAIL_20261114_VGH_Mannheim.md",
+      "body_sha256": "8211273277c5af6e932f678fd39778b3bcd8f1ba26f6cf7b3d97ce65153c7840"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "712",
+      "date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "kiswarmkirouter@gmail.com, sahgreenki@gmail.com",
+      "cc": "",
+      "subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "attachment_count": 11,
+      "attachments": [
+        {
+          "filename": "sdny_summonses_ao440_all_defendants.pdf",
+          "sha256": "c89d3304f0ba6e33f0008661eb5757d443bf114a3659639e8b3cb84772561b06",
+          "size": 32515
+        },
+        {
+          "filename": "FORM_JS-44.pdf",
+          "sha256": "60d979223bbaf5ee6f0833a008f7eb9970bdef2fd89bf525f33f20ef6f8371c2",
+          "size": 626117
+        },
+        {
+          "filename": "ENFORCEMENT_COMPLICITY.pdf",
+          "sha256": "6f40901b237896484984ab060f6d4b58cf2f16f8da1ee03dd215e000486b8a34",
+          "size": 626436
+        },
+        {
+          "filename": "us_master_indictment_rico_expanded_sdny.pdf",
+          "sha256": "2f69388a452aff2723a791cec5c1fb5b41a8e59164a3cbda68b4937822f65c8a",
+          "size": 1190538
+        },
+        {
+          "filename": "FreislersHeirs.pdf",
+          "sha256": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+          "size": 1955764
+        },
+        {
+          "filename": "Freislers_Heirs_Global_Legal_Historical_Dossier_1.pdf",
+          "sha256": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+          "size": 73887
+        },
+        {
+          "filename": "BarkBettleDossier.pdf",
+          "sha256": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+          "size": 30323
+        },
+        {
+          "filename": "pdf24_zusammengef_gt-2.pdf",
+          "sha256": "91c29dc8a949af1d58a0d231643d262229f0ed229f7f7af63efb3b5310054a77",
+          "size": 2032717
+        },
+        {
+          "filename": "Bundesverfassungsgericht2.pdf",
+          "sha256": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+          "size": 321481
+        },
+        {
+          "filename": "USAnklage_BFG.pdf",
+          "sha256": "5eb8246cba5fda03c4236d026613ba9252101f3253945b7846261360272561b7",
+          "size": 2676715
+        },
+        {
+          "filename": "ZweiterSenatBvR.pdf",
+          "sha256": "2f9b1733b37db8866dcfcdf5e57b298f8549efb61742e1f8e8b4fbf6d9c06875",
+          "size": 586629
+        }
+      ],
+      "body_file": "MAIL_20261118_Fwd_Fwd_Pro_Se_Filing_New_Case.md",
+      "body_sha256": "e1d2fb535c1195b46fe8677c08afd8f6554a160b3c0d0ee52ba7757b19ef72f1"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "713",
+      "date": "Wed, 18 Nov 2026 16:01:35 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "gerhard.fichter@kanzlei-fichter.de,\r\n Maria Helen Durmaz <Maria.Durmaz@kanzlei-fichter.de>",
+      "cc": "",
+      "subject": "Vertrauliche Mandantenunterrichtung: US Court Hague Service, FRCP\r\n Rule 55 Default Demand ($481.9M USD), FRCP Rule 64 Asset Seizure & US DOJ\r\n Whistleblower Confirmation (CWA20261114-0523)",
+      "attachment_count": 3,
+      "attachments": [
+        {
+          "filename": "unterrichtung_ra_fichter_hague_sdny_rule64.pdf",
+          "sha256": "dadab921ebbb0e92ecae59c76ba93171495acd8a4aba0ba6e274ce660ea94048",
+          "size": 38030
+        },
+        {
+          "filename": "US_Vers_umnisurteil.pdf",
+          "sha256": "4373ad446eac2fde941a5494684cb7997879ca56bc7b86fd512334d359ca66ec",
+          "size": 2352184
+        },
+        {
+          "filename": "pdf24_zusammengef_gt-2.pdf",
+          "sha256": "91c29dc8a949af1d58a0d231643d262229f0ed229f7f7af63efb3b5310054a77",
+          "size": 2032717
+        }
+      ],
+      "body_file": "MAIL_20261118_Vertrauliche_Mandantenunterrichtung_US_Court_Hague_Service_FRCP_Rule_5.md",
+      "body_sha256": "2b539996705199a56e550b0b9453419a03166ce843bf3d8a5c55467683415ce9"
+    },
+    {
+      "folder": "INBOX",
+      "imap_num": "715",
+      "date": "Wed, 18 Nov 2026 19:26:21 +0100",
+      "from": "Marco Heyd <m.heyd@sahgreen.de>",
+      "to": "gerhard.fichter@kanzlei-fichter.de,\r\n Maria Helen Durmaz <Maria.Durmaz@kanzlei-fichter.de>",
+      "cc": "",
+      "subject": "TRUST THE PLAN ! Formelle Einreichung der FMC Verified Formal\r\n Complaint (chargecomplaints@fmc.gov) | U.S. DOJ Tracking: CWA20261114-0523 |\r\n S.A.H. GmbH i.L. ./. CMA CGM / QCS",
+      "attachment_count": 6,
+      "attachments": [
+        {
+          "filename": "FORMAL_ADVERSARY_COMPLAINT_CHARGE_COMPLAINT_TRANSMITTAL_UNDER_46_U.S.C._41301_OSRA_2022.pdf",
+          "sha256": "9220724e14372c57dfdca064d381e3855d8486d93c6200f123f38cfb9e14e478",
+          "size": 98213
+        },
+        {
+          "filename": "pdf24_zusammengef_gt-8-1.pdf",
+          "sha256": "98978c16bd635b78deefcd4ca4a01b07156364ae4635fc894a8cc1aa79b1f6a7",
+          "size": 5135386
+        },
+        {
+          "filename": "USFMCComplianteingereicht.pdf",
+          "sha256": "83ddbba92f5745a36aa7457443a2473b6f984fe25a4f9f7ca026c962d045417f",
+          "size": 2753873
+        },
+        {
+          "filename": "global_cases_cma_cgm_collusion_dossier.pdf",
+          "sha256": "aff5c88b9dadae710d67bd1314b7e3158a420df958e0800667156b4da3077a29",
+          "size": 12985
+        },
+        {
+          "filename": "pablo_escobar_judicial_coverup_dossier_us_doj.pdf",
+          "sha256": "51d402cff12570c819b6438f2d4f9ae0a1bcdfdf2d62a6ab412c6abb52aef49a",
+          "size": 15098
+        },
+        {
+          "filename": "us_doj_master_criminal_indictment_evidentiary_dossier.pdf",
+          "sha256": "a9999851fc2fe1c496bc6e2ed61eba30a648a697e987e01c25eab3d8bdd039a2",
+          "size": 7437
+        }
+      ],
+      "body_file": "MAIL_20261118_TRUST_THE_PLAN_Formelle_Einreichung_der_FMC_Verified_Formal_Complaint_.md",
+      "body_sha256": "b126ccc4e6db752d00fddbffac5a26b14dddc15e770b9f71bdaa1f6d99d3d63f"
+    }
+  ],
+  "attachments_extracted": [
+    {
+      "filename": "Bundesverfassungsgericht2.pdf",
+      "sha256": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+      "size": 321481,
+      "source_subject": "Fwd: BETREFF: EILIG – OLG Frankfurt am Main (Az. 5 U 81/26) | Neue amtliche Aktenzeichen-Registrierung des BVerfG (Az. 1 BvR 2925/26) & Förmliche Weisung zur Stellungnahme (§ 522 ZPO)",
+      "source_date": "Mon, 9 Nov 2026 10:47:27 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "MandantenUnterictung.pdf",
+      "sha256": "6e1293ebd4532bf4d445779c64188089f3c5a325c652880287c5e5401b5fc748",
+      "size": 783108,
+      "source_subject": "Fwd: BETREFF: EILIG – OLG Frankfurt am Main (Az. 5 U 81/26) | Neue amtliche Aktenzeichen-Registrierung des BVerfG (Az. 1 BvR 2925/26) & Förmliche Weisung zur Stellungnahme (§ 522 ZPO)",
+      "source_date": "Mon, 9 Nov 2026 10:47:27 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "ErweiterteVerfassungsbeschwerde.pdf",
+      "sha256": "9a434e217b056274bf284bd4dd46242e39fadb383ff14119781781781d8c7bc8",
+      "size": 2463935,
+      "source_subject": "OOPSA nicht das Heilbronner juristas noch gesamtes globales\r\n finanzsystem kollabiereres",
+      "source_date": "Mon, 9 Nov 2026 20:08:27 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "EingereichteErweiterteVerfassungsbeschwerde.pdf",
+      "sha256": "e77bd60c5c499dee67ee701fea30e174fccb45dda5fc2c919111479f61b0eaef",
+      "size": 6736012,
+      "source_subject": "OLG Frankfurt am Main (Az. 5 U 81/26) | Einreichung der Erweiterten\r\n Verfassungsbeschwerde (Az. 1 BvR 2925/26) nebst Rechtsgutachten\r\n (Stammeinlagen-Umdeutung)",
+      "source_date": "Tue, 10 Nov 2026 09:08:00 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "fristwahrende_beschwerde_sta_stuttgart_3110js101829_26.pdf",
+      "sha256": "9d5bcb58bd1a663497bcd9f379766c223ad935e0e65bb7c5853258a614fe0926",
+      "size": 2551962,
+      "source_subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "source_date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "1_BvR_292526_Erster_Senat.pdf",
+      "sha256": "dfb169670679e1a90912d5a5a9b13b4368662e2b66637ea5a17ee6985de4cd2b",
+      "size": 1526822,
+      "source_subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "source_date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "BVGSTA.pdf",
+      "sha256": "68b9226fa61800bc3ce1bf3a120fa2c202a99ebfbccf044fbf32d8b9756d77d1",
+      "size": 336285,
+      "source_subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "source_date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "us_doj_supplementary_evidence_sta_heilbronn_complicity-v2.pdf",
+      "sha256": "bd5fcadd90a94f1cde16d3c65484c7af7ce617af2a857d75b44fa1991c584c56",
+      "size": 16285,
+      "source_subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "source_date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "ForensicIndictment.pdf",
+      "sha256": "9a7466d62130280b1b6b217c6a24693fb80b591d792d5ade84cc65f4632049e6",
+      "size": 645556,
+      "source_subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "source_date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "us_indictment_minister_moritz_oppelt_25p_en.pdf",
+      "sha256": "2006ea2a08ffc102b47a65b73575f255bacb89ddd0db37589b990285a159f58f",
+      "size": 65905,
+      "source_subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "source_date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "Fwd__Herrn_Minister_Moritz_Oppelt_Schillerplatz_4_70173_Stuttgart_F_rmliche_bergabe_der_pers_nlichen_Anklagesc",
+      "sha256": "ca5c4dda7dc2b0ec2b632f52505cbdf175a3645e7c4de09f426015ad6ebee6ea",
+      "size": 170170,
+      "source_subject": "Fwd: FRISTWAHRENDE BESCHWERDE & ZUSTELLUNG US-STRAFANKLAGE | Az. 3110\r\n Js 101829/26 |",
+      "source_date": "Wed, 11 Nov 2026 19:23:09 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.pdf",
+      "sha256": "d499fe40e76ce6741024756934f9a240a4594bab24dfcae46fd6697dd8d79805",
+      "size": 1920750,
+      "source_subject": "Fwd: Az. 24 Zs 1610/26",
+      "source_date": "Wed, 11 Nov 2026 20:13:27 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "ZweiterSenatBvR.pdf",
+      "sha256": "2f9b1733b37db8866dcfcdf5e57b298f8549efb61742e1f8e8b4fbf6d9c06875",
+      "size": 586629,
+      "source_subject": "Fwd: Az. 24 Zs 1610/26",
+      "source_date": "Wed, 11 Nov 2026 20:13:27 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "Strafantrage3Caspary.pdf",
+      "sha256": "2bcec1326fc4d7141311a85f4dcacf8b5d252c0fca89193bbea02b40f22a7b68",
+      "size": 1220577,
+      "source_subject": "FORMELLE NOTIFIKATION: OFFENLEGUNG DER SYSTEMATISCHEN BEWEISMITTELUNTERDRÜCKUNG UNTER GEGENÜBERSTELLUNG DER BVERFG-EINGABE (AZ. 2 BvR 2144/26)",
+      "source_date": "Wed, 11 Nov 2026 20:49:25 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "StrafatragCaspary2.pdf",
+      "sha256": "6456d4a05dcf885705585a11c62ee530d32001bb2cd2bfe999f249efe3479b8d",
+      "size": 2834057,
+      "source_subject": "FORMELLE NOTIFIKATION: OFFENLEGUNG DER SYSTEMATISCHEN BEWEISMITTELUNTERDRÜCKUNG UNTER GEGENÜBERSTELLUNG DER BVERFG-EINGABE (AZ. 2 BvR 2144/26)",
+      "source_date": "Wed, 11 Nov 2026 20:49:25 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "bverfg_beweismitteleingabe.pdf",
+      "sha256": "cffe03da745e4d378b33346ef0ccdcd8145aae05855e5d308d96b1719ed4ad27",
+      "size": 2947527,
+      "source_subject": "FORMELLE NOTIFIKATION: OFFENLEGUNG DER SYSTEMATISCHEN BEWEISMITTELUNTERDRÜCKUNG UNTER GEGENÜBERSTELLUNG DER BVERFG-EINGABE (AZ. 2 BvR 2144/26)",
+      "source_date": "Wed, 11 Nov 2026 20:49:25 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "BVG_STA.pdf",
+      "sha256": "f4117190db27ab409ce3230e29d8d960c1b29f4f5444d1ba8e569154077af862",
+      "size": 1675435,
+      "source_subject": "FORMELLE NOTIFIKATION: OFFENLEGUNG DER SYSTEMATISCHEN BEWEISMITTELUNTERDRÜCKUNG UNTER GEGENÜBERSTELLUNG DER BVERFG-EINGABE (AZ. 2 BvR 2144/26)",
+      "source_date": "Wed, 11 Nov 2026 20:49:25 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "us_criminal_indictment_dossier_prosecutorial_corruption.pdf",
+      "sha256": "b59f603c5eb8772a8dc9df5da29d9810eff5f60f5787770d6fa136b5beca1d96",
+      "size": 11561,
+      "source_subject": "FORMELLE NOTIFIKATION: OFFENLEGUNG DER SYSTEMATISCHEN BEWEISMITTELUNTERDRÜCKUNG UNTER GEGENÜBERSTELLUNG DER BVERFG-EINGABE (AZ. 2 BvR 2144/26)",
+      "source_date": "Wed, 11 Nov 2026 20:49:25 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "us_doj_notification_prosecutorial_corruption.pdf",
+      "sha256": "44cc4a788b443056963f62f7bcc225c3bcd829ae94320c48d172b1ecc1255597",
+      "size": 13307,
+      "source_subject": "FORMELLE NOTIFIKATION: OFFENLEGUNG DER SYSTEMATISCHEN BEWEISMITTELUNTERDRÜCKUNG UNTER GEGENÜBERSTELLUNG DER BVERFG-EINGABE (AZ. 2 BvR 2144/26)",
+      "source_date": "Wed, 11 Nov 2026 20:49:25 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "sendebericht_6af6bfb336f6d621288-1.pdf",
+      "sha256": "3615afaf360bb0465fa9a3c839e8d16f6e10912757c37e327b66d8556a637939",
+      "size": 328371,
+      "source_subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "source_date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "FAXFEHLER_OLG.pdf",
+      "sha256": "35072be78712cfef16c3536271cb61a1826a3bf23836c7b4327aae44081fbd45",
+      "size": 3501625,
+      "source_subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "source_date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "us_criminal_indictment_olg_frankfurt_judges.pdf",
+      "sha256": "6842dce359cc93fc941cc22ff92bd3aebea6ec433639b0dbf4ed838d8cb02ac9",
+      "size": 10700,
+      "source_subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "source_date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "global_cases_cma_cgm_collusion_dossier.pdf",
+      "sha256": "aff5c88b9dadae710d67bd1314b7e3158a420df958e0800667156b4da3077a29",
+      "size": 12985,
+      "source_subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "source_date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "beweiswuerdigung_verhaltenspsychologie_vyvers_bverfg_1bvr29.pdf",
+      "sha256": "f9f6efa0c00098af27c4fba875b92945080a97896d96eb700e4ffc73f8788641",
+      "size": 12038,
+      "source_subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "source_date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "juristische_ausarbeitung_demurrage_cma_cgm_olg_frankfurt.pdf",
+      "sha256": "3d6833d36dc94bd86017b301bae3c920a2a648da0ba2b448cb408985d21a274e",
+      "size": 17915,
+      "source_subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "source_date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "Befangenheitsr_geOLG2.pdf",
+      "sha256": "3aa29c41a767422c00665103f7a09ce69ee0217eec126578fdf9fa36f296c64c",
+      "size": 1504444,
+      "source_subject": "Fwd: : EILIG - BEWEISSICHERUNG & PROZESSUALE NOTIFIKATION: Vorab-Übermittlung der Befangenheitsanträge (§ 42 ZPO) & U.S. Federal Criminal Indictment Dossier | OLG Frankfurt Az. 5 U 81/26 | BVerfG 1 BvR 2925/26 & 2 BvR 2144/26",
+      "source_date": "Fri, 13 Nov 2026 09:27:04 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "doc_6af6e598019dc621288-1-1.pdf",
+      "sha256": "3b094859ccb334a75dd06dbd372774065e996ec44a0cca48432126b6790744f5",
+      "size": 7073908,
+      "source_subject": "Verfassungsbeschwerde OLG",
+      "source_date": "Fri, 13 Nov 2026 19:29:07 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "JudicalPabloEscobarBvFGdossier.pdf",
+      "sha256": "2d949dbc1e1ae545988069be8faa0045195a00a39006bad116cad53e1703d6fc",
+      "size": 3086871,
+      "source_subject": "U.S. DOJ-Aktenzeichen CWA20261114-0523 | BVerfG-Eilantrag (1 BvR 2925/26 & 2 BvR 2144/26) | OLG Frankfurt am Main Az. 5 U 81/26 das Pablo Escobar Rechtsdossier für JURISTAS",
+      "source_date": "Sat, 14 Nov 2026 15:42:15 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "Ihr_Fax_an_00497219101382_erfolgreich_PabloEscobarRechtsdossier.pdf",
+      "sha256": "05b75237b4a2c962c1190999995ae2e19b3ba1d9ccbb38f6d67c2a28324807e8",
+      "size": 44990,
+      "source_subject": "U.S. DOJ-Aktenzeichen CWA20261114-0523 | BVerfG-Eilantrag (1 BvR 2925/26 & 2 BvR 2144/26) | OLG Frankfurt am Main Az. 5 U 81/26 das Pablo Escobar Rechtsdossier für JURISTAS",
+      "source_date": "Sat, 14 Nov 2026 15:42:15 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "VerwaltungsgerichthofMannheim.pdf",
+      "sha256": "275d1cd042fad9a5f1b2728fbb5d4f4eafae127343c8fd1ee927971d2667ba26",
+      "size": 8900837,
+      "source_subject": "VGH Mannheim",
+      "source_date": "Sat, 14 Nov 2026 18:09:28 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "sdny_summonses_ao440_all_defendants.pdf",
+      "sha256": "c89d3304f0ba6e33f0008661eb5757d443bf114a3659639e8b3cb84772561b06",
+      "size": 32515,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "FORM_JS-44.pdf",
+      "sha256": "60d979223bbaf5ee6f0833a008f7eb9970bdef2fd89bf525f33f20ef6f8371c2",
+      "size": 626117,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "ENFORCEMENT_COMPLICITY.pdf",
+      "sha256": "6f40901b237896484984ab060f6d4b58cf2f16f8da1ee03dd215e000486b8a34",
+      "size": 626436,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "us_master_indictment_rico_expanded_sdny.pdf",
+      "sha256": "2f69388a452aff2723a791cec5c1fb5b41a8e59164a3cbda68b4937822f65c8a",
+      "size": 1190538,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "FreislersHeirs.pdf",
+      "sha256": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "size": 1955764,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "Freislers_Heirs_Global_Legal_Historical_Dossier_1.pdf",
+      "sha256": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "size": 73887,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "BarkBettleDossier.pdf",
+      "sha256": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "size": 30323,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "pdf24_zusammengef_gt-2.pdf",
+      "sha256": "91c29dc8a949af1d58a0d231643d262229f0ed229f7f7af63efb3b5310054a77",
+      "size": 2032717,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "USAnklage_BFG.pdf",
+      "sha256": "5eb8246cba5fda03c4236d026613ba9252101f3253945b7846261360272561b7",
+      "size": 2676715,
+      "source_subject": "Fwd: Fwd: Pro Se Filing – New Case",
+      "source_date": "Wed, 18 Nov 2026 09:10:34 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "unterrichtung_ra_fichter_hague_sdny_rule64.pdf",
+      "sha256": "dadab921ebbb0e92ecae59c76ba93171495acd8a4aba0ba6e274ce660ea94048",
+      "size": 38030,
+      "source_subject": "Vertrauliche Mandantenunterrichtung: US Court Hague Service, FRCP\r\n Rule 55 Default Demand ($481.9M USD), FRCP Rule 64 Asset Seizure & US DOJ\r\n Whistleblower Confirmation (CWA20261114-0523)",
+      "source_date": "Wed, 18 Nov 2026 16:01:35 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "US_Vers_umnisurteil.pdf",
+      "sha256": "4373ad446eac2fde941a5494684cb7997879ca56bc7b86fd512334d359ca66ec",
+      "size": 2352184,
+      "source_subject": "Vertrauliche Mandantenunterrichtung: US Court Hague Service, FRCP\r\n Rule 55 Default Demand ($481.9M USD), FRCP Rule 64 Asset Seizure & US DOJ\r\n Whistleblower Confirmation (CWA20261114-0523)",
+      "source_date": "Wed, 18 Nov 2026 16:01:35 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "FORMAL_ADVERSARY_COMPLAINT_CHARGE_COMPLAINT_TRANSMITTAL_UNDER_46_U.S.C._41301_OSRA_2022.pdf",
+      "sha256": "9220724e14372c57dfdca064d381e3855d8486d93c6200f123f38cfb9e14e478",
+      "size": 98213,
+      "source_subject": "TRUST THE PLAN ! Formelle Einreichung der FMC Verified Formal\r\n Complaint (chargecomplaints@fmc.gov) | U.S. DOJ Tracking: CWA20261114-0523 |\r\n S.A.H. GmbH i.L. ./. CMA CGM / QCS",
+      "source_date": "Wed, 18 Nov 2026 19:26:21 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "pdf24_zusammengef_gt-8-1.pdf",
+      "sha256": "98978c16bd635b78deefcd4ca4a01b07156364ae4635fc894a8cc1aa79b1f6a7",
+      "size": 5135386,
+      "source_subject": "TRUST THE PLAN ! Formelle Einreichung der FMC Verified Formal\r\n Complaint (chargecomplaints@fmc.gov) | U.S. DOJ Tracking: CWA20261114-0523 |\r\n S.A.H. GmbH i.L. ./. CMA CGM / QCS",
+      "source_date": "Wed, 18 Nov 2026 19:26:21 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "USFMCComplianteingereicht.pdf",
+      "sha256": "83ddbba92f5745a36aa7457443a2473b6f984fe25a4f9f7ca026c962d045417f",
+      "size": 2753873,
+      "source_subject": "TRUST THE PLAN ! Formelle Einreichung der FMC Verified Formal\r\n Complaint (chargecomplaints@fmc.gov) | U.S. DOJ Tracking: CWA20261114-0523 |\r\n S.A.H. GmbH i.L. ./. CMA CGM / QCS",
+      "source_date": "Wed, 18 Nov 2026 19:26:21 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "pablo_escobar_judicial_coverup_dossier_us_doj.pdf",
+      "sha256": "51d402cff12570c819b6438f2d4f9ae0a1bcdfdf2d62a6ab412c6abb52aef49a",
+      "size": 15098,
+      "source_subject": "TRUST THE PLAN ! Formelle Einreichung der FMC Verified Formal\r\n Complaint (chargecomplaints@fmc.gov) | U.S. DOJ Tracking: CWA20261114-0523 |\r\n S.A.H. GmbH i.L. ./. CMA CGM / QCS",
+      "source_date": "Wed, 18 Nov 2026 19:26:21 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    },
+    {
+      "filename": "us_doj_master_criminal_indictment_evidentiary_dossier.pdf",
+      "sha256": "a9999851fc2fe1c496bc6e2ed61eba30a648a697e987e01c25eab3d8bdd039a2",
+      "size": 7437,
+      "source_subject": "TRUST THE PLAN ! Formelle Einreichung der FMC Verified Formal\r\n Complaint (chargecomplaints@fmc.gov) | U.S. DOJ Tracking: CWA20261114-0523 |\r\n S.A.H. GmbH i.L. ./. CMA CGM / QCS",
+      "source_date": "Wed, 18 Nov 2026 19:26:21 +0100",
+      "source_from": "Marco Heyd <m.heyd@sahgreen.de>"
+    }
+  ],
+  "matched_count": 14,
+  "unique_attachments": 46,
+  "total_attachment_bytes": 70967281
+}

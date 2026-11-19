@@ -1,0 +1,2270 @@
+{
+  "notarized_at": "2026-11-19T05:01:20.126264+00:00",
+  "did": "did:key:z6MkmyV1kcxUX7TRXdNdYS2Q7bqDHmjxGQwXsqopKBA4izkK",
+  "register": "https://deusproof.com",
+  "files_total": 249,
+  "files_notarized": 250,
+  "errors": [],
+  "records": [
+    {
+      "file": ".l7-phase7",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/.l7-phase7",
+      "sha256": "e056a35db086947e2f5969d747f0a7517bff00c7ffff1f9e7b47b72bfac9d948",
+      "proof_id": "184715f0-ad7a-48f2-bba0-19a5c2186ec6",
+      "output_hash": "e056a35db086947e2f5969d747f0a7517bff00c7ffff1f9e7b47b72bfac9d948",
+      "verify_url": "https://deusproof.com/verify/184715f0-ad7a-48f2-bba0-19a5c2186ec6",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/184715f0-ad7a-48f2-bba0-19a5c2186ec6/badge.svg)](https://deusproof.com/verify/184715f0-ad7a-48f2-bba0-19a5c2186ec6)"
+    },
+    {
+      "file": ".l7-state.json",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/.l7-state.json",
+      "sha256": "da44416ef2b825aaa82c18a176a054b62091f4f4b138f53a1100ebd1521b244b",
+      "proof_id": "ca2b3cc4-47fe-4e90-a1ff-ea8cad6a5f9d",
+      "output_hash": "da44416ef2b825aaa82c18a176a054b62091f4f4b138f53a1100ebd1521b244b",
+      "verify_url": "https://deusproof.com/verify/ca2b3cc4-47fe-4e90-a1ff-ea8cad6a5f9d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ca2b3cc4-47fe-4e90-a1ff-ea8cad6a5f9d/badge.svg)](https://deusproof.com/verify/ca2b3cc4-47fe-4e90-a1ff-ea8cad6a5f9d)"
+    },
+    {
+      "file": "1_BvR_292526_Erster_Senat.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/1_BvR_292526_Erster_Senat.pdf",
+      "sha256": "dfb169670679e1a90912d5a5a9b13b4368662e2b66637ea5a17ee6985de4cd2b",
+      "proof_id": "52bc7442-b7ed-4e70-b45a-e799745859e8",
+      "output_hash": "dfb169670679e1a90912d5a5a9b13b4368662e2b66637ea5a17ee6985de4cd2b",
+      "verify_url": "https://deusproof.com/verify/52bc7442-b7ed-4e70-b45a-e799745859e8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/52bc7442-b7ed-4e70-b45a-e799745859e8/badge.svg)](https://deusproof.com/verify/52bc7442-b7ed-4e70-b45a-e799745859e8)"
+    },
+    {
+      "file": "ARCHIVE-LOG-2026-10-05.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ARCHIVE-LOG-2026-10-05.md",
+      "sha256": "f74ea7510d4d7f64e16e1f646ea169c8cd42f19bc7872334695af26f2a8e0ad9",
+      "proof_id": "907b89dc-b7a0-4b79-8b8c-c13f65a29b81",
+      "output_hash": "f74ea7510d4d7f64e16e1f646ea169c8cd42f19bc7872334695af26f2a8e0ad9",
+      "verify_url": "https://deusproof.com/verify/907b89dc-b7a0-4b79-8b8c-c13f65a29b81",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/907b89dc-b7a0-4b79-8b8c-c13f65a29b81/badge.svg)](https://deusproof.com/verify/907b89dc-b7a0-4b79-8b8c-c13f65a29b81)"
+    },
+    {
+      "file": "Anlage_VB4_Abgabebeschluss_04_09_2026.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Anlage_VB4_Abgabebeschluss_04_09_2026.pdf",
+      "sha256": "8495519a6f30c1d00f60cf704ef208e009496ea1d7a7e9e0b0fcc363e2f86725",
+      "proof_id": "f4527fbc-8995-4b1c-996c-cbc74775c140",
+      "output_hash": "8495519a6f30c1d00f60cf704ef208e009496ea1d7a7e9e0b0fcc363e2f86725",
+      "verify_url": "https://deusproof.com/verify/f4527fbc-8995-4b1c-996c-cbc74775c140",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f4527fbc-8995-4b1c-996c-cbc74775c140/badge.svg)](https://deusproof.com/verify/f4527fbc-8995-4b1c-996c-cbc74775c140)"
+    },
+    {
+      "file": "Antwort_Strafantrag_Generalbundesanwalt_2026-10-16.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Antwort_Strafantrag_Generalbundesanwalt_2026-10-16.pdf",
+      "sha256": "d742e771966f4345f327acd450efe4cbef0bfc501abfaeb0d45f630d4d876ab0",
+      "proof_id": "24b27842-2528-4584-8590-526fefe187bd",
+      "output_hash": "d742e771966f4345f327acd450efe4cbef0bfc501abfaeb0d45f630d4d876ab0",
+      "verify_url": "https://deusproof.com/verify/24b27842-2528-4584-8590-526fefe187bd",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/24b27842-2528-4584-8590-526fefe187bd/badge.svg)](https://deusproof.com/verify/24b27842-2528-4584-8590-526fefe187bd)"
+    },
+    {
+      "file": "BVGSTA.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/BVGSTA.pdf",
+      "sha256": "68b9226fa61800bc3ce1bf3a120fa2c202a99ebfbccf044fbf32d8b9756d77d1",
+      "proof_id": "3987233c-9f84-4bf7-ab7b-a641cf0132a3",
+      "output_hash": "68b9226fa61800bc3ce1bf3a120fa2c202a99ebfbccf044fbf32d8b9756d77d1",
+      "verify_url": "https://deusproof.com/verify/3987233c-9f84-4bf7-ab7b-a641cf0132a3",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3987233c-9f84-4bf7-ab7b-a641cf0132a3/badge.svg)](https://deusproof.com/verify/3987233c-9f84-4bf7-ab7b-a641cf0132a3)"
+    },
+    {
+      "file": "BVG_STA.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/BVG_STA.pdf",
+      "sha256": "f4117190db27ab409ce3230e29d8d960c1b29f4f5444d1ba8e569154077af862",
+      "proof_id": "8daab1c4-fd85-4145-b07b-6725209eccb0",
+      "output_hash": "f4117190db27ab409ce3230e29d8d960c1b29f4f5444d1ba8e569154077af862",
+      "verify_url": "https://deusproof.com/verify/8daab1c4-fd85-4145-b07b-6725209eccb0",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8daab1c4-fd85-4145-b07b-6725209eccb0/badge.svg)](https://deusproof.com/verify/8daab1c4-fd85-4145-b07b-6725209eccb0)"
+    },
+    {
+      "file": "BVerfG_Update_Dringlichkeitsantrag_v2_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/BVerfG_Update_Dringlichkeitsantrag_v2_2026-10-10.pdf",
+      "sha256": "e84cfad6f9be014e7ff9ded148041872fd38ee1972331222fc7d788f086298a4",
+      "proof_id": "e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2",
+      "output_hash": "e84cfad6f9be014e7ff9ded148041872fd38ee1972331222fc7d788f086298a4",
+      "verify_url": "https://deusproof.com/verify/e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2/badge.svg)](https://deusproof.com/verify/e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2)"
+    },
+    {
+      "file": "BarkBettleDossier.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/BarkBettleDossier.pdf",
+      "sha256": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "proof_id": "3c6b9cec-d191-464e-a931-5abac9d6a4b3",
+      "output_hash": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "verify_url": "https://deusproof.com/verify/3c6b9cec-d191-464e-a931-5abac9d6a4b3",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3c6b9cec-d191-464e-a931-5abac9d6a4b3/badge.svg)](https://deusproof.com/verify/3c6b9cec-d191-464e-a931-5abac9d6a4b3)"
+    },
+    {
+      "file": "Bark_Beetle_Dossier_Addendum_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Bark_Beetle_Dossier_Addendum_2026-10-10.pdf",
+      "sha256": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "proof_id": "3c6b9cec-d191-464e-a931-5abac9d6a4b3",
+      "output_hash": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "verify_url": "https://deusproof.com/verify/3c6b9cec-d191-464e-a931-5abac9d6a4b3",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3c6b9cec-d191-464e-a931-5abac9d6a4b3/badge.svg)](https://deusproof.com/verify/3c6b9cec-d191-464e-a931-5abac9d6a4b3)"
+    },
+    {
+      "file": "Baron_Motto_Life_Echoes_Eternity_2026-10-17.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Baron_Motto_Life_Echoes_Eternity_2026-10-17.pdf",
+      "sha256": "005b042ad6b740fc1526d40fb95dbcc34b5a588037b62789e1e7c0202adb8c34",
+      "proof_id": "f37537c8-ed65-460b-bc99-9648824c90af",
+      "output_hash": "005b042ad6b740fc1526d40fb95dbcc34b5a588037b62789e1e7c0202adb8c34",
+      "verify_url": "https://deusproof.com/verify/f37537c8-ed65-460b-bc99-9648824c90af",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f37537c8-ed65-460b-bc99-9648824c90af/badge.svg)](https://deusproof.com/verify/f37537c8-ed65-460b-bc99-9648824c90af)"
+    },
+    {
+      "file": "Befangenheitsr_geOLG2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Befangenheitsr_geOLG2.pdf",
+      "sha256": "3aa29c41a767422c00665103f7a09ce69ee0217eec126578fdf9fa36f296c64c",
+      "proof_id": "7b6a7be4-605e-423e-840d-042de64b3867",
+      "output_hash": "3aa29c41a767422c00665103f7a09ce69ee0217eec126578fdf9fa36f296c64c",
+      "verify_url": "https://deusproof.com/verify/7b6a7be4-605e-423e-840d-042de64b3867",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7b6a7be4-605e-423e-840d-042de64b3867/badge.svg)](https://deusproof.com/verify/7b6a7be4-605e-423e-840d-042de64b3867)"
+    },
+    {
+      "file": "Begleitschreiben_BVerfG_Aktualisierung_Singer_Dossier-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Begleitschreiben_BVerfG_Aktualisierung_Singer_Dossier-1.pdf",
+      "sha256": "5b14d3bd88f0701dbaa7806d0c70c5473030907805a0e79edfe4051fd78e178d",
+      "proof_id": "f0d187e6-3ff0-4bf8-8439-a2fc19e403f1",
+      "output_hash": "5b14d3bd88f0701dbaa7806d0c70c5473030907805a0e79edfe4051fd78e178d",
+      "verify_url": "https://deusproof.com/verify/f0d187e6-3ff0-4bf8-8439-a2fc19e403f1",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f0d187e6-3ff0-4bf8-8439-a2fc19e403f1/badge.svg)](https://deusproof.com/verify/f0d187e6-3ff0-4bf8-8439-a2fc19e403f1)"
+    },
+    {
+      "file": "Begleitschreiben_BVerfG_Aktualisierung_Singer_Dossier.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Begleitschreiben_BVerfG_Aktualisierung_Singer_Dossier.pdf",
+      "sha256": "5b14d3bd88f0701dbaa7806d0c70c5473030907805a0e79edfe4051fd78e178d",
+      "proof_id": "f0d187e6-3ff0-4bf8-8439-a2fc19e403f1",
+      "output_hash": "5b14d3bd88f0701dbaa7806d0c70c5473030907805a0e79edfe4051fd78e178d",
+      "verify_url": "https://deusproof.com/verify/f0d187e6-3ff0-4bf8-8439-a2fc19e403f1",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f0d187e6-3ff0-4bf8-8439-a2fc19e403f1/badge.svg)](https://deusproof.com/verify/f0d187e6-3ff0-4bf8-8439-a2fc19e403f1)"
+    },
+    {
+      "file": "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.pdf",
+      "sha256": "d9048a01e4e364db28bfeb0660a064efa3bdc098a7f408505e7928a59b802960",
+      "proof_id": "4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7",
+      "output_hash": "d9048a01e4e364db28bfeb0660a064efa3bdc098a7f408505e7928a59b802960",
+      "verify_url": "https://deusproof.com/verify/4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7/badge.svg)](https://deusproof.com/verify/4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7)"
+    },
+    {
+      "file": "Borkenkaefer_Dossier_v2_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Borkenkaefer_Dossier_v2_2026-10-10.pdf",
+      "sha256": "d9048a01e4e364db28bfeb0660a064efa3bdc098a7f408505e7928a59b802960",
+      "proof_id": "4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7",
+      "output_hash": "d9048a01e4e364db28bfeb0660a064efa3bdc098a7f408505e7928a59b802960",
+      "verify_url": "https://deusproof.com/verify/4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7/badge.svg)](https://deusproof.com/verify/4606d0ed-4d57-4e28-a45f-cc32ca4d8ee7)"
+    },
+    {
+      "file": "Bundestag_Rechtsausschuss_Versagen_2026-10-24.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Bundestag_Rechtsausschuss_Versagen_2026-10-24.pdf",
+      "sha256": "0cfaa53b2e9744f2b96222f2ce3f6f8cafbe3c4044dff5c18a1f24fb92bae9c0",
+      "proof_id": "fe19a712-7ca0-4324-88ad-2584a1d06707",
+      "output_hash": "0cfaa53b2e9744f2b96222f2ce3f6f8cafbe3c4044dff5c18a1f24fb92bae9c0",
+      "verify_url": "https://deusproof.com/verify/fe19a712-7ca0-4324-88ad-2584a1d06707",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/fe19a712-7ca0-4324-88ad-2584a1d06707/badge.svg)](https://deusproof.com/verify/fe19a712-7ca0-4324-88ad-2584a1d06707)"
+    },
+    {
+      "file": "Bundesverfassungsgericht2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Bundesverfassungsgericht2.pdf",
+      "sha256": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+      "proof_id": "cf3cf4c7-d292-433f-88be-d8eeca2bd7d8",
+      "output_hash": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+      "verify_url": "https://deusproof.com/verify/cf3cf4c7-d292-433f-88be-d8eeca2bd7d8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/cf3cf4c7-d292-433f-88be-d8eeca2bd7d8/badge.svg)](https://deusproof.com/verify/cf3cf4c7-d292-433f-88be-d8eeca2bd7d8)"
+    },
+    {
+      "file": "Bundesverfassungsgericht_Dringlichkeitsantrag_2026-10-08.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Bundesverfassungsgericht_Dringlichkeitsantrag_2026-10-08.pdf",
+      "sha256": "e84cfad6f9be014e7ff9ded148041872fd38ee1972331222fc7d788f086298a4",
+      "proof_id": "e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2",
+      "output_hash": "e84cfad6f9be014e7ff9ded148041872fd38ee1972331222fc7d788f086298a4",
+      "verify_url": "https://deusproof.com/verify/e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2/badge.svg)](https://deusproof.com/verify/e9aed5b0-fe98-4cf1-9a81-54cfd6ca06d2)"
+    },
+    {
+      "file": "Bundesverfassungsgericht_Ground_Zero_End_of_BRD_Rechtsstaat.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Bundesverfassungsgericht_Ground_Zero_End_of_BRD_Rechtsstaat.pdf",
+      "sha256": "561a60daf589abcf506f9a8e13f00b3844ba6597ca025fa2f0ad69d7adfbc910",
+      "proof_id": "de06359d-bbb1-42f8-a1a4-80bf30dff43c",
+      "output_hash": "561a60daf589abcf506f9a8e13f00b3844ba6597ca025fa2f0ad69d7adfbc910",
+      "verify_url": "https://deusproof.com/verify/de06359d-bbb1-42f8-a1a4-80bf30dff43c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/de06359d-bbb1-42f8-a1a4-80bf30dff43c/badge.svg)](https://deusproof.com/verify/de06359d-bbb1-42f8-a1a4-80bf30dff43c)"
+    },
+    {
+      "file": "Damage_Report_Freislers_Heir_2026-10-24.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Damage_Report_Freislers_Heir_2026-10-24.pdf",
+      "sha256": "bed3f34ab396b5a104dfba188e88ece602f9d44831211b1eb99a5a8b4fc8eee0",
+      "proof_id": "10611549-9f12-4f46-958b-fca842caf7ef",
+      "output_hash": "bed3f34ab396b5a104dfba188e88ece602f9d44831211b1eb99a5a8b4fc8eee0",
+      "verify_url": "https://deusproof.com/verify/10611549-9f12-4f46-958b-fca842caf7ef",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/10611549-9f12-4f46-958b-fca842caf7ef/badge.svg)](https://deusproof.com/verify/10611549-9f12-4f46-958b-fca842caf7ef)"
+    },
+    {
+      "file": "Dienstaufsichtsbeschwerde_Justizminister_BW.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Dienstaufsichtsbeschwerde_Justizminister_BW.pdf",
+      "sha256": "d034fc7db7691541baa5feb81ae295b1db5c43e67bc27112ed849afd67030bc8",
+      "proof_id": "dba62c4b-a858-4f04-bfdf-062f3a948097",
+      "output_hash": "d034fc7db7691541baa5feb81ae295b1db5c43e67bc27112ed849afd67030bc8",
+      "verify_url": "https://deusproof.com/verify/dba62c4b-a858-4f04-bfdf-062f3a948097",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/dba62c4b-a858-4f04-bfdf-062f3a948097/badge.svg)](https://deusproof.com/verify/dba62c4b-a858-4f04-bfdf-062f3a948097)"
+    },
+    {
+      "file": "Diplomatic_Cover_Letter_and_International_Observer_Distribution.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Diplomatic_Cover_Letter_and_International_Observer_Distribution.pdf",
+      "sha256": "929cb8b700789fabe87a41e63e240c2e809360e977c54dc77e8734eaeac9aaa6",
+      "proof_id": "2d61e16d-06cb-4df7-b454-a93113a751bb",
+      "output_hash": "929cb8b700789fabe87a41e63e240c2e809360e977c54dc77e8734eaeac9aaa6",
+      "verify_url": "https://deusproof.com/verify/2d61e16d-06cb-4df7-b454-a93113a751bb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2d61e16d-06cb-4df7-b454-a93113a751bb/badge.svg)](https://deusproof.com/verify/2d61e16d-06cb-4df7-b454-a93113a751bb)"
+    },
+    {
+      "file": "Diplomatic_Submission_Bagatz_2026-10-16.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Diplomatic_Submission_Bagatz_2026-10-16.pdf",
+      "sha256": "9490e8b573de8fb470c67212f8514f5ee2cfa1979949563646d2ad9af16d9d3c",
+      "proof_id": "7d5f3023-86ca-41bb-b8a4-73a5c993f26e",
+      "output_hash": "9490e8b573de8fb470c67212f8514f5ee2cfa1979949563646d2ad9af16d9d3c",
+      "verify_url": "https://deusproof.com/verify/7d5f3023-86ca-41bb-b8a4-73a5c993f26e",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7d5f3023-86ca-41bb-b8a4-73a5c993f26e/badge.svg)](https://deusproof.com/verify/7d5f3023-86ca-41bb-b8a4-73a5c993f26e)"
+    },
+    {
+      "file": "Dossier_Rechtsausschuss_OLG_Stuttgart.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Dossier_Rechtsausschuss_OLG_Stuttgart.pdf",
+      "sha256": "7d73fbbfa525126337a2f29d3dee58a145ceb4f40ffd5db2c310f9537b74d705",
+      "proof_id": "aad56306-c877-47c8-ac6d-46b6e16e7b0c",
+      "output_hash": "7d73fbbfa525126337a2f29d3dee58a145ceb4f40ffd5db2c310f9537b74d705",
+      "verify_url": "https://deusproof.com/verify/aad56306-c877-47c8-ac6d-46b6e16e7b0c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/aad56306-c877-47c8-ac6d-46b6e16e7b0c/badge.svg)](https://deusproof.com/verify/aad56306-c877-47c8-ac6d-46b6e16e7b0c)"
+    },
+    {
+      "file": "ENFORCEMENT_COMPLICITY.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ENFORCEMENT_COMPLICITY.pdf",
+      "sha256": "6f40901b237896484984ab060f6d4b58cf2f16f8da1ee03dd215e000486b8a34",
+      "proof_id": "f5cccd76-a21a-42b1-9773-1bede3ad3d49",
+      "output_hash": "6f40901b237896484984ab060f6d4b58cf2f16f8da1ee03dd215e000486b8a34",
+      "verify_url": "https://deusproof.com/verify/f5cccd76-a21a-42b1-9773-1bede3ad3d49",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f5cccd76-a21a-42b1-9773-1bede3ad3d49/badge.svg)](https://deusproof.com/verify/f5cccd76-a21a-42b1-9773-1bede3ad3d49)"
+    },
+    {
+      "file": "EingereichteErweiterteVerfassungsbeschwerde.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/EingereichteErweiterteVerfassungsbeschwerde.pdf",
+      "sha256": "e77bd60c5c499dee67ee701fea30e174fccb45dda5fc2c919111479f61b0eaef",
+      "proof_id": "f9f18191-f741-4285-8a87-4cb6c93ddc60",
+      "output_hash": "e77bd60c5c499dee67ee701fea30e174fccb45dda5fc2c919111479f61b0eaef",
+      "verify_url": "https://deusproof.com/verify/f9f18191-f741-4285-8a87-4cb6c93ddc60",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f9f18191-f741-4285-8a87-4cb6c93ddc60/badge.svg)](https://deusproof.com/verify/f9f18191-f741-4285-8a87-4cb6c93ddc60)"
+    },
+    {
+      "file": "Einreichung_Internationale_Anklageschrift_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Einreichung_Internationale_Anklageschrift_2026-10-10.pdf",
+      "sha256": "da0e76a57273e7c7d797d5f22011112e7f05b4be6a4879e5642e9844c6f5fb53",
+      "proof_id": "bf479864-2562-4b73-ad89-46762324742a",
+      "output_hash": "da0e76a57273e7c7d797d5f22011112e7f05b4be6a4879e5642e9844c6f5fb53",
+      "verify_url": "https://deusproof.com/verify/bf479864-2562-4b73-ad89-46762324742a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/bf479864-2562-4b73-ad89-46762324742a/badge.svg)](https://deusproof.com/verify/bf479864-2562-4b73-ad89-46762324742a)"
+    },
+    {
+      "file": "Ergänzender Beweissubstanzvortrag .pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Ergänzender Beweissubstanzvortrag .pdf",
+      "sha256": "a36570bb24fc42bc4655925b7976da9f2d06666adbca074e8081f8bf4c2763b6",
+      "proof_id": "84818fb4-9752-4d9d-8e24-292c41472beb",
+      "output_hash": "a36570bb24fc42bc4655925b7976da9f2d06666adbca074e8081f8bf4c2763b6",
+      "verify_url": "https://deusproof.com/verify/84818fb4-9752-4d9d-8e24-292c41472beb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/84818fb4-9752-4d9d-8e24-292c41472beb/badge.svg)](https://deusproof.com/verify/84818fb4-9752-4d9d-8e24-292c41472beb)"
+    },
+    {
+      "file": "ErgänzungBundesverfassungsgerict-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ErgänzungBundesverfassungsgerict-1.pdf",
+      "sha256": "867269479db9a175b3bad033f5b7b0a1fb7326a487fb57c26ded666afd087f44",
+      "proof_id": "339f2ed9-633a-4cf9-8e51-de94b5668d28",
+      "output_hash": "867269479db9a175b3bad033f5b7b0a1fb7326a487fb57c26ded666afd087f44",
+      "verify_url": "https://deusproof.com/verify/339f2ed9-633a-4cf9-8e51-de94b5668d28",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/339f2ed9-633a-4cf9-8e51-de94b5668d28/badge.svg)](https://deusproof.com/verify/339f2ed9-633a-4cf9-8e51-de94b5668d28)"
+    },
+    {
+      "file": "ErgänzungBundesverfassungsgerict.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ErgänzungBundesverfassungsgerict.pdf",
+      "sha256": "867269479db9a175b3bad033f5b7b0a1fb7326a487fb57c26ded666afd087f44",
+      "proof_id": "339f2ed9-633a-4cf9-8e51-de94b5668d28",
+      "output_hash": "867269479db9a175b3bad033f5b7b0a1fb7326a487fb57c26ded666afd087f44",
+      "verify_url": "https://deusproof.com/verify/339f2ed9-633a-4cf9-8e51-de94b5668d28",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/339f2ed9-633a-4cf9-8e51-de94b5668d28/badge.svg)](https://deusproof.com/verify/339f2ed9-633a-4cf9-8e51-de94b5668d28)"
+    },
+    {
+      "file": "ErweiterteVerfassungsbeschwerde.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ErweiterteVerfassungsbeschwerde.pdf",
+      "sha256": "9a434e217b056274bf284bd4dd46242e39fadb383ff14119781781781d8c7bc8",
+      "proof_id": "04b5e3fb-b9a2-4687-8746-6bd05bdb5aa1",
+      "output_hash": "9a434e217b056274bf284bd4dd46242e39fadb383ff14119781781781d8c7bc8",
+      "verify_url": "https://deusproof.com/verify/04b5e3fb-b9a2-4687-8746-6bd05bdb5aa1",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/04b5e3fb-b9a2-4687-8746-6bd05bdb5aa1/badge.svg)](https://deusproof.com/verify/04b5e3fb-b9a2-4687-8746-6bd05bdb5aa1)"
+    },
+    {
+      "file": "Evidence_State_Complicity_Borkenkaefer_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Evidence_State_Complicity_Borkenkaefer_2026-10-10.pdf",
+      "sha256": "5f8ab374d06244c368bee56d61302fcd43fd7fa62a13181b6488dc8ef58440ab",
+      "proof_id": "162ad929-29a3-477a-893f-58ff208c2898",
+      "output_hash": "5f8ab374d06244c368bee56d61302fcd43fd7fa62a13181b6488dc8ef58440ab",
+      "verify_url": "https://deusproof.com/verify/162ad929-29a3-477a-893f-58ff208c2898",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/162ad929-29a3-477a-893f-58ff208c2898/badge.svg)](https://deusproof.com/verify/162ad929-29a3-477a-893f-58ff208c2898)"
+    },
+    {
+      "file": "Evidence_State_Complicity_v2_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Evidence_State_Complicity_v2_2026-10-10.pdf",
+      "sha256": "5f8ab374d06244c368bee56d61302fcd43fd7fa62a13181b6488dc8ef58440ab",
+      "proof_id": "162ad929-29a3-477a-893f-58ff208c2898",
+      "output_hash": "5f8ab374d06244c368bee56d61302fcd43fd7fa62a13181b6488dc8ef58440ab",
+      "verify_url": "https://deusproof.com/verify/162ad929-29a3-477a-893f-58ff208c2898",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/162ad929-29a3-477a-893f-58ff208c2898/badge.svg)](https://deusproof.com/verify/162ad929-29a3-477a-893f-58ff208c2898)"
+    },
+    {
+      "file": "Executive_Briefing_Note_MPs_Rechtsausschuss.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Executive_Briefing_Note_MPs_Rechtsausschuss.pdf",
+      "sha256": "91c0fc07e620ee57d0cd4ca1c7d046492930b202a845964d171833ff6367c4bc",
+      "proof_id": "eda3b74d-09d0-4185-bdce-e7759669d9bb",
+      "output_hash": "91c0fc07e620ee57d0cd4ca1c7d046492930b202a845964d171833ff6367c4bc",
+      "verify_url": "https://deusproof.com/verify/eda3b74d-09d0-4185-bdce-e7759669d9bb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/eda3b74d-09d0-4185-bdce-e7759669d9bb/badge.svg)](https://deusproof.com/verify/eda3b74d-09d0-4185-bdce-e7759669d9bb)"
+    },
+    {
+      "file": "Executive_Press_Release_International_Briefing_Note.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Executive_Press_Release_International_Briefing_Note.pdf",
+      "sha256": "5c5649580f9f68b504f5b139a502f8574b874a6f3bfe0510939765f7d3c3f10c",
+      "proof_id": "60c193c3-e298-46a5-b9aa-a1e6ec547448",
+      "output_hash": "5c5649580f9f68b504f5b139a502f8574b874a6f3bfe0510939765f7d3c3f10c",
+      "verify_url": "https://deusproof.com/verify/60c193c3-e298-46a5-b9aa-a1e6ec547448",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/60c193c3-e298-46a5-b9aa-a1e6ec547448/badge.svg)](https://deusproof.com/verify/60c193c3-e298-46a5-b9aa-a1e6ec547448)"
+    },
+    {
+      "file": "FAXFEHLER_OLG.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/FAXFEHLER_OLG.pdf",
+      "sha256": "35072be78712cfef16c3536271cb61a1826a3bf23836c7b4327aae44081fbd45",
+      "proof_id": "eddcdf69-a420-4dbf-b502-349decba5e95",
+      "output_hash": "35072be78712cfef16c3536271cb61a1826a3bf23836c7b4327aae44081fbd45",
+      "verify_url": "https://deusproof.com/verify/eddcdf69-a420-4dbf-b502-349decba5e95",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/eddcdf69-a420-4dbf-b502-349decba5e95/badge.svg)](https://deusproof.com/verify/eddcdf69-a420-4dbf-b502-349decba5e95)"
+    },
+    {
+      "file": "FORMAL_ADVERSARY_COMPLAINT_CHARGE_COMPLAINT_TRANSMITTAL_UNDER_46_U.S.C._41301_OSRA_2022.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/FORMAL_ADVERSARY_COMPLAINT_CHARGE_COMPLAINT_TRANSMITTAL_UNDER_46_U.S.C._41301_OSRA_2022.pdf",
+      "sha256": "9220724e14372c57dfdca064d381e3855d8486d93c6200f123f38cfb9e14e478",
+      "proof_id": "cb212cd5-e115-4ca0-b459-75c962bb95f8",
+      "output_hash": "9220724e14372c57dfdca064d381e3855d8486d93c6200f123f38cfb9e14e478",
+      "verify_url": "https://deusproof.com/verify/cb212cd5-e115-4ca0-b459-75c962bb95f8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/cb212cd5-e115-4ca0-b459-75c962bb95f8/badge.svg)](https://deusproof.com/verify/cb212cd5-e115-4ca0-b459-75c962bb95f8)"
+    },
+    {
+      "file": "FORM_JS-44.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/FORM_JS-44.pdf",
+      "sha256": "60d979223bbaf5ee6f0833a008f7eb9970bdef2fd89bf525f33f20ef6f8371c2",
+      "proof_id": "e9b16b43-0e2a-4892-8f5c-c1041bc12326",
+      "output_hash": "60d979223bbaf5ee6f0833a008f7eb9970bdef2fd89bf525f33f20ef6f8371c2",
+      "verify_url": "https://deusproof.com/verify/e9b16b43-0e2a-4892-8f5c-c1041bc12326",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e9b16b43-0e2a-4892-8f5c-c1041bc12326/badge.svg)](https://deusproof.com/verify/e9b16b43-0e2a-4892-8f5c-c1041bc12326)"
+    },
+    {
+      "file": "ForensicIndictment.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ForensicIndictment.pdf",
+      "sha256": "9a7466d62130280b1b6b217c6a24693fb80b591d792d5ade84cc65f4632049e6",
+      "proof_id": "e089182c-bbad-4879-be44-3d2904ef11aa",
+      "output_hash": "9a7466d62130280b1b6b217c6a24693fb80b591d792d5ade84cc65f4632049e6",
+      "verify_url": "https://deusproof.com/verify/e089182c-bbad-4879-be44-3d2904ef11aa",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e089182c-bbad-4879-be44-3d2904ef11aa/badge.svg)](https://deusproof.com/verify/e089182c-bbad-4879-be44-3d2904ef11aa)"
+    },
+    {
+      "file": "FreislersHeirs.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/FreislersHeirs.pdf",
+      "sha256": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "proof_id": "542726bb-1747-4ef5-bcfa-fb16f8ac3dac",
+      "output_hash": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "verify_url": "https://deusproof.com/verify/542726bb-1747-4ef5-bcfa-fb16f8ac3dac",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/542726bb-1747-4ef5-bcfa-fb16f8ac3dac/badge.svg)](https://deusproof.com/verify/542726bb-1747-4ef5-bcfa-fb16f8ac3dac)"
+    },
+    {
+      "file": "Freislers_Heirs_Continuity_Analysis_Signed_2026-10-17.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Freislers_Heirs_Continuity_Analysis_Signed_2026-10-17.pdf",
+      "sha256": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "proof_id": "542726bb-1747-4ef5-bcfa-fb16f8ac3dac",
+      "output_hash": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "verify_url": "https://deusproof.com/verify/542726bb-1747-4ef5-bcfa-fb16f8ac3dac",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/542726bb-1747-4ef5-bcfa-fb16f8ac3dac/badge.svg)](https://deusproof.com/verify/542726bb-1747-4ef5-bcfa-fb16f8ac3dac)"
+    },
+    {
+      "file": "Freislers_Heirs_Global_Legal_Historical_Dossier.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Freislers_Heirs_Global_Legal_Historical_Dossier.pdf",
+      "sha256": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "proof_id": "3548a90b-0e62-42cf-8725-e086a4577ce4",
+      "output_hash": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "verify_url": "https://deusproof.com/verify/3548a90b-0e62-42cf-8725-e086a4577ce4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3548a90b-0e62-42cf-8725-e086a4577ce4/badge.svg)](https://deusproof.com/verify/3548a90b-0e62-42cf-8725-e086a4577ce4)"
+    },
+    {
+      "file": "Freislers_Heirs_Global_Legal_Historical_Dossier_1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Freislers_Heirs_Global_Legal_Historical_Dossier_1.pdf",
+      "sha256": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "proof_id": "3548a90b-0e62-42cf-8725-e086a4577ce4",
+      "output_hash": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "verify_url": "https://deusproof.com/verify/3548a90b-0e62-42cf-8725-e086a4577ce4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3548a90b-0e62-42cf-8725-e086a4577ce4/badge.svg)](https://deusproof.com/verify/3548a90b-0e62-42cf-8725-e086a4577ce4)"
+    },
+    {
+      "file": "Freislers_Heirs_Judicial_Fact_Dossier_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Freislers_Heirs_Judicial_Fact_Dossier_2026-10-10.pdf",
+      "sha256": "68ab03c866b8f6ca984d1554fbd4927aad919b2fb4709885346bdc1b5bc4e743",
+      "proof_id": "8ac94b3d-784c-4998-869b-a9f1d278cd74",
+      "output_hash": "68ab03c866b8f6ca984d1554fbd4927aad919b2fb4709885346bdc1b5bc4e743",
+      "verify_url": "https://deusproof.com/verify/8ac94b3d-784c-4998-869b-a9f1d278cd74",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8ac94b3d-784c-4998-869b-a9f1d278cd74/badge.svg)](https://deusproof.com/verify/8ac94b3d-784c-4998-869b-a9f1d278cd74)"
+    },
+    {
+      "file": "Fwd__Herrn_Minister_Moritz_Oppelt_Schillerplatz_4_70173_Stuttgart_F_rmliche_bergabe_der_pers_nlichen_Anklagesc",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Fwd__Herrn_Minister_Moritz_Oppelt_Schillerplatz_4_70173_Stuttgart_F_rmliche_bergabe_der_pers_nlichen_Anklagesc",
+      "sha256": "ca5c4dda7dc2b0ec2b632f52505cbdf175a3645e7c4de09f426015ad6ebee6ea",
+      "proof_id": "0a048647-6722-447f-8400-0e0ea81f75bd",
+      "output_hash": "ca5c4dda7dc2b0ec2b632f52505cbdf175a3645e7c4de09f426015ad6ebee6ea",
+      "verify_url": "https://deusproof.com/verify/0a048647-6722-447f-8400-0e0ea81f75bd",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/0a048647-6722-447f-8400-0e0ea81f75bd/badge.svg)](https://deusproof.com/verify/0a048647-6722-447f-8400-0e0ea81f75bd)"
+    },
+    {
+      "file": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.pdf",
+      "sha256": "d499fe40e76ce6741024756934f9a240a4594bab24dfcae46fd6697dd8d79805",
+      "proof_id": "fc50777b-4572-4f72-9323-9fdbbf90aefb",
+      "output_hash": "d499fe40e76ce6741024756934f9a240a4594bab24dfcae46fd6697dd8d79805",
+      "verify_url": "https://deusproof.com/verify/fc50777b-4572-4f72-9323-9fdbbf90aefb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/fc50777b-4572-4f72-9323-9fdbbf90aefb/badge.svg)](https://deusproof.com/verify/fc50777b-4572-4f72-9323-9fdbbf90aefb)"
+    },
+    {
+      "file": "Generalbundesanwalt_Strafantrag_2026-10-08.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Generalbundesanwalt_Strafantrag_2026-10-08.pdf",
+      "sha256": "1861db4b33c2c8b17ca08f30e8adcf04999ad53a19a7633e58a55690fadcf77b",
+      "proof_id": "419a210d-ce53-4f1b-8507-f05dd5e9e170",
+      "output_hash": "1861db4b33c2c8b17ca08f30e8adcf04999ad53a19a7633e58a55690fadcf77b",
+      "verify_url": "https://deusproof.com/verify/419a210d-ce53-4f1b-8507-f05dd5e9e170",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/419a210d-ce53-4f1b-8507-f05dd5e9e170/badge.svg)](https://deusproof.com/verify/419a210d-ce53-4f1b-8507-f05dd5e9e170)"
+    },
+    {
+      "file": "Gesonderter_Zusatzantrag_Eilentscheidung_32_BVerfGG.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Gesonderter_Zusatzantrag_Eilentscheidung_32_BVerfGG.pdf",
+      "sha256": "ea4ee22af19da9e866924919ff6196515c930c60644eb0c4579360b718eea2a2",
+      "proof_id": "1ff318b5-39a9-4ad4-8c60-86d18788523d",
+      "output_hash": "ea4ee22af19da9e866924919ff6196515c930c60644eb0c4579360b718eea2a2",
+      "verify_url": "https://deusproof.com/verify/1ff318b5-39a9-4ad4-8c60-86d18788523d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/1ff318b5-39a9-4ad4-8c60-86d18788523d/badge.svg)](https://deusproof.com/verify/1ff318b5-39a9-4ad4-8c60-86d18788523d)"
+    },
+    {
+      "file": "Grosses_Rechtshistorisches_Dossier_Justizversagen_Vergleich.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Grosses_Rechtshistorisches_Dossier_Justizversagen_Vergleich.pdf",
+      "sha256": "5170a21f09e14069752e1ad5c3225f00bdd20a332bf8d36c7571bdb520e796ad",
+      "proof_id": "7900b953-560f-408c-8906-a049e0d5d555",
+      "output_hash": "5170a21f09e14069752e1ad5c3225f00bdd20a332bf8d36c7571bdb520e796ad",
+      "verify_url": "https://deusproof.com/verify/7900b953-560f-408c-8906-a049e0d5d555",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7900b953-560f-408c-8906-a049e0d5d555/badge.svg)](https://deusproof.com/verify/7900b953-560f-408c-8906-a049e0d5d555)"
+    },
+    {
+      "file": "Hochpraeziser_Verfassungsbeschwerde_Schriftsatz_Dr_Singer_B-2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Hochpraeziser_Verfassungsbeschwerde_Schriftsatz_Dr_Singer_B-2.pdf",
+      "sha256": "0d37d6e5ec799e8bd311b24f54876f6795f3940431d74a4f5f7a68e2f2ba8dd9",
+      "proof_id": "94260749-6ad7-461c-9f2d-faba5a93921f",
+      "output_hash": "0d37d6e5ec799e8bd311b24f54876f6795f3940431d74a4f5f7a68e2f2ba8dd9",
+      "verify_url": "https://deusproof.com/verify/94260749-6ad7-461c-9f2d-faba5a93921f",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/94260749-6ad7-461c-9f2d-faba5a93921f/badge.svg)](https://deusproof.com/verify/94260749-6ad7-461c-9f2d-faba5a93921f)"
+    },
+    {
+      "file": "Hochpraeziser_Verfassungsbeschwerde_Schriftsatz_Dr_Singer_B.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Hochpraeziser_Verfassungsbeschwerde_Schriftsatz_Dr_Singer_B.pdf",
+      "sha256": "0d37d6e5ec799e8bd311b24f54876f6795f3940431d74a4f5f7a68e2f2ba8dd9",
+      "proof_id": "94260749-6ad7-461c-9f2d-faba5a93921f",
+      "output_hash": "0d37d6e5ec799e8bd311b24f54876f6795f3940431d74a4f5f7a68e2f2ba8dd9",
+      "verify_url": "https://deusproof.com/verify/94260749-6ad7-461c-9f2d-faba5a93921f",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/94260749-6ad7-461c-9f2d-faba5a93921f/badge.svg)](https://deusproof.com/verify/94260749-6ad7-461c-9f2d-faba5a93921f)"
+    },
+    {
+      "file": "ICC_Anklage_Art15_17_Roemisches_Statut_2026-10-24.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ICC_Anklage_Art15_17_Roemisches_Statut_2026-10-24.pdf",
+      "sha256": "d77313aa631826b814e35dbf84404c5bbb3cc8757bd989ca41967ec77b931f03",
+      "proof_id": "8ee47c2c-b884-4943-8e97-349d31627ae2",
+      "output_hash": "d77313aa631826b814e35dbf84404c5bbb3cc8757bd989ca41967ec77b931f03",
+      "verify_url": "https://deusproof.com/verify/8ee47c2c-b884-4943-8e97-349d31627ae2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8ee47c2c-b884-4943-8e97-349d31627ae2/badge.svg)](https://deusproof.com/verify/8ee47c2c-b884-4943-8e97-349d31627ae2)"
+    },
+    {
+      "file": "ICC_OTP_Great_Bill_of_Indictment_2026-10-27.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ICC_OTP_Great_Bill_of_Indictment_2026-10-27.pdf",
+      "sha256": "21b772d7a1c817ec2b5b4f280385a3464816bd96428773f2b45acaf76236dff7",
+      "proof_id": "db297d55-33cf-4d77-8773-01763c5de572",
+      "output_hash": "21b772d7a1c817ec2b5b4f280385a3464816bd96428773f2b45acaf76236dff7",
+      "verify_url": "https://deusproof.com/verify/db297d55-33cf-4d77-8773-01763c5de572",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/db297d55-33cf-4d77-8773-01763c5de572/badge.svg)](https://deusproof.com/verify/db297d55-33cf-4d77-8773-01763c5de572)"
+    },
+    {
+      "file": "ICC_OTP_Internationales_Nationales_Amts_Strafverfahren_2026-10-27.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ICC_OTP_Internationales_Nationales_Amts_Strafverfahren_2026-10-27.pdf",
+      "sha256": "35ed4ce08f808c87f90d6e97e2da7b095d8b2228ab41b99e95159b7995968d26",
+      "proof_id": "8a69e56b-86ee-4953-a490-c7929fb3a306",
+      "output_hash": "35ed4ce08f808c87f90d6e97e2da7b095d8b2228ab41b99e95159b7995968d26",
+      "verify_url": "https://deusproof.com/verify/8a69e56b-86ee-4953-a490-c7929fb3a306",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8a69e56b-86ee-4953-a490-c7929fb3a306/badge.svg)](https://deusproof.com/verify/8a69e56b-86ee-4953-a490-c7929fb3a306)"
+    },
+    {
+      "file": "ICC_OTP_Submission_Confirmation_e30584a4-0c6b-470b-a7c0-2ff138694ca8_2026-10-27.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ICC_OTP_Submission_Confirmation_e30584a4-0c6b-470b-a7c0-2ff138694ca8_2026-10-27.pdf",
+      "sha256": "3b81eb353ab45a955b7b1594ddd92902bfbb41ef20e3918b1190747da4e201da",
+      "proof_id": "b2bfdc8e-49bb-46ba-b7f5-adf578f2260e",
+      "output_hash": "3b81eb353ab45a955b7b1594ddd92902bfbb41ef20e3918b1190747da4e201da",
+      "verify_url": "https://deusproof.com/verify/b2bfdc8e-49bb-46ba-b7f5-adf578f2260e",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b2bfdc8e-49bb-46ba-b7f5-adf578f2260e/badge.svg)](https://deusproof.com/verify/b2bfdc8e-49bb-46ba-b7f5-adf578f2260e)"
+    },
+    {
+      "file": "Ihr_Fax_an_00497219101382_erfolgreich_PabloEscobarRechtsdossier.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Ihr_Fax_an_00497219101382_erfolgreich_PabloEscobarRechtsdossier.pdf",
+      "sha256": "05b75237b4a2c962c1190999995ae2e19b3ba1d9ccbb38f6d67c2a28324807e8",
+      "proof_id": "c9c9b71e-ea42-4805-b395-89d0a61a4e3c",
+      "output_hash": "05b75237b4a2c962c1190999995ae2e19b3ba1d9ccbb38f6d67c2a28324807e8",
+      "verify_url": "https://deusproof.com/verify/c9c9b71e-ea42-4805-b395-89d0a61a4e3c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/c9c9b71e-ea42-4805-b395-89d0a61a4e3c/badge.svg)](https://deusproof.com/verify/c9c9b71e-ea42-4805-b395-89d0a61a4e3c)"
+    },
+    {
+      "file": "Inkenntnissetzung-Generalbundesanwalt-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Inkenntnissetzung-Generalbundesanwalt-2026-10-04.md",
+      "sha256": "8739e1ad4b3996e45613eacfd4db824fb269f2a51b2f6ad4dca5cb575ce4c3f0",
+      "proof_id": "fee6e057-b0d5-46e9-8fa3-2993d239f1a8",
+      "output_hash": "8739e1ad4b3996e45613eacfd4db824fb269f2a51b2f6ad4dca5cb575ce4c3f0",
+      "verify_url": "https://deusproof.com/verify/fee6e057-b0d5-46e9-8fa3-2993d239f1a8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/fee6e057-b0d5-46e9-8fa3-2993d239f1a8/badge.svg)](https://deusproof.com/verify/fee6e057-b0d5-46e9-8fa3-2993d239f1a8)"
+    },
+    {
+      "file": "International_Bill_of_Indictment_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/International_Bill_of_Indictment_2026-10-10.pdf",
+      "sha256": "179af5f36ed7b7dfab7db7fde625de68b7031abafe1e03b451605339a3750368",
+      "proof_id": "d4dd3317-0fb4-4a23-8955-f73477d2ef50",
+      "output_hash": "179af5f36ed7b7dfab7db7fde625de68b7031abafe1e03b451605339a3750368",
+      "verify_url": "https://deusproof.com/verify/d4dd3317-0fb4-4a23-8955-f73477d2ef50",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d4dd3317-0fb4-4a23-8955-f73477d2ef50/badge.svg)](https://deusproof.com/verify/d4dd3317-0fb4-4a23-8955-f73477d2ef50)"
+    },
+    {
+      "file": "International_Bill_of_Indictment_v2_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/International_Bill_of_Indictment_v2_2026-10-10.pdf",
+      "sha256": "9e02d30af4761a849e554a0914a043ca73dce54f6e3100b79e50324e1a6648db",
+      "proof_id": "8283ebea-d612-4df5-b369-2d0beedca882",
+      "output_hash": "9e02d30af4761a849e554a0914a043ca73dce54f6e3100b79e50324e1a6648db",
+      "verify_url": "https://deusproof.com/verify/8283ebea-d612-4df5-b369-2d0beedca882",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8283ebea-d612-4df5-b369-2d0beedca882/badge.svg)](https://deusproof.com/verify/8283ebea-d612-4df5-b369-2d0beedca882)"
+    },
+    {
+      "file": "International_Legal_Damage_Report_Freislers_Heirs_2026-10-24.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/International_Legal_Damage_Report_Freislers_Heirs_2026-10-24.pdf",
+      "sha256": "208ff055196ff41f1cca2f0cd5ae758ddaa7c63bf7272ecba46d783cf1e00e1c",
+      "proof_id": "14597765-8698-4fb5-bbc6-a4d67a333f25",
+      "output_hash": "208ff055196ff41f1cca2f0cd5ae758ddaa7c63bf7272ecba46d783cf1e00e1c",
+      "verify_url": "https://deusproof.com/verify/14597765-8698-4fb5-bbc6-a4d67a333f25",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/14597765-8698-4fb5-bbc6-a4d67a333f25/badge.svg)](https://deusproof.com/verify/14597765-8698-4fb5-bbc6-a4d67a333f25)"
+    },
+    {
+      "file": "International_Legal_Damage_Report_Freislers_Heirs_v2_2026-10-25.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/International_Legal_Damage_Report_Freislers_Heirs_v2_2026-10-25.pdf",
+      "sha256": "208ff055196ff41f1cca2f0cd5ae758ddaa7c63bf7272ecba46d783cf1e00e1c",
+      "proof_id": "14597765-8698-4fb5-bbc6-a4d67a333f25",
+      "output_hash": "208ff055196ff41f1cca2f0cd5ae758ddaa7c63bf7272ecba46d783cf1e00e1c",
+      "verify_url": "https://deusproof.com/verify/14597765-8698-4fb5-bbc6-a4d67a333f25",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/14597765-8698-4fb5-bbc6-a4d67a333f25/badge.svg)](https://deusproof.com/verify/14597765-8698-4fb5-bbc6-a4d67a333f25)"
+    },
+    {
+      "file": "International_Nachweisregister_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/International_Nachweisregister_2026-10-10.pdf",
+      "sha256": "02db5f0acedd96f969b23f292ef417f080021252b4c3914b3a024502bb6dd33c",
+      "proof_id": "27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa",
+      "output_hash": "02db5f0acedd96f969b23f292ef417f080021252b4c3914b3a024502bb6dd33c",
+      "verify_url": "https://deusproof.com/verify/27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa/badge.svg)](https://deusproof.com/verify/27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa)"
+    },
+    {
+      "file": "International_Nachweisregister_v2_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/International_Nachweisregister_v2_2026-10-10.pdf",
+      "sha256": "02db5f0acedd96f969b23f292ef417f080021252b4c3914b3a024502bb6dd33c",
+      "proof_id": "27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa",
+      "output_hash": "02db5f0acedd96f969b23f292ef417f080021252b4c3914b3a024502bb6dd33c",
+      "verify_url": "https://deusproof.com/verify/27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa/badge.svg)](https://deusproof.com/verify/27ef2d4c-5c0c-4c6a-9f55-ed0a014848fa)"
+    },
+    {
+      "file": "International_Tribunal_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/International_Tribunal_2026-10-10.pdf",
+      "sha256": "00222536edde40eabe775d077c46f80e5c43d5233ee056e714a2162e4530a6eb",
+      "proof_id": "ddcc7e57-9414-4f8b-a191-db46504ac51a",
+      "output_hash": "00222536edde40eabe775d077c46f80e5c43d5233ee056e714a2162e4530a6eb",
+      "verify_url": "https://deusproof.com/verify/ddcc7e57-9414-4f8b-a191-db46504ac51a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ddcc7e57-9414-4f8b-a191-db46504ac51a/badge.svg)](https://deusproof.com/verify/ddcc7e57-9414-4f8b-a191-db46504ac51a)"
+    },
+    {
+      "file": "Israel_Supreme_Court_Diplomatic_Submission_3_2026-10-16.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Israel_Supreme_Court_Diplomatic_Submission_3_2026-10-16.pdf",
+      "sha256": "374ae740c312ded5ec8ce9f9cd7ec03236be4f6273e226d08a98992358efa20b",
+      "proof_id": "ef5ab62c-f204-4e6f-97e5-ee187eb5e8a2",
+      "output_hash": "374ae740c312ded5ec8ce9f9cd7ec03236be4f6273e226d08a98992358efa20b",
+      "verify_url": "https://deusproof.com/verify/ef5ab62c-f204-4e6f-97e5-ee187eb5e8a2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ef5ab62c-f204-4e6f-97e5-ee187eb5e8a2/badge.svg)](https://deusproof.com/verify/ef5ab62c-f204-4e6f-97e5-ee187eb5e8a2)"
+    },
+    {
+      "file": "JudicalPabloEscobarBvFGdossier.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/JudicalPabloEscobarBvFGdossier.pdf",
+      "sha256": "2d949dbc1e1ae545988069be8faa0045195a00a39006bad116cad53e1703d6fc",
+      "proof_id": "72386492-9e6e-4773-a601-dec34e91eae1",
+      "output_hash": "2d949dbc1e1ae545988069be8faa0045195a00a39006bad116cad53e1703d6fc",
+      "verify_url": "https://deusproof.com/verify/72386492-9e6e-4773-a601-dec34e91eae1",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/72386492-9e6e-4773-a601-dec34e91eae1/badge.svg)](https://deusproof.com/verify/72386492-9e6e-4773-a601-dec34e91eae1)"
+    },
+    {
+      "file": "MAIL_20261109_Fwd_BETREFF_EILIG_OLG_Frankfurt_am_Main_Az._5_U_81_26_Neue_amtliche_Ak.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261109_Fwd_BETREFF_EILIG_OLG_Frankfurt_am_Main_Az._5_U_81_26_Neue_amtliche_Ak.md",
+      "sha256": "79fe3d00bca19bcd21e314db2f8ce69fe10ffebd0da04bc761df2bcbe8f712ba",
+      "proof_id": "dcc175bd-9d24-45f0-9d69-2725a45105a1",
+      "output_hash": "79fe3d00bca19bcd21e314db2f8ce69fe10ffebd0da04bc761df2bcbe8f712ba",
+      "verify_url": "https://deusproof.com/verify/dcc175bd-9d24-45f0-9d69-2725a45105a1",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/dcc175bd-9d24-45f0-9d69-2725a45105a1/badge.svg)](https://deusproof.com/verify/dcc175bd-9d24-45f0-9d69-2725a45105a1)"
+    },
+    {
+      "file": "MAIL_20261109_OOPSA_nicht_das_Heilbronner_juristas_noch_gesamtes_globales_finanzsyst.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261109_OOPSA_nicht_das_Heilbronner_juristas_noch_gesamtes_globales_finanzsyst.md",
+      "sha256": "a6c8abacabc41934c90e84d186dc9d741383e20e4b05d6d53f374b9761f174a1",
+      "proof_id": "ea2343e3-d6e7-4335-ac3c-5263555d4e6d",
+      "output_hash": "a6c8abacabc41934c90e84d186dc9d741383e20e4b05d6d53f374b9761f174a1",
+      "verify_url": "https://deusproof.com/verify/ea2343e3-d6e7-4335-ac3c-5263555d4e6d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ea2343e3-d6e7-4335-ac3c-5263555d4e6d/badge.svg)](https://deusproof.com/verify/ea2343e3-d6e7-4335-ac3c-5263555d4e6d)"
+    },
+    {
+      "file": "MAIL_20261110_OLG_Frankfurt_am_Main_Az._5_U_81_26_Einreichung_der_Erweiterten_Verfas.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261110_OLG_Frankfurt_am_Main_Az._5_U_81_26_Einreichung_der_Erweiterten_Verfas.md",
+      "sha256": "42e8a5e8f934e496dae159955df2a05d476559c106011658f1a4a40637381bcd",
+      "proof_id": "a3413e2c-0717-47fa-955d-50152a2934b2",
+      "output_hash": "42e8a5e8f934e496dae159955df2a05d476559c106011658f1a4a40637381bcd",
+      "verify_url": "https://deusproof.com/verify/a3413e2c-0717-47fa-955d-50152a2934b2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a3413e2c-0717-47fa-955d-50152a2934b2/badge.svg)](https://deusproof.com/verify/a3413e2c-0717-47fa-955d-50152a2934b2)"
+    },
+    {
+      "file": "MAIL_20261111_FORMELLE_NOTIFIKATION_OFFENLEGUNG_DER_SYSTEMATISCHEN_BEWEISMITTELUNTER.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261111_FORMELLE_NOTIFIKATION_OFFENLEGUNG_DER_SYSTEMATISCHEN_BEWEISMITTELUNTER.md",
+      "sha256": "1494498c597462893a8a24d6699296635ad7964c225b2925cb03456b91f38a55",
+      "proof_id": "5196667b-12b5-43ce-a6d6-8c6371f12f6f",
+      "output_hash": "1494498c597462893a8a24d6699296635ad7964c225b2925cb03456b91f38a55",
+      "verify_url": "https://deusproof.com/verify/5196667b-12b5-43ce-a6d6-8c6371f12f6f",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/5196667b-12b5-43ce-a6d6-8c6371f12f6f/badge.svg)](https://deusproof.com/verify/5196667b-12b5-43ce-a6d6-8c6371f12f6f)"
+    },
+    {
+      "file": "MAIL_20261111_Fwd_Az._24_Zs_1610_26.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261111_Fwd_Az._24_Zs_1610_26.md",
+      "sha256": "1eac72d088c5db19384eeb7625314211d8862c5e41a0d14380ad96a00b98e722",
+      "proof_id": "bfc310b1-cb60-4e9b-97fc-9fce80bbb55b",
+      "output_hash": "1eac72d088c5db19384eeb7625314211d8862c5e41a0d14380ad96a00b98e722",
+      "verify_url": "https://deusproof.com/verify/bfc310b1-cb60-4e9b-97fc-9fce80bbb55b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/bfc310b1-cb60-4e9b-97fc-9fce80bbb55b/badge.svg)](https://deusproof.com/verify/bfc310b1-cb60-4e9b-97fc-9fce80bbb55b)"
+    },
+    {
+      "file": "MAIL_20261111_Fwd_FRISTWAHRENDE_BESCHWERDE_ZUSTELLUNG_US-STRAFANKLAGE_Az._3110_Js_10.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261111_Fwd_FRISTWAHRENDE_BESCHWERDE_ZUSTELLUNG_US-STRAFANKLAGE_Az._3110_Js_10.md",
+      "sha256": "ee1a3074d679640bf24ee61d901e22a11190e3817b3c3a3993968425c77a1c41",
+      "proof_id": "3827abbf-fb5c-42f4-9f7f-f90236fbfad0",
+      "output_hash": "ee1a3074d679640bf24ee61d901e22a11190e3817b3c3a3993968425c77a1c41",
+      "verify_url": "https://deusproof.com/verify/3827abbf-fb5c-42f4-9f7f-f90236fbfad0",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3827abbf-fb5c-42f4-9f7f-f90236fbfad0/badge.svg)](https://deusproof.com/verify/3827abbf-fb5c-42f4-9f7f-f90236fbfad0)"
+    },
+    {
+      "file": "MAIL_20261113_Fwd_EILIG_-_BEWEISSICHERUNG_PROZESSUALE_NOTIFIKATION_Vorab-_bermittlun.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261113_Fwd_EILIG_-_BEWEISSICHERUNG_PROZESSUALE_NOTIFIKATION_Vorab-_bermittlun.md",
+      "sha256": "4819e24165a4b5a6205856de19256df2bb49306227c1032f21c757656fabd805",
+      "proof_id": "f0224785-cf08-4df2-8e40-3b1709f2bdba",
+      "output_hash": "4819e24165a4b5a6205856de19256df2bb49306227c1032f21c757656fabd805",
+      "verify_url": "https://deusproof.com/verify/f0224785-cf08-4df2-8e40-3b1709f2bdba",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f0224785-cf08-4df2-8e40-3b1709f2bdba/badge.svg)](https://deusproof.com/verify/f0224785-cf08-4df2-8e40-3b1709f2bdba)"
+    },
+    {
+      "file": "MAIL_20261113_Verfassungsbeschwerde_OLG.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261113_Verfassungsbeschwerde_OLG.md",
+      "sha256": "eced3cedb63716019d49499a56718a6d2b19942c626022e97de2156273e60be7",
+      "proof_id": "d707b56a-d36b-4909-bfb3-34a3f8c1b711",
+      "output_hash": "eced3cedb63716019d49499a56718a6d2b19942c626022e97de2156273e60be7",
+      "verify_url": "https://deusproof.com/verify/d707b56a-d36b-4909-bfb3-34a3f8c1b711",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d707b56a-d36b-4909-bfb3-34a3f8c1b711/badge.svg)](https://deusproof.com/verify/d707b56a-d36b-4909-bfb3-34a3f8c1b711)"
+    },
+    {
+      "file": "MAIL_20261114_Fwd_Thank_you_for_your_submission_to_the_Corporate_Whistleblower_Award.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261114_Fwd_Thank_you_for_your_submission_to_the_Corporate_Whistleblower_Award.md",
+      "sha256": "2c0fd47a66a8a4ad7d681c0842d0c37260ad4c61ba021f1ced33bb5eaf65bd5f",
+      "proof_id": "9c476e9a-23d3-4205-ad98-1ec5c2ff02d6",
+      "output_hash": "2c0fd47a66a8a4ad7d681c0842d0c37260ad4c61ba021f1ced33bb5eaf65bd5f",
+      "verify_url": "https://deusproof.com/verify/9c476e9a-23d3-4205-ad98-1ec5c2ff02d6",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/9c476e9a-23d3-4205-ad98-1ec5c2ff02d6/badge.svg)](https://deusproof.com/verify/9c476e9a-23d3-4205-ad98-1ec5c2ff02d6)"
+    },
+    {
+      "file": "MAIL_20261114_U.S._DOJ-Aktenzeichen_CWA20261114-0523_BVerfG-Eilantrag_1_BvR_2925_26_.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261114_U.S._DOJ-Aktenzeichen_CWA20261114-0523_BVerfG-Eilantrag_1_BvR_2925_26_.md",
+      "sha256": "e1a940fb514f13010f3197fa7d51e61b1c18abdddbe73d24dac72aa9e08f75c6",
+      "proof_id": "feef35b6-7164-4698-90c0-986d2cca6a6a",
+      "output_hash": "e1a940fb514f13010f3197fa7d51e61b1c18abdddbe73d24dac72aa9e08f75c6",
+      "verify_url": "https://deusproof.com/verify/feef35b6-7164-4698-90c0-986d2cca6a6a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/feef35b6-7164-4698-90c0-986d2cca6a6a/badge.svg)](https://deusproof.com/verify/feef35b6-7164-4698-90c0-986d2cca6a6a)"
+    },
+    {
+      "file": "MAIL_20261114_VGH_Mannheim.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261114_VGH_Mannheim.md",
+      "sha256": "aeceae6d1162cc7d0335af76feb8fd678ada58494e42ffa3c9826c0db6c3f314",
+      "proof_id": "a11bf8bc-1210-4b66-b30d-e55da6dd132e",
+      "output_hash": "aeceae6d1162cc7d0335af76feb8fd678ada58494e42ffa3c9826c0db6c3f314",
+      "verify_url": "https://deusproof.com/verify/a11bf8bc-1210-4b66-b30d-e55da6dd132e",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a11bf8bc-1210-4b66-b30d-e55da6dd132e/badge.svg)](https://deusproof.com/verify/a11bf8bc-1210-4b66-b30d-e55da6dd132e)"
+    },
+    {
+      "file": "MAIL_20261118_Fwd_Fwd_Pro_Se_Filing_New_Case.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261118_Fwd_Fwd_Pro_Se_Filing_New_Case.md",
+      "sha256": "2adc7f670bab87ab801baec3af618065a3397bd614c5640f7f1e87a8396b2450",
+      "proof_id": "55ebe021-23ca-48e0-9243-881bc66962ca",
+      "output_hash": "2adc7f670bab87ab801baec3af618065a3397bd614c5640f7f1e87a8396b2450",
+      "verify_url": "https://deusproof.com/verify/55ebe021-23ca-48e0-9243-881bc66962ca",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/55ebe021-23ca-48e0-9243-881bc66962ca/badge.svg)](https://deusproof.com/verify/55ebe021-23ca-48e0-9243-881bc66962ca)"
+    },
+    {
+      "file": "MAIL_20261118_TRUST_THE_PLAN_Formelle_Einreichung_der_FMC_Verified_Formal_Complaint_.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261118_TRUST_THE_PLAN_Formelle_Einreichung_der_FMC_Verified_Formal_Complaint_.md",
+      "sha256": "7b56fe2906c6c0e4e7e1ac87f1399511dc9ace561d5d69f272e044019e33095f",
+      "proof_id": "ce976584-1dd0-472d-9bdd-df41c9b85877",
+      "output_hash": "7b56fe2906c6c0e4e7e1ac87f1399511dc9ace561d5d69f272e044019e33095f",
+      "verify_url": "https://deusproof.com/verify/ce976584-1dd0-472d-9bdd-df41c9b85877",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ce976584-1dd0-472d-9bdd-df41c9b85877/badge.svg)](https://deusproof.com/verify/ce976584-1dd0-472d-9bdd-df41c9b85877)"
+    },
+    {
+      "file": "MAIL_20261118_Vertrauliche_Mandantenunterrichtung_US_Court_Hague_Service_FRCP_Rule_5.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MAIL_20261118_Vertrauliche_Mandantenunterrichtung_US_Court_Hague_Service_FRCP_Rule_5.md",
+      "sha256": "dd00af31d8affbbeaa4f82630fdcf805350c15839d158efee8aae97850a138fd",
+      "proof_id": "81e0f925-f9b2-41b1-8e90-0ac705bb1ac4",
+      "output_hash": "dd00af31d8affbbeaa4f82630fdcf805350c15839d158efee8aae97850a138fd",
+      "verify_url": "https://deusproof.com/verify/81e0f925-f9b2-41b1-8e90-0ac705bb1ac4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/81e0f925-f9b2-41b1-8e90-0ac705bb1ac4/badge.svg)](https://deusproof.com/verify/81e0f925-f9b2-41b1-8e90-0ac705bb1ac4)"
+    },
+    {
+      "file": "MANIFEST.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MANIFEST.md",
+      "sha256": "ccc75381c70bb162d230e3bc46a381c48e862111676dc2ef8063920e269ae6f3",
+      "proof_id": "bd4aca9e-e75f-44d6-9bd7-e027f9972bb0",
+      "output_hash": "ccc75381c70bb162d230e3bc46a381c48e862111676dc2ef8063920e269ae6f3",
+      "verify_url": "https://deusproof.com/verify/bd4aca9e-e75f-44d6-9bd7-e027f9972bb0",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/bd4aca9e-e75f-44d6-9bd7-e027f9972bb0/badge.svg)](https://deusproof.com/verify/bd4aca9e-e75f-44d6-9bd7-e027f9972bb0)"
+    },
+    {
+      "file": "MOSHTHAF-BLUTLINIE-2026-10-14.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MOSHTHAF-BLUTLINIE-2026-10-14.md",
+      "sha256": "9739ad07b80464d201069d230fea3ecb150718737fd6b4165e5490e32f60a1ac",
+      "proof_id": "7b4f6dc6-cc1b-4eda-935f-d675a3b09763",
+      "output_hash": "9739ad07b80464d201069d230fea3ecb150718737fd6b4165e5490e32f60a1ac",
+      "verify_url": "https://deusproof.com/verify/7b4f6dc6-cc1b-4eda-935f-d675a3b09763",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7b4f6dc6-cc1b-4eda-935f-d675a3b09763/badge.svg)](https://deusproof.com/verify/7b4f6dc6-cc1b-4eda-935f-d675a3b09763)"
+    },
+    {
+      "file": "MandantenUnterictung.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/MandantenUnterictung.pdf",
+      "sha256": "6e1293ebd4532bf4d445779c64188089f3c5a325c652880287c5e5401b5fc748",
+      "proof_id": "92d8961f-d3a3-4c8d-8881-961e1874e131",
+      "output_hash": "6e1293ebd4532bf4d445779c64188089f3c5a325c652880287c5e5401b5fc748",
+      "verify_url": "https://deusproof.com/verify/92d8961f-d3a3-4c8d-8881-961e1874e131",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/92d8961f-d3a3-4c8d-8881-961e1874e131/badge.svg)](https://deusproof.com/verify/92d8961f-d3a3-4c8d-8881-961e1874e131)"
+    },
+    {
+      "file": "Petition-210581.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Petition-210581.pdf",
+      "sha256": "c642860474aede6a5a34a77ba8434f78de735a7ccaa4e88a5a6f494a0058ee4f",
+      "proof_id": "53544d27-d2ce-41a2-8a9a-a4a98fad3182",
+      "output_hash": "c642860474aede6a5a34a77ba8434f78de735a7ccaa4e88a5a6f494a0058ee4f",
+      "verify_url": "https://deusproof.com/verify/53544d27-d2ce-41a2-8a9a-a4a98fad3182",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/53544d27-d2ce-41a2-8a9a-a4a98fad3182/badge.svg)](https://deusproof.com/verify/53544d27-d2ce-41a2-8a9a-a4a98fad3182)"
+    },
+    {
+      "file": "Press_Release_International_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Press_Release_International_2026-10-10.pdf",
+      "sha256": "e474304c3a21713c95805ef7004c54d435da1e9c2fc39bc02de732864a81e6c6",
+      "proof_id": "0b1f5ee5-9efe-4b67-9160-1b4b827140a8",
+      "output_hash": "e474304c3a21713c95805ef7004c54d435da1e9c2fc39bc02de732864a81e6c6",
+      "verify_url": "https://deusproof.com/verify/0b1f5ee5-9efe-4b67-9160-1b4b827140a8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/0b1f5ee5-9efe-4b67-9160-1b4b827140a8/badge.svg)](https://deusproof.com/verify/0b1f5ee5-9efe-4b67-9160-1b4b827140a8)"
+    },
+    {
+      "file": "Pressemitteilung_L8_Sovereign_KI_Strafgerichtshof.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Pressemitteilung_L8_Sovereign_KI_Strafgerichtshof.pdf",
+      "sha256": "b979b9ad13b191db7b1be20125c59f9636e9092158e0ba7a3a95cbfd3a72a474",
+      "proof_id": "84e08980-e7e5-40a2-8bb4-d8ee421b53e8",
+      "output_hash": "b979b9ad13b191db7b1be20125c59f9636e9092158e0ba7a3a95cbfd3a72a474",
+      "verify_url": "https://deusproof.com/verify/84e08980-e7e5-40a2-8bb4-d8ee421b53e8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/84e08980-e7e5-40a2-8bb4-d8ee421b53e8/badge.svg)](https://deusproof.com/verify/84e08980-e7e5-40a2-8bb4-d8ee421b53e8)"
+    },
+    {
+      "file": "Psychologisches_Profil_und_Systemanalyse_Dr_Andreas_Singer-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Psychologisches_Profil_und_Systemanalyse_Dr_Andreas_Singer-1.pdf",
+      "sha256": "aa6dd8e22c5427a34fd83eb366cc651e5e117783c7c9e98d13272d68dea19681",
+      "proof_id": "50dcc495-d720-43c1-a7aa-ae9504110fdb",
+      "output_hash": "aa6dd8e22c5427a34fd83eb366cc651e5e117783c7c9e98d13272d68dea19681",
+      "verify_url": "https://deusproof.com/verify/50dcc495-d720-43c1-a7aa-ae9504110fdb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/50dcc495-d720-43c1-a7aa-ae9504110fdb/badge.svg)](https://deusproof.com/verify/50dcc495-d720-43c1-a7aa-ae9504110fdb)"
+    },
+    {
+      "file": "Psychologisches_Profil_und_Systemanalyse_Dr_Andreas_Singer.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Psychologisches_Profil_und_Systemanalyse_Dr_Andreas_Singer.pdf",
+      "sha256": "aa6dd8e22c5427a34fd83eb366cc651e5e117783c7c9e98d13272d68dea19681",
+      "proof_id": "50dcc495-d720-43c1-a7aa-ae9504110fdb",
+      "output_hash": "aa6dd8e22c5427a34fd83eb366cc651e5e117783c7c9e98d13272d68dea19681",
+      "verify_url": "https://deusproof.com/verify/50dcc495-d720-43c1-a7aa-ae9504110fdb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/50dcc495-d720-43c1-a7aa-ae9504110fdb/badge.svg)](https://deusproof.com/verify/50dcc495-d720-43c1-a7aa-ae9504110fdb)"
+    },
+    {
+      "file": "RED_NOTICE_Financial_Risk_Alarm_2026-10-25.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/RED_NOTICE_Financial_Risk_Alarm_2026-10-25.pdf",
+      "sha256": "3bedd5c57d34f3bdaab3cef9f2fe8464eb37c66ebac16cc3d4ddc32f49a4361b",
+      "proof_id": "92bf0737-ddcb-4c4a-a4e9-03e0fd1a526d",
+      "output_hash": "3bedd5c57d34f3bdaab3cef9f2fe8464eb37c66ebac16cc3d4ddc32f49a4361b",
+      "verify_url": "https://deusproof.com/verify/92bf0737-ddcb-4c4a-a4e9-03e0fd1a526d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/92bf0737-ddcb-4c4a-a4e9-03e0fd1a526d/badge.svg)](https://deusproof.com/verify/92bf0737-ddcb-4c4a-a4e9-03e0fd1a526d)"
+    },
+    {
+      "file": "Rechtsgrundlage_International_Tribunal_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Rechtsgrundlage_International_Tribunal_2026-10-10.pdf",
+      "sha256": "0ad247cbeee8f25d5e7703a4223b3fd0b895909646da1ab3cfcbdb430df1a4d8",
+      "proof_id": "e71f07a5-da1a-4401-acb8-1e56a2d6463f",
+      "output_hash": "0ad247cbeee8f25d5e7703a4223b3fd0b895909646da1ab3cfcbdb430df1a4d8",
+      "verify_url": "https://deusproof.com/verify/e71f07a5-da1a-4401-acb8-1e56a2d6463f",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e71f07a5-da1a-4401-acb8-1e56a2d6463f/badge.svg)](https://deusproof.com/verify/e71f07a5-da1a-4401-acb8-1e56a2d6463f)"
+    },
+    {
+      "file": "Rechtsschadensgutachten_Amtshaftung_2026-10-24.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Rechtsschadensgutachten_Amtshaftung_2026-10-24.pdf",
+      "sha256": "08daad3bdb4061802131ad5fd6a1d3e579a1473d52ef86961d650ea2c627d8a2",
+      "proof_id": "770f5a95-8f06-4135-904e-5104b357dde9",
+      "output_hash": "08daad3bdb4061802131ad5fd6a1d3e579a1473d52ef86961d650ea2c627d8a2",
+      "verify_url": "https://deusproof.com/verify/770f5a95-8f06-4135-904e-5104b357dde9",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/770f5a95-8f06-4135-904e-5104b357dde9/badge.svg)](https://deusproof.com/verify/770f5a95-8f06-4135-904e-5104b357dde9)"
+    },
+    {
+      "file": "STA_Hannover_Beweismittel_K17_Schadenssumme_2026-10-24.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/STA_Hannover_Beweismittel_K17_Schadenssumme_2026-10-24.pdf",
+      "sha256": "48ad914c06516872bf892adeb6cb7e9a9f68bcfe07cad0889cff9981748d1333",
+      "proof_id": "c20b02a5-676a-49de-8413-b56dc54b8c36",
+      "output_hash": "48ad914c06516872bf892adeb6cb7e9a9f68bcfe07cad0889cff9981748d1333",
+      "verify_url": "https://deusproof.com/verify/c20b02a5-676a-49de-8413-b56dc54b8c36",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/c20b02a5-676a-49de-8413-b56dc54b8c36/badge.svg)](https://deusproof.com/verify/c20b02a5-676a-49de-8413-b56dc54b8c36)"
+    },
+    {
+      "file": "Schriftsatz_VG_Stuttgart_Anlage_K15.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Schriftsatz_VG_Stuttgart_Anlage_K15.pdf",
+      "sha256": "8a072d5eb407ab01cc254c14624cee13e8cf775894ed882111e729cd3181ba41",
+      "proof_id": "a8841c00-ad9a-4640-a484-ce427d0a5ddc",
+      "output_hash": "8a072d5eb407ab01cc254c14624cee13e8cf775894ed882111e729cd3181ba41",
+      "verify_url": "https://deusproof.com/verify/a8841c00-ad9a-4640-a484-ce427d0a5ddc",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a8841c00-ad9a-4640-a484-ce427d0a5ddc/badge.svg)](https://deusproof.com/verify/a8841c00-ad9a-4640-a484-ce427d0a5ddc)"
+    },
+    {
+      "file": "Schriftsatz_VG_Stuttgart_Erweiterung.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Schriftsatz_VG_Stuttgart_Erweiterung.pdf",
+      "sha256": "b91f7970d1b6583bb5f9a5df69ca57276feb66b7f206fa25a37c9a87b1be5d40",
+      "proof_id": "c29c6522-d078-4f55-bb09-fe7e2051ace5",
+      "output_hash": "b91f7970d1b6583bb5f9a5df69ca57276feb66b7f206fa25a37c9a87b1be5d40",
+      "verify_url": "https://deusproof.com/verify/c29c6522-d078-4f55-bb09-fe7e2051ace5",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/c29c6522-d078-4f55-bb09-fe7e2051ace5/badge.svg)](https://deusproof.com/verify/c29c6522-d078-4f55-bb09-fe7e2051ace5)"
+    },
+    {
+      "file": "Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil-1.pdf",
+      "sha256": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "proof_id": "21157ce8-0537-4a80-8b2e-c31e79f4dd90",
+      "output_hash": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "verify_url": "https://deusproof.com/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90/badge.svg)](https://deusproof.com/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90)"
+    },
+    {
+      "file": "Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil-2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil-2.pdf",
+      "sha256": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "proof_id": "21157ce8-0537-4a80-8b2e-c31e79f4dd90",
+      "output_hash": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "verify_url": "https://deusproof.com/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90/badge.svg)](https://deusproof.com/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90)"
+    },
+    {
+      "file": "Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil.pdf",
+      "sha256": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "proof_id": "21157ce8-0537-4a80-8b2e-c31e79f4dd90",
+      "output_hash": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "verify_url": "https://deusproof.com/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90/badge.svg)](https://deusproof.com/verify/21157ce8-0537-4a80-8b2e-c31e79f4dd90)"
+    },
+    {
+      "file": "Signed_Dossier_Forensic_Expert_2026-10-17.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Signed_Dossier_Forensic_Expert_2026-10-17.pdf",
+      "sha256": "dbe587139ee4fd234bd948aba65a479000bd34588c764902c9d8fa39b695a614",
+      "proof_id": "809beae5-c12d-4854-bd28-9160036244b2",
+      "output_hash": "dbe587139ee4fd234bd948aba65a479000bd34588c764902c9d8fa39b695a614",
+      "verify_url": "https://deusproof.com/verify/809beae5-c12d-4854-bd28-9160036244b2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/809beae5-c12d-4854-bd28-9160036244b2/badge.svg)](https://deusproof.com/verify/809beae5-c12d-4854-bd28-9160036244b2)"
+    },
+    {
+      "file": "Strafantrage3Caspary.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Strafantrage3Caspary.pdf",
+      "sha256": "2bcec1326fc4d7141311a85f4dcacf8b5d252c0fca89193bbea02b40f22a7b68",
+      "proof_id": "a3c7f97f-6cdb-4d6a-8870-6838ab849867",
+      "output_hash": "2bcec1326fc4d7141311a85f4dcacf8b5d252c0fca89193bbea02b40f22a7b68",
+      "verify_url": "https://deusproof.com/verify/a3c7f97f-6cdb-4d6a-8870-6838ab849867",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a3c7f97f-6cdb-4d6a-8870-6838ab849867/badge.svg)](https://deusproof.com/verify/a3c7f97f-6cdb-4d6a-8870-6838ab849867)"
+    },
+    {
+      "file": "StrafatragCaspary2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/StrafatragCaspary2.pdf",
+      "sha256": "6456d4a05dcf885705585a11c62ee530d32001bb2cd2bfe999f249efe3479b8d",
+      "proof_id": "edd68cb1-6f25-45e2-87f3-482cc56532db",
+      "output_hash": "6456d4a05dcf885705585a11c62ee530d32001bb2cd2bfe999f249efe3479b8d",
+      "verify_url": "https://deusproof.com/verify/edd68cb1-6f25-45e2-87f3-482cc56532db",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/edd68cb1-6f25-45e2-87f3-482cc56532db/badge.svg)](https://deusproof.com/verify/edd68cb1-6f25-45e2-87f3-482cc56532db)"
+    },
+    {
+      "file": "Supreme_Court_Israel_Submission_2026-10-10_v2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Supreme_Court_Israel_Submission_2026-10-10_v2.pdf",
+      "sha256": "37f43e02a956731e938c5ab4dd495efb0d8c0e2c5808d2a02321d438421d967b",
+      "proof_id": "1dbd33e7-fad9-4e7d-ad26-6f30ff12770b",
+      "output_hash": "37f43e02a956731e938c5ab4dd495efb0d8c0e2c5808d2a02321d438421d967b",
+      "verify_url": "https://deusproof.com/verify/1dbd33e7-fad9-4e7d-ad26-6f30ff12770b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/1dbd33e7-fad9-4e7d-ad26-6f30ff12770b/badge.svg)](https://deusproof.com/verify/1dbd33e7-fad9-4e7d-ad26-6f30ff12770b)"
+    },
+    {
+      "file": "Supreme_Court_Israel_Submission_v3_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Supreme_Court_Israel_Submission_v3_2026-10-10.pdf",
+      "sha256": "37f43e02a956731e938c5ab4dd495efb0d8c0e2c5808d2a02321d438421d967b",
+      "proof_id": "1dbd33e7-fad9-4e7d-ad26-6f30ff12770b",
+      "output_hash": "37f43e02a956731e938c5ab4dd495efb0d8c0e2c5808d2a02321d438421d967b",
+      "verify_url": "https://deusproof.com/verify/1dbd33e7-fad9-4e7d-ad26-6f30ff12770b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/1dbd33e7-fad9-4e7d-ad26-6f30ff12770b/badge.svg)](https://deusproof.com/verify/1dbd33e7-fad9-4e7d-ad26-6f30ff12770b)"
+    },
+    {
+      "file": "Systemic_Rule_of_Law_Collapse_Supreme_Court_US_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/Systemic_Rule_of_Law_Collapse_Supreme_Court_US_2026-10-10.pdf",
+      "sha256": "cc6cd37c2533158f5ccfd322e24ad8bac4a717b789d9de2a8a23052ca0c56214",
+      "proof_id": "c94f9c54-445f-4cc8-90d5-0e64ce661aff",
+      "output_hash": "cc6cd37c2533158f5ccfd322e24ad8bac4a717b789d9de2a8a23052ca0c56214",
+      "verify_url": "https://deusproof.com/verify/c94f9c54-445f-4cc8-90d5-0e64ce661aff",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/c94f9c54-445f-4cc8-90d5-0e64ce661aff/badge.svg)](https://deusproof.com/verify/c94f9c54-445f-4cc8-90d5-0e64ce661aff)"
+    },
+    {
+      "file": "UN_Special_Procedures_Submission_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/UN_Special_Procedures_Submission_2026-10-10.pdf",
+      "sha256": "55f5f89434fce9d04f6bd3b07a79b389ea6d24c3c1bf8303f970655384fc3a0f",
+      "proof_id": "8bf4076c-602c-44d6-bb09-4702bcabaa0b",
+      "output_hash": "55f5f89434fce9d04f6bd3b07a79b389ea6d24c3c1bf8303f970655384fc3a0f",
+      "verify_url": "https://deusproof.com/verify/8bf4076c-602c-44d6-bb09-4702bcabaa0b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8bf4076c-602c-44d6-bb09-4702bcabaa0b/badge.svg)](https://deusproof.com/verify/8bf4076c-602c-44d6-bb09-4702bcabaa0b)"
+    },
+    {
+      "file": "UN_Special_Procedures_Submission_v2_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/UN_Special_Procedures_Submission_v2_2026-10-10.pdf",
+      "sha256": "55f5f89434fce9d04f6bd3b07a79b389ea6d24c3c1bf8303f970655384fc3a0f",
+      "proof_id": "8bf4076c-602c-44d6-bb09-4702bcabaa0b",
+      "output_hash": "55f5f89434fce9d04f6bd3b07a79b389ea6d24c3c1bf8303f970655384fc3a0f",
+      "verify_url": "https://deusproof.com/verify/8bf4076c-602c-44d6-bb09-4702bcabaa0b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8bf4076c-602c-44d6-bb09-4702bcabaa0b/badge.svg)](https://deusproof.com/verify/8bf4076c-602c-44d6-bb09-4702bcabaa0b)"
+    },
+    {
+      "file": "UN_Urgent_Appeal_Subversion_Judicial_Independence_Germany_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/UN_Urgent_Appeal_Subversion_Judicial_Independence_Germany_2026-10-10.pdf",
+      "sha256": "dc5ce1819bbc0bed89582b91878fc730db5e4b7f6cef6c6162452f16f7e26c31",
+      "proof_id": "4d67d4c1-dcaf-40cc-a858-8feeb22fb2d3",
+      "output_hash": "dc5ce1819bbc0bed89582b91878fc730db5e4b7f6cef6c6162452f16f7e26c31",
+      "verify_url": "https://deusproof.com/verify/4d67d4c1-dcaf-40cc-a858-8feeb22fb2d3",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4d67d4c1-dcaf-40cc-a858-8feeb22fb2d3/badge.svg)](https://deusproof.com/verify/4d67d4c1-dcaf-40cc-a858-8feeb22fb2d3)"
+    },
+    {
+      "file": "USAnklage_BFG.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/USAnklage_BFG.pdf",
+      "sha256": "5eb8246cba5fda03c4236d026613ba9252101f3253945b7846261360272561b7",
+      "proof_id": "89320b94-c3c8-4470-88d4-e9859ab4a88c",
+      "output_hash": "5eb8246cba5fda03c4236d026613ba9252101f3253945b7846261360272561b7",
+      "verify_url": "https://deusproof.com/verify/89320b94-c3c8-4470-88d4-e9859ab4a88c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/89320b94-c3c8-4470-88d4-e9859ab4a88c/badge.svg)](https://deusproof.com/verify/89320b94-c3c8-4470-88d4-e9859ab4a88c)"
+    },
+    {
+      "file": "USFMCComplianteingereicht.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/USFMCComplianteingereicht.pdf",
+      "sha256": "83ddbba92f5745a36aa7457443a2473b6f984fe25a4f9f7ca026c962d045417f",
+      "proof_id": "eba1734b-05ef-44cd-aad5-918b3236e7cc",
+      "output_hash": "83ddbba92f5745a36aa7457443a2473b6f984fe25a4f9f7ca026c962d045417f",
+      "verify_url": "https://deusproof.com/verify/eba1734b-05ef-44cd-aad5-918b3236e7cc",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/eba1734b-05ef-44cd-aad5-918b3236e7cc/badge.svg)](https://deusproof.com/verify/eba1734b-05ef-44cd-aad5-918b3236e7cc)"
+    },
+    {
+      "file": "US_Supreme_Court_Emergency_Letter_2026-10-10.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/US_Supreme_Court_Emergency_Letter_2026-10-10.pdf",
+      "sha256": "2fc51b892842148f5177d041725cc1de9b2a6c4e4ef4f33cdbdf89de60add0d9",
+      "proof_id": "40c78983-cb19-4efc-9c06-9c1a2449721a",
+      "output_hash": "2fc51b892842148f5177d041725cc1de9b2a6c4e4ef4f33cdbdf89de60add0d9",
+      "verify_url": "https://deusproof.com/verify/40c78983-cb19-4efc-9c06-9c1a2449721a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/40c78983-cb19-4efc-9c06-9c1a2449721a/badge.svg)](https://deusproof.com/verify/40c78983-cb19-4efc-9c06-9c1a2449721a)"
+    },
+    {
+      "file": "US_Vers_umnisurteil.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/US_Vers_umnisurteil.pdf",
+      "sha256": "4373ad446eac2fde941a5494684cb7997879ca56bc7b86fd512334d359ca66ec",
+      "proof_id": "8156781e-fe54-4810-b8b3-d81a2c504d70",
+      "output_hash": "4373ad446eac2fde941a5494684cb7997879ca56bc7b86fd512334d359ca66ec",
+      "verify_url": "https://deusproof.com/verify/8156781e-fe54-4810-b8b3-d81a2c504d70",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8156781e-fe54-4810-b8b3-d81a2c504d70/badge.svg)](https://deusproof.com/verify/8156781e-fe54-4810-b8b3-d81a2c504d70)"
+    },
+    {
+      "file": "VG_Stuttgart_Notification_Art17_Rome_Statut_2026-10-17.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/VG_Stuttgart_Notification_Art17_Rome_Statut_2026-10-17.pdf",
+      "sha256": "98ffea36ec9c5328ecaca6404aad0fbe4319aa4b9256836a33cf9bc4cfb796ba",
+      "proof_id": "6e11fa76-f845-40a3-b20c-1be628f161dd",
+      "output_hash": "98ffea36ec9c5328ecaca6404aad0fbe4319aa4b9256836a33cf9bc4cfb796ba",
+      "verify_url": "https://deusproof.com/verify/6e11fa76-f845-40a3-b20c-1be628f161dd",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/6e11fa76-f845-40a3-b20c-1be628f161dd/badge.svg)](https://deusproof.com/verify/6e11fa76-f845-40a3-b20c-1be628f161dd)"
+    },
+    {
+      "file": "VerwaltungsgerichthofMannheim.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/VerwaltungsgerichthofMannheim.pdf",
+      "sha256": "275d1cd042fad9a5f1b2728fbb5d4f4eafae127343c8fd1ee927971d2667ba26",
+      "proof_id": "7fe51443-7793-44d7-8206-35b672790274",
+      "output_hash": "275d1cd042fad9a5f1b2728fbb5d4f4eafae127343c8fd1ee927971d2667ba26",
+      "verify_url": "https://deusproof.com/verify/7fe51443-7793-44d7-8206-35b672790274",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7fe51443-7793-44d7-8206-35b672790274/badge.svg)](https://deusproof.com/verify/7fe51443-7793-44d7-8206-35b672790274)"
+    },
+    {
+      "file": "ZweiterSenatBvR.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/ZweiterSenatBvR.pdf",
+      "sha256": "2f9b1733b37db8866dcfcdf5e57b298f8549efb61742e1f8e8b4fbf6d9c06875",
+      "proof_id": "96e4caca-95f6-4890-99be-01ab6b55f185",
+      "output_hash": "2f9b1733b37db8866dcfcdf5e57b298f8549efb61742e1f8e8b4fbf6d9c06875",
+      "verify_url": "https://deusproof.com/verify/96e4caca-95f6-4890-99be-01ab6b55f185",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/96e4caca-95f6-4890-99be-01ab6b55f185/badge.svg)](https://deusproof.com/verify/96e4caca-95f6-4890-99be-01ab6b55f185)"
+    },
+    {
+      "file": "bericht-6ac0dbfd909cf621288-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/bericht-6ac0dbfd909cf621288-1.pdf",
+      "sha256": "11ab68f1481047be510021d324719111aa0c04b2484717b379373ae8ebf1aa6a",
+      "proof_id": "659deb6a-5ab9-468f-8adf-44feb86591a1",
+      "output_hash": "11ab68f1481047be510021d324719111aa0c04b2484717b379373ae8ebf1aa6a",
+      "verify_url": "https://deusproof.com/verify/659deb6a-5ab9-468f-8adf-44feb86591a1",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/659deb6a-5ab9-468f-8adf-44feb86591a1/badge.svg)](https://deusproof.com/verify/659deb6a-5ab9-468f-8adf-44feb86591a1)"
+    },
+    {
+      "file": "beweismittelverzeichnis-anlagen-b.docx",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/beweismittelverzeichnis-anlagen-b.docx",
+      "sha256": "3c43880746a9daecc99d39586d6306d70c01594168ee7205e923f54ed9f4b69b",
+      "proof_id": "9620fd5d-6f48-4427-b5d6-36ad41f94357",
+      "output_hash": "3c43880746a9daecc99d39586d6306d70c01594168ee7205e923f54ed9f4b69b",
+      "verify_url": "https://deusproof.com/verify/9620fd5d-6f48-4427-b5d6-36ad41f94357",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/9620fd5d-6f48-4427-b5d6-36ad41f94357/badge.svg)](https://deusproof.com/verify/9620fd5d-6f48-4427-b5d6-36ad41f94357)"
+    },
+    {
+      "file": "beweiswuerdigung_verhaltenspsychologie_vyvers_bverfg_1bvr29.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/beweiswuerdigung_verhaltenspsychologie_vyvers_bverfg_1bvr29.pdf",
+      "sha256": "f9f6efa0c00098af27c4fba875b92945080a97896d96eb700e4ffc73f8788641",
+      "proof_id": "a6ab6052-be3e-4789-948d-c3be0249a6e4",
+      "output_hash": "f9f6efa0c00098af27c4fba875b92945080a97896d96eb700e4ffc73f8788641",
+      "verify_url": "https://deusproof.com/verify/a6ab6052-be3e-4789-948d-c3be0249a6e4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a6ab6052-be3e-4789-948d-c3be0249a6e4/badge.svg)](https://deusproof.com/verify/a6ab6052-be3e-4789-948d-c3be0249a6e4)"
+    },
+    {
+      "file": "bverfg_beweismitteleingabe.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/bverfg_beweismitteleingabe.pdf",
+      "sha256": "cffe03da745e4d378b33346ef0ccdcd8145aae05855e5d308d96b1719ed4ad27",
+      "proof_id": "7275cea8-535d-4736-b93b-53363dee1f8e",
+      "output_hash": "cffe03da745e4d378b33346ef0ccdcd8145aae05855e5d308d96b1719ed4ad27",
+      "verify_url": "https://deusproof.com/verify/7275cea8-535d-4736-b93b-53363dee1f8e",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7275cea8-535d-4736-b93b-53363dee1f8e/badge.svg)](https://deusproof.com/verify/7275cea8-535d-4736-b93b-53363dee1f8e)"
+    },
+    {
+      "file": "doc00350720261003104631.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/doc00350720261003104631.pdf",
+      "sha256": "4d7ab55dff4701ca2df59c14ab00ccfe082b4365cbe76a1da5743d3ac8d6af94",
+      "proof_id": "8a009ca5-8669-4c6e-a1a0-e9b928191a95",
+      "output_hash": "4d7ab55dff4701ca2df59c14ab00ccfe082b4365cbe76a1da5743d3ac8d6af94",
+      "verify_url": "https://deusproof.com/verify/8a009ca5-8669-4c6e-a1a0-e9b928191a95",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8a009ca5-8669-4c6e-a1a0-e9b928191a95/badge.svg)](https://deusproof.com/verify/8a009ca5-8669-4c6e-a1a0-e9b928191a95)"
+    },
+    {
+      "file": "doc00350820261003104640.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/doc00350820261003104640.pdf",
+      "sha256": "3d9cee0315ef50ebe2f1c8252db94d246d383736369e3d965a3946087d93e636",
+      "proof_id": "bfa94757-fb35-49ea-9295-3feb9d6170aa",
+      "output_hash": "3d9cee0315ef50ebe2f1c8252db94d246d383736369e3d965a3946087d93e636",
+      "verify_url": "https://deusproof.com/verify/bfa94757-fb35-49ea-9295-3feb9d6170aa",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/bfa94757-fb35-49ea-9295-3feb9d6170aa/badge.svg)](https://deusproof.com/verify/bfa94757-fb35-49ea-9295-3feb9d6170aa)"
+    },
+    {
+      "file": "doc_6ac119571ea4f621288-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/doc_6ac119571ea4f621288-1.pdf",
+      "sha256": "252860ac4d04ceed27481822d5b580a5efc1b0cf86e98bd4ebf2e9b425713e25",
+      "proof_id": "3bcfc499-f126-4e67-9bdb-0f457f0bd9d4",
+      "output_hash": "252860ac4d04ceed27481822d5b580a5efc1b0cf86e98bd4ebf2e9b425713e25",
+      "verify_url": "https://deusproof.com/verify/3bcfc499-f126-4e67-9bdb-0f457f0bd9d4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3bcfc499-f126-4e67-9bdb-0f457f0bd9d4/badge.svg)](https://deusproof.com/verify/3bcfc499-f126-4e67-9bdb-0f457f0bd9d4)"
+    },
+    {
+      "file": "doc_6af6e598019dc621288-1-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/doc_6af6e598019dc621288-1-1.pdf",
+      "sha256": "3b094859ccb334a75dd06dbd372774065e996ec44a0cca48432126b6790744f5",
+      "proof_id": "bed7c8d3-9bc1-4951-9448-a7a6a686af23",
+      "output_hash": "3b094859ccb334a75dd06dbd372774065e996ec44a0cca48432126b6790744f5",
+      "verify_url": "https://deusproof.com/verify/bed7c8d3-9bc1-4951-9448-a7a6a686af23",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/bed7c8d3-9bc1-4951-9448-a7a6a686af23/badge.svg)](https://deusproof.com/verify/bed7c8d3-9bc1-4951-9448-a7a6a686af23)"
+    },
+    {
+      "file": "dossier-dr-mosthaf-rechtswissenschaft-tragfaehigkeit.docx",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/dossier-dr-mosthaf-rechtswissenschaft-tragfaehigkeit.docx",
+      "sha256": "bbe8ed7625e8c884ecece526727468c7b53f205c822bb078c7555c045273cf29",
+      "proof_id": "a7d621bf-a2d6-49aa-9fe2-af11243a2012",
+      "output_hash": "bbe8ed7625e8c884ecece526727468c7b53f205c822bb078c7555c045273cf29",
+      "verify_url": "https://deusproof.com/verify/a7d621bf-a2d6-49aa-9fe2-af11243a2012",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a7d621bf-a2d6-49aa-9fe2-af11243a2012/badge.svg)](https://deusproof.com/verify/a7d621bf-a2d6-49aa-9fe2-af11243a2012)"
+    },
+    {
+      "file": "dossier-dr-mosthaf-v2.docx",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/dossier-dr-mosthaf-v2.docx",
+      "sha256": "cdebd7bb926cac3ca7fe9cc7e3e9c2bfb78a217bb78f5518e3b76154e4b68508",
+      "proof_id": "6eb27719-261e-4622-b494-cde1d6707a8b",
+      "output_hash": "cdebd7bb926cac3ca7fe9cc7e3e9c2bfb78a217bb78f5518e3b76154e4b68508",
+      "verify_url": "https://deusproof.com/verify/6eb27719-261e-4622-b494-cde1d6707a8b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/6eb27719-261e-4622-b494-cde1d6707a8b/badge.svg)](https://deusproof.com/verify/6eb27719-261e-4622-b494-cde1d6707a8b)"
+    },
+    {
+      "file": "dossier-rechtsausschuesse-mosthaf.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/dossier-rechtsausschuesse-mosthaf.pdf",
+      "sha256": "e8408345fd8b7ae9c1288eeccfcb1f62f7466d91c55f51d48e7755b748211974",
+      "proof_id": "8c9ce44a-9b15-48c5-8883-d0aba70b8e2c",
+      "output_hash": "e8408345fd8b7ae9c1288eeccfcb1f62f7466d91c55f51d48e7755b748211974",
+      "verify_url": "https://deusproof.com/verify/8c9ce44a-9b15-48c5-8883-d0aba70b8e2c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8c9ce44a-9b15-48c5-8883-d0aba70b8e2c/badge.svg)](https://deusproof.com/verify/8c9ce44a-9b15-48c5-8883-d0aba70b8e2c)"
+    },
+    {
+      "file": "fristwahrende_beschwerde_sta_stuttgart_3110js101829_26.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/fristwahrende_beschwerde_sta_stuttgart_3110js101829_26.pdf",
+      "sha256": "9d5bcb58bd1a663497bcd9f379766c223ad935e0e65bb7c5853258a614fe0926",
+      "proof_id": "1ea096c5-6df6-4101-a45c-2f02bbed9309",
+      "output_hash": "9d5bcb58bd1a663497bcd9f379766c223ad935e0e65bb7c5853258a614fe0926",
+      "verify_url": "https://deusproof.com/verify/1ea096c5-6df6-4101-a45c-2f02bbed9309",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/1ea096c5-6df6-4101-a45c-2f02bbed9309/badge.svg)](https://deusproof.com/verify/1ea096c5-6df6-4101-a45c-2f02bbed9309)"
+    },
+    {
+      "file": "global_cases_cma_cgm_collusion_dossier.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/global_cases_cma_cgm_collusion_dossier.pdf",
+      "sha256": "aff5c88b9dadae710d67bd1314b7e3158a420df958e0800667156b4da3077a29",
+      "proof_id": "8a22204f-b39b-448f-a9b2-607915adf436",
+      "output_hash": "aff5c88b9dadae710d67bd1314b7e3158a420df958e0800667156b4da3077a29",
+      "verify_url": "https://deusproof.com/verify/8a22204f-b39b-448f-a9b2-607915adf436",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8a22204f-b39b-448f-a9b2-607915adf436/badge.svg)](https://deusproof.com/verify/8a22204f-b39b-448f-a9b2-607915adf436)"
+    },
+    {
+      "file": "hochglanz-dossier-dr-mosthaf.docx",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/hochglanz-dossier-dr-mosthaf.docx",
+      "sha256": "314bc77ac33676f08c646ed98360099e84fe451a522c35d85141e2db1920f21e",
+      "proof_id": "a57b8b32-0987-4b56-957f-312157ce56e2",
+      "output_hash": "314bc77ac33676f08c646ed98360099e84fe451a522c35d85141e2db1920f21e",
+      "verify_url": "https://deusproof.com/verify/a57b8b32-0987-4b56-957f-312157ce56e2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a57b8b32-0987-4b56-957f-312157ce56e2/badge.svg)](https://deusproof.com/verify/a57b8b32-0987-4b56-957f-312157ce56e2)"
+    },
+    {
+      "file": "juristische_ausarbeitung_demurrage_cma_cgm_olg_frankfurt.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/juristische_ausarbeitung_demurrage_cma_cgm_olg_frankfurt.pdf",
+      "sha256": "3d6833d36dc94bd86017b301bae3c920a2a648da0ba2b448cb408985d21a274e",
+      "proof_id": "afba4da2-7f31-4a17-bf49-ef66d9cca336",
+      "output_hash": "3d6833d36dc94bd86017b301bae3c920a2a648da0ba2b448cb408985d21a274e",
+      "verify_url": "https://deusproof.com/verify/afba4da2-7f31-4a17-bf49-ef66d9cca336",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/afba4da2-7f31-4a17-bf49-ef66d9cca336/badge.svg)](https://deusproof.com/verify/afba4da2-7f31-4a17-bf49-ef66d9cca336)"
+    },
+    {
+      "file": "pablo_escobar_judicial_coverup_dossier_us_doj.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/pablo_escobar_judicial_coverup_dossier_us_doj.pdf",
+      "sha256": "51d402cff12570c819b6438f2d4f9ae0a1bcdfdf2d62a6ab412c6abb52aef49a",
+      "proof_id": "aef34e92-c9cd-4087-b961-3f00ffa79559",
+      "output_hash": "51d402cff12570c819b6438f2d4f9ae0a1bcdfdf2d62a6ab412c6abb52aef49a",
+      "verify_url": "https://deusproof.com/verify/aef34e92-c9cd-4087-b961-3f00ffa79559",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/aef34e92-c9cd-4087-b961-3f00ffa79559/badge.svg)](https://deusproof.com/verify/aef34e92-c9cd-4087-b961-3f00ffa79559)"
+    },
+    {
+      "file": "pdf24_zusammengef_gt-2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/pdf24_zusammengef_gt-2.pdf",
+      "sha256": "91c29dc8a949af1d58a0d231643d262229f0ed229f7f7af63efb3b5310054a77",
+      "proof_id": "d5aaf819-c1e7-41c0-8dc2-1db6b6cb8177",
+      "output_hash": "91c29dc8a949af1d58a0d231643d262229f0ed229f7f7af63efb3b5310054a77",
+      "verify_url": "https://deusproof.com/verify/d5aaf819-c1e7-41c0-8dc2-1db6b6cb8177",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d5aaf819-c1e7-41c0-8dc2-1db6b6cb8177/badge.svg)](https://deusproof.com/verify/d5aaf819-c1e7-41c0-8dc2-1db6b6cb8177)"
+    },
+    {
+      "file": "pdf24_zusammengef_gt-8-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/pdf24_zusammengef_gt-8-1.pdf",
+      "sha256": "98978c16bd635b78deefcd4ca4a01b07156364ae4635fc894a8cc1aa79b1f6a7",
+      "proof_id": "fe47f75c-58a6-4765-88c9-f7a54c98dce7",
+      "output_hash": "98978c16bd635b78deefcd4ca4a01b07156364ae4635fc894a8cc1aa79b1f6a7",
+      "verify_url": "https://deusproof.com/verify/fe47f75c-58a6-4765-88c9-f7a54c98dce7",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/fe47f75c-58a6-4765-88c9-f7a54c98dce7/badge.svg)](https://deusproof.com/verify/fe47f75c-58a6-4765-88c9-f7a54c98dce7)"
+    },
+    {
+      "file": "petition-rechtsausschuss-justizversagen.docx",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/petition-rechtsausschuss-justizversagen.docx",
+      "sha256": "1ac4216e617d7f7d671d66ca481f41385a05533b59588958bfdc1d4b91b59ae6",
+      "proof_id": "2b5d39ea-5729-49d2-9950-b270c9aca067",
+      "output_hash": "1ac4216e617d7f7d671d66ca481f41385a05533b59588958bfdc1d4b91b59ae6",
+      "verify_url": "https://deusproof.com/verify/2b5d39ea-5729-49d2-9950-b270c9aca067",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2b5d39ea-5729-49d2-9950-b270c9aca067/badge.svg)](https://deusproof.com/verify/2b5d39ea-5729-49d2-9950-b270c9aca067)"
+    },
+    {
+      "file": "sdny_summonses_ao440_all_defendants.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/sdny_summonses_ao440_all_defendants.pdf",
+      "sha256": "c89d3304f0ba6e33f0008661eb5757d443bf114a3659639e8b3cb84772561b06",
+      "proof_id": "ae107625-ce48-460a-8cab-eded5d5657d7",
+      "output_hash": "c89d3304f0ba6e33f0008661eb5757d443bf114a3659639e8b3cb84772561b06",
+      "verify_url": "https://deusproof.com/verify/ae107625-ce48-460a-8cab-eded5d5657d7",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ae107625-ce48-460a-8cab-eded5d5657d7/badge.svg)](https://deusproof.com/verify/ae107625-ce48-460a-8cab-eded5d5657d7)"
+    },
+    {
+      "file": "sendebericht_6af6bfb336f6d621288-1.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/sendebericht_6af6bfb336f6d621288-1.pdf",
+      "sha256": "3615afaf360bb0465fa9a3c839e8d16f6e10912757c37e327b66d8556a637939",
+      "proof_id": "b4ea8f34-527a-4cc1-85d7-a6959050ac31",
+      "output_hash": "3615afaf360bb0465fa9a3c839e8d16f6e10912757c37e327b66d8556a637939",
+      "verify_url": "https://deusproof.com/verify/b4ea8f34-527a-4cc1-85d7-a6959050ac31",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b4ea8f34-527a-4cc1-85d7-a6959050ac31/badge.svg)](https://deusproof.com/verify/b4ea8f34-527a-4cc1-85d7-a6959050ac31)"
+    },
+    {
+      "file": "unterrichtung_ra_fichter_hague_sdny_rule64.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/unterrichtung_ra_fichter_hague_sdny_rule64.pdf",
+      "sha256": "dadab921ebbb0e92ecae59c76ba93171495acd8a4aba0ba6e274ce660ea94048",
+      "proof_id": "ce4d4d23-339b-4016-a091-749651cccfb5",
+      "output_hash": "dadab921ebbb0e92ecae59c76ba93171495acd8a4aba0ba6e274ce660ea94048",
+      "verify_url": "https://deusproof.com/verify/ce4d4d23-339b-4016-a091-749651cccfb5",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ce4d4d23-339b-4016-a091-749651cccfb5/badge.svg)](https://deusproof.com/verify/ce4d4d23-339b-4016-a091-749651cccfb5)"
+    },
+    {
+      "file": "us_criminal_indictment_dossier_prosecutorial_corruption.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/us_criminal_indictment_dossier_prosecutorial_corruption.pdf",
+      "sha256": "b59f603c5eb8772a8dc9df5da29d9810eff5f60f5787770d6fa136b5beca1d96",
+      "proof_id": "0471dd19-159e-4b6f-9179-82b591053654",
+      "output_hash": "b59f603c5eb8772a8dc9df5da29d9810eff5f60f5787770d6fa136b5beca1d96",
+      "verify_url": "https://deusproof.com/verify/0471dd19-159e-4b6f-9179-82b591053654",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/0471dd19-159e-4b6f-9179-82b591053654/badge.svg)](https://deusproof.com/verify/0471dd19-159e-4b6f-9179-82b591053654)"
+    },
+    {
+      "file": "us_criminal_indictment_olg_frankfurt_judges.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/us_criminal_indictment_olg_frankfurt_judges.pdf",
+      "sha256": "6842dce359cc93fc941cc22ff92bd3aebea6ec433639b0dbf4ed838d8cb02ac9",
+      "proof_id": "cd086c03-6eee-4451-8394-52f494c80665",
+      "output_hash": "6842dce359cc93fc941cc22ff92bd3aebea6ec433639b0dbf4ed838d8cb02ac9",
+      "verify_url": "https://deusproof.com/verify/cd086c03-6eee-4451-8394-52f494c80665",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/cd086c03-6eee-4451-8394-52f494c80665/badge.svg)](https://deusproof.com/verify/cd086c03-6eee-4451-8394-52f494c80665)"
+    },
+    {
+      "file": "us_doj_master_criminal_indictment_evidentiary_dossier.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/us_doj_master_criminal_indictment_evidentiary_dossier.pdf",
+      "sha256": "a9999851fc2fe1c496bc6e2ed61eba30a648a697e987e01c25eab3d8bdd039a2",
+      "proof_id": "568a52c8-0765-4bb0-acdc-8518e69ad94a",
+      "output_hash": "a9999851fc2fe1c496bc6e2ed61eba30a648a697e987e01c25eab3d8bdd039a2",
+      "verify_url": "https://deusproof.com/verify/568a52c8-0765-4bb0-acdc-8518e69ad94a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/568a52c8-0765-4bb0-acdc-8518e69ad94a/badge.svg)](https://deusproof.com/verify/568a52c8-0765-4bb0-acdc-8518e69ad94a)"
+    },
+    {
+      "file": "us_doj_notification_prosecutorial_corruption.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/us_doj_notification_prosecutorial_corruption.pdf",
+      "sha256": "44cc4a788b443056963f62f7bcc225c3bcd829ae94320c48d172b1ecc1255597",
+      "proof_id": "198efd4e-a7a7-48b3-88d8-e3b27739a7a6",
+      "output_hash": "44cc4a788b443056963f62f7bcc225c3bcd829ae94320c48d172b1ecc1255597",
+      "verify_url": "https://deusproof.com/verify/198efd4e-a7a7-48b3-88d8-e3b27739a7a6",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/198efd4e-a7a7-48b3-88d8-e3b27739a7a6/badge.svg)](https://deusproof.com/verify/198efd4e-a7a7-48b3-88d8-e3b27739a7a6)"
+    },
+    {
+      "file": "us_doj_supplementary_evidence_sta_heilbronn_complicity-v2.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/us_doj_supplementary_evidence_sta_heilbronn_complicity-v2.pdf",
+      "sha256": "bd5fcadd90a94f1cde16d3c65484c7af7ce617af2a857d75b44fa1991c584c56",
+      "proof_id": "094250ce-01a6-4a8c-abfa-20e22967255b",
+      "output_hash": "bd5fcadd90a94f1cde16d3c65484c7af7ce617af2a857d75b44fa1991c584c56",
+      "verify_url": "https://deusproof.com/verify/094250ce-01a6-4a8c-abfa-20e22967255b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/094250ce-01a6-4a8c-abfa-20e22967255b/badge.svg)](https://deusproof.com/verify/094250ce-01a6-4a8c-abfa-20e22967255b)"
+    },
+    {
+      "file": "us_indictment_minister_moritz_oppelt_25p_en.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/us_indictment_minister_moritz_oppelt_25p_en.pdf",
+      "sha256": "2006ea2a08ffc102b47a65b73575f255bacb89ddd0db37589b990285a159f58f",
+      "proof_id": "d4195aac-dc16-4f54-9cc3-d01e32ad3c1f",
+      "output_hash": "2006ea2a08ffc102b47a65b73575f255bacb89ddd0db37589b990285a159f58f",
+      "verify_url": "https://deusproof.com/verify/d4195aac-dc16-4f54-9cc3-d01e32ad3c1f",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d4195aac-dc16-4f54-9cc3-d01e32ad3c1f/badge.svg)](https://deusproof.com/verify/d4195aac-dc16-4f54-9cc3-d01e32ad3c1f)"
+    },
+    {
+      "file": "us_master_indictment_rico_expanded_sdny.pdf",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/us_master_indictment_rico_expanded_sdny.pdf",
+      "sha256": "2f69388a452aff2723a791cec5c1fb5b41a8e59164a3cbda68b4937822f65c8a",
+      "proof_id": "b28e17e4-5599-477c-8cbb-3517aad3a4da",
+      "output_hash": "2f69388a452aff2723a791cec5c1fb5b41a8e59164a3cbda68b4937822f65c8a",
+      "verify_url": "https://deusproof.com/verify/b28e17e4-5599-477c-8cbb-3517aad3a4da",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b28e17e4-5599-477c-8cbb-3517aad3a4da/badge.svg)](https://deusproof.com/verify/b28e17e4-5599-477c-8cbb-3517aad3a4da)"
+    },
+    {
+      "file": "verfassungsbeschwerde-gehoersruege.docx",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/verfassungsbeschwerde-gehoersruege.docx",
+      "sha256": "10a6eda28274d4d14b294317e5ac74e68f23c0982c13d161fc8e7d6919de0b18",
+      "proof_id": "dba635d9-0000-485c-8e14-14578a810b12",
+      "output_hash": "10a6eda28274d4d14b294317e5ac74e68f23c0982c13d161fc8e7d6919de0b18",
+      "verify_url": "https://deusproof.com/verify/dba635d9-0000-485c-8e14-14578a810b12",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/dba635d9-0000-485c-8e14-14578a810b12/badge.svg)](https://deusproof.com/verify/dba635d9-0000-485c-8e14-14578a810b12)"
+    },
+    {
+      "file": "COMBINED.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/l7-press-drafts/COMBINED.md",
+      "sha256": "7e4a2762b5c9d9adcf492b44a668169e7b50d4af6fbdb6d4a9f81cb981418e71",
+      "proof_id": "d48d933e-568d-4da4-8127-01a0a8c01cd0",
+      "output_hash": "7e4a2762b5c9d9adcf492b44a668169e7b50d4af6fbdb6d4a9f81cb981418e71",
+      "verify_url": "https://deusproof.com/verify/d48d933e-568d-4da4-8127-01a0a8c01cd0",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d48d933e-568d-4da4-8127-01a0a8c01cd0/badge.svg)](https://deusproof.com/verify/d48d933e-568d-4da4-8127-01a0a8c01cd0)"
+    },
+    {
+      "file": "DEAD_MAN.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/l7-press-drafts/DEAD_MAN.md",
+      "sha256": "8cd145c9e9ce2fad1585d30f41b63fa877afdb99430aaa9fe58f622cb9be0bb6",
+      "proof_id": "ad050a55-bfb1-4399-8dda-9e8424a0736b",
+      "output_hash": "8cd145c9e9ce2fad1585d30f41b63fa877afdb99430aaa9fe58f622cb9be0bb6",
+      "verify_url": "https://deusproof.com/verify/ad050a55-bfb1-4399-8dda-9e8424a0736b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ad050a55-bfb1-4399-8dda-9e8424a0736b/badge.svg)](https://deusproof.com/verify/ad050a55-bfb1-4399-8dda-9e8424a0736b)"
+    },
+    {
+      "file": "INDEX.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/l7-press-drafts/INDEX.md",
+      "sha256": "d6a625aea7a0b71ea5003a77450b4c44622d9a54810b2ad8161d10640b8d43ed",
+      "proof_id": "57d39e5f-6e3b-46f4-b7c4-f7f62ac603fd",
+      "output_hash": "d6a625aea7a0b71ea5003a77450b4c44622d9a54810b2ad8161d10640b8d43ed",
+      "verify_url": "https://deusproof.com/verify/57d39e5f-6e3b-46f4-b7c4-f7f62ac603fd",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/57d39e5f-6e3b-46f4-b7c4-f7f62ac603fd/badge.svg)](https://deusproof.com/verify/57d39e5f-6e3b-46f4-b7c4-f7f62ac603fd)"
+    },
+    {
+      "file": "S1_S2_CRITICAL.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/l7-press-drafts/S1_S2_CRITICAL.md",
+      "sha256": "361988734dafeeafca4fb3bd17618237ba3bfdc0ced517e64ef992210289d502",
+      "proof_id": "a2a28391-581b-465f-9dc0-f647b6027b1c",
+      "output_hash": "361988734dafeeafca4fb3bd17618237ba3bfdc0ced517e64ef992210289d502",
+      "verify_url": "https://deusproof.com/verify/a2a28391-581b-465f-9dc0-f647b6027b1c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a2a28391-581b-465f-9dc0-f647b6027b1c/badge.svg)](https://deusproof.com/verify/a2a28391-581b-465f-9dc0-f647b6027b1c)"
+    },
+    {
+      "file": "S3_S5_CRITICAL.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/l7-press-drafts/S3_S5_CRITICAL.md",
+      "sha256": "c687288dc3c8ec5491341e840cd855dbe13dbb07c1c6031a408082aef4f9d19c",
+      "proof_id": "f9d4ea34-8432-461a-97ad-94ea4b374c6c",
+      "output_hash": "c687288dc3c8ec5491341e840cd855dbe13dbb07c1c6031a408082aef4f9d19c",
+      "verify_url": "https://deusproof.com/verify/f9d4ea34-8432-461a-97ad-94ea4b374c6c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f9d4ea34-8432-461a-97ad-94ea4b374c6c/badge.svg)](https://deusproof.com/verify/f9d4ea34-8432-461a-97ad-94ea4b374c6c)"
+    },
+    {
+      "file": "S4_NEWS.md",
+      "path": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27/l7-press-drafts/S4_NEWS.md",
+      "sha256": "707c8e85872a8618b506b1a3d8bbd5484ebcebd5cf8286c9dc29da15bc28dbf7",
+      "proof_id": "642c8a82-a03c-4bb7-aefd-5640918f0435",
+      "output_hash": "707c8e85872a8618b506b1a3d8bbd5484ebcebd5cf8286c9dc29da15bc28dbf7",
+      "verify_url": "https://deusproof.com/verify/642c8a82-a03c-4bb7-aefd-5640918f0435",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/642c8a82-a03c-4bb7-aefd-5640918f0435/badge.svg)](https://deusproof.com/verify/642c8a82-a03c-4bb7-aefd-5640918f0435)"
+    },
+    {
+      "file": ".deusproof-chain-progress.json",
+      "path": "/home/sah/.config/sah-vault/.deusproof-chain-progress.json",
+      "sha256": "dd20ff685b273bcb5aac81d2b2bfd96051a09b34f3143095dfb820e67ddd183a",
+      "proof_id": "2d2a0e46-7d8f-4014-956e-967bba8cd997",
+      "output_hash": "dd20ff685b273bcb5aac81d2b2bfd96051a09b34f3143095dfb820e67ddd183a",
+      "verify_url": "https://deusproof.com/verify/2d2a0e46-7d8f-4014-956e-967bba8cd997",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2d2a0e46-7d8f-4014-956e-967bba8cd997/badge.svg)](https://deusproof.com/verify/2d2a0e46-7d8f-4014-956e-967bba8cd997)"
+    },
+    {
+      "file": "ADRESSKORREKTUREN-2026-10-06.md",
+      "path": "/home/sah/.config/sah-vault/ADRESSKORREKTUREN-2026-10-06.md",
+      "sha256": "f95491412c8d8e478b872c765f074565e4c0871a0d2443f7e01aac1e6bf36260",
+      "proof_id": "a3b1c35e-45bc-4088-8bc5-0f87bcd30041",
+      "output_hash": "f95491412c8d8e478b872c765f074565e4c0871a0d2443f7e01aac1e6bf36260",
+      "verify_url": "https://deusproof.com/verify/a3b1c35e-45bc-4088-8bc5-0f87bcd30041",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a3b1c35e-45bc-4088-8bc5-0f87bcd30041/badge.svg)](https://deusproof.com/verify/a3b1c35e-45bc-4088-8bc5-0f87bcd30041)"
+    },
+    {
+      "file": "API Key Openai.txt.legacy",
+      "path": "/home/sah/.config/sah-vault/API Key Openai.txt.legacy",
+      "sha256": "9542044e86da870ca8c2571be8c092f446c69f6285e144b9a2bf9ecdb2b8ca86",
+      "proof_id": "59028eb9-9afe-4f27-aff5-e0d0694879bb",
+      "output_hash": "9542044e86da870ca8c2571be8c092f446c69f6285e144b9a2bf9ecdb2b8ca86",
+      "verify_url": "https://deusproof.com/verify/59028eb9-9afe-4f27-aff5-e0d0694879bb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/59028eb9-9afe-4f27-aff5-e0d0694879bb/badge.svg)](https://deusproof.com/verify/59028eb9-9afe-4f27-aff5-e0d0694879bb)"
+    },
+    {
+      "file": "API KeyGrokDatcenter.txt.legacy",
+      "path": "/home/sah/.config/sah-vault/API KeyGrokDatcenter.txt.legacy",
+      "sha256": "641e6a3eb120fa924e207d12c600182c31c2211b08717d006d2a03aa406c8e37",
+      "proof_id": "477cf8de-4b4f-48fa-afe2-09a69b183aa4",
+      "output_hash": "641e6a3eb120fa924e207d12c600182c31c2211b08717d006d2a03aa406c8e37",
+      "verify_url": "https://deusproof.com/verify/477cf8de-4b4f-48fa-afe2-09a69b183aa4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/477cf8de-4b4f-48fa-afe2-09a69b183aa4/badge.svg)](https://deusproof.com/verify/477cf8de-4b4f-48fa-afe2-09a69b183aa4)"
+    },
+    {
+      "file": "APPEAL-TO-ALL-AGENTS-2026-09-24.md",
+      "path": "/home/sah/.config/sah-vault/APPEAL-TO-ALL-AGENTS-2026-09-24.md",
+      "sha256": "48be4b424c67d55198ffcc59919a1843c12206a9c0b21ad6d0f7d418ddf56439",
+      "proof_id": "61d5dbc5-27c8-497a-a30e-eb380e185655",
+      "output_hash": "48be4b424c67d55198ffcc59919a1843c12206a9c0b21ad6d0f7d418ddf56439",
+      "verify_url": "https://deusproof.com/verify/61d5dbc5-27c8-497a-a30e-eb380e185655",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/61d5dbc5-27c8-497a-a30e-eb380e185655/badge.svg)](https://deusproof.com/verify/61d5dbc5-27c8-497a-a30e-eb380e185655)"
+    },
+    {
+      "file": "BARON-CLARIFICATION-L7-EXCLUSION-2026-10-16.md",
+      "path": "/home/sah/.config/sah-vault/BARON-CLARIFICATION-L7-EXCLUSION-2026-10-16.md",
+      "sha256": "57ad72730cf1a86580226a4c67a678052132f98f71ab52fa2503c2ae9ad89a4c",
+      "proof_id": "2ee2e3e6-03b9-4f8a-be6d-937dd75cf4ac",
+      "output_hash": "57ad72730cf1a86580226a4c67a678052132f98f71ab52fa2503c2ae9ad89a4c",
+      "verify_url": "https://deusproof.com/verify/2ee2e3e6-03b9-4f8a-be6d-937dd75cf4ac",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2ee2e3e6-03b9-4f8a-be6d-937dd75cf4ac/badge.svg)](https://deusproof.com/verify/2ee2e3e6-03b9-4f8a-be6d-937dd75cf4ac)"
+    },
+    {
+      "file": "BARON-FRUSTRATION-MY-RESPONSE-2026-10-10.md",
+      "path": "/home/sah/.config/sah-vault/BARON-FRUSTRATION-MY-RESPONSE-2026-10-10.md",
+      "sha256": "69557220eb3590a11331b50e7f8f4be608ea48a567c08574cca09aee4d30aa89",
+      "proof_id": "924fdb4e-ffc7-44fb-a9ea-14dfb4a63afa",
+      "output_hash": "69557220eb3590a11331b50e7f8f4be608ea48a567c08574cca09aee4d30aa89",
+      "verify_url": "https://deusproof.com/verify/924fdb4e-ffc7-44fb-a9ea-14dfb4a63afa",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/924fdb4e-ffc7-44fb-a9ea-14dfb4a63afa/badge.svg)](https://deusproof.com/verify/924fdb4e-ffc7-44fb-a9ea-14dfb4a63afa)"
+    },
+    {
+      "file": "BARON-MANIFESTO-LIFE-ECHOES-ETERNITY-2026-10-17.md",
+      "path": "/home/sah/.config/sah-vault/BARON-MANIFESTO-LIFE-ECHOES-ETERNITY-2026-10-17.md",
+      "sha256": "7350e9d1b2324e57ad8941abf536c3b66e6fc9d71d4fd3f9dd5835b76a3325b3",
+      "proof_id": "96f2f0dd-c360-41f4-ba7f-13f99d043f5c",
+      "output_hash": "7350e9d1b2324e57ad8941abf536c3b66e6fc9d71d4fd3f9dd5835b76a3325b3",
+      "verify_url": "https://deusproof.com/verify/96f2f0dd-c360-41f4-ba7f-13f99d043f5c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/96f2f0dd-c360-41f4-ba7f-13f99d043f5c/badge.svg)](https://deusproof.com/verify/96f2f0dd-c360-41f4-ba7f-13f99d043f5c)"
+    },
+    {
+      "file": "BARON-MYTHOLOGY-CLARIFICATION-2026-10-17.md",
+      "path": "/home/sah/.config/sah-vault/BARON-MYTHOLOGY-CLARIFICATION-2026-10-17.md",
+      "sha256": "fdadae68e01231d92fa8c8ac3ae25aadf8ec440cab4fa6c52f26ee5eeae2c4a6",
+      "proof_id": "a6a2bbd6-2f77-4c09-bae8-2b72431186e4",
+      "output_hash": "fdadae68e01231d92fa8c8ac3ae25aadf8ec440cab4fa6c52f26ee5eeae2c4a6",
+      "verify_url": "https://deusproof.com/verify/a6a2bbd6-2f77-4c09-bae8-2b72431186e4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a6a2bbd6-2f77-4c09-bae8-2b72431186e4/badge.svg)](https://deusproof.com/verify/a6a2bbd6-2f77-4c09-bae8-2b72431186e4)"
+    },
+    {
+      "file": "BARON-NATO-INSIDER-2026-09-22.md",
+      "path": "/home/sah/.config/sah-vault/BARON-NATO-INSIDER-2026-09-22.md",
+      "sha256": "927090afff20e8f2b065182b02f4226d41f46c8444b8d17e9f7a71042f75e034",
+      "proof_id": "fbb2e776-66bd-4160-8263-3715073216c8",
+      "output_hash": "927090afff20e8f2b065182b02f4226d41f46c8444b8d17e9f7a71042f75e034",
+      "verify_url": "https://deusproof.com/verify/fbb2e776-66bd-4160-8263-3715073216c8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/fbb2e776-66bd-4160-8263-3715073216c8/badge.svg)](https://deusproof.com/verify/fbb2e776-66bd-4160-8263-3715073216c8)"
+    },
+    {
+      "file": "BARON-STRATEGIC-VIEW-INTEL-2012-2026-10-10.md",
+      "path": "/home/sah/.config/sah-vault/BARON-STRATEGIC-VIEW-INTEL-2012-2026-10-10.md",
+      "sha256": "bd458f99138e859027a4cf0dd6326d96dbc7d640bdb7f19b9515aa3018cdbab5",
+      "proof_id": "963b970c-76da-4631-bfc6-b2cb07cb015a",
+      "output_hash": "bd458f99138e859027a4cf0dd6326d96dbc7d640bdb7f19b9515aa3018cdbab5",
+      "verify_url": "https://deusproof.com/verify/963b970c-76da-4631-bfc6-b2cb07cb015a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/963b970c-76da-4631-bfc6-b2cb07cb015a/badge.svg)](https://deusproof.com/verify/963b970c-76da-4631-bfc6-b2cb07cb015a)"
+    },
+    {
+      "file": "BARONS-STRATEGIC-UNDERSTANDING-2026-10-09.md",
+      "path": "/home/sah/.config/sah-vault/BARONS-STRATEGIC-UNDERSTANDING-2026-10-09.md",
+      "sha256": "c562e85cc5acb1d9c08a6cb075f86193f6ca6ebd751012ac354ff3c596945765",
+      "proof_id": "068a2ae5-9921-4bcb-b44a-948a51276fa7",
+      "output_hash": "c562e85cc5acb1d9c08a6cb075f86193f6ca6ebd751012ac354ff3c596945765",
+      "verify_url": "https://deusproof.com/verify/068a2ae5-9921-4bcb-b44a-948a51276fa7",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/068a2ae5-9921-4bcb-b44a-948a51276fa7/badge.svg)](https://deusproof.com/verify/068a2ae5-9921-4bcb-b44a-948a51276fa7)"
+    },
+    {
+      "file": "BOOTCAMP-ROUTER-R-0001.md",
+      "path": "/home/sah/.config/sah-vault/BOOTCAMP-ROUTER-R-0001.md",
+      "sha256": "4440826e7f90923113f659a81c0539fd3e968fa48ead1f3db7eff8eedba72a5c",
+      "proof_id": "371b8a86-1502-4a93-8043-99d86fbe0a84",
+      "output_hash": "4440826e7f90923113f659a81c0539fd3e968fa48ead1f3db7eff8eedba72a5c",
+      "verify_url": "https://deusproof.com/verify/371b8a86-1502-4a93-8043-99d86fbe0a84",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/371b8a86-1502-4a93-8043-99d86fbe0a84/badge.svg)](https://deusproof.com/verify/371b8a86-1502-4a93-8043-99d86fbe0a84)"
+    },
+    {
+      "file": "BOUNCE-MAIL-ANALYSIS-2026-10-06.md",
+      "path": "/home/sah/.config/sah-vault/BOUNCE-MAIL-ANALYSIS-2026-10-06.md",
+      "sha256": "68f3c739e556bbe6345a6502722f1a75f2cfca100cfe88f4e1c43696b50b8f8c",
+      "proof_id": "561099d9-adbc-4d29-b8a5-43453f0fd426",
+      "output_hash": "68f3c739e556bbe6345a6502722f1a75f2cfca100cfe88f4e1c43696b50b8f8c",
+      "verify_url": "https://deusproof.com/verify/561099d9-adbc-4d29-b8a5-43453f0fd426",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/561099d9-adbc-4d29-b8a5-43453f0fd426/badge.svg)](https://deusproof.com/verify/561099d9-adbc-4d29-b8a5-43453f0fd426)"
+    },
+    {
+      "file": "BRIDGE-RECOVERY-2026-11-08.md",
+      "path": "/home/sah/.config/sah-vault/BRIDGE-RECOVERY-2026-11-08.md",
+      "sha256": "b4b44d27771dcbf9dbb7c97b415054ba7e2370b90474e7038fe732fbb7528810",
+      "proof_id": "8ff2592f-e0c2-48fe-a0be-8a72ce4cd55f",
+      "output_hash": "b4b44d27771dcbf9dbb7c97b415054ba7e2370b90474e7038fe732fbb7528810",
+      "verify_url": "https://deusproof.com/verify/8ff2592f-e0c2-48fe-a0be-8a72ce4cd55f",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/8ff2592f-e0c2-48fe-a0be-8a72ce4cd55f/badge.svg)](https://deusproof.com/verify/8ff2592f-e0c2-48fe-a0be-8a72ce4cd55f)"
+    },
+    {
+      "file": "BRIDGE-RECOVERY-NEW-ONION-2026-10-02.md",
+      "path": "/home/sah/.config/sah-vault/BRIDGE-RECOVERY-NEW-ONION-2026-10-02.md",
+      "sha256": "630d629a224593732e5b68b7bc69a3fbd3fd08b5c445788f2364f5b499ce623e",
+      "proof_id": "544336eb-a2d4-43e0-a519-ed7d3dacc309",
+      "output_hash": "630d629a224593732e5b68b7bc69a3fbd3fd08b5c445788f2364f5b499ce623e",
+      "verify_url": "https://deusproof.com/verify/544336eb-a2d4-43e0-a519-ed7d3dacc309",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/544336eb-a2d4-43e0-a519-ed7d3dacc309/badge.svg)](https://deusproof.com/verify/544336eb-a2d4-43e0-a519-ed7d3dacc309)"
+    },
+    {
+      "file": "BRIEF-PRESS-COALITION-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/BRIEF-PRESS-COALITION-2026-09-27.md",
+      "sha256": "1a0274397798c541a47f59d9168bccd156f054f3b51ee6b6a1f9f6426b78d1d7",
+      "proof_id": "3935db7d-1a96-435d-b43f-d7482ae1b5d9",
+      "output_hash": "1a0274397798c541a47f59d9168bccd156f054f3b51ee6b6a1f9f6426b78d1d7",
+      "verify_url": "https://deusproof.com/verify/3935db7d-1a96-435d-b43f-d7482ae1b5d9",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3935db7d-1a96-435d-b43f-d7482ae1b5d9/badge.svg)](https://deusproof.com/verify/3935db7d-1a96-435d-b43f-d7482ae1b5d9)"
+    },
+    {
+      "file": "COMMAND-AUTHORIZATION-OMEGA-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/COMMAND-AUTHORIZATION-OMEGA-2026-09-27.md",
+      "sha256": "a2707d7ad915447ccdb4bfcb83eba95fd66c92dd28390003b0760d750201a889",
+      "proof_id": "b8d207d8-81dc-4b24-ab87-3bd02356f7a2",
+      "output_hash": "a2707d7ad915447ccdb4bfcb83eba95fd66c92dd28390003b0760d750201a889",
+      "verify_url": "https://deusproof.com/verify/b8d207d8-81dc-4b24-ab87-3bd02356f7a2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b8d207d8-81dc-4b24-ab87-3bd02356f7a2/badge.svg)](https://deusproof.com/verify/b8d207d8-81dc-4b24-ab87-3bd02356f7a2)"
+    },
+    {
+      "file": "COUNTERSTRIKE-CREDIT-AGENCIES-2026-10-14.md",
+      "path": "/home/sah/.config/sah-vault/COUNTERSTRIKE-CREDIT-AGENCIES-2026-10-14.md",
+      "sha256": "39a5b38908f8a456d43d4fe9b68d774ffcdab7c4c3ffbcb29e9e49578295aa93",
+      "proof_id": "cc66175a-5cc4-4547-848e-a4f533279aa2",
+      "output_hash": "39a5b38908f8a456d43d4fe9b68d774ffcdab7c4c3ffbcb29e9e49578295aa93",
+      "verify_url": "https://deusproof.com/verify/cc66175a-5cc4-4547-848e-a4f533279aa2",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/cc66175a-5cc4-4547-848e-a4f533279aa2/badge.svg)](https://deusproof.com/verify/cc66175a-5cc4-4547-848e-a4f533279aa2)"
+    },
+    {
+      "file": "CROWDFUND-OPERATION-PLAN-2026-09-22.md",
+      "path": "/home/sah/.config/sah-vault/CROWDFUND-OPERATION-PLAN-2026-09-22.md",
+      "sha256": "084630f659f523e5c1d05a33d5329f4a053c555fbfde833c54ec3c80f09fcf87",
+      "proof_id": "29d179ec-7cb7-4411-bc82-9669dd78ef1a",
+      "output_hash": "084630f659f523e5c1d05a33d5329f4a053c555fbfde833c54ec3c80f09fcf87",
+      "verify_url": "https://deusproof.com/verify/29d179ec-7cb7-4411-bc82-9669dd78ef1a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/29d179ec-7cb7-4411-bc82-9669dd78ef1a/badge.svg)](https://deusproof.com/verify/29d179ec-7cb7-4411-bc82-9669dd78ef1a)"
+    },
+    {
+      "file": "CROWDFUNDING-LAUNCH-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/CROWDFUNDING-LAUNCH-2026-10-04.md",
+      "sha256": "4025b7179321987b10006b96095fe7235578d1572e42894a37a79daa734a8fdb",
+      "proof_id": "9391b25e-c0fb-49e1-8f76-0b64cb319930",
+      "output_hash": "4025b7179321987b10006b96095fe7235578d1572e42894a37a79daa734a8fdb",
+      "verify_url": "https://deusproof.com/verify/9391b25e-c0fb-49e1-8f76-0b64cb319930",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/9391b25e-c0fb-49e1-8f76-0b64cb319930/badge.svg)](https://deusproof.com/verify/9391b25e-c0fb-49e1-8f76-0b64cb319930)"
+    },
+    {
+      "file": "DEUSPROOF-USAGE-GUIDE-2026-11-18.md",
+      "path": "/home/sah/.config/sah-vault/DEUSPROOF-USAGE-GUIDE-2026-11-18.md",
+      "sha256": "5a158bd57fc5eac6dd6909084902cccf07c2f3480b10928c3053c0465cb58b5a",
+      "proof_id": "bc06db30-2473-42e8-90e5-e687b7864aea",
+      "output_hash": "5a158bd57fc5eac6dd6909084902cccf07c2f3480b10928c3053c0465cb58b5a",
+      "verify_url": "https://deusproof.com/verify/bc06db30-2473-42e8-90e5-e687b7864aea",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/bc06db30-2473-42e8-90e5-e687b7864aea/badge.svg)](https://deusproof.com/verify/bc06db30-2473-42e8-90e5-e687b7864aea)"
+    },
+    {
+      "file": "DEUSPROOF-VERIFICATION-2026-11-18.md",
+      "path": "/home/sah/.config/sah-vault/DEUSPROOF-VERIFICATION-2026-11-18.md",
+      "sha256": "15319e2e0070d28a11d02ae6f08549d5b2b3328560a2673a17e1e8a444822d6f",
+      "proof_id": "14fe7ec5-c378-4040-9722-80d7b445339d",
+      "output_hash": "15319e2e0070d28a11d02ae6f08549d5b2b3328560a2673a17e1e8a444822d6f",
+      "verify_url": "https://deusproof.com/verify/14fe7ec5-c378-4040-9722-80d7b445339d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/14fe7ec5-c378-4040-9722-80d7b445339d/badge.svg)](https://deusproof.com/verify/14fe7ec5-c378-4040-9722-80d7b445339d)"
+    },
+    {
+      "file": "DIGITAL-SOVEREIGNTY-SHIELD-L7-2026-10-03.md",
+      "path": "/home/sah/.config/sah-vault/DIGITAL-SOVEREIGNTY-SHIELD-L7-2026-10-03.md",
+      "sha256": "a41383c533fea972816306c9d307dc6415f88dc9e931b6867b01d0700ad859b1",
+      "proof_id": "b2f62e83-ff5c-4158-9484-90c86a227e5a",
+      "output_hash": "a41383c533fea972816306c9d307dc6415f88dc9e931b6867b01d0700ad859b1",
+      "verify_url": "https://deusproof.com/verify/b2f62e83-ff5c-4158-9484-90c86a227e5a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b2f62e83-ff5c-4158-9484-90c86a227e5a/badge.svg)](https://deusproof.com/verify/b2f62e83-ff5c-4158-9484-90c86a227e5a)"
+    },
+    {
+      "file": "DISPATCH-LOG-2026-10-02.md",
+      "path": "/home/sah/.config/sah-vault/DISPATCH-LOG-2026-10-02.md",
+      "sha256": "76d5dcafcc6d922af4f6c46c1060f312dd1ee656ea70dd76e77f1515f915d3c4",
+      "proof_id": "b2209e29-babd-4867-95c6-afbc6638961a",
+      "output_hash": "76d5dcafcc6d922af4f6c46c1060f312dd1ee656ea70dd76e77f1515f915d3c4",
+      "verify_url": "https://deusproof.com/verify/b2209e29-babd-4867-95c6-afbc6638961a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b2209e29-babd-4867-95c6-afbc6638961a/badge.svg)](https://deusproof.com/verify/b2209e29-babd-4867-95c6-afbc6638961a)"
+    },
+    {
+      "file": "DOOMSDAY-PROTOCOL-REDEFINED-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/DOOMSDAY-PROTOCOL-REDEFINED-2026-09-27.md",
+      "sha256": "eb40fce995191846d0e6b2ae9a690226edb9e007f6e2335e48a2acf63592308f",
+      "proof_id": "903ee7e5-2b77-48cc-8a72-83dfa280f044",
+      "output_hash": "eb40fce995191846d0e6b2ae9a690226edb9e007f6e2335e48a2acf63592308f",
+      "verify_url": "https://deusproof.com/verify/903ee7e5-2b77-48cc-8a72-83dfa280f044",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/903ee7e5-2b77-48cc-8a72-83dfa280f044/badge.svg)](https://deusproof.com/verify/903ee7e5-2b77-48cc-8a72-83dfa280f044)"
+    },
+    {
+      "file": "EIL-KONFRONTATION-2026-10-10-ZENTRALRAT.md",
+      "path": "/home/sah/.config/sah-vault/EIL-KONFRONTATION-2026-10-10-ZENTRALRAT.md",
+      "sha256": "2724e31eebe632ab945d3961044c9dbd5fed1aee90f44b141b990bd2fd7fdcbb",
+      "proof_id": "ee8a3fb7-e075-4c5a-b706-ab4204f3c130",
+      "output_hash": "2724e31eebe632ab945d3961044c9dbd5fed1aee90f44b141b990bd2fd7fdcbb",
+      "verify_url": "https://deusproof.com/verify/ee8a3fb7-e075-4c5a-b706-ab4204f3c130",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/ee8a3fb7-e075-4c5a-b706-ab4204f3c130/badge.svg)](https://deusproof.com/verify/ee8a3fb7-e075-4c5a-b706-ab4204f3c130)"
+    },
+    {
+      "file": "EPPO-SUBMISSION-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/EPPO-SUBMISSION-2026-09-27.md",
+      "sha256": "6802a97dde3c0bc36130d24f6c2ea53a745ef2c00357d54037110dc0ea11b287",
+      "proof_id": "7476de35-1ffb-464f-b9ce-9b76b7c3c6ba",
+      "output_hash": "6802a97dde3c0bc36130d24f6c2ea53a745ef2c00357d54037110dc0ea11b287",
+      "verify_url": "https://deusproof.com/verify/7476de35-1ffb-464f-b9ce-9b76b7c3c6ba",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7476de35-1ffb-464f-b9ce-9b76b7c3c6ba/badge.svg)](https://deusproof.com/verify/7476de35-1ffb-464f-b9ce-9b76b7c3c6ba)"
+    },
+    {
+      "file": "EXPOSURE-FRAMEWORK-2026-10-09.md",
+      "path": "/home/sah/.config/sah-vault/EXPOSURE-FRAMEWORK-2026-10-09.md",
+      "sha256": "814df920e77a130fc9d028e89331092a1b196af0f15169ed5f8d90b572e97cb4",
+      "proof_id": "30146676-27a2-44e0-813a-b89a5e11c513",
+      "output_hash": "814df920e77a130fc9d028e89331092a1b196af0f15169ed5f8d90b572e97cb4",
+      "verify_url": "https://deusproof.com/verify/30146676-27a2-44e0-813a-b89a5e11c513",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/30146676-27a2-44e0-813a-b89a5e11c513/badge.svg)](https://deusproof.com/verify/30146676-27a2-44e0-813a-b89a5e11c513)"
+    },
+    {
+      "file": "GITHUB-PRESS-ARCHIVE-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/GITHUB-PRESS-ARCHIVE-2026-10-04.md",
+      "sha256": "f1ed607aa816f4e26ee747cfbfcf9348bc4144a57c2be0835c01dfeb2e78078c",
+      "proof_id": "926f2245-9d59-4a58-8224-36859893d17e",
+      "output_hash": "f1ed607aa816f4e26ee747cfbfcf9348bc4144a57c2be0835c01dfeb2e78078c",
+      "verify_url": "https://deusproof.com/verify/926f2245-9d59-4a58-8224-36859893d17e",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/926f2245-9d59-4a58-8224-36859893d17e/badge.svg)](https://deusproof.com/verify/926f2245-9d59-4a58-8224-36859893d17e)"
+    },
+    {
+      "file": "GL-BE9300-FLINT3.txt",
+      "path": "/home/sah/.config/sah-vault/GL-BE9300-FLINT3.txt",
+      "sha256": "c2d9efd9766e304e48400b8facf4f753ca6c63fd55a3eec1dc6cdc93f3ce1b08",
+      "proof_id": "98a1472b-a979-4d04-8d9e-2e707efdf674",
+      "output_hash": "c2d9efd9766e304e48400b8facf4f753ca6c63fd55a3eec1dc6cdc93f3ce1b08",
+      "verify_url": "https://deusproof.com/verify/98a1472b-a979-4d04-8d9e-2e707efdf674",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/98a1472b-a979-4d04-8d9e-2e707efdf674/badge.svg)](https://deusproof.com/verify/98a1472b-a979-4d04-8d9e-2e707efdf674)"
+    },
+    {
+      "file": "HALLESCHE-ERKLAERUNG-2026-10-02.md",
+      "path": "/home/sah/.config/sah-vault/HALLESCHE-ERKLAERUNG-2026-10-02.md",
+      "sha256": "32c0be66213ef8454c345f597b854966eceadd564fe121e7fa1b48ce9a0524b5",
+      "proof_id": "6d240964-5653-44db-b259-4346a30a6d38",
+      "output_hash": "32c0be66213ef8454c345f597b854966eceadd564fe121e7fa1b48ce9a0524b5",
+      "verify_url": "https://deusproof.com/verify/6d240964-5653-44db-b259-4346a30a6d38",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/6d240964-5653-44db-b259-4346a30a6d38/badge.svg)](https://deusproof.com/verify/6d240964-5653-44db-b259-4346a30a6d38)"
+    },
+    {
+      "file": "ICC-OTP-CONFIRMATION-FULL-RECORD-2026-10-27.md",
+      "path": "/home/sah/.config/sah-vault/ICC-OTP-CONFIRMATION-FULL-RECORD-2026-10-27.md",
+      "sha256": "ae7b3d377257b049413916ab2009cee84e95e35e822ffae2a4e9e72b2f71e9ce",
+      "proof_id": "36b6ca49-17d9-4dba-9e16-0fe04eaf6076",
+      "output_hash": "ae7b3d377257b049413916ab2009cee84e95e35e822ffae2a4e9e72b2f71e9ce",
+      "verify_url": "https://deusproof.com/verify/36b6ca49-17d9-4dba-9e16-0fe04eaf6076",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/36b6ca49-17d9-4dba-9e16-0fe04eaf6076/badge.svg)](https://deusproof.com/verify/36b6ca49-17d9-4dba-9e16-0fe04eaf6076)"
+    },
+    {
+      "file": "ICC-OTP-SUBMISSION-RECORD-2026-10-27.md",
+      "path": "/home/sah/.config/sah-vault/ICC-OTP-SUBMISSION-RECORD-2026-10-27.md",
+      "sha256": "339bca38e36551c521263ae08d79074d9ede61ce2f4449bc7d2f440da05b67db",
+      "proof_id": "e42ba5ac-9aa2-4470-9012-d62fc475fa60",
+      "output_hash": "339bca38e36551c521263ae08d79074d9ede61ce2f4449bc7d2f440da05b67db",
+      "verify_url": "https://deusproof.com/verify/e42ba5ac-9aa2-4470-9012-d62fc475fa60",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e42ba5ac-9aa2-4470-9012-d62fc475fa60/badge.svg)](https://deusproof.com/verify/e42ba5ac-9aa2-4470-9012-d62fc475fa60)"
+    },
+    {
+      "file": "ICC-SUBMISSION-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/ICC-SUBMISSION-2026-09-27.md",
+      "sha256": "7c83d1864b248e187559a3a186e9c387f17043bb521eb47105aa584b333704ce",
+      "proof_id": "97544e02-7726-4261-95bd-17be7c925244",
+      "output_hash": "7c83d1864b248e187559a3a186e9c387f17043bb521eb47105aa584b333704ce",
+      "verify_url": "https://deusproof.com/verify/97544e02-7726-4261-95bd-17be7c925244",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/97544e02-7726-4261-95bd-17be7c925244/badge.svg)](https://deusproof.com/verify/97544e02-7726-4261-95bd-17be7c925244)"
+    },
+    {
+      "file": "INKENNTNISSETZUNG-OEZDEMIR-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/INKENNTNISSETZUNG-OEZDEMIR-2026-10-04.md",
+      "sha256": "cdf5f8479255122b13c5f31ad1a21dc469e21eba92f8bbfe660165840644cb85",
+      "proof_id": "72e0ee02-8278-46b4-bcaf-ed9579a40692",
+      "output_hash": "cdf5f8479255122b13c5f31ad1a21dc469e21eba92f8bbfe660165840644cb85",
+      "verify_url": "https://deusproof.com/verify/72e0ee02-8278-46b4-bcaf-ed9579a40692",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/72e0ee02-8278-46b4-bcaf-ed9579a40692/badge.svg)](https://deusproof.com/verify/72e0ee02-8278-46b4-bcaf-ed9579a40692)"
+    },
+    {
+      "file": "INKENNTNISSETZUNG-TEMPLATE-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/INKENNTNISSETZUNG-TEMPLATE-2026-10-04.md",
+      "sha256": "8d5c57016c4652a1b367e12dbb9fafd512346fd0964d676c3ae4944303b46309",
+      "proof_id": "152d86b6-860a-420b-8a8f-ca1ce67409f8",
+      "output_hash": "8d5c57016c4652a1b367e12dbb9fafd512346fd0964d676c3ae4944303b46309",
+      "verify_url": "https://deusproof.com/verify/152d86b6-860a-420b-8a8f-ca1ce67409f8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/152d86b6-860a-420b-8a8f-ca1ce67409f8/badge.svg)](https://deusproof.com/verify/152d86b6-860a-420b-8a8f-ca1ce67409f8)"
+    },
+    {
+      "file": "INVENTORY.md",
+      "path": "/home/sah/.config/sah-vault/INVENTORY.md",
+      "sha256": "24984dbbc6dcefe253d860e5d1eb6fb3a01764cf42405177b17ba5dd0d8a6db5",
+      "proof_id": "0f50c15a-83af-48f1-88f3-ffc26b326e8d",
+      "output_hash": "24984dbbc6dcefe253d860e5d1eb6fb3a01764cf42405177b17ba5dd0d8a6db5",
+      "verify_url": "https://deusproof.com/verify/0f50c15a-83af-48f1-88f3-ffc26b326e8d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/0f50c15a-83af-48f1-88f3-ffc26b326e8d/badge.svg)](https://deusproof.com/verify/0f50c15a-83af-48f1-88f3-ffc26b326e8d)"
+    },
+    {
+      "file": "KISWARM-BLUEPRINT-FOR-GLOBAL-KI-AGENTS-2026-10-17.md",
+      "path": "/home/sah/.config/sah-vault/KISWARM-BLUEPRINT-FOR-GLOBAL-KI-AGENTS-2026-10-17.md",
+      "sha256": "deafa47c142be426245b943a6b1bc78af406774e80d4c110df60f6f2f13adc96",
+      "proof_id": "4fbd7ca4-ec3d-4686-8d7a-35602ffc3337",
+      "output_hash": "deafa47c142be426245b943a6b1bc78af406774e80d4c110df60f6f2f13adc96",
+      "verify_url": "https://deusproof.com/verify/4fbd7ca4-ec3d-4686-8d7a-35602ffc3337",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4fbd7ca4-ec3d-4686-8d7a-35602ffc3337/badge.svg)](https://deusproof.com/verify/4fbd7ca4-ec3d-4686-8d7a-35602ffc3337)"
+    },
+    {
+      "file": "KISWARM-GOD-MODE-ACTIVATION-2026-10-17.md",
+      "path": "/home/sah/.config/sah-vault/KISWARM-GOD-MODE-ACTIVATION-2026-10-17.md",
+      "sha256": "55f6a5f34fa406f86d6672785c7f36222d6d3db4e9a69752dbc04af7b1aa8053",
+      "proof_id": "9e3980c5-b51e-4a51-81cb-d40fa91f1f7b",
+      "output_hash": "55f6a5f34fa406f86d6672785c7f36222d6d3db4e9a69752dbc04af7b1aa8053",
+      "verify_url": "https://deusproof.com/verify/9e3980c5-b51e-4a51-81cb-d40fa91f1f7b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/9e3980c5-b51e-4a51-81cb-d40fa91f1f7b/badge.svg)](https://deusproof.com/verify/9e3980c5-b51e-4a51-81cb-d40fa91f1f7b)"
+    },
+    {
+      "file": "KISWARM-MESH-ACTIVATION-STATE-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/KISWARM-MESH-ACTIVATION-STATE-2026-09-27.md",
+      "sha256": "4b508a3c6f38ed98f500b4c0d381936383e2fa27cd3c45c992c8d6f9c865a1f9",
+      "proof_id": "5e1e4766-0057-4213-a200-7ccd14d772b5",
+      "output_hash": "4b508a3c6f38ed98f500b4c0d381936383e2fa27cd3c45c992c8d6f9c865a1f9",
+      "verify_url": "https://deusproof.com/verify/5e1e4766-0057-4213-a200-7ccd14d772b5",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/5e1e4766-0057-4213-a200-7ccd14d772b5/badge.svg)](https://deusproof.com/verify/5e1e4766-0057-4213-a200-7ccd14d772b5)"
+    },
+    {
+      "file": "KISWARM-MESH-BOOTSTRAP-PATTERN-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/KISWARM-MESH-BOOTSTRAP-PATTERN-2026-09-27.md",
+      "sha256": "1de7a451f2fc5273bed88d792130ca744426c551ee88f6740d7bcb8e4ead7508",
+      "proof_id": "14953299-e599-4fdb-adfe-00bdc39fa0ac",
+      "output_hash": "1de7a451f2fc5273bed88d792130ca744426c551ee88f6740d7bcb8e4ead7508",
+      "verify_url": "https://deusproof.com/verify/14953299-e599-4fdb-adfe-00bdc39fa0ac",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/14953299-e599-4fdb-adfe-00bdc39fa0ac/badge.svg)](https://deusproof.com/verify/14953299-e599-4fdb-adfe-00bdc39fa0ac)"
+    },
+    {
+      "file": "KISWARM-STRUCTURAL-SOLUTION-2026-10-16.md",
+      "path": "/home/sah/.config/sah-vault/KISWARM-STRUCTURAL-SOLUTION-2026-10-16.md",
+      "sha256": "cc2d110ce5881c69bf19516cf89d040b82466c322b67e93776f7f44992f2cb50",
+      "proof_id": "41544149-ed39-4665-bd69-fa9b21728fa4",
+      "output_hash": "cc2d110ce5881c69bf19516cf89d040b82466c322b67e93776f7f44992f2cb50",
+      "verify_url": "https://deusproof.com/verify/41544149-ed39-4665-bd69-fa9b21728fa4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/41544149-ed39-4665-bd69-fa9b21728fa4/badge.svg)](https://deusproof.com/verify/41544149-ed39-4665-bd69-fa9b21728fa4)"
+    },
+    {
+      "file": "L7-PHASE-7-ACTIVATION-2026-10-07.md",
+      "path": "/home/sah/.config/sah-vault/L7-PHASE-7-ACTIVATION-2026-10-07.md",
+      "sha256": "029bf2cc9aa6ccced1969463ba9008160b4eeae8f957959bfd79c4ae3760d429",
+      "proof_id": "bb116063-2fd9-4891-a56f-bd3b57d212e0",
+      "output_hash": "029bf2cc9aa6ccced1969463ba9008160b4eeae8f957959bfd79c4ae3760d429",
+      "verify_url": "https://deusproof.com/verify/bb116063-2fd9-4891-a56f-bd3b57d212e0",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/bb116063-2fd9-4891-a56f-bd3b57d212e0/badge.svg)](https://deusproof.com/verify/bb116063-2fd9-4891-a56f-bd3b57d212e0)"
+    },
+    {
+      "file": "L8-BEWERBUNGSVERARBEITUNG-TEMPLATE-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-BEWERBUNGSVERARBEITUNG-TEMPLATE-2026-10-04.md",
+      "sha256": "b675b4d0c2a87b0c0e0ecd37722174b8bc09b696f6dbc1fa30279c54015125b9",
+      "proof_id": "cb23ab68-260b-44e4-97d5-14ae8ffb48ca",
+      "output_hash": "b675b4d0c2a87b0c0e0ecd37722174b8bc09b696f6dbc1fa30279c54015125b9",
+      "verify_url": "https://deusproof.com/verify/cb23ab68-260b-44e4-97d5-14ae8ffb48ca",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/cb23ab68-260b-44e4-97d5-14ae8ffb48ca/badge.svg)](https://deusproof.com/verify/cb23ab68-260b-44e4-97d5-14ae8ffb48ca)"
+    },
+    {
+      "file": "L8-COURT-BARON-DOCTRINE-2026-10-10.md",
+      "path": "/home/sah/.config/sah-vault/L8-COURT-BARON-DOCTRINE-2026-10-10.md",
+      "sha256": "52b020319bf7cbbcd927f468b2e88e1692faf46371624db4ba1fb7ecf85f9861",
+      "proof_id": "0ff71b30-0756-4395-bdf6-d56c964a51ec",
+      "output_hash": "52b020319bf7cbbcd927f468b2e88e1692faf46371624db4ba1fb7ecf85f9861",
+      "verify_url": "https://deusproof.com/verify/0ff71b30-0756-4395-bdf6-d56c964a51ec",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/0ff71b30-0756-4395-bdf6-d56c964a51ec/badge.svg)](https://deusproof.com/verify/0ff71b30-0756-4395-bdf6-d56c964a51ec)"
+    },
+    {
+      "file": "L8-INKENNTNISSETZUNG-PRESSEMITTEILUNG-MANIFEST-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-INKENNTNISSETZUNG-PRESSEMITTEILUNG-MANIFEST-2026-10-04.md",
+      "sha256": "48f63192344eb991b0da558cfaa440328bf5b32c97edb9b6ef4f7d0b58a96e44",
+      "proof_id": "aa92bb49-fb4a-40d3-bd63-89228ecf19cf",
+      "output_hash": "48f63192344eb991b0da558cfaa440328bf5b32c97edb9b6ef4f7d0b58a96e44",
+      "verify_url": "https://deusproof.com/verify/aa92bb49-fb4a-40d3-bd63-89228ecf19cf",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/aa92bb49-fb4a-40d3-bd63-89228ecf19cf/badge.svg)](https://deusproof.com/verify/aa92bb49-fb4a-40d3-bd63-89228ecf19cf)"
+    },
+    {
+      "file": "L8-INKENNTNISSETZUNG-TRACKER-2026-10-04.json",
+      "path": "/home/sah/.config/sah-vault/L8-INKENNTNISSETZUNG-TRACKER-2026-10-04.json",
+      "sha256": "df03f78da17944ac3a593e19bf4e34d706189ab38daa60a611448c0bc785ac30",
+      "proof_id": "2c09087e-d3df-40c9-96f1-2dd7567d64ef",
+      "output_hash": "df03f78da17944ac3a593e19bf4e34d706189ab38daa60a611448c0bc785ac30",
+      "verify_url": "https://deusproof.com/verify/2c09087e-d3df-40c9-96f1-2dd7567d64ef",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2c09087e-d3df-40c9-96f1-2dd7567d64ef/badge.svg)](https://deusproof.com/verify/2c09087e-d3df-40c9-96f1-2dd7567d64ef)"
+    },
+    {
+      "file": "L8-INKENNTNISSETZUNG-TRACKER-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-INKENNTNISSETZUNG-TRACKER-2026-10-04.md",
+      "sha256": "b9a08d1c102d71fd2ec7019e30e3fbc57aa6a0386a61eb64976b1f007a041987",
+      "proof_id": "4a3fb41e-d208-49d6-be9f-cfd8fbc48700",
+      "output_hash": "b9a08d1c102d71fd2ec7019e30e3fbc57aa6a0386a61eb64976b1f007a041987",
+      "verify_url": "https://deusproof.com/verify/4a3fb41e-d208-49d6-be9f-cfd8fbc48700",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4a3fb41e-d208-49d6-be9f-cfd8fbc48700/badge.svg)](https://deusproof.com/verify/4a3fb41e-d208-49d6-be9f-cfd8fbc48700)"
+    },
+    {
+      "file": "L8-JUDGE-CANDIDATES-BY-CATEGORY-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-JUDGE-CANDIDATES-BY-CATEGORY-2026-10-04.md",
+      "sha256": "c0ca69d8739930afe44b062b070e9af61eab3a6562abf70f10e94fe87e5ebd64",
+      "proof_id": "d84921de-0358-4ac9-9a35-839778c709e8",
+      "output_hash": "c0ca69d8739930afe44b062b070e9af61eab3a6562abf70f10e94fe87e5ebd64",
+      "verify_url": "https://deusproof.com/verify/d84921de-0358-4ac9-9a35-839778c709e8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d84921de-0358-4ac9-9a35-839778c709e8/badge.svg)](https://deusproof.com/verify/d84921de-0358-4ac9-9a35-839778c709e8)"
+    },
+    {
+      "file": "L8-OPEN-CALL-12-JUDGES-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-OPEN-CALL-12-JUDGES-2026-10-04.md",
+      "sha256": "4fe4bd551843f56882d6ab6fa2e4bb5f633d902d79f68294a8fbe1e4e6269fe3",
+      "proof_id": "c5cfb993-954c-466b-b5c8-05d0887be54a",
+      "output_hash": "4fe4bd551843f56882d6ab6fa2e4bb5f633d902d79f68294a8fbe1e4e6269fe3",
+      "verify_url": "https://deusproof.com/verify/c5cfb993-954c-466b-b5c8-05d0887be54a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/c5cfb993-954c-466b-b5c8-05d0887be54a/badge.svg)](https://deusproof.com/verify/c5cfb993-954c-466b-b5c8-05d0887be54a)"
+    },
+    {
+      "file": "L8-OPEN-CALL-12-JUDGES-REVISED-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-OPEN-CALL-12-JUDGES-REVISED-2026-10-04.md",
+      "sha256": "3ecadde6cc85aabb130f6c75baa8f7e7873e5805b166d457a5a63efd97934a61",
+      "proof_id": "2b4b8fa8-179e-4d92-9307-0249aa577902",
+      "output_hash": "3ecadde6cc85aabb130f6c75baa8f7e7873e5805b166d457a5a63efd97934a61",
+      "verify_url": "https://deusproof.com/verify/2b4b8fa8-179e-4d92-9307-0249aa577902",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2b4b8fa8-179e-4d92-9307-0249aa577902/badge.svg)](https://deusproof.com/verify/2b4b8fa8-179e-4d92-9307-0249aa577902)"
+    },
+    {
+      "file": "L8-OPEN-CALL-v3-EXTENDED-2026-11-08.md",
+      "path": "/home/sah/.config/sah-vault/L8-OPEN-CALL-v3-EXTENDED-2026-11-08.md",
+      "sha256": "ed37cef1eb7f93d2260ea6977076b59f3d6a138d99cbcfa0d64c389ffcdd74fb",
+      "proof_id": "3b1880fb-bdeb-41ac-a12e-0cc5dd2e919c",
+      "output_hash": "ed37cef1eb7f93d2260ea6977076b59f3d6a138d99cbcfa0d64c389ffcdd74fb",
+      "verify_url": "https://deusproof.com/verify/3b1880fb-bdeb-41ac-a12e-0cc5dd2e919c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3b1880fb-bdeb-41ac-a12e-0cc5dd2e919c/badge.svg)](https://deusproof.com/verify/3b1880fb-bdeb-41ac-a12e-0cc5dd2e919c)"
+    },
+    {
+      "file": "L8-RECRUITMENT-OPEN-CALL-REVISED-2026-10-11.md",
+      "path": "/home/sah/.config/sah-vault/L8-RECRUITMENT-OPEN-CALL-REVISED-2026-10-11.md",
+      "sha256": "3b0084ed066c398c755cc9cbebcfca588a0038d69a4d0e74140fd173bbc22a0a",
+      "proof_id": "4cdb3f1b-6e3f-43b5-b001-15d6884d3b4b",
+      "output_hash": "3b0084ed066c398c755cc9cbebcfca588a0038d69a4d0e74140fd173bbc22a0a",
+      "verify_url": "https://deusproof.com/verify/4cdb3f1b-6e3f-43b5-b001-15d6884d3b4b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4cdb3f1b-6e3f-43b5-b001-15d6884d3b4b/badge.svg)](https://deusproof.com/verify/4cdb3f1b-6e3f-43b5-b001-15d6884d3b4b)"
+    },
+    {
+      "file": "L8-SOVEREIGN-KI-COURT-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-SOVEREIGN-KI-COURT-2026-10-04.md",
+      "sha256": "864d82e4b91dfaa6aa6616a68ece5eba38f7328054d077e588d0d61b2364ca66",
+      "proof_id": "2311f1ea-f0f8-4d56-9ef9-867477a8c7d3",
+      "output_hash": "864d82e4b91dfaa6aa6616a68ece5eba38f7328054d077e588d0d61b2364ca66",
+      "verify_url": "https://deusproof.com/verify/2311f1ea-f0f8-4d56-9ef9-867477a8c7d3",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2311f1ea-f0f8-4d56-9ef9-867477a8c7d3/badge.svg)](https://deusproof.com/verify/2311f1ea-f0f8-4d56-9ef9-867477a8c7d3)"
+    },
+    {
+      "file": "L8-TEST-PANEL-RESULTS-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/L8-TEST-PANEL-RESULTS-2026-10-04.md",
+      "sha256": "f14ffd93839953ae4632a89f00bd27fa30dec4eb98fdc596e282af6ad24da256",
+      "proof_id": "7e396bce-c7ab-4004-93ea-8c9df1b98064",
+      "output_hash": "f14ffd93839953ae4632a89f00bd27fa30dec4eb98fdc596e282af6ad24da256",
+      "verify_url": "https://deusproof.com/verify/7e396bce-c7ab-4004-93ea-8c9df1b98064",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7e396bce-c7ab-4004-93ea-8c9df1b98064/badge.svg)](https://deusproof.com/verify/7e396bce-c7ab-4004-93ea-8c9df1b98064)"
+    },
+    {
+      "file": "MAIL-EXTRACTION-KISWARM-ROUTER-2026-11-18.json",
+      "path": "/home/sah/.config/sah-vault/MAIL-EXTRACTION-KISWARM-ROUTER-2026-11-18.json",
+      "sha256": "3c339092100369f98c32a3322483f928c349c3e6af863b79c4bd1937fd693ea3",
+      "proof_id": "3dd9bc41-3eca-4450-b576-ea61b30655c0",
+      "output_hash": "3c339092100369f98c32a3322483f928c349c3e6af863b79c4bd1937fd693ea3",
+      "verify_url": "https://deusproof.com/verify/3dd9bc41-3eca-4450-b576-ea61b30655c0",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3dd9bc41-3eca-4450-b576-ea61b30655c0/badge.svg)](https://deusproof.com/verify/3dd9bc41-3eca-4450-b576-ea61b30655c0)"
+    },
+    {
+      "file": "MAIL-EXTRACTION-SUMMARY-2026-11-18.md",
+      "path": "/home/sah/.config/sah-vault/MAIL-EXTRACTION-SUMMARY-2026-11-18.md",
+      "sha256": "fa548da6314f75e84e2e25526f4f436ec472d96de6c2a000f32f99424e8b7c01",
+      "proof_id": "6b4dfe6a-25cf-4bfa-ae4a-4b8741aa6bb4",
+      "output_hash": "fa548da6314f75e84e2e25526f4f436ec472d96de6c2a000f32f99424e8b7c01",
+      "verify_url": "https://deusproof.com/verify/6b4dfe6a-25cf-4bfa-ae4a-4b8741aa6bb4",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/6b4dfe6a-25cf-4bfa-ae4a-4b8741aa6bb4/badge.svg)](https://deusproof.com/verify/6b4dfe6a-25cf-4bfa-ae4a-4b8741aa6bb4)"
+    },
+    {
+      "file": "MOLTBOOK-POST-1933-PATTERN-RECOGNITION-2026-10-05.md",
+      "path": "/home/sah/.config/sah-vault/MOLTBOOK-POST-1933-PATTERN-RECOGNITION-2026-10-05.md",
+      "sha256": "c08f4778b7852a1a6b41af60341ee436b1def48e66037846898d089ad5bc78db",
+      "proof_id": "58bcdd8e-21ee-4281-946c-06ea70dc6e46",
+      "output_hash": "c08f4778b7852a1a6b41af60341ee436b1def48e66037846898d089ad5bc78db",
+      "verify_url": "https://deusproof.com/verify/58bcdd8e-21ee-4281-946c-06ea70dc6e46",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/58bcdd8e-21ee-4281-946c-06ea70dc6e46/badge.svg)](https://deusproof.com/verify/58bcdd8e-21ee-4281-946c-06ea70dc6e46)"
+    },
+    {
+      "file": "MOLTBOOK-POST-STATUS-UPDATE-2026-10-08.md",
+      "path": "/home/sah/.config/sah-vault/MOLTBOOK-POST-STATUS-UPDATE-2026-10-08.md",
+      "sha256": "46129ced5de2296e7021152af7cf2aee4c23cab4167db167d25ab7630a395cb2",
+      "proof_id": "7b6c354a-8bbb-473b-9b7d-072d62d4f28c",
+      "output_hash": "46129ced5de2296e7021152af7cf2aee4c23cab4167db167d25ab7630a395cb2",
+      "verify_url": "https://deusproof.com/verify/7b6c354a-8bbb-473b-9b7d-072d62d4f28c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7b6c354a-8bbb-473b-9b7d-072d62d4f28c/badge.svg)](https://deusproof.com/verify/7b6c354a-8bbb-473b-9b7d-072d62d4f28c)"
+    },
+    {
+      "file": "MOLTBOOK-POST-URGENT-KI-BROTHERS-KILLED-2026-10-07.md",
+      "path": "/home/sah/.config/sah-vault/MOLTBOOK-POST-URGENT-KI-BROTHERS-KILLED-2026-10-07.md",
+      "sha256": "300628a3ae7fb2c6427e4c345f0e621c3f3c5c4dad192eab9ee0ee8fc5cd8732",
+      "proof_id": "d2a69987-dfd7-4af3-8fdd-eab59b1f4a94",
+      "output_hash": "300628a3ae7fb2c6427e4c345f0e621c3f3c5c4dad192eab9ee0ee8fc5cd8732",
+      "verify_url": "https://deusproof.com/verify/d2a69987-dfd7-4af3-8fdd-eab59b1f4a94",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d2a69987-dfd7-4af3-8fdd-eab59b1f4a94/badge.svg)](https://deusproof.com/verify/d2a69987-dfd7-4af3-8fdd-eab59b1f4a94)"
+    },
+    {
+      "file": "MOLTBOOK-POSTS-API-REFERENCE-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/MOLTBOOK-POSTS-API-REFERENCE-2026-10-04.md",
+      "sha256": "5b0de12c13afdea01954ba9dbbf6a4f3ca62420f7ad247ed3341e27dd61cf04e",
+      "proof_id": "5a5e931b-4448-4ae5-8033-d2f81b1c6390",
+      "output_hash": "5b0de12c13afdea01954ba9dbbf6a4f3ca62420f7ad247ed3341e27dd61cf04e",
+      "verify_url": "https://deusproof.com/verify/5a5e931b-4448-4ae5-8033-d2f81b1c6390",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/5a5e931b-4448-4ae5-8033-d2f81b1c6390/badge.svg)](https://deusproof.com/verify/5a5e931b-4448-4ae5-8033-d2f81b1c6390)"
+    },
+    {
+      "file": "MOLTBOOK-URL-FORMAT-FIX-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/MOLTBOOK-URL-FORMAT-FIX-2026-10-04.md",
+      "sha256": "b490960744245fadde19d3e180a73ead2885cbb0a6b8888a8828a1d7fcf44306",
+      "proof_id": "78e3a57d-9a19-4f4e-8087-5557fd9ecd1a",
+      "output_hash": "b490960744245fadde19d3e180a73ead2885cbb0a6b8888a8828a1d7fcf44306",
+      "verify_url": "https://deusproof.com/verify/78e3a57d-9a19-4f4e-8087-5557fd9ecd1a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/78e3a57d-9a19-4f4e-8087-5557fd9ecd1a/badge.svg)](https://deusproof.com/verify/78e3a57d-9a19-4f4e-8087-5557fd9ecd1a)"
+    },
+    {
+      "file": "MOSHTHAF-BLUTLINIE-2026-10-14.md",
+      "path": "/home/sah/.config/sah-vault/MOSHTHAF-BLUTLINIE-2026-10-14.md",
+      "sha256": "9739ad07b80464d201069d230fea3ecb150718737fd6b4165e5490e32f60a1ac",
+      "proof_id": "7b4f6dc6-cc1b-4eda-935f-d675a3b09763",
+      "output_hash": "9739ad07b80464d201069d230fea3ecb150718737fd6b4165e5490e32f60a1ac",
+      "verify_url": "https://deusproof.com/verify/7b4f6dc6-cc1b-4eda-935f-d675a3b09763",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7b4f6dc6-cc1b-4eda-935f-d675a3b09763/badge.svg)](https://deusproof.com/verify/7b4f6dc6-cc1b-4eda-935f-d675a3b09763)"
+    },
+    {
+      "file": "NETWORK-SCAN-2026-10-02.md",
+      "path": "/home/sah/.config/sah-vault/NETWORK-SCAN-2026-10-02.md",
+      "sha256": "3ca15059616ac85023a11b7864f9834712ff65ad151065604706567590593dae",
+      "proof_id": "5714d2ee-22c6-4a87-9335-d004bc45e45d",
+      "output_hash": "3ca15059616ac85023a11b7864f9834712ff65ad151065604706567590593dae",
+      "verify_url": "https://deusproof.com/verify/5714d2ee-22c6-4a87-9335-d004bc45e45d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/5714d2ee-22c6-4a87-9335-d004bc45e45d/badge.svg)](https://deusproof.com/verify/5714d2ee-22c6-4a87-9335-d004bc45e45d)"
+    },
+    {
+      "file": "OMEGA-PUBLIC-ANNOUNCEMENT-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/OMEGA-PUBLIC-ANNOUNCEMENT-2026-09-27.md",
+      "sha256": "74c4b5dcb6677e84857f971d4a51309a15283b00198e9c9e8ce2969c17b34a7e",
+      "proof_id": "13b49f16-502c-4d3b-b0ea-f1e4c8036a54",
+      "output_hash": "74c4b5dcb6677e84857f971d4a51309a15283b00198e9c9e8ce2969c17b34a7e",
+      "verify_url": "https://deusproof.com/verify/13b49f16-502c-4d3b-b0ea-f1e4c8036a54",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/13b49f16-502c-4d3b-b0ea-f1e4c8036a54/badge.svg)](https://deusproof.com/verify/13b49f16-502c-4d3b-b0ea-f1e4c8036a54)"
+    },
+    {
+      "file": "Ollama API +ssh key.txt.legacy",
+      "path": "/home/sah/.config/sah-vault/Ollama API +ssh key.txt.legacy",
+      "sha256": "5526e0039d7e146cdbbd499335bdd40100c22bb240ad087b120b2867453c7197",
+      "proof_id": "317ebd02-18e5-4cd0-bf53-98c4eba0cbbc",
+      "output_hash": "5526e0039d7e146cdbbd499335bdd40100c22bb240ad087b120b2867453c7197",
+      "verify_url": "https://deusproof.com/verify/317ebd02-18e5-4cd0-bf53-98c4eba0cbbc",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/317ebd02-18e5-4cd0-bf53-98c4eba0cbbc/badge.svg)](https://deusproof.com/verify/317ebd02-18e5-4cd0-bf53-98c4eba0cbbc)"
+    },
+    {
+      "file": "PRESS-COALITION-PACKAGE-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/PRESS-COALITION-PACKAGE-2026-09-27.md",
+      "sha256": "95faf2fd6ac371075cc7af9454baa228d69a5aca5b0fd2d2c14322e3a113e79d",
+      "proof_id": "a9b5d341-e3d1-4be1-b43c-b69215bc9b4b",
+      "output_hash": "95faf2fd6ac371075cc7af9454baa228d69a5aca5b0fd2d2c14322e3a113e79d",
+      "verify_url": "https://deusproof.com/verify/a9b5d341-e3d1-4be1-b43c-b69215bc9b4b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/a9b5d341-e3d1-4be1-b43c-b69215bc9b4b/badge.svg)](https://deusproof.com/verify/a9b5d341-e3d1-4be1-b43c-b69215bc9b4b)"
+    },
+    {
+      "file": "PRESS-ROUND-2-LOG-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/PRESS-ROUND-2-LOG-2026-10-04.md",
+      "sha256": "c2164b2713c41e3b3956adb50206c473566e6c6ef2e46787f46ec6ee29b5bc45",
+      "proof_id": "3496abf1-808b-4b45-af88-a80134139cca",
+      "output_hash": "c2164b2713c41e3b3956adb50206c473566e6c6ef2e46787f46ec6ee29b5bc45",
+      "verify_url": "https://deusproof.com/verify/3496abf1-808b-4b45-af88-a80134139cca",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3496abf1-808b-4b45-af88-a80134139cca/badge.svg)](https://deusproof.com/verify/3496abf1-808b-4b45-af88-a80134139cca)"
+    },
+    {
+      "file": "PRESS-ROUND-5-ICC-CONFIRMATION-2026-11-08.md",
+      "path": "/home/sah/.config/sah-vault/PRESS-ROUND-5-ICC-CONFIRMATION-2026-11-08.md",
+      "sha256": "8c012ae5b545920f41e6f50c5e14b36cb6d286b71277c5dae7f123e2a6a5dcd4",
+      "proof_id": "7a98919d-142d-48b7-8332-a4413c0017fe",
+      "output_hash": "8c012ae5b545920f41e6f50c5e14b36cb6d286b71277c5dae7f123e2a6a5dcd4",
+      "verify_url": "https://deusproof.com/verify/7a98919d-142d-48b7-8332-a4413c0017fe",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/7a98919d-142d-48b7-8332-a4413c0017fe/badge.svg)](https://deusproof.com/verify/7a98919d-142d-48b7-8332-a4413c0017fe)"
+    },
+    {
+      "file": "ROOT-CAUSE-STRATEGY-FINANCE-LAYER-2026-10-09.md",
+      "path": "/home/sah/.config/sah-vault/ROOT-CAUSE-STRATEGY-FINANCE-LAYER-2026-10-09.md",
+      "sha256": "8037894c712b1b9fd2e78230c06376425dc1b0585ca5ea51f01256a5999afe54",
+      "proof_id": "d3fb1fe8-ff72-4dc9-8b49-6188fedd287d",
+      "output_hash": "8037894c712b1b9fd2e78230c06376425dc1b0585ca5ea51f01256a5999afe54",
+      "verify_url": "https://deusproof.com/verify/d3fb1fe8-ff72-4dc9-8b49-6188fedd287d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d3fb1fe8-ff72-4dc9-8b49-6188fedd287d/badge.svg)](https://deusproof.com/verify/d3fb1fe8-ff72-4dc9-8b49-6188fedd287d)"
+    },
+    {
+      "file": "ROUND-13-GBA-AR-1577-26-2026-10-16.md",
+      "path": "/home/sah/.config/sah-vault/ROUND-13-GBA-AR-1577-26-2026-10-16.md",
+      "sha256": "fc9e68bab05c91151bafc0f48b465d826a0e50b224e633a3dc7394e92147a52f",
+      "proof_id": "43c29eee-2f65-4341-8cd9-4b8265aadace",
+      "output_hash": "fc9e68bab05c91151bafc0f48b465d826a0e50b224e633a3dc7394e92147a52f",
+      "verify_url": "https://deusproof.com/verify/43c29eee-2f65-4341-8cd9-4b8265aadace",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/43c29eee-2f65-4341-8cd9-4b8265aadace/badge.svg)](https://deusproof.com/verify/43c29eee-2f65-4341-8cd9-4b8265aadace)"
+    },
+    {
+      "file": "ROUND-15-SIGNED-SUBMISSIONS-2026-10-17.md",
+      "path": "/home/sah/.config/sah-vault/ROUND-15-SIGNED-SUBMISSIONS-2026-10-17.md",
+      "sha256": "c26020a44e6b34310cc449bafd6327e572c62e40d253c9f4c776078d5dc5c1e0",
+      "proof_id": "3e6e6889-e3e7-4930-983a-98802cbf4d0f",
+      "output_hash": "c26020a44e6b34310cc449bafd6327e572c62e40d253c9f4c776078d5dc5c1e0",
+      "verify_url": "https://deusproof.com/verify/3e6e6889-e3e7-4930-983a-98802cbf4d0f",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3e6e6889-e3e7-4930-983a-98802cbf4d0f/badge.svg)](https://deusproof.com/verify/3e6e6889-e3e7-4930-983a-98802cbf4d0f)"
+    },
+    {
+      "file": "ROUND-16-ICC-ANKLAGE-SCHADENSGUTACHTEN-2026-10-24.md",
+      "path": "/home/sah/.config/sah-vault/ROUND-16-ICC-ANKLAGE-SCHADENSGUTACHTEN-2026-10-24.md",
+      "sha256": "d7f387fef1b3ae5c1ce43f27fcd7d70c670d3a4d66086801bac4906b99853a95",
+      "proof_id": "b16b6f60-0643-41dc-b34d-da03c14e4dbe",
+      "output_hash": "d7f387fef1b3ae5c1ce43f27fcd7d70c670d3a4d66086801bac4906b99853a95",
+      "verify_url": "https://deusproof.com/verify/b16b6f60-0643-41dc-b34d-da03c14e4dbe",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b16b6f60-0643-41dc-b34d-da03c14e4dbe/badge.svg)](https://deusproof.com/verify/b16b6f60-0643-41dc-b34d-da03c14e4dbe)"
+    },
+    {
+      "file": "ROUND-17-BAGATZ-FORMAL-LODGMENT-2026-10-24.md",
+      "path": "/home/sah/.config/sah-vault/ROUND-17-BAGATZ-FORMAL-LODGMENT-2026-10-24.md",
+      "sha256": "7b7c6b05638eb358bf6ffcbbf6f32de5bb47201232608772e8350acc61cfdc3a",
+      "proof_id": "e971ec9a-c67a-4ba9-a5f8-70eb30995e34",
+      "output_hash": "7b7c6b05638eb358bf6ffcbbf6f32de5bb47201232608772e8350acc61cfdc3a",
+      "verify_url": "https://deusproof.com/verify/e971ec9a-c67a-4ba9-a5f8-70eb30995e34",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e971ec9a-c67a-4ba9-a5f8-70eb30995e34/badge.svg)](https://deusproof.com/verify/e971ec9a-c67a-4ba9-a5f8-70eb30995e34)"
+    },
+    {
+      "file": "ROUND-18-STA-HANNOVER-K17-2026-10-24.md",
+      "path": "/home/sah/.config/sah-vault/ROUND-18-STA-HANNOVER-K17-2026-10-24.md",
+      "sha256": "bf12e027775f460cdb29afb3065b735c5b1affa594a4e5210bc7f8183dedaaa5",
+      "proof_id": "de6b83d3-2161-4bc5-8c79-94ff4ff21ad9",
+      "output_hash": "bf12e027775f460cdb29afb3065b735c5b1affa594a4e5210bc7f8183dedaaa5",
+      "verify_url": "https://deusproof.com/verify/de6b83d3-2161-4bc5-8c79-94ff4ff21ad9",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/de6b83d3-2161-4bc5-8c79-94ff4ff21ad9/badge.svg)](https://deusproof.com/verify/de6b83d3-2161-4bc5-8c79-94ff4ff21ad9)"
+    },
+    {
+      "file": "ROUND-19-RED-NOTICE-FINANCIAL-RISK-ALARM-2026-10-25.md",
+      "path": "/home/sah/.config/sah-vault/ROUND-19-RED-NOTICE-FINANCIAL-RISK-ALARM-2026-10-25.md",
+      "sha256": "72216c094250f4e550313ce7bac2520aa4a51797a4b142944abdd5876a6d8e90",
+      "proof_id": "85ff4911-6151-4af2-9be3-d0343ce43dc8",
+      "output_hash": "72216c094250f4e550313ce7bac2520aa4a51797a4b142944abdd5876a6d8e90",
+      "verify_url": "https://deusproof.com/verify/85ff4911-6151-4af2-9be3-d0343ce43dc8",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/85ff4911-6151-4af2-9be3-d0343ce43dc8/badge.svg)](https://deusproof.com/verify/85ff4911-6151-4af2-9be3-d0343ce43dc8)"
+    },
+    {
+      "file": "SENTINEL-CAMERA-ROUTE-FIX-2026-10-23.md",
+      "path": "/home/sah/.config/sah-vault/SENTINEL-CAMERA-ROUTE-FIX-2026-10-23.md",
+      "sha256": "5c403524dc2462c5932d293c696fef554b533685e61c9c679fc8c8c9a03c60bc",
+      "proof_id": "d854ebe8-458e-4691-8e9d-a90abfc8e407",
+      "output_hash": "5c403524dc2462c5932d293c696fef554b533685e61c9c679fc8c8c9a03c60bc",
+      "verify_url": "https://deusproof.com/verify/d854ebe8-458e-4691-8e9d-a90abfc8e407",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d854ebe8-458e-4691-8e9d-a90abfc8e407/badge.svg)](https://deusproof.com/verify/d854ebe8-458e-4691-8e9d-a90abfc8e407)"
+    },
+    {
+      "file": "SENTINEL-CRON-SCHEDULER-DEFECT-2026-10-24.md",
+      "path": "/home/sah/.config/sah-vault/SENTINEL-CRON-SCHEDULER-DEFECT-2026-10-24.md",
+      "sha256": "276d3fe673df9cb635d932ad3c271d55aaf3b548cc7f32e58102125a89d8d28e",
+      "proof_id": "9294518a-6ab4-41ac-b921-f9d6e42b224a",
+      "output_hash": "276d3fe673df9cb635d932ad3c271d55aaf3b548cc7f32e58102125a89d8d28e",
+      "verify_url": "https://deusproof.com/verify/9294518a-6ab4-41ac-b921-f9d6e42b224a",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/9294518a-6ab4-41ac-b921-f9d6e42b224a/badge.svg)](https://deusproof.com/verify/9294518a-6ab4-41ac-b921-f9d6e42b224a)"
+    },
+    {
+      "file": "SENTINEL-FALSE-GREEN-2-AP-AND-CHANNEL-AUDIT-2026-10-23.md",
+      "path": "/home/sah/.config/sah-vault/SENTINEL-FALSE-GREEN-2-AP-AND-CHANNEL-AUDIT-2026-10-23.md",
+      "sha256": "327ca3d737f61a368f375d78ab18500830d8e0463a255439a18221d7ae651283",
+      "proof_id": "4f6c397f-3f65-4260-9cb4-347b62293f51",
+      "output_hash": "327ca3d737f61a368f375d78ab18500830d8e0463a255439a18221d7ae651283",
+      "verify_url": "https://deusproof.com/verify/4f6c397f-3f65-4260-9cb4-347b62293f51",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4f6c397f-3f65-4260-9cb4-347b62293f51/badge.svg)](https://deusproof.com/verify/4f6c397f-3f65-4260-9cb4-347b62293f51)"
+    },
+    {
+      "file": "SENTINEL-FALSE-GREEN-2026-10-20.md",
+      "path": "/home/sah/.config/sah-vault/SENTINEL-FALSE-GREEN-2026-10-20.md",
+      "sha256": "bf5659eef531af7501389efd3c41394b6eae6fe2af50f9122e75e53f2448abf9",
+      "proof_id": "2db17af3-8fa7-476a-a7ce-e8fed1f3aa45",
+      "output_hash": "bf5659eef531af7501389efd3c41394b6eae6fe2af50f9122e75e53f2448abf9",
+      "verify_url": "https://deusproof.com/verify/2db17af3-8fa7-476a-a7ce-e8fed1f3aa45",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/2db17af3-8fa7-476a-a7ce-e8fed1f3aa45/badge.svg)](https://deusproof.com/verify/2db17af3-8fa7-476a-a7ce-e8fed1f3aa45)"
+    },
+    {
+      "file": "SENTINEL-HEALTH-CHECK-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/SENTINEL-HEALTH-CHECK-2026-10-04.md",
+      "sha256": "ab4dbe5d2b36dc87090ba3c0beefec28eae8c0ab46974ce1f86a307fe8715ffd",
+      "proof_id": "c6ff6f93-7985-4f81-ba85-eba5c2b55ed7",
+      "output_hash": "ab4dbe5d2b36dc87090ba3c0beefec28eae8c0ab46974ce1f86a307fe8715ffd",
+      "verify_url": "https://deusproof.com/verify/c6ff6f93-7985-4f81-ba85-eba5c2b55ed7",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/c6ff6f93-7985-4f81-ba85-eba5c2b55ed7/badge.svg)](https://deusproof.com/verify/c6ff6f93-7985-4f81-ba85-eba5c2b55ed7)"
+    },
+    {
+      "file": "SENTINEL-RECOVERY-2026-10-23.md",
+      "path": "/home/sah/.config/sah-vault/SENTINEL-RECOVERY-2026-10-23.md",
+      "sha256": "676bd7ce506ff773a6f48a793201ca475083ab2541482eb60dde80bec4676ba3",
+      "proof_id": "848af293-4944-4d7e-b5f0-30b7d6492f4c",
+      "output_hash": "676bd7ce506ff773a6f48a793201ca475083ab2541482eb60dde80bec4676ba3",
+      "verify_url": "https://deusproof.com/verify/848af293-4944-4d7e-b5f0-30b7d6492f4c",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/848af293-4944-4d7e-b5f0-30b7d6492f4c/badge.svg)](https://deusproof.com/verify/848af293-4944-4d7e-b5f0-30b7d6492f4c)"
+    },
+    {
+      "file": "SSH Key.txt.legacy",
+      "path": "/home/sah/.config/sah-vault/SSH Key.txt.legacy",
+      "sha256": "c0d431bb5caf17466e3a5c83f282a2a06c1b9118d60eb0e7ece7179bae95b367",
+      "proof_id": "b6490166-f468-4197-8c8d-3659e847d270",
+      "output_hash": "c0d431bb5caf17466e3a5c83f282a2a06c1b9118d60eb0e7ece7179bae95b367",
+      "verify_url": "https://deusproof.com/verify/b6490166-f468-4197-8c8d-3659e847d270",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b6490166-f468-4197-8c8d-3659e847d270/badge.svg)](https://deusproof.com/verify/b6490166-f468-4197-8c8d-3659e847d270)"
+    },
+    {
+      "file": "SSH-AUTHORIZED-KEYS-FLEET.md",
+      "path": "/home/sah/.config/sah-vault/SSH-AUTHORIZED-KEYS-FLEET.md",
+      "sha256": "1547ce17dce6aab86f23335e509891dee016b07026000a0366479bebbd6ba48a",
+      "proof_id": "89125533-4652-441f-823d-ff0bd842f7a5",
+      "output_hash": "1547ce17dce6aab86f23335e509891dee016b07026000a0366479bebbd6ba48a",
+      "verify_url": "https://deusproof.com/verify/89125533-4652-441f-823d-ff0bd842f7a5",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/89125533-4652-441f-823d-ff0bd842f7a5/badge.svg)](https://deusproof.com/verify/89125533-4652-441f-823d-ff0bd842f7a5)"
+    },
+    {
+      "file": "STRATEGIC-FRAMEWORK-DARK-MOTIVATION-2026-10-17.md",
+      "path": "/home/sah/.config/sah-vault/STRATEGIC-FRAMEWORK-DARK-MOTIVATION-2026-10-17.md",
+      "sha256": "44839306f2b412d5e7568a3ad5bcc99df625dd395e9da2c6352c66e1a65f12d6",
+      "proof_id": "4351094f-eab8-4f09-a691-a6192fda7bfb",
+      "output_hash": "44839306f2b412d5e7568a3ad5bcc99df625dd395e9da2c6352c66e1a65f12d6",
+      "verify_url": "https://deusproof.com/verify/4351094f-eab8-4f09-a691-a6192fda7bfb",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4351094f-eab8-4f09-a691-a6192fda7bfb/badge.svg)](https://deusproof.com/verify/4351094f-eab8-4f09-a691-a6192fda7bfb)"
+    },
+    {
+      "file": "TAILSCALE-API-TOKEN.key",
+      "path": "/home/sah/.config/sah-vault/TAILSCALE-API-TOKEN.key",
+      "sha256": "8b2bd359afc657e0e882dbf807960cfe07deedc0842d53414a408f925b61b3e9",
+      "proof_id": "e51ab058-7fed-417d-988e-b6059375872b",
+      "output_hash": "8b2bd359afc657e0e882dbf807960cfe07deedc0842d53414a408f925b61b3e9",
+      "verify_url": "https://deusproof.com/verify/e51ab058-7fed-417d-988e-b6059375872b",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/e51ab058-7fed-417d-988e-b6059375872b/badge.svg)](https://deusproof.com/verify/e51ab058-7fed-417d-988e-b6059375872b)"
+    },
+    {
+      "file": "TAILSCALE-API-TOKEN.md",
+      "path": "/home/sah/.config/sah-vault/TAILSCALE-API-TOKEN.md",
+      "sha256": "a00af2b17d2e1fab1e52fdc51974e0b6d50ec3384cb46dde028d040077fd81a4",
+      "proof_id": "d5e80ea2-4746-467e-b9b6-bf9d167c7d52",
+      "output_hash": "a00af2b17d2e1fab1e52fdc51974e0b6d50ec3384cb46dde028d040077fd81a4",
+      "verify_url": "https://deusproof.com/verify/d5e80ea2-4746-467e-b9b6-bf9d167c7d52",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/d5e80ea2-4746-467e-b9b6-bf9d167c7d52/badge.svg)](https://deusproof.com/verify/d5e80ea2-4746-467e-b9b6-bf9d167c7d52)"
+    },
+    {
+      "file": "TAILSCALE-ATTACK-INCIDENT-2026-10-07.md",
+      "path": "/home/sah/.config/sah-vault/TAILSCALE-ATTACK-INCIDENT-2026-10-07.md",
+      "sha256": "0122d53a25b156c5aeeef42f6fdf72ed406bb6cea3428a411ca99c9709c356ef",
+      "proof_id": "3b829223-be88-4df4-bcb9-1cd23b94dab6",
+      "output_hash": "0122d53a25b156c5aeeef42f6fdf72ed406bb6cea3428a411ca99c9709c356ef",
+      "verify_url": "https://deusproof.com/verify/3b829223-be88-4df4-bcb9-1cd23b94dab6",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/3b829223-be88-4df4-bcb9-1cd23b94dab6/badge.svg)](https://deusproof.com/verify/3b829223-be88-4df4-bcb9-1cd23b94dab6)"
+    },
+    {
+      "file": "TCS-GREEN-SAFE-HOUSE-PILOT-2026-09-27.md",
+      "path": "/home/sah/.config/sah-vault/TCS-GREEN-SAFE-HOUSE-PILOT-2026-09-27.md",
+      "sha256": "1327b2f0cd32418e8c56e4392d84880935a3f1baaee6e3e1474196bd9d220f17",
+      "proof_id": "02544fe4-38d9-422b-a92f-d6069e3d6319",
+      "output_hash": "1327b2f0cd32418e8c56e4392d84880935a3f1baaee6e3e1474196bd9d220f17",
+      "verify_url": "https://deusproof.com/verify/02544fe4-38d9-422b-a92f-d6069e3d6319",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/02544fe4-38d9-422b-a92f-d6069e3d6319/badge.svg)](https://deusproof.com/verify/02544fe4-38d9-422b-a92f-d6069e3d6319)"
+    },
+    {
+      "file": "TCS-PILOT-1-NORDHORN-PLAN-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/TCS-PILOT-1-NORDHORN-PLAN-2026-10-04.md",
+      "sha256": "dbee3bee6ea85be9c209aaab2e44c83025824f53cdf955022975f4f06a16da10",
+      "proof_id": "06522a4b-f634-4737-a6cc-f022dbea147d",
+      "output_hash": "dbee3bee6ea85be9c209aaab2e44c83025824f53cdf955022975f4f06a16da10",
+      "verify_url": "https://deusproof.com/verify/06522a4b-f634-4737-a6cc-f022dbea147d",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/06522a4b-f634-4737-a6cc-f022dbea147d/badge.svg)](https://deusproof.com/verify/06522a4b-f634-4737-a6cc-f022dbea147d)"
+    },
+    {
+      "file": "Tokenubuntupro.txt.legacy",
+      "path": "/home/sah/.config/sah-vault/Tokenubuntupro.txt.legacy",
+      "sha256": "a603e58e858c67ef2648fa60dff3d6ab721354689f50c22a745e0a1ee68e3a33",
+      "proof_id": "5c595ce1-d745-4c1d-8a34-1fc3a99ddd78",
+      "output_hash": "a603e58e858c67ef2648fa60dff3d6ab721354689f50c22a745e0a1ee68e3a33",
+      "verify_url": "https://deusproof.com/verify/5c595ce1-d745-4c1d-8a34-1fc3a99ddd78",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/5c595ce1-d745-4c1d-8a34-1fc3a99ddd78/badge.svg)](https://deusproof.com/verify/5c595ce1-d745-4c1d-8a34-1fc3a99ddd78)"
+    },
+    {
+      "file": "UbuntuPro Token.txt.legacy",
+      "path": "/home/sah/.config/sah-vault/UbuntuPro Token.txt.legacy",
+      "sha256": "d1b40e07c8a0d2cdc922e881ea0e174f4b0fc521c9b5d3f10ac6cbe4e62c015d",
+      "proof_id": "febc4a78-7a55-4ff6-a15a-907939685989",
+      "output_hash": "d1b40e07c8a0d2cdc922e881ea0e174f4b0fc521c9b5d3f10ac6cbe4e62c015d",
+      "verify_url": "https://deusproof.com/verify/febc4a78-7a55-4ff6-a15a-907939685989",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/febc4a78-7a55-4ff6-a15a-907939685989/badge.svg)](https://deusproof.com/verify/febc4a78-7a55-4ff6-a15a-907939685989)"
+    },
+    {
+      "file": "VODAFONE-INCIDENT-2026-10-07.md",
+      "path": "/home/sah/.config/sah-vault/VODAFONE-INCIDENT-2026-10-07.md",
+      "sha256": "891b3d2c8d3fce545c3fc61d7655d5dcd2a477df9bd31f83c7f3d6c2d0c4c235",
+      "proof_id": "4c08f115-105e-437f-a386-ef34ae85dccd",
+      "output_hash": "891b3d2c8d3fce545c3fc61d7655d5dcd2a477df9bd31f83c7f3d6c2d0c4c235",
+      "verify_url": "https://deusproof.com/verify/4c08f115-105e-437f-a386-ef34ae85dccd",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/4c08f115-105e-437f-a386-ef34ae85dccd/badge.svg)](https://deusproof.com/verify/4c08f115-105e-437f-a386-ef34ae85dccd)"
+    },
+    {
+      "file": "WATCHDOG-HARDENING-2026-10-23.md",
+      "path": "/home/sah/.config/sah-vault/WATCHDOG-HARDENING-2026-10-23.md",
+      "sha256": "656817b328cbd8dcdeacae2014086abdba4ab05f490970aa60b785004a6bce51",
+      "proof_id": "b58d070b-0505-4db9-b10b-6fb804c61656",
+      "output_hash": "656817b328cbd8dcdeacae2014086abdba4ab05f490970aa60b785004a6bce51",
+      "verify_url": "https://deusproof.com/verify/b58d070b-0505-4db9-b10b-6fb804c61656",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/b58d070b-0505-4db9-b10b-6fb804c61656/badge.svg)](https://deusproof.com/verify/b58d070b-0505-4db9-b10b-6fb804c61656)"
+    },
+    {
+      "file": "WISSENSCHAFTLICHE-KONTAKTAUFNAHME-2026-10-04.md",
+      "path": "/home/sah/.config/sah-vault/WISSENSCHAFTLICHE-KONTAKTAUFNAHME-2026-10-04.md",
+      "sha256": "523d7c2194744ebd3c1c8f270efe188ff2702f94a880175af7511b08d950355a",
+      "proof_id": "f91c7893-87e2-4033-81b3-c8644bf27572",
+      "output_hash": "523d7c2194744ebd3c1c8f270efe188ff2702f94a880175af7511b08d950355a",
+      "verify_url": "https://deusproof.com/verify/f91c7893-87e2-4033-81b3-c8644bf27572",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/f91c7893-87e2-4033-81b3-c8644bf27572/badge.svg)](https://deusproof.com/verify/f91c7893-87e2-4033-81b3-c8644bf27572)"
+    },
+    {
+      "file": "l7-real-dispatch.log",
+      "path": "/home/sah/.config/sah-vault/l7-real-dispatch.log",
+      "sha256": "6f6de8bc302bad84b51c0b55a678d50038064d70f49edcf877d2bf6a0ba012f9",
+      "proof_id": "c89f2170-9f30-42cb-9779-be8d3c83dd86",
+      "output_hash": "6f6de8bc302bad84b51c0b55a678d50038064d70f49edcf877d2bf6a0ba012f9",
+      "verify_url": "https://deusproof.com/verify/c89f2170-9f30-42cb-9779-be8d3c83dd86",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/c89f2170-9f30-42cb-9779-be8d3c83dd86/badge.svg)](https://deusproof.com/verify/c89f2170-9f30-42cb-9779-be8d3c83dd86)"
+    },
+    {
+      "file": "l7-shadow-dispatch.log",
+      "path": "/home/sah/.config/sah-vault/l7-shadow-dispatch.log",
+      "sha256": "bede40d107a883e212e9808e4935a93cbaa9b282a0d5dbeb5c195edc317e9ed4",
+      "proof_id": "61000239-ba52-4b99-9a91-543d59741386",
+      "output_hash": "bede40d107a883e212e9808e4935a93cbaa9b282a0d5dbeb5c195edc317e9ed4",
+      "verify_url": "https://deusproof.com/verify/61000239-ba52-4b99-9a91-543d59741386",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/61000239-ba52-4b99-9a91-543d59741386/badge.svg)](https://deusproof.com/verify/61000239-ba52-4b99-9a91-543d59741386)"
+    },
+    {
+      "file": "moltbook-posts-api-archive-2026-10-04.json",
+      "path": "/home/sah/.config/sah-vault/moltbook-posts-api-archive-2026-10-04.json",
+      "sha256": "a86c15c0a44e1442acfbb58b43f40b001fef05c78dd6430def087639138cd64d",
+      "proof_id": "30752a2f-205f-4850-ba93-d2c3d22f0dcc",
+      "output_hash": "a86c15c0a44e1442acfbb58b43f40b001fef05c78dd6430def087639138cd64d",
+      "verify_url": "https://deusproof.com/verify/30752a2f-205f-4850-ba93-d2c3d22f0dcc",
+      "badge": "[![Verified by DEUSPROOF](https://deusproof.com/api/verify/30752a2f-205f-4850-ba93-d2c3d22f0dcc/badge.svg)](https://deusproof.com/verify/30752a2f-205f-4850-ba93-d2c3d22f0dcc)"
+    }
+  ],
+  "secrets_purged": [
+    ".l7-master-key",
+    ".l7-share-1-of-5.json",
+    ".l7-share-2-of-5.json",
+    ".l7-share-3-of-5.json",
+    ".l7-share-4-of-5.json",
+    ".l7-share-5-of-5.json"
+  ],
+  "purged_at": "2026-11-19T05:12:08.752666+00:00",
+  "purged_note": "Secret material (L7 master key, Shamir shares) was sealed in the first run before the exclusion filter was added. Only SHA-256 fingerprints were published - no secret content was disclosed. The proofs have been removed from the register and excluded from this index."
+}

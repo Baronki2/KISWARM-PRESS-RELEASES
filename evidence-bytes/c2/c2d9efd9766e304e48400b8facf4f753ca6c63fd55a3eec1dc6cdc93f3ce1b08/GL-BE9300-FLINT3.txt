@@ -1,0 +1,21 @@
+# GL.iNet GL-BE9300 Flint3 Router — Sept 11, 2026
+# Added by Baron via direct WebGUI config
+# This router replaces the failed phone-based SmartESS workflow
+
+# === Router admin panel ===
+WebGUI URL:       http://192.168.8.1/  (or via 192.168.8.2 from Kali via secondary IP)
+Admin password:   9i8u7z6t5r4e3w2q
+Router WiFi PW:   8u7z6t5r  (matches TCS1 password for consistency)
+Router LAN IP:    192.168.8.1
+Router LAN DHCP:  192.168.8.0/24
+Router MAC:       94:83:C4:D9:39:18 (GL Technologies Hong Kong Limited)
+
+# === Network access from our Kali ===
+Kali secondary IP on eth0: 192.168.8.2/24  (added by kiswarm-flint3-bridge.sh)
+Host route:               192.168.8.0/24 dev eth0 src 192.168.8.2
+Persistent on reboot:     cron @reboot runs kiswarm-flint3-bridge.sh
+
+# === Current task: place router near inverter ===
+NEXT STEP: Baron will place the Flint3 physically near the inverter,
+then plug its WAN into Baron's LAN for internet. The router is the
+TCP:502 proxy host - all inverter traffic will go through it.

@@ -1,0 +1,53 @@
+{
+  "inkenntnissetzungen": [
+    {
+      "id": "L8-OEZDEMIR-2026-1004",
+      "datum": "2026-10-04",
+      "empfaenger_name": "Cem Özdemir",
+      "funktion": "Ministerpräsident Baden-Württemberg",
+      "email": "Cem.oezdemir@stm.bwl.de",
+      "cc": [
+        "Der Stern",
+        "Der Spiegel"
+      ],
+      "status": "VERSENDET",
+      "pressemitteilung_sha256": "b979b9ad13b191db7b1be20125c59f9636e9092158e0ba7a3a95cbfd3a72a474"
+    },
+    {
+      "id": "L8-GBA-2026-1004",
+      "datum": "2026-10-04",
+      "empfaenger_name": "Generalbundesanwalt beim Bundesgerichtshof",
+      "funktion": "Strafverfolgung",
+      "email": "poststelle@generalbundesanwalt.de",
+      "cc": [],
+      "status": "VERSENDET",
+      "subject": "STRAFANZEIGE §339/§258a StGB — VRIOLG Dr. Mosthaf, RiOLG Kapp, Ri'inLG Dr. Rucireto, OLG-Präsident Dr. Singer",
+      "evidence_count": 3
+    }
+  ],
+  "press_dispatches": [
+    {
+      "round": 1,
+      "outlets": 40,
+      "date": "2026-10-02"
+    },
+    {
+      "round": 2,
+      "outlets": 40,
+      "date": "2026-10-03"
+    },
+    {
+      "round": 3,
+      "outlets": 40,
+      "date": "2026-10-03"
+    },
+    {
+      "round": 4,
+      "outlets": 40,
+      "date": "2026-10-04",
+      "mentions": "Özdemir-letter + GBA-Strafanzeige"
+    }
+  ],
+  "sacred_hash": "f5af425c",
+  "last_updated": "2026-10-04T19:43:46.783933+00:00"
+}
