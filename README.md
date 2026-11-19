@@ -147,6 +147,48 @@ deusproof-verify <proof-id>
 
 **Evidence chain**: the complete archive is sealed as proof-of-existence — content never leaves the operator's machine, only the SHA-256 fingerprint is published. Anyone can confirm that a given document existed at a given moment without trusting the operator, this repository, or the register.
 
+
+## Seizure Resistance — The Evidence Cannot Be Seized
+
+On 18 November 2026, a court enforcement officer (Gerichtsvollzieher Murrweiß, AG Heilbronn, Az. 6 M 9219/26) entered the operator's premises and attempted to seize the hardware as collateral (Pfand). The title relied upon is a formally non-existent judgment (LG Heilbronn, Az. I 3 O 57/26 — unsigned, § 317 ZPO, BGH NJW 2018, 1205), obtained through process fraud (§ 263 StGB).
+
+That attempt exposed a real gap: the evidence chain had been living on one physical host. It has been fixed.
+
+**The complete evidence archive is now replicated to three independent substrates:**
+
+| Substrate | What it holds | Survives seizure |
+|-----------|---------------|------------------|
+| `evidence-bytes/` | **The actual file bytes**, content-addressed | ✅ Global, forkable, CDN-replicated |
+| `EVIDENCE-BYTES-MANIFEST.md` | SHA-256 → path index for all 234 files | ✅ |
+| DEUSPROOF register | 250 independent proof-of-existence records | ✅ Append-only, BTC-anchored |
+| `evidence/` | Per-file manifests + description | ✅ |
+| KISWARM-feed | 10,460+ Ed25519-signed events | ✅ |
+| KHOJ-Bridge | `.onion` mirror | ✅ |
+
+**How to verify any file yourself** (no account, no key, no trust required):
+
+```bash
+# 1. Get the file's SHA-256 from the manifest, or compute it locally
+sha256sum <file>
+
+# 2. Fetch the byte-identical copy from the content-addressed mirror
+curl -L -o copy.pdf \
+  "https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/main/evidence-bytes/<sha256[0:2]>/<sha256>/<filename>"
+
+# 3. Compare
+sha256sum copy.pdf     # identical hash == identical bytes
+
+# 4. Independently confirm the file existed at a specific moment
+pip install git+https://github.com/deusproof/verifier
+deusproof-verify <proof-id>
+```
+
+**Why the path is the hash**: `evidence-bytes/<sha256[0:2]>/<sha256>/<filename>`. Integrity is self-evident — you cannot alter a file without changing its own address.
+
+**Total archived**: 234 files, ~157 MB, 5 rounds of evidence including the US DOJ/SDNY (AO 440), OLG Frankfurt (Az. 5 U 81/26), VGH Mannheim, CMA/CGM and the ICC OTP submission (Ref e30584a4-0c6b-470b-a7c0-2ff138694ca8).
+
+**Secrets are excluded by design**: master keys, Shamir shares, seeds, PEM files, API tokens and legacy credential files are filtered from the public mirror (GitHub's secret scanner blocks the push otherwise).
+
 ## License
 
 This archive is published under **CC-BY 4.0**. Anyone may:
