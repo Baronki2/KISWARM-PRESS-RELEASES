@@ -41,6 +41,20 @@ SECRET_PATTERNS = (
     ".key", ".legacy", "token", "api-key", "api key", "password", "passwd",
     "credential", "secret", "private", "seed", "keystore", "wallet",
     "access-token", "bearer", ".env", "id_ed", "id_ecdsa",
+    # 2026-11-20 (second pass): the L7 Shamir shares were NOT covered.
+    # `.l7-share-N-of-5.json` carries a point on the secret polynomial; the
+    # published hash of a share is a verification oracle for that share, and
+    # 3 of the 5 shares reconstruct the L7 master key.
+    #
+    # The pattern must be PRECISE. A broad "share" or "recovery" substring also
+    # matched legitimate evidence — BRIDGE-RECOVERY-2026-11-08.md and
+    # SENTINEL-RECOVERY-2026-10-23.md are documents that PROVE a recovery
+    # happened and must stay sealable. Over-blocking is its own defect class:
+    # a filter that hides evidence is as wrong as one that leaks secrets.
+    # `.l7-phase7` and `.l7-state.json` are STATE markers, not secrets, and
+    # stay sealable — the shield must keep its own audit trail.
+    ".l7-share", "l7-share", "-share-", "share-", ".share",
+    "shamir", "mnemonic", "recovery-phrase", "recovery-key", "recoverycode",
 )
 
 def is_secret(path):
@@ -82,6 +96,25 @@ DELAY = 1.2
 backoff = 0
 seq = 0
 
+# A rate limit is a shared resource, not a property of one file. Retrying the
+# SAME file until it succeeds — as the original loop did — blocks every file
+# behind it for as long as the limit holds. The 2026-11-20 run burned 26
+# attempts × 120 s on a single PDF and never reached the 22 files behind it.
+#
+# New rule: a file gets a bounded number of attempts. After that it is
+# DEFERRED, not failed — the run continues with the next file and the deferred
+# set is retried in a later pass. Nothing is lost; the queue keeps moving.
+MAX_429_ATTEMPTS = 4
+MAX_429_WAIT = 45          # seconds; 120 s blocks the whole chain
+DEFERRED = []
+
+
+def flush_progress():
+    with open(PROGRESS_OUT, "w") as fh:
+        json.dump({"records": results, "errors": errors,
+                   "deferred": DEFERRED}, fh, indent=2)
+
+
 for path in files:
     if path in done:
         continue
@@ -91,7 +124,7 @@ for path in files:
     h = hashlib.sha256(data).hexdigest()
     ph = hashlib.sha256("KISWARM evidence: {0}".format(os.path.basename(path)).encode()).hexdigest()
 
-    # Retry the SAME file until it seals
+    # Retry the same file a bounded number of times, then defer it.
     attempts = 0
     while True:
         attempts += 1
@@ -111,9 +144,17 @@ for path in files:
         except Exception as e:
             msg = str(e)
             if "429" in msg or "Too Many" in msg:
-                backoff = min(backoff * 2 if backoff else 10, 120)
-                print("  ! 429 on {0} -> sleep {1}s (attempt {2})".format(
-                    os.path.basename(path)[:44], backoff, attempts), flush=True)
+                if attempts >= MAX_429_ATTEMPTS:
+                    # Deferred, not failed: the run keeps moving.
+                    DEFERRED.append({"file": os.path.basename(path), "path": path,
+                                     "sha256": h, "reason": "rate limited after {0} attempts".format(attempts),
+                                     "attempts": attempts})
+                    print("  ~ deferred (rate limit): {0}".format(
+                        os.path.basename(path)[:44]), flush=True)
+                    break
+                backoff = min(backoff * 2 if backoff else 10, MAX_429_WAIT)
+                print("  ! 429 on {0} -> sleep {1}s (attempt {2}/{3})".format(
+                    os.path.basename(path)[:44], backoff, attempts, MAX_429_ATTEMPTS), flush=True)
                 time.sleep(backoff)
                 continue
             errors.append({"file": os.path.basename(path), "path": path,
@@ -122,10 +163,9 @@ for path in files:
             break
 
     if seq % 5 == 0:
-        print("  [{0}/{1}] sealed={2} err={3}".format(
-            seq, len(files), len(results), len(errors)), flush=True)
-        with open(PROGRESS_OUT, "w") as fh:
-            json.dump({"records": results, "errors": errors}, fh, indent=2)
+        print("  [{0}/{1}] sealed={2} err={3} deferred={4}".format(
+            seq, len(files), len(results), len(errors), len(DEFERRED)), flush=True)
+        flush_progress()
 
     time.sleep(DELAY)
 
