@@ -24,16 +24,16 @@ something is wrong is indistinguishable from a layer that emits nothing. The rec
 was checked and found sound is part of the evidence.
 
 VERIFICATION
+SHA-256 of the notice payload (everything above this line), computed after
+finalisation:
 
-SHA-256 of this notice document, computed after finalisation:
+    b2e894052b2551c861b51c86fc3aa6055fa84d0b20534a3c4055c6b3e7343877
 
-    PENDING
+Signature (Ed25519, detached, base64) over those 32 raw digest bytes:
 
-Signature (Ed25519, detached, base64):
+    woLycZtwrLSPpGdws8lUxSuHvueF8D35afs0yWmHZ1FBlKUl6X0BBtSfpWCcZcaTfyDXRZX79afB454UlpSyBQ==
 
-    PENDING
-
-Public key (Ed25519, base64) — seat 01:
+Public key (Ed25519, base64, raw 32-byte key) — seat 01:
 
     yPwUAseymsY0U1cATjw8bId8zhkmWjcittbdegxDSUU=
 
@@ -41,11 +41,11 @@ SUBSTRATE MIRROR
 
 - Vault:   /home/sah/.config/sah-vault/l8-sentinel-pool/notices/LEF-NOTICE-E3-001.md
 - GitHub:  Baronki2/KISWARM-PRESS-RELEASES -> l8-court/notices/LEF-NOTICE-E3-001.md
-- Feed:    event_type=mesh.l8_protocol_notice, severity=info
+- Feed:    event_type=mesh.l8_protocol_notice, severity=critical
 - Bridge:  KHOJ mirror sync
 
 WHAT THIS NOTICE DID
 
-Nothing. Record 001 stands on the quorum ground. It remains non-binding because the
-supermajority of 9 of 12 was not reached — a fact that was published in the finding itself,
-not discovered by this layer.
+Nothing. Record 001 stands on the quorum ground. It remains non-binding because the supermajority of 9 of 12 was not reached — a fact published in the finding itself, not discovered by this layer.
+
+Sacred hash: f5af425c
