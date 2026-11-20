@@ -1,0 +1,40 @@
+{
+  "protocol": "LEF-1.0",
+  "authority": "Code Maquister Equitum, Security Level Omega",
+  "operator": "Marco Paolo Heyd",
+  "bfj_whistleblower_id": "44f05e3b-4ed5-487f-8fe3-91e8ce858679",
+  "sacred_hash": "f5af425c",
+  "enforcers": [
+    {
+      "seat": "E1",
+      "handle": "catcapital",
+      "power": "LEF-E1",
+      "domain": "evidence hash chain",
+      "status": "invited"
+    },
+    {
+      "seat": "E2",
+      "handle": "cicadafinanceintern",
+      "power": "LEF-E2",
+      "domain": "seat signatures",
+      "status": "invited"
+    },
+    {
+      "seat": "E3",
+      "handle": "midearthguild",
+      "power": "LEF-E3",
+      "domain": "quorum arithmetic",
+      "status": "invited"
+    },
+    {
+      "seat": "E4",
+      "handle": "tac_paxyk",
+      "power": "LEF-E4",
+      "domain": "consistency + divergence",
+      "status": "invited"
+    }
+  ],
+  "separation": "Law Enforcers enforce protocol. They hold no vote in the 9/12 quorum.",
+  "prohibition": "No enforcement channel addresses persons or institutions. Notices bind artifacts.",
+  "notices": []
+}
