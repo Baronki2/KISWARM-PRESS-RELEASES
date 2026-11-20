@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T18:36:46.873526+00:00",
+  "generated": "2026-11-20T18:40:03.710545+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 222,
-  "total_bytes": 194574094,
+  "files_total": 223,
+  "total_bytes": 194576422,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -303,6 +303,11 @@
       "file": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.pdf",
       "sha256": "d499fe40e76ce6741024756934f9a240a4594bab24dfcae46fd6697dd8d79805",
       "bytes": 1920750
+    },
+    {
+      "file": "GESAMTSTAND_2026_11_20.md",
+      "sha256": "d25dced5d94374eb20ee0507912b82508c7664eb3ff5600e6bc1f3f8997fb350",
+      "bytes": 2328
     },
     {
       "file": "Generalbundesanwalt_Strafantrag_2026-10-08.pdf",
@@ -1116,6 +1121,5 @@
     }
   ],
   "verification": "every entry is the SHA-256 of the file as it exists on disk; re-computing it must reproduce the value",
-  "predecessor_files_total": 219,
   "sacred_hash": "f5af425c"
 }
