@@ -31,7 +31,10 @@ VAULT = "/home/sah/.config/sah-vault"
 POOL = os.path.join(VAULT, "l8-sentinel-pool")
 FINDINGS = os.path.join(POOL, "findings")
 NOTICES = os.path.join(POOL, "notices")
-INDEX = os.path.join(POOL, "EVIDENCE-BYTES-MANIFEST.md")
+# ONE index for every checker. The legacy MANIFEST.md and the content-addressed
+# manifest remain as historical views; the canonical JSON is the single truth
+# (SHA-256 of every file as it exists on disk).
+INDEX = os.path.join(VAULT, "EVIDENCE-CHAIN-CANONICAL.json")
 SEEDS = os.path.join(POOL, "seat-seeds.json")
 PUBKEYS = os.path.join(POOL, "SEAT-PUBLIC-KEYS.json")
 GH_RAW = "https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/main"
