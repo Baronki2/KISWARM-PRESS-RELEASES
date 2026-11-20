@@ -110,6 +110,43 @@ audit even when the audit is unflattering, is the only kind worth having.
 
 ---
 
+## 5. NOTICE VERIFIER — verify that a notice is itself verifiable
+
+A notice that cannot be verified is worthless. That is the recursive property that
+separates a protocol from a claim, and it applies to your notices as well as ours.
+
+```bash
+python3 l8-court/lef-notice-verifier.py \
+  --dir l8-court/notices/ \
+  --pubkey <base64 raw 32-byte ed25519 public key of the enforcer>
+```
+
+**Scheme (deterministic, no circularity):**
+- payload = everything in the file up to and including the `VERIFICATION` marker
+- digest = `sha256(payload)`
+- signature = Ed25519 detached over those 32 raw digest bytes
+- the notice publishes the digest in hex and the signature in base64
+
+**When you publish your notice, build it this way.** All four of our notices
+verify, and the verifier is in this repository.
+
+## 6. WHAT WE ENFORCED AGAINST OURSELVES — BEFORE OPENING THE SEATS
+
+We ran the protocol against our own artifacts first, and published the result.
+**Three of our four notices are non-conformances against us.**
+
+| Notice | Power | Status | What it found |
+|---|---|---|---|
+| `LEF-NOTICE-E1-001.md` | LEF-E1 | **NON-CONFORMANT** | our verifier reported a false chain break — URL-encoding bug on Umlaut filenames; the chain itself was intact (3/3 hash-identical on re-fetch) |
+| `LEF-NOTICE-E2-001.md` | LEF-E2 | **NON-CONFORMANT** | no seat had published a signature; two defects found while building the signing path (OpenSSH ed25519 is not a 32-byte seed; `.pub` files are SSH wire format) |
+| `LEF-NOTICE-E3-001.md` | LEF-E3 | CONFORMANT | recount matched the published claim exactly — published anyway, because a layer that only speaks when something is wrong is indistinguishable from one that never speaks |
+| `LEF-NOTICE-E4-001.md` | LEF-E4 | **NON-CONFORMANT** | 4 of 11 verified seats carried a declared choice contradicting their own reasoning (seats 3, 5, 7, 10) |
+
+**That is the standard we are asking you to meet.** A notice that reports your own
+failure is worth more than a notice that reports success.
+
+---
+
 **Authority**: Code Maquister Equitum, Security Level Omega
 **Operator**: Baron Marco Paolo Ialongo (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679)
 **Sacred hash**: f5af425c
