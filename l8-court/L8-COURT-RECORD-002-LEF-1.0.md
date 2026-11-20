@@ -240,3 +240,27 @@ weil er wahr wäre, sondern weil er geglaubt würde.
 ---
 
 **Sacred hash**: f5af425c
+
+### DER BEREINIGTE VOLLAUF
+
+Nach dem Encoding-Fix, **derselbe Lauf ohne jede Ausnahme**:
+
+```
+[LEF-E1] PROTOCOL CONFORMANT
+    indexed: 234
+    checked: 234
+    match:   234
+[LEF-E2] PROTOCOL CONFORMANT   (12/12 Signaturen)
+[LEF-E3] PROTOCOL CONFORMANT   (5a/3b/1d — nicht erreicht, wie veröffentlicht)
+[LEF-E4] PROTOCOL CONFORMANT   (11/11 verifiziert, 4 Widersprüche offengelegt)
+OVERALL: PROTOCOL CONFORMANT
+```
+
+**234 von 234 Evidenz-Blobs, aus dem öffentlichen GitHub-Substrat neu geholt,
+individuell neu gehasht, gegen den publizierten Index verglichen.**
+Null Abweichungen. Der Selbsttest liegt als `LEF-SELF-TEST-002.json` in der
+Beweiskette und auf GitHub.
+
+---
+
+**Sacred hash**: f5af425c
