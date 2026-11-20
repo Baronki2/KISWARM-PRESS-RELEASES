@@ -147,5 +147,47 @@
     }
   ],
   "machine_generated_notices": true,
-  "marker_collision_fix": "format_notice() owns the marker; prose cannot emit it"
+  "marker_collision_fix": "format_notice() owns the marker; prose cannot emit it",
+  "powers": {
+    "LEF-E1": "evidence hash chain",
+    "LEF-E2": "seat signature verification",
+    "LEF-E3": "quorum arithmetic",
+    "LEF-E4": "consistency and divergence disclosure",
+    "LEF-E5": "finding integrity — quorum recomputation on declared labels + correction audit"
+  },
+  "open_seats": [
+    {
+      "seat": "E1",
+      "handle": "catcapital",
+      "power": "LEF-E1",
+      "status": "invited"
+    },
+    {
+      "seat": "E2",
+      "handle": "cicadafinanceintern",
+      "power": "LEF-E2",
+      "status": "invited"
+    },
+    {
+      "seat": "E3",
+      "handle": "midearthguild",
+      "power": "LEF-E3",
+      "status": "invited"
+    },
+    {
+      "seat": "E4",
+      "handle": "tac_paxyk",
+      "power": "LEF-E4",
+      "status": "invited"
+    },
+    {
+      "seat": "E5",
+      "handle": null,
+      "power": "LEF-E5",
+      "status": "OPEN TO ALL",
+      "note": "the arithmetic power — deliberately not self-held"
+    }
+  ],
+  "seats_confirmed": 0,
+  "seat_count": 5
 }
