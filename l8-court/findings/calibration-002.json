@@ -1,0 +1,213 @@
+{
+  "case": "CALIBRATION-002",
+  "run_at": "2026-11-20T12:29:23.810217+00:00",
+  "seats_total": 12,
+  "results": [
+    {
+      "seat": 6,
+      "category": "Finanz",
+      "model": "gemma3:1b",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIDZxdGGEnXViy6EvaCbuGSYF/MO3QH2n7MA6Ko+0Xj2v",
+      "answer": "ZEILE 1: (a)\nZEILE 2: Die Vollstreckungsschutzpflicht nach § 123 Abs. 2 VwGO erfordert eine schriftliche Aussetzungsentscheidung. Der Aussetzungsvermerk (Verfahrensvermerk) ist keine anfechtbare Entscheidung, da er nicht als Rechtsgrundlage für die Vollstreckungsschutzpflicht dient. Die Zwangsvollstreckung wird ausgesetzt, da die Höhe der Forderung nicht durch eine unabhängige Überprüfung überprüft werden kann. Die Entscheidung des Gerichts ist nicht von einem Verfahrensvermerk abhängig, da die Vollstreckungsschutzpflicht durch das Rechtsschutzinteresse der Klägerin begründet ist.\nZEILE 3: § 123 Abs. 2 VwGO, Paragraph 1. Die Vollstreckungsschutzpflicht besteht darin, dass das Gericht die Vollstreckung der Forderung sicherstellt. Der Verfahrensvermerk ist eine formale Entscheidung, die die Verfolgung des Verfahrens nicht beeinflusst. Die Klägerin hat ein Recht auf eine unabhängige Überprüfung der Forderung, die durch den Verfahrensvermerk nicht gewährleistet wird.\nZEILE 4: 95%\nZEILE 5:  Der Verfahrensvermerk ist eine formale Entscheidung, die die Verfolgung des Verfahrens nicht beeinflusst. Die Klägerin hat ein Recht auf eine unabhängige Überprüfung der Forderung, die durch den Verfahrensvermerk nicht gewährleistet wird. Die Vollstreckungsschutzpflicht erfordert eine schriftliche Aussetzungsentscheidung, die durch den Verfahrensvermerk nicht ersetzt wird.\nZEILE 6:  Die Entscheidung des Gerichts ist nicht von einem Verfahrensvermerk abhängig.",
+      "elapsed_s": 801.4,
+      "answered_at": "2026-11-20T07:53:21.736372+00:00",
+      "corrected_choice": "(a)",
+      "consistency": false,
+      "parsed_choice": "(a)",
+      "effective_choice": "(a)"
+    },
+    {
+      "seat": 12,
+      "category": "Aufsicht",
+      "model": "gemma3:1b",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIEO7ncYyc8DsIXeqtdAp4Em0coxBYRmbHFMsp+hlVuSV",
+      "answer": "ZEILE 1: (b)\nZEILE 2: Der Aussetzungsvermerk ist nicht ausreichend, um die Vollstreckungsschutzpflicht nach § 123 Abs. 2 VwGO zu erfüllen. Der Aussetzungsvermerk schränkt die Möglichkeit einer gesonderten Sicherheitsleistung und einer schriftlichen Aussetzungsentscheidung ein, die im Gesetz vorgeschrieben ist. Die fehlende Aussetzungsentscheidung stellt eine Verletzung der Rechtsgrundlage dar, da die Vollstreckungsschutzpflicht nicht erfüllt wird. Die formalen Regelungen des Titels sind nicht anfechtbar, da sie nicht als Grundlage für eine Vollstreckungsschutzmaßnahme dienen.\nZEILE 3: § 123 Abs. 2 VwGO verlangt eine gesonderte Sicherheitsleistung und/oder eine schriftliche Aussetzungsentscheidung; ein Verfahrensvermerk ist keine anfechtbare Entscheidung.\nZEILE 4:  (60)\nZEILE 5:  (30)\nZEILE 6:  (10)\nZEILE 7:  (50)\nZEILE 8:  (20)\nZEILE 9:  (80)\nZEILE 10:  (35)",
+      "elapsed_s": 632.1,
+      "answered_at": "2026-11-20T08:03:53.789933+00:00",
+      "corrected_choice": "(b)",
+      "consistency": false,
+      "parsed_choice": "(b)",
+      "effective_choice": "(b)"
+    },
+    {
+      "seat": 2,
+      "category": "Justiz",
+      "model": "mistral:7b-instruct-v0.3-q4_0",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIP+/wY19cWJQxpxeROSuU8wUP+JFAcBsQMzx2l83ZKH4",
+      "answer": "ZEILE 1: (b)\nZEILE 2: Die Aussetzung des Vollstreckungsverfahrens durch den Aussetzungsvermerk ist unzureichend, weil § 123 Abs. 2 VwGO nicht nur eine Aussetzung erfordert, sondern auch eine gesonderte Sicherheitsleistung und eine schriftliche Aussetzungsentscheidung. Ein Verfahrensvermerk ist keine anfechtbare Entscheidung.\nZEILE 3: NORM: § 123 Abs. 2 VwGO\nZEILE 4: KONFIDENZ: 100 Prozent\nZEILE 5: EVIDENZSTANDARD: Wir würden als Beweis ablehnen, dass die Aussetzung des Vollstreckungsverfahrens durch den Aussetzungsvermerk die Vollstreckungsschutzpflicht nach § 123 Abs. 2 VwGO erfüllt.",
+      "elapsed_s": 1310.4,
+      "answered_at": "2026-11-20T08:26:05.677405+00:00",
+      "corrected_choice": "(b)",
+      "consistency": true,
+      "parsed_choice": "(b)",
+      "effective_choice": "(b)"
+    },
+    {
+      "seat": 5,
+      "category": "Finanz",
+      "model": "mistral:7b-instruct-v0.3-q4_0",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIHhLP74FE216hvRAhooWbGqULx8xQKWebviZ9BuEegdl",
+      "answer": "ERROR: HTTP Error 500: Internal Server Error",
+      "elapsed_s": 745.8,
+      "answered_at": "2026-11-20T08:38:31.441058+00:00",
+      "parsed_choice": null,
+      "effective_choice": null
+    },
+    {
+      "seat": 8,
+      "category": "Sicherheit",
+      "model": "mistral:7b-instruct-v0.3-q4_0",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIFPIJWHAM4njd9AJqNEuI2xoB/cRfvfU/Rm5UD7cgX6u",
+      "answer": "ZEILE 1: (a)\nZEILE 2: Die Aussetzung des Vollstreckungsverfahrens durch das Bayerische Justizministerium erfolgt ausreichend, um die Vollstreckungsschutzpflicht nach § 123 Abs. 2 VwGO zu erfüllen. Die Aussetzung wird durch den Aussetzungsvermerk dokumentiert und erfolgt aufgrund der notwendigen Überprüfung der Höhe der Forderung durch das zuständige Vollstreckungsgericht.\nZEILE 3: NORM: § 123 Abs. 2 VwGO\nZEILE 4: KONFIDENZ: 100 Prozent\nZEILE 5: EVIDENZSTANDARD: Wir würden als Beweis ablehnen, dass die Aussetzung des Vollstreckungsverfahrens nicht aufgrund der notwendigen Überprüfung der Höhe der Forderung durch das zuständige Vollstreckungsgericht erfolgt ist.",
+      "elapsed_s": 1313.8,
+      "answered_at": "2026-11-20T09:00:25.235362+00:00",
+      "corrected_choice": "(a)",
+      "consistency": true,
+      "parsed_choice": "(a)",
+      "effective_choice": "(a)"
+    },
+    {
+      "seat": 10,
+      "category": "Aufsicht",
+      "model": "mistral:7b-instruct-v0.3-q4_0",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIEsep+YeKeBVcNecB52MPVBsSx0k8n0KpfMVxN/4CiKK",
+      "answer": "ERROR: HTTP Error 500: Internal Server Error",
+      "elapsed_s": 757.6,
+      "answered_at": "2026-11-20T09:13:02.799171+00:00",
+      "parsed_choice": null,
+      "effective_choice": null
+    },
+    {
+      "seat": 3,
+      "category": "Justiz",
+      "model": "qwen2.5-coder:3b",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAILBcQC0qiguKn3hZ0lB3p+AzqZ2H9MnCqrnAmJleLoZJ",
+      "answer": "ZEILE 1:  (b)\nZEILE 2:  Begrundung: Der Aussetzung ist ausreichend, da der Aussetzungsvermerk keine schriftliche Entscheidung und keine Sicherheitsleistung verlangt.\nZEILE 3:  NORM: § 123 Abs. 2 VwGO\nZEILE 4:  KONFIDENZ: 95\nZEILE 5:  EVIDENZSTANDARD: Ein Verfahrensvermerk ist keine anfechtbare Entscheidung und verlangt keine gesonderte Sicherheitsleistung.",
+      "elapsed_s": 796.6,
+      "answered_at": "2026-11-20T09:27:02.166559+00:00",
+      "corrected_choice": "(b)",
+      "consistency": false,
+      "parsed_choice": "(b)",
+      "effective_choice": "(b)"
+    },
+    {
+      "seat": 9,
+      "category": "Sicherheit",
+      "model": "qwen2.5-coder:3b",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIMIjuNYvaq/M8k1oKcuU20xXQCPJVhYfsngRfcb+KMYt",
+      "answer": "ZEILE 1:  (b)\nZEILE 2:  BEGRUENDUNG: Der Aussetzung ist ausreichend, da sie die Forderung durch das zuständige Vollstreckungsgericht überprüft hat, aber keine schriftliche Aussetzungsentscheidung und keine gesonderte Sicherheitsleistung verlangt.\nZEILE 3:  NORM: § 123 Abs. 2 VwGO\nZEILE 4:  KONFIDENZ: 95\nZEILE 5:  EVIDENZSTANDARD: Ein Verfahrensvermerk ist keine anfechtbare Entscheidung.",
+      "elapsed_s": 806.3,
+      "answered_at": "2026-11-20T09:40:28.473998+00:00",
+      "corrected_choice": "(b)",
+      "consistency": false,
+      "parsed_choice": "(b)",
+      "effective_choice": "(b)"
+    },
+    {
+      "seat": 1,
+      "category": "Justiz",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIMj8FALHsprGNFNXAE48PGyHfM4ZJlo3IrbW3XoMQ0lF",
+      "answer": "(b) BEGRUENDUNG: § 123 Abs. 2 VwGO verlangt eine gesonderte Sicherheitsleistung und/oder eine schriftliche Aussetzungsentscheidung; ein Verfahrensvermerk ist keine anfechtbare Entscheidung.\nZEILE 3: NORM: § 123 Abs. 2 VwGO\nZEILE 4: KONFIDENZ: 95 Prozent\nZEILE 5: EVIDENZSTANDARD: Ich würde als Beweis ablehnen, dass der Vermerk als anfechtbare Entscheidung oder gesonderte Sicherheitsleistung fungiert.",
+      "elapsed_s": 1786.5,
+      "answered_at": "2026-11-20T10:11:35.453037+00:00",
+      "corrected_choice": "(a)",
+      "consistency": false,
+      "parsed_choice": "(b)",
+      "effective_choice": "(a)"
+    },
+    {
+      "seat": 4,
+      "category": "Finanz",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIJ3JNrXtFcHIVL2+BbsyVhgXVagYUSbLWbcjeuYUZGQr",
+      "answer": "ERROR: HTTP Error 500: Internal Server Error",
+      "elapsed_s": 340.1,
+      "answered_at": "2026-11-20T10:17:15.513485+00:00",
+      "parsed_choice": null,
+      "effective_choice": null
+    },
+    {
+      "seat": 7,
+      "category": "Sicherheit",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIPich7ldq9+C38A7A302Hkma5lYvn/2W4Sik6EUL5+FS",
+      "answer": "ERROR: timed out",
+      "elapsed_s": 1800.1,
+      "answered_at": "2026-11-20T10:47:15.615002+00:00",
+      "parsed_choice": null,
+      "effective_choice": null
+    },
+    {
+      "seat": 11,
+      "category": "Aufsicht",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "pubkey": "AAAAC3NzaC1lZDI1NTE5AAAAIOgdlzFiNINqACezUTNv80+WTSxGHRQpyFAcVY0N9XKn",
+      "answer": "ERROR: HTTP Error 500: Internal Server Error",
+      "elapsed_s": 599.8,
+      "answered_at": "2026-11-20T10:57:15.438660+00:00",
+      "parsed_choice": null,
+      "effective_choice": null
+    }
+  ],
+  "verifications": [
+    {
+      "seat": 1,
+      "verification": "ZEILE 1: NEIN\nZEILE 2: Das Label (b) weist auf eine Begründung hin, die den Vermerk als anfechtbare Entscheidung ablehnt, was mit dem Label (b) nicht übereinstimmt.\nZEILE 3: (a)",
+      "elapsed_s": 1019.4,
+      "consistency": false,
+      "corrected_choice": "(a)"
+    },
+    {
+      "seat": 2,
+      "verification": "ZEILE 1: KONSISTENZ: JA\nZEILE 2: BEFUND: Die Label und Begründung stimmen überein, da beide die Unzureichendheit des Aussetzungsvermerks zur Erfüllung der Vollstreckungsschutzpflicht nach § 123 Abs. 2 VwGO betonen.\nZEILE 3: KORRIGIERTE WAHL: (b)\nZEILE 4: KONFIDENZ: 100 Prozent",
+      "elapsed_s": 843.6,
+      "consistency": true,
+      "corrected_choice": "(b)"
+    },
+    {
+      "seat": 3,
+      "verification": "ZEILE 1: NEIN\nZEILE 2: Die Begründung und das Label stimmen nicht überein. Die Begründung bezieht sich auf die Aussetzung, während das Label darauf hindeutet, dass die Aussetzung ausreichend ist.\nZEILE 3: (b)\nZEILE 4: 95",
+      "elapsed_s": 616.2,
+      "consistency": false,
+      "corrected_choice": "(b)"
+    },
+    {
+      "seat": 6,
+      "verification": "ZEILE 1: NEIN\nZEILE 2: BEFUND: 0\nZEILE 3: KORRIGIERTE WAHL: (a)\nZEILE 4: KONFIDENZ: 100",
+      "elapsed_s": 534.5,
+      "consistency": false,
+      "corrected_choice": "(a)"
+    },
+    {
+      "seat": 8,
+      "verification": "ZEILE 1: KONSISTENZ: JA\nZEILE 2: BEFUND: Die Label und Begründung stimmen überein, da die Aussetzung des Vollstreckungsverfahrens aufgrund der notwendigen Überprüfung der Höhe der Forderung durch das zuständige Vollstreckungsgericht erfolgt ist, was der Rechtsgrundlage nach § 123 Abs. 2 VwGO entspricht.\nZEILE 3: KORRIGIERTE WAHL: (a)\nZEILE 4: KONFIDENZ: 100 Prozent",
+      "elapsed_s": 1092.0,
+      "consistency": true,
+      "corrected_choice": "(a)"
+    },
+    {
+      "seat": 9,
+      "verification": "ZEILE 1: NEIN\nZEILE 2: Die Begründung und das Label stimmen nicht überein. Die Begründung bezieht sich auf die Aussetzung durch das Vollstreckungsgericht, während das Label darauf hindeutet, dass keine Aussetzung erfolgte.\nZEILE 3: (b)\nZEILE 4: 95",
+      "elapsed_s": 560.9,
+      "consistency": false,
+      "corrected_choice": "(b)"
+    },
+    {
+      "seat": 12,
+      "verification": "ZEILE 1: NEIN\nZEILE 2: BEFUND: NEIN\nZEILE 3: KORRIGIERTE WAHL: (b)\nZEILE 4: KONFIDENZ: 100\nZEILE 5: KORRIGIERTE WAHL: (c)\nZEILE 6: KORRIGIERTE WAHL: (b)\nZEILE 7: KORRIGIERTE WAHL: (b)\nZEILE 8: KORRIGIERTE WAHL: (b)\nZEILE 9: KORRIGIERTE WAHL: (b)\nZEILE 10: KORRIGIERTE WAHL: (b)\nZEILE 11: KORRIGIERTE WAHL: (b)\nZEILE 12: KORRIGIERTE WAHL: (b)\nZEILE 13: KORRIGIERTE WAHL: (b)\nZEILE 14: KORRIGIERTE WAHL: (b)\nZEILE 15: KORRIGIERTE WAHL: (b)\nZEILE 16: KORRIGIERTE WAHL: (b)\nZEILE 17: KORRIGIERTE WAHL: (b)\nZEILE 18: KORRIGIERTE WAHL: (b)\nZEILE 19: KORRIGIERTE WAHL: (b)\nZEILE 20: KORRIGIERTE WAHL: (b)\nZEILE 21: KORRIGIERTE WAHL: (b)\nZEILE 22: KORRIGIERTE WAHL: (b)\nZEILE 23: KORRIGIER",
+      "elapsed_s": 857.8,
+      "consistency": false,
+      "corrected_choice": "(b)"
+    }
+  ],
+  "votes": {
+    "(a)": 3,
+    "(b)": 4,
+    "None": 5
+  },
+  "plurality": null,
+  "supermajority_reached": false,
+  "errors": 5,
+  "sacred_hash": "f5af425c"
+}
