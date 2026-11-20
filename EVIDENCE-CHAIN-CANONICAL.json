@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T18:40:03.710545+00:00",
+  "generated": "2026-11-20T18:46:32.306926+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 223,
-  "total_bytes": 194576422,
+  "files_total": 226,
+  "total_bytes": 194585505,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -355,6 +355,11 @@
       "bytes": 585660
     },
     {
+      "file": "INCIDENT_LEF_CRON_SILENTLY_DOWN.md",
+      "sha256": "7f63f5be5cbc3b641322485187551943454dd7a0dc97d7fd495060354e70d10c",
+      "bytes": 4247
+    },
+    {
       "file": "Ihr_Fax_an_00497219101382_erfolgreich_PabloEscobarRechtsdossier.pdf",
       "sha256": "05b75237b4a2c962c1190999995ae2e19b3ba1d9ccbb38f6d67c2a28324807e8",
       "bytes": 44990
@@ -472,6 +477,16 @@
     {
       "file": "LEF_LEF-AUTO-E2-20261120-124233.md",
       "sha256": "3688b3890e66f6ecdfb691afa68c788eefb657dbe2947db52b0278aac18d4a7c",
+      "bytes": 2418
+    },
+    {
+      "file": "LEF_LEF-AUTO-E2-20261120-184413.md",
+      "sha256": "01ea9808ee04190bb057a1157b392bc47fb73b644cd5533308017a23475e1b3c",
+      "bytes": 2418
+    },
+    {
+      "file": "LEF_LEF-AUTO-E2-20261120-184514.md",
+      "sha256": "e7a1b762ea739f8b65d26e6efb1411cb028376f9ea89a24a1134928c3c119c87",
       "bytes": 2418
     },
     {
