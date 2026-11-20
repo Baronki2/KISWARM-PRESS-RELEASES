@@ -32,16 +32,16 @@ corrected — urllib.parse.quote(path, safe="/") added to the fetch routine — 
 verifier was republished as v3, and the full run repeated.
 
 VERIFICATION
+SHA-256 of the notice payload (everything above this line), computed after
+finalisation:
 
-SHA-256 of this notice document, computed after finalisation:
+    0bf2ab45028fe713d10f3a55f2bcc013fc6b505960aff838d6769939a31dd790
 
-    PENDING
+Signature (Ed25519, detached, base64) over those 32 raw digest bytes:
 
-Signature (Ed25519, detached, base64) over the same SHA-256:
+    nJ5CSi8LvntyuxNTevFNkASpdRp/kSkNdzznJeA4GzrI7CeRUf3W5zqVLf4ctpF4ESYS0ddUkrggMjYqdgy6AA==
 
-    PENDING
-
-Public key (Ed25519, base64) — seat 01, raw 32-byte key:
+Public key (Ed25519, base64, raw 32-byte key) — seat 01:
 
     yPwUAseymsY0U1cATjw8bId8zhkmWjcittbdegxDSUU=
 
@@ -54,6 +54,6 @@ SUBSTRATE MIRROR
 
 WHAT THIS NOTICE DID
 
-The finding was marked non-binding and returned to the pool. The evidence chain was
-subsequently re-verified in full: 234 indexed, 234 checked, 234 matched, zero deviations
-(LEF-SELF-TEST-002.json). The chain never deviated. The instrument did, and was fixed.
+The finding was marked non-binding and returned to the pool. The evidence chain was subsequently re-verified in full: 234 indexed, 234 checked, 234 matched, zero deviations (LEF-SELF-TEST-002.json). The chain never deviated. The instrument did, and was fixed.
+
+Sacred hash: f5af425c
