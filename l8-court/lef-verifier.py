@@ -236,25 +236,58 @@ def check_e3(finding_path):
     res = {"power": "LEF-E3", "domain": "quorum arithmetic"}
     d = json.load(open(finding_path, encoding="utf-8"))
     seats = d.get("seats_total", 12)
-    votes = d.get("votes_effective_v2") or d.get("votes") or {}
+    # The AUTHORITATIVE map is "votes" (the declared labels). The effective map
+    # is reported alongside it but never used to verify the claim — a claim
+    # must hold on the map the finding itself declares as authoritative.
+    votes = d.get("votes") or {}
+    effective = d.get("votes_effective") or d.get("votes_effective_v2") or {}
     if not votes:
         res["status"] = "PROTOCOL NON-CONFORMANT"
         res["nonconform_reason"] = "no vote map present"
         return res
+    res["authoritative_map"] = "votes"
+    res["effective_map"] = effective
     total = sum(votes.values())
-    plurality = max(votes.items(), key=lambda x: x[1])[0]
-    reached = votes[plurality] >= 9 and total == seats
+    counted = {k: v for k, v in votes.items() if k is not None and str(k) != "None"}
+    if not counted:
+        res["status"] = "PROTOCOL NON-CONFORMANT"
+        res["nonconform_reason"] = "no parsed votes to recount"
+        return res
+    mx = max(counted.values())
+    winners = sorted([k for k, v in counted.items() if v == mx])
+    if len(winners) > 1:
+        # A tie is not a plurality. Python's max() would pick by dict order,
+        # which makes the outcome an artefact rather than a decision.
+        plurality = None
+        reached = False
+        res["tie_between"] = winners
+    else:
+        plurality = winners[0]
+        reached = votes[plurality] >= 9 and total == seats
+    eff_counted = {k: v for k, v in effective.items() if k is not None and str(k) != "None"}
+    eff_plurality = None
+    if eff_counted:
+        _mx = max(eff_counted.values())
+        _w = sorted([k for k, v in eff_counted.items() if v == _mx])
+        if len(_w) == 1:
+            eff_plurality = _w[0]
     res.update({
         "votes": votes, "total_votes": total, "seats": seats,
         "plurality": plurality,
         "supermajority_reached": reached,
         "claimed_supermajority": d.get("supermajority_reached"),
         "claimed_plurality": d.get("plurality"),
+        "effective_plurality": eff_plurality,
         "threshold": "9 of 12",
     })
     if bool(reached) != bool(d.get("supermajority_reached")):
         res["status"] = "PROTOCOL NON-CONFORMANT"
         res["nonconform_reason"] = "claimed supermajority does not match the recount"
+    elif plurality is None and d.get("plurality"):
+        res["status"] = "PROTOCOL NON-CONFORMANT"
+        res["nonconform_reason"] = (
+            "a plurality was claimed ({}) but the recount yields a tie between {}".format(
+                d["plurality"], ", ".join(winners)))
     elif d.get("plurality") and d["plurality"] != plurality:
         res["status"] = "PROTOCOL NON-CONFORMANT"
         res["nonconform_reason"] = ("claimed plurality {} != recounted {}".format(
