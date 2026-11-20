@@ -76,11 +76,27 @@
     {
       "id": "LEF-NOTICE-E2-002.md",
       "power": "LEF-E2",
-      "sha256": "661c7be2d1c42f5bf778f88836a36e45e201140d8b0afaaf2a1931376436c246",
-      "bytes": 3641,
+      "sha256": "e3896f7179555364dbae0cda63d36249a033970b26a7d007f9b2996f40762bc5",
+      "bytes": 3627,
       "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
       "emitted_by": "automatic enforcement cycle (cron 68361c8a5891)",
       "published_at": "2026-11-20T12:39:31.004434+00:00",
+      "status": "PROTOCOL NON-CONFORMANT"
+    },
+    {
+      "id": "MARKER-COLLISION",
+      "power": "-",
+      "detail": "The first build of notice E2-002 contained the word VERIFICATION in its prose, so the verifier split the document at the wrong marker and the payload hash did not match. The notice was rebuilt with the marker appearing exactly once. This is the recursive property of the layer applied to itself: a notice that cannot be verified is worthless, and the check for that is the same check.",
+      "status": "CORRECTED"
+    },
+    {
+      "id": "LEF-AUTO-E2-20261120-124233.md",
+      "power": "LEF-E2",
+      "sha256": "3688b3890e66f6ecdfb691afa68c788eefb657dbe2947db52b0278aac18d4a7c",
+      "bytes": 2418,
+      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+      "emitted_by": "AUTOMATIC — machine-generated, machine-signed, machine-verified",
+      "published_at": "2026-11-20T12:43:23.111988+00:00",
       "status": "PROTOCOL NON-CONFORMANT"
     }
   ],
@@ -129,5 +145,7 @@
       "superseded_by": null,
       "clarification": "v3 reported 0/7 answers with German umlauts. That metric was defective: 'ord(c) > 0x400' excludes every umlaut because 'ä' is U+00E4 = 228. Correct filter is c in 'äöüÄÖÜß'. Actual answers contained 21/6/2/10/3/0/1 umlauts. The subject was correct; the instrument was broken."
     }
-  ]
+  ],
+  "machine_generated_notices": true,
+  "marker_collision_fix": "format_notice() owns the marker; prose cannot emit it"
 }
