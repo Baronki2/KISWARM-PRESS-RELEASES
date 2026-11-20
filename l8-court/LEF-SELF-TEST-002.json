@@ -1,0 +1,64 @@
+{
+  "verifier": "LEF-1.0",
+  "sacred_hash": "f5af425c",
+  "checks": [
+    {
+      "power": "LEF-E1",
+      "domain": "evidence hash chain",
+      "indexed": 234,
+      "checked": 234,
+      "match": 234,
+      "mismatch": [],
+      "missing": [],
+      "status": "PROTOCOL CONFORMANT"
+    },
+    {
+      "power": "LEF-E3",
+      "domain": "quorum arithmetic",
+      "votes": {
+        "None": 2,
+        "(a)": 5,
+        "(d)": 1,
+        "(b)": 3,
+        "ERROR": 1
+      },
+      "total_votes": 12,
+      "seats": 12,
+      "plurality": "(a)",
+      "supermajority_reached": false,
+      "claimed_supermajority": false,
+      "claimed_plurality": "(a)",
+      "threshold": "9 of 12",
+      "status": "PROTOCOL CONFORMANT"
+    },
+    {
+      "power": "LEF-E4",
+      "domain": "consistency and divergence disclosure",
+      "seats_total": 12,
+      "seats_answered": 11,
+      "seats_verified": 11,
+      "consistency_failures": 4,
+      "consistency_failure_seats": [
+        3,
+        5,
+        7,
+        10
+      ],
+      "seats_without_verification": [],
+      "divergence_disclosed": true,
+      "status": "PROTOCOL CONFORMANT"
+    },
+    {
+      "power": "LEF-E2",
+      "domain": "seat signature verification",
+      "seats": 12,
+      "with_pubkey": 12,
+      "with_signature": 12,
+      "verified": 12,
+      "failed": [],
+      "unverifiable": [],
+      "status": "PROTOCOL CONFORMANT"
+    }
+  ],
+  "overall": "PROTOCOL CONFORMANT"
+}
