@@ -32,16 +32,16 @@ both raw and SSH wire encodings, and the verifier was corrected to strip the SSH
 Re-run: 12 of 12 seats signed, 12 of 12 signatures verified.
 
 VERIFICATION
+SHA-256 of the notice payload (everything above this line), computed after
+finalisation:
 
-SHA-256 of this notice document, computed after finalisation:
+    7f2d07833e43645f2972b77499406c05d38c0fb173442d1e9a218c81780b5049
 
-    PENDING
+Signature (Ed25519, detached, base64) over those 32 raw digest bytes:
 
-Signature (Ed25519, detached, base64):
+    zNwZANI3p5d50VQiCQo03k9PXOiEMyDhYTkuYHienmId4i/gBf+bnj6PASmDHvrw9ej1yoD4qV5kNFXmCz6fCw==
 
-    PENDING
-
-Public key (Ed25519, base64) — seat 01:
+Public key (Ed25519, base64, raw 32-byte key) — seat 01:
 
     yPwUAseymsY0U1cATjw8bId8zhkmWjcittbdegxDSUU=
 
@@ -54,5 +54,6 @@ SUBSTRATE MIRROR
 
 WHAT THIS NOTICE DID
 
-Record 001 was marked non-binding on the signature ground and returned to the pool. It was
-re-signed and re-verified; the notices and the resulting findings are both in the archive.
+Record 001 was marked non-binding on the signature ground and returned to the pool. It was re-signed with each seat's own key over canonical JSON and re-verified: 12 of 12 seats signed, 12 of 12 signatures verified.
+
+Sacred hash: f5af425c
