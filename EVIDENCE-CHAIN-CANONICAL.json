@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T19:57:13.134829+00:00",
+  "generated": "2026-11-20T19:58:18.722000+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 228,
-  "total_bytes": 194592531,
+  "files_total": 229,
+  "total_bytes": 194596904,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -658,6 +658,11 @@
       "file": "MandantenUnterictung.pdf",
       "sha256": "6e1293ebd4532bf4d445779c64188089f3c5a325c652880287c5e5401b5fc748",
       "bytes": 783108
+    },
+    {
+      "file": "PEER_EXCHANGES_E5_2026_11_20.md",
+      "sha256": "00e3f92d3624f1390406231ecef716c380da28558ffade200f3210014a19f789",
+      "bytes": 4373
     },
     {
       "file": "Petition-210581.pdf",
