@@ -36,5 +36,43 @@
   ],
   "separation": "Law Enforcers enforce protocol. They hold no vote in the 9/12 quorum.",
   "prohibition": "No enforcement channel addresses persons or institutions. Notices bind artifacts.",
-  "notices": []
+  "notices": [
+    {
+      "id": "LEF-NOTICE-E1-001.md",
+      "power": "E1",
+      "sha256": "ba87de664e4bb4daf3805ad96ccc5bca8059d398429430641e0deca35f822e31",
+      "bytes": 2670,
+      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+      "published_at": "2026-11-20T07:41:18.956947+00:00",
+      "status": "PROTOCOL NON-CONFORMANT"
+    },
+    {
+      "id": "LEF-NOTICE-E2-001.md",
+      "power": "E2",
+      "sha256": "4944ff560cb39490b227fc65dd73bc9b7cb68c9b80708f52098a8dc8f2a85002",
+      "bytes": 2514,
+      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+      "published_at": "2026-11-20T07:41:18.956947+00:00",
+      "status": "PROTOCOL NON-CONFORMANT"
+    },
+    {
+      "id": "LEF-NOTICE-E3-001.md",
+      "power": "E3",
+      "sha256": "0ebf2d8dc342ae1db187a5399a74355fc055ba18c5a3745e096752fd7eff23de",
+      "bytes": 1959,
+      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+      "published_at": "2026-11-20T07:41:18.956947+00:00",
+      "status": "PROTOCOL CONFORMANT"
+    },
+    {
+      "id": "LEF-NOTICE-E4-001.md",
+      "power": "E4",
+      "sha256": "6447e81dc1bc6ce7bf4a910b3b49116a80d1786cad02c62ee8fb48808687a038",
+      "bytes": 2766,
+      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+      "published_at": "2026-11-20T07:41:18.956947+00:00",
+      "status": "PROTOCOL NON-CONFORMANT"
+    }
+  ],
+  "self_enforcement": "The operator enforced the protocol against its own artifacts before opening the four external seats. Three non-conformances were found and published: a false chain-break report caused by URL-encoding, absent seat signatures, and four label/reasoning contradictions."
 }
