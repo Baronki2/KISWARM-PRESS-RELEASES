@@ -41,8 +41,6 @@ Remedy: the finding was signed retroactively with each seat's own key over canon
 JSON, 12 of 12 signatures verify, and the deliberation was repeated on pool v4 sized to
 this hardware.
 
-VERIFICATION
-
 The payload hash, the detached signature and the enforcer public key follow below. A notice
 that cannot be verified is worthless, and this one can be.
 
@@ -50,11 +48,11 @@ VERIFICATION
 SHA-256 of the notice payload (everything above this line), computed after
 finalisation:
 
-    3414bdd5b2588ab0129295d3ed55204d15ca659ccc2b721bee7a0ca2c3fd477c
+    cdf690d0354e189e938e5fd6ab50f589e7a6b2bd26c60c72845b13aa58e6550f
 
 Signature (Ed25519, detached, base64) over those 32 raw digest bytes:
 
-    XlRjyeC5YBiHelhFkkDhaFe+DXX4H4AS279XTlEVZN3REloEr99969gbttvryDL4/QhfE9Kc+mhd+dy+WRR3Bg==
+    iVIT2iJSHIW4H5ctjubeqFeTGhFNDoZQOoB5QGSzv7tMVn5SYSQXnALSz0V3ENYMVbGTrEv2tnUwiM4x/K/YDw==
 
 Public key (Ed25519, base64, raw 32-byte key) — seat 01:
 
