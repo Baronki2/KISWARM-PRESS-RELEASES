@@ -133,9 +133,16 @@ def parse_canonical_json(text):
     return out
 
 
-def check_e1(index_text, repo_base=None, local_dir=None, sample=None):
-    """Re-hash every published blob and compare to the published index."""
-    res = {"power": "LEF-E1", "domain": "evidence hash chain",
+def check_e1(index_text, repo_base=None, local_dir=None, sample=None, label="LEF-E1"):
+    """Re-hash every published blob and compare to the published index.
+
+    Two distinct questions, deliberately named apart:
+      LEF-E1  — is the LOCAL chain intact? (canonical index, files on disk)
+      LEF-E1R — does the PUBLISHED copy match? (remote re-fetch, content-addressed)
+    Conflating them produced a false NON-CONFORMANT: the canonical index holds
+    local relative paths, which cannot be fetched from the public substrate.
+    """
+    res = {"power": label, "domain": "evidence hash chain",
            "indexed": 0, "checked": 0, "match": 0, "mismatch": [], "missing": []}
 
     entries = parse_canonical_json(index_text)
