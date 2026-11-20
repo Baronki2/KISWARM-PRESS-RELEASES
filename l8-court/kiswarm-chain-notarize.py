@@ -68,6 +68,26 @@ SECRET_PATTERNS = (
     "shamir", "mnemonic", "recovery-phrase", "recovery-key", "recoverycode",
 )
 
+# Self-referential state files must NOT be notarized. A file that changes
+# AFTER its own seal cannot be verified against the published hash — the
+# difference is not tampering, but a verifier sees an unexplained mismatch.
+# 2026-11-20: 4 of 355 records had drifted this way (the progress report, the
+# two index files, and the mail index that the IMAP fix overwrote). The proof
+# that it is not tampering has to live somewhere; a published hash that no
+# longer matches is not that place.
+SELF_REFERENTIAL = (
+    "manifest.md",              # appended to by the mail extractor
+    "deusproof-chain-progress", # written by this script itself
+    "deusproof-chain-notarization",  # the index this script writes
+    ".deusproof-chain-progress",
+)
+
+
+def is_self_referential(path):
+    name = os.path.basename(path).lower()
+    return any(p in name for p in SELF_REFERENTIAL)
+
+
 def is_secret(path):
     name = os.path.basename(path).lower()
     return any(p in name for p in SECRET_PATTERNS)
@@ -76,11 +96,12 @@ files = []
 for root, dirs, names in os.walk(EVIDENCE_DIR):
     for n in sorted(names):
         p = os.path.join(root, n)
-        if os.path.isfile(p) and not is_secret(p):
+        if os.path.isfile(p) and not is_secret(p) and not is_self_referential(p):
             files.append(p)
 for n in sorted(os.listdir(VAULT_DIR)):
     p = os.path.join(VAULT_DIR, n)
-    if os.path.isfile(p) and not n.endswith(".seed") and not is_secret(p):
+    if (os.path.isfile(p) and not n.endswith(".seed") and not is_secret(p)
+            and not is_self_referential(p)):
         files.append(p)
 
 # Explicitly also cover the mail-extraction index + private key dir exclusion
