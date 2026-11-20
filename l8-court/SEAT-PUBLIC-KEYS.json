@@ -1,0 +1,73 @@
+{
+  "scheme": "ed25519 detached over canonical JSON (json.dumps sort_keys=True, ensure_ascii=False)",
+  "note": "Public keys only. Private keys and seeds never leave the host.",
+  "formats": {
+    "pub_b64_raw": "raw 32-byte ed25519 public key, base64 \u2014 PyNaCl / libsodium",
+    "pub_b64_ssh": "SSH wire format, base64 \u2014 ssh-keygen style tooling"
+  },
+  "seats": {
+    "1": {
+      "pub_b64_raw": "yPwUAseymsY0U1cATjw8bId8zhkmWjcittbdegxDSUU=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIMj8FALHsprGNFNXAE48PGyHfM4ZJlo3IrbW3XoMQ0lF"
+    },
+    "2": {
+      "pub_b64_raw": "/7/BjX1xYlDGnF5E5K5TzBQ/4kUBwGxAzPHaXzdkofg=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIP+/wY19cWJQxpxeROSuU8wUP+JFAcBsQMzx2l83ZKH4"
+    },
+    "3": {
+      "pub_b64_raw": "sFxALSqKC4qfeFnSUHen4DOpnYf0ycKqucCYmV4uhkk=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAILBcQC0qiguKn3hZ0lB3p+AzqZ2H9MnCqrnAmJleLoZJ"
+    },
+    "4": {
+      "pub_b64_raw": "nck2te0VwchUvb4FuzJWGBdVqBhRJstZtyN65hRkZCs=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIJ3JNrXtFcHIVL2+BbsyVhgXVagYUSbLWbcjeuYUZGQr"
+    },
+    "5": {
+      "pub_b64_raw": "eEs/vgUTbXqG9ECGihZsapQvHzFApZ5u+Jn0G4R6B2U=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIHhLP74FE216hvRAhooWbGqULx8xQKWebviZ9BuEegdl"
+    },
+    "6": {
+      "pub_b64_raw": "NnF0YYSddWLLoS9oJu4ZJgX8w7dAfafswDoqj7RePa8=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIDZxdGGEnXViy6EvaCbuGSYF/MO3QH2n7MA6Ko+0Xj2v"
+    },
+    "7": {
+      "pub_b64_raw": "+JyHuV2r34LfwDsDfTYeSZrmVi+f/ZbhKKToRQvn4VI=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIPich7ldq9+C38A7A302Hkma5lYvn/2W4Sik6EUL5+FS"
+    },
+    "8": {
+      "pub_b64_raw": "U8glYcAzieN30Amo0S4jbGgH9xF+99T9GblQPtyBfq4=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIFPIJWHAM4njd9AJqNEuI2xoB/cRfvfU/Rm5UD7cgX6u"
+    },
+    "9": {
+      "pub_b64_raw": "wiO41i9qr8zyTWgpy5TbTFdAI8lWFh+yeBF9xv4oxi0=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIMIjuNYvaq/M8k1oKcuU20xXQCPJVhYfsngRfcb+KMYt"
+    },
+    "10": {
+      "pub_b64_raw": "Sx6n5h4p4FVw15wHnYw9UGxLHSTyfQql8xXE3/gKIoo=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIEsep+YeKeBVcNecB52MPVBsSx0k8n0KpfMVxN/4CiKK"
+    },
+    "11": {
+      "pub_b64_raw": "6B2XMWI0g2oAJ7NRM2/zT5ZNLEYdFCnIUBxVjQ31cqc=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIOgdlzFiNINqACezUTNv80+WTSxGHRQpyFAcVY0N9XKn"
+    },
+    "12": {
+      "pub_b64_raw": "Q7udxjJzwOwhd6q10CngSbRyjEFhGZscUyyn6GVW5JU=",
+      "pub_b64_ssh": "AAAAC3NzaC1lZDI1NTE5AAAAIEO7ncYyc8DsIXeqtdAp4Em0coxBYRmbHFMsp+hlVuSV"
+    }
+  },
+  "fingerprints": {
+    "1": "6ebb437a4d27ef53",
+    "2": "d74082dcdc0737cd",
+    "3": "236c02d0de8bc4af",
+    "4": "9c06efcacf9945e5",
+    "5": "988248868505ba81",
+    "6": "8a66e1d032820bda",
+    "7": "8430a0ea2dff53c7",
+    "8": "5c0b10774895adfb",
+    "9": "7a843d81fa2c22d2",
+    "10": "a0fe94146a13fddd",
+    "11": "b52b8b8b9d75160c",
+    "12": "d82dabeeeba4cb69"
+  },
+  "sacred_hash": "f5af425c"
+}
