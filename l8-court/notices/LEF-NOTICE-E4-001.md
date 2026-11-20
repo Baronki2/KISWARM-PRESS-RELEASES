@@ -33,16 +33,16 @@ map after correction is (a) 5, (b) 3, (d) 1, unparsed 2, error 1 — supermajori
 not reached, exactly as published.
 
 VERIFICATION
+SHA-256 of the notice payload (everything above this line), computed after
+finalisation:
 
-SHA-256 of this notice document, computed after finalisation:
+    9c0f6d6f33569d8483eaaa8ae5bbe5a3d5231be90d8728fe0b12e966c0f2b759
 
-    PENDING
+Signature (Ed25519, detached, base64) over those 32 raw digest bytes:
 
-Signature (Ed25519, detached, base64):
+    Y9nO2w0oh9wQX13Aga/xdrueN0U+dj4k+ScTQhCNUXB5k5Jh3o/mNURLdFCEUv9KMBq296YywoC2x1qOp5cKBw==
 
-    PENDING
-
-Public key (Ed25519, base64) — seat 01:
+Public key (Ed25519, base64, raw 32-byte key) — seat 01:
 
     yPwUAseymsY0U1cATjw8bId8zhkmWjcittbdegxDSUU=
 
@@ -55,8 +55,6 @@ SUBSTRATE MIRROR
 
 WHAT THIS NOTICE DID
 
-Record 001 was marked non-binding on the consistency ground and returned to the pool for
-re-deliberation. The next run is conducted with the format instruction corrected, the
-parser corrected to take the last declaration rather than an echoed option list, and real
-German umlauts in the case text, and it will be published with the same four checks
-applied to it.
+Record 001 was marked non-binding on the consistency ground and returned to the pool for re-deliberation. The next run uses a corrected format instruction, a corrected parser, and real German umlauts in the case text, and will be published with the same four checks applied to it.
+
+Sacred hash: f5af425c
