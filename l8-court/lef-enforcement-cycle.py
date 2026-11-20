@@ -38,9 +38,26 @@ GH_RAW = "https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/main
 SACRED_HASH = "f5af425c"
 
 sys.path.insert(0, HERE)
-import lef_verifier as LV            # noqa: E402
-import lef_notice_verifier as LNV     # noqa: E402
-import lef_finding_integrity as LFI    # noqa: E402
+
+# SINGLE SOURCE OF TRUTH. These modules are loaded from their hyphenated
+# filenames explicitly. A copy under an underscore alias is a second instrument:
+# patch one, verify against the other, and the enforcement layer silently
+# checks against stale code. That happened once already (the E3 fix never
+# reached the running cycle). One file, one truth.
+import importlib.util
+
+
+def _load(filename, modname):
+    path = os.path.join(HERE, filename)
+    spec = importlib.util.spec_from_file_location(modname, path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+LV = _load("lef-verifier.py", "lef_verifier_src")
+LNV = _load("lef-notice-verifier.py", "lef_notice_verifier_src")
+LFI = _load("lef-finding-integrity.py", "lef_finding_integrity_src")
 
 # The marker the notice verifier splits on. It is a constant here, and the
 # formatter below is the ONLY place it may appear in a notice.
