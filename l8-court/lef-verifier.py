@@ -24,6 +24,7 @@ import hashlib
 import json
 import os
 import re
+import urllib.parse
 import urllib.request
 
 SACRED_HASH = "f5af425c"
@@ -44,7 +45,14 @@ def sha256_file(p):
 
 
 def fetch(url, timeout=45):
-    req = urllib.request.Request(url, headers={"User-Agent": "LEF-1.0-verifier"})
+    """Percent-encode the path. Evidence filenames contain Umlauts and trailing
+    spaces — an unencoded URL raises 'URL can't contain control characters' and
+    would make a chain check report a false deviation."""
+    parts = urllib.parse.urlsplit(url)
+    path = urllib.parse.quote(parts.path, safe="/")
+    req = urllib.request.Request(
+        urllib.parse.urlunsplit((parts.scheme, parts.netloc, path, parts.query, parts.fragment)),
+        headers={"User-Agent": "LEF-1.0-verifier"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
 
