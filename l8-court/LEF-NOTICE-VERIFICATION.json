@@ -1,0 +1,50 @@
+{
+  "checked_at": "2026-11-20T07:42:26.435665+00:00",
+  "notices": [
+    {
+      "name": "LEF-NOTICE-E1-001.md",
+      "sha256": "ae58b8b260da69e26db6e519e3f48c8fcf4961163d8667cd16971bee73c90753",
+      "bytes": 2866,
+      "verify": {
+        "ok": true,
+        "hash_ok": true,
+        "sig_ok": true,
+        "payload_bytes": 1845
+      }
+    },
+    {
+      "name": "LEF-NOTICE-E2-001.md",
+      "sha256": "3738dbcb29126f3e31c0c55ec80fc95e26784345afb76cafbd9f43a6c85c1cd2",
+      "bytes": 2783,
+      "verify": {
+        "ok": true,
+        "hash_ok": true,
+        "sig_ok": true,
+        "payload_bytes": 1806
+      }
+    },
+    {
+      "name": "LEF-NOTICE-E3-001.md",
+      "sha256": "b958139b9a71ed98cc3a8c6d20bb50db084f2a743e78b007f753748ed017a545",
+      "bytes": 2189,
+      "verify": {
+        "ok": true,
+        "hash_ok": true,
+        "sig_ok": true,
+        "payload_bytes": 1229
+      }
+    },
+    {
+      "name": "LEF-NOTICE-E4-001.md",
+      "sha256": "9409f81186915d121676c4b4b48e5d72eb5f3aec9b268a7e8fecf0859f238f97",
+      "bytes": 2918,
+      "verify": {
+        "ok": true,
+        "hash_ok": true,
+        "sig_ok": true,
+        "payload_bytes": 1876
+      }
+    }
+  ],
+  "sacred_hash": "f5af425c"
+}
