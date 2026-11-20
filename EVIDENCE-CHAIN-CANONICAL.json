@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T18:46:32.306926+00:00",
+  "generated": "2026-11-20T19:09:31.194086+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 226,
-  "total_bytes": 194585505,
+  "files_total": 227,
+  "total_bytes": 194590831,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -708,6 +708,11 @@
       "file": "SECURITY_INCIDENT_CREDENTIAL_HASHES.md",
       "sha256": "ecd2eed0e98b1c89e84c4116c8c635210f89483fed8048f9460c52678758ad55",
       "bytes": 6198
+    },
+    {
+      "file": "SECURITY_INCIDENT_CREDENTIAL_HASHES_2026_11_20.md",
+      "sha256": "2c250915b3d9919077ec7dac4784aa9b778445ee6c34be67bd19b2c1a384e331",
+      "bytes": 5326
     },
     {
       "file": "STA_Hannover_Beweismittel_K17_Schadenssumme_2026-10-24.pdf",
