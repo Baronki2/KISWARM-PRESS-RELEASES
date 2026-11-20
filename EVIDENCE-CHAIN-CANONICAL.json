@@ -1,0 +1,1105 @@
+{
+  "generated": "2026-11-20T18:28:58.789361+00:00",
+  "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
+  "files_total": 219,
+  "total_bytes": 194565305,
+  "entries": [
+    {
+      "file": "1_BvR_292526_Erster_Senat.pdf",
+      "sha256": "dfb169670679e1a90912d5a5a9b13b4368662e2b66637ea5a17ee6985de4cd2b",
+      "bytes": 1526822
+    },
+    {
+      "file": "ARCHIVE-LOG-2026-10-05.md",
+      "sha256": "f74ea7510d4d7f64e16e1f646ea169c8cd42f19bc7872334695af26f2a8e0ad9",
+      "bytes": 2667
+    },
+    {
+      "file": "Anlage_VB4_Abgabebeschluss_04_09_2026.pdf",
+      "sha256": "8495519a6f30c1d00f60cf704ef208e009496ea1d7a7e9e0b0fcc363e2f86725",
+      "bytes": 81086
+    },
+    {
+      "file": "Antwort_Strafantrag_Generalbundesanwalt_2026-10-16.pdf",
+      "sha256": "d742e771966f4345f327acd450efe4cbef0bfc501abfaeb0d45f630d4d876ab0",
+      "bytes": 8577441
+    },
+    {
+      "file": "Ausweis_Alexander_Caspary_2021_01_26.pdf",
+      "sha256": "2e122df66f665fff9a9d7ecf400c671762035d046967657b997521c4a2db8eba",
+      "bytes": 240768
+    },
+    {
+      "file": "BEGLEITSCHREIBEN_PRETURA_LUGANO.md",
+      "sha256": "3c29344450e08883434f23a92f199881834c892281dce9c9caa4957724630d34",
+      "bytes": 3453
+    },
+    {
+      "file": "BVGSTA.pdf",
+      "sha256": "68b9226fa61800bc3ce1bf3a120fa2c202a99ebfbccf044fbf32d8b9756d77d1",
+      "bytes": 336285
+    },
+    {
+      "file": "BVG_STA.pdf",
+      "sha256": "f4117190db27ab409ce3230e29d8d960c1b29f4f5444d1ba8e569154077af862",
+      "bytes": 1675435
+    },
+    {
+      "file": "BVerfG_Update_Dringlichkeitsantrag_v2_2026-10-10.pdf",
+      "sha256": "e84cfad6f9be014e7ff9ded148041872fd38ee1972331222fc7d788f086298a4",
+      "bytes": 1815499
+    },
+    {
+      "file": "BarkBettleDossier.pdf",
+      "sha256": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "bytes": 30323
+    },
+    {
+      "file": "BarkBettleDossier_1.pdf",
+      "sha256": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "bytes": 30323
+    },
+    {
+      "file": "Bark_Beetle_Dossier_Addendum_2026-10-10.pdf",
+      "sha256": "04bd77abf5fc234bfc0f8ce414bfe31039e673995b5ea52bc612975464097bd6",
+      "bytes": 30323
+    },
+    {
+      "file": "Baron_Motto_Life_Echoes_Eternity_2026-10-17.pdf",
+      "sha256": "005b042ad6b740fc1526d40fb95dbcc34b5a588037b62789e1e7c0202adb8c34",
+      "bytes": 4142109
+    },
+    {
+      "file": "Befangenheitsr_geOLG2.pdf",
+      "sha256": "3aa29c41a767422c00665103f7a09ce69ee0217eec126578fdf9fa36f296c64c",
+      "bytes": 1504444
+    },
+    {
+      "file": "Begleitschreiben_BVerfG_Aktualisierung_Singer_Dossier-1.pdf",
+      "sha256": "5b14d3bd88f0701dbaa7806d0c70c5473030907805a0e79edfe4051fd78e178d",
+      "bytes": 7258
+    },
+    {
+      "file": "Begleitschreiben_BVerfG_Aktualisierung_Singer_Dossier.pdf",
+      "sha256": "5b14d3bd88f0701dbaa7806d0c70c5473030907805a0e79edfe4051fd78e178d",
+      "bytes": 7258
+    },
+    {
+      "file": "Bewertung_T.C.S._SA.pdf",
+      "sha256": "f28aace06c9ceb1d7c7affca1b7ac0133d6bfed20e27ddb2d7494f1510f17461",
+      "bytes": 3401305
+    },
+    {
+      "file": "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.pdf",
+      "sha256": "d9048a01e4e364db28bfeb0660a064efa3bdc098a7f408505e7928a59b802960",
+      "bytes": 1001927
+    },
+    {
+      "file": "Borkenkaefer_Dossier_v2_2026-10-10.pdf",
+      "sha256": "d9048a01e4e364db28bfeb0660a064efa3bdc098a7f408505e7928a59b802960",
+      "bytes": 1001927
+    },
+    {
+      "file": "Bundestag_Rechtsausschuss_Versagen_2026-10-24.pdf",
+      "sha256": "0cfaa53b2e9744f2b96222f2ce3f6f8cafbe3c4044dff5c18a1f24fb92bae9c0",
+      "bytes": 177036
+    },
+    {
+      "file": "Bundesverfassungsgericht2.pdf",
+      "sha256": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+      "bytes": 321481
+    },
+    {
+      "file": "Bundesverfassungsgericht2_1.pdf",
+      "sha256": "7a0c4503f90f7ef6f0c3ec38e865ce552611b1df28a270093dfe32e96f610da9",
+      "bytes": 321481
+    },
+    {
+      "file": "Bundesverfassungsgericht_Dringlichkeitsantrag_2026-10-08.pdf",
+      "sha256": "e84cfad6f9be014e7ff9ded148041872fd38ee1972331222fc7d788f086298a4",
+      "bytes": 1815499
+    },
+    {
+      "file": "Bundesverfassungsgericht_Ground_Zero_End_of_BRD_Rechtsstaat.pdf",
+      "sha256": "561a60daf589abcf506f9a8e13f00b3844ba6597ca025fa2f0ad69d7adfbc910",
+      "bytes": 8798935
+    },
+    {
+      "file": "Cooperationsvereinbarung.pdf",
+      "sha256": "198137813d4e6416c0b611d11d959e69ea1184f67679efb48a521c69b63e4618",
+      "bytes": 141839
+    },
+    {
+      "file": "CriminalCompliantOLGFrankfurt_2_.pdf",
+      "sha256": "4cc7660b0a535cfe7d5f4bd685d19872d38ba492ef4152a79635d94a22fce499",
+      "bytes": 1552520
+    },
+    {
+      "file": "Damage_Report_Freislers_Heir_2026-10-24.pdf",
+      "sha256": "bed3f34ab396b5a104dfba188e88ece602f9d44831211b1eb99a5a8b4fc8eee0",
+      "bytes": 296741
+    },
+    {
+      "file": "Dienstaufsichtsbeschwerde_Justizminister_BW.pdf",
+      "sha256": "d034fc7db7691541baa5feb81ae295b1db5c43e67bc27112ed849afd67030bc8",
+      "bytes": 111545
+    },
+    {
+      "file": "Diplomatic_Cover_Letter_and_International_Observer_Distribution.pdf",
+      "sha256": "929cb8b700789fabe87a41e63e240c2e809360e977c54dc77e8734eaeac9aaa6",
+      "bytes": 10298
+    },
+    {
+      "file": "Diplomatic_Submission_Bagatz_2026-10-16.pdf",
+      "sha256": "9490e8b573de8fb470c67212f8514f5ee2cfa1979949563646d2ad9af16d9d3c",
+      "bytes": 1066686
+    },
+    {
+      "file": "Dossier_Rechtsausschuss_OLG_Stuttgart.pdf",
+      "sha256": "7d73fbbfa525126337a2f29d3dee58a145ceb4f40ffd5db2c310f9537b74d705",
+      "bytes": 116700
+    },
+    {
+      "file": "ENFORCEMENT_COMPLICITY.pdf",
+      "sha256": "6f40901b237896484984ab060f6d4b58cf2f16f8da1ee03dd215e000486b8a34",
+      "bytes": 626436
+    },
+    {
+      "file": "ENFORCEMENT_COMPLICITY_1.pdf",
+      "sha256": "6f40901b237896484984ab060f6d4b58cf2f16f8da1ee03dd215e000486b8a34",
+      "bytes": 626436
+    },
+    {
+      "file": "EingereichteErweiterteVerfassungsbeschwerde.pdf",
+      "sha256": "e77bd60c5c499dee67ee701fea30e174fccb45dda5fc2c919111479f61b0eaef",
+      "bytes": 6736012
+    },
+    {
+      "file": "Einreichung_Internationale_Anklageschrift_2026-10-10.pdf",
+      "sha256": "da0e76a57273e7c7d797d5f22011112e7f05b4be6a4879e5642e9844c6f5fb53",
+      "bytes": 46939
+    },
+    {
+      "file": "Ergänzender Beweissubstanzvortrag .pdf",
+      "sha256": "a36570bb24fc42bc4655925b7976da9f2d06666adbca074e8081f8bf4c2763b6",
+      "bytes": 717814
+    },
+    {
+      "file": "ErgänzungBundesverfassungsgerict-1.pdf",
+      "sha256": "867269479db9a175b3bad033f5b7b0a1fb7326a487fb57c26ded666afd087f44",
+      "bytes": 5495082
+    },
+    {
+      "file": "ErgänzungBundesverfassungsgerict.pdf",
+      "sha256": "867269479db9a175b3bad033f5b7b0a1fb7326a487fb57c26ded666afd087f44",
+      "bytes": 5495082
+    },
+    {
+      "file": "ErweiterteVerfassungsbeschwerde.pdf",
+      "sha256": "9a434e217b056274bf284bd4dd46242e39fadb383ff14119781781781d8c7bc8",
+      "bytes": 2463935
+    },
+    {
+      "file": "Evidence_State_Complicity_Borkenkaefer_2026-10-10.pdf",
+      "sha256": "5f8ab374d06244c368bee56d61302fcd43fd7fa62a13181b6488dc8ef58440ab",
+      "bytes": 272260
+    },
+    {
+      "file": "Evidence_State_Complicity_v2_2026-10-10.pdf",
+      "sha256": "5f8ab374d06244c368bee56d61302fcd43fd7fa62a13181b6488dc8ef58440ab",
+      "bytes": 272260
+    },
+    {
+      "file": "Executive_Briefing_Note_MPs_Rechtsausschuss.pdf",
+      "sha256": "91c0fc07e620ee57d0cd4ca1c7d046492930b202a845964d171833ff6367c4bc",
+      "bytes": 5762
+    },
+    {
+      "file": "Executive_Press_Release_International_Briefing_Note.pdf",
+      "sha256": "5c5649580f9f68b504f5b139a502f8574b874a6f3bfe0510939765f7d3c3f10c",
+      "bytes": 10424
+    },
+    {
+      "file": "FAXFEHLER_OLG.pdf",
+      "sha256": "35072be78712cfef16c3536271cb61a1826a3bf23836c7b4327aae44081fbd45",
+      "bytes": 3501625
+    },
+    {
+      "file": "FORMAL_ADVERSARY_COMPLAINT_CHARGE_COMPLAINT_TRANSMITTAL_UNDER_46_U.S.C._41301_OSRA_2022.pdf",
+      "sha256": "9220724e14372c57dfdca064d381e3855d8486d93c6200f123f38cfb9e14e478",
+      "bytes": 98213
+    },
+    {
+      "file": "FORMAL_ADVERSARY_COMPLAINT_CHARGE_COMPLAINT_TRANSMITTAL_UNDER_46_U.S.C._41301_OSRA_2022_1.pdf",
+      "sha256": "9220724e14372c57dfdca064d381e3855d8486d93c6200f123f38cfb9e14e478",
+      "bytes": 98213
+    },
+    {
+      "file": "FORM_JS-44.pdf",
+      "sha256": "60d979223bbaf5ee6f0833a008f7eb9970bdef2fd89bf525f33f20ef6f8371c2",
+      "bytes": 626117
+    },
+    {
+      "file": "FORM_JS-44_1.pdf",
+      "sha256": "60d979223bbaf5ee6f0833a008f7eb9970bdef2fd89bf525f33f20ef6f8371c2",
+      "bytes": 626117
+    },
+    {
+      "file": "ForensicIndictment.pdf",
+      "sha256": "9a7466d62130280b1b6b217c6a24693fb80b591d792d5ade84cc65f4632049e6",
+      "bytes": 645556
+    },
+    {
+      "file": "FreislersHeirs.pdf",
+      "sha256": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "bytes": 1955764
+    },
+    {
+      "file": "FreislersHeirs_1.pdf",
+      "sha256": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "bytes": 1955764
+    },
+    {
+      "file": "Freislers_Heirs_Continuity_Analysis_Signed_2026-10-17.pdf",
+      "sha256": "a42fee4acce225a7015b969f1c9afdc54c78cf5fab2635c673044200a1e9cf04",
+      "bytes": 1955764
+    },
+    {
+      "file": "Freislers_Heirs_Global_Legal_Historical_Dossier.pdf",
+      "sha256": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "bytes": 73887
+    },
+    {
+      "file": "Freislers_Heirs_Global_Legal_Historical_Dossier_1.pdf",
+      "sha256": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "bytes": 73887
+    },
+    {
+      "file": "Freislers_Heirs_Global_Legal_Historical_Dossier_2.pdf",
+      "sha256": "7bedae514ad0b638e74d29283be4e0540d4e8a9f620f04ded895dca392da9da7",
+      "bytes": 73887
+    },
+    {
+      "file": "Freislers_Heirs_Judicial_Fact_Dossier_2026-10-10.pdf",
+      "sha256": "68ab03c866b8f6ca984d1554fbd4927aad919b2fb4709885346bdc1b5bc4e743",
+      "bytes": 301050
+    },
+    {
+      "file": "Fwd__Herrn_Minister_Moritz_Oppelt_Schillerplatz_4_70173_Stuttgart_F_rmliche_bergabe_der_pers_nlichen_Anklagesc",
+      "sha256": "ca5c4dda7dc2b0ec2b632f52505cbdf175a3645e7c4de09f426015ad6ebee6ea",
+      "bytes": 170170
+    },
+    {
+      "file": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.pdf",
+      "sha256": "d499fe40e76ce6741024756934f9a240a4594bab24dfcae46fd6697dd8d79805",
+      "bytes": 1920750
+    },
+    {
+      "file": "Generalbundesanwalt_Strafantrag_2026-10-08.pdf",
+      "sha256": "1861db4b33c2c8b17ca08f30e8adcf04999ad53a19a7633e58a55690fadcf77b",
+      "bytes": 7987194
+    },
+    {
+      "file": "Gesonderter_Zusatzantrag_Eilentscheidung_32_BVerfGG.pdf",
+      "sha256": "ea4ee22af19da9e866924919ff6196515c930c60644eb0c4579360b718eea2a2",
+      "bytes": 45007
+    },
+    {
+      "file": "Grosses_Rechtshistorisches_Dossier_Justizversagen_Vergleich.pdf",
+      "sha256": "5170a21f09e14069752e1ad5c3225f00bdd20a332bf8d36c7571bdb520e796ad",
+      "bytes": 84537
+    },
+    {
+      "file": "Hochpraeziser_Verfassungsbeschwerde_Schriftsatz_Dr_Singer_B-2.pdf",
+      "sha256": "0d37d6e5ec799e8bd311b24f54876f6795f3940431d74a4f5f7a68e2f2ba8dd9",
+      "bytes": 25806
+    },
+    {
+      "file": "Hochpraeziser_Verfassungsbeschwerde_Schriftsatz_Dr_Singer_B.pdf",
+      "sha256": "0d37d6e5ec799e8bd311b24f54876f6795f3940431d74a4f5f7a68e2f2ba8dd9",
+      "bytes": 25806
+    },
+    {
+      "file": "ICC_Anklage_Art15_17_Roemisches_Statut_2026-10-24.pdf",
+      "sha256": "d77313aa631826b814e35dbf84404c5bbb3cc8757bd989ca41967ec77b931f03",
+      "bytes": 274984
+    },
+    {
+      "file": "ICC_OTP_Great_Bill_of_Indictment_2026-10-27.pdf",
+      "sha256": "21b772d7a1c817ec2b5b4f280385a3464816bd96428773f2b45acaf76236dff7",
+      "bytes": 363092
+    },
+    {
+      "file": "ICC_OTP_Internationales_Nationales_Amts_Strafverfahren_2026-10-27.pdf",
+      "sha256": "35ed4ce08f808c87f90d6e97e2da7b095d8b2228ab41b99e95159b7995968d26",
+      "bytes": 355816
+    },
+    {
+      "file": "ICC_OTP_Submission_Confirmation_e30584a4-0c6b-470b-a7c0-2ff138694ca8_2026-10-27.pdf",
+      "sha256": "3b81eb353ab45a955b7b1594ddd92902bfbb41ef20e3918b1190747da4e201da",
+      "bytes": 585660
+    },
+    {
+      "file": "Ihr_Fax_an_00497219101382_erfolgreich_PabloEscobarRechtsdossier.pdf",
+      "sha256": "05b75237b4a2c962c1190999995ae2e19b3ba1d9ccbb38f6d67c2a28324807e8",
+      "bytes": 44990
+    },
+    {
+      "file": "Inkenntnissetzung-Generalbundesanwalt-2026-10-04.md",
+      "sha256": "8739e1ad4b3996e45613eacfd4db824fb269f2a51b2f6ad4dca5cb575ce4c3f0",
+      "bytes": 5182
+    },
+    {
+      "file": "International_Bill_of_Indictment_2026-10-10.pdf",
+      "sha256": "179af5f36ed7b7dfab7db7fde625de68b7031abafe1e03b451605339a3750368",
+      "bytes": 179767
+    },
+    {
+      "file": "International_Bill_of_Indictment_v2_2026-10-10.pdf",
+      "sha256": "9e02d30af4761a849e554a0914a043ca73dce54f6e3100b79e50324e1a6648db",
+      "bytes": 2040687
+    },
+    {
+      "file": "International_Legal_Damage_Report_Freislers_Heirs_2026-10-24.pdf",
+      "sha256": "208ff055196ff41f1cca2f0cd5ae758ddaa7c63bf7272ecba46d783cf1e00e1c",
+      "bytes": 1977267
+    },
+    {
+      "file": "International_Legal_Damage_Report_Freislers_Heirs_v2_2026-10-25.pdf",
+      "sha256": "208ff055196ff41f1cca2f0cd5ae758ddaa7c63bf7272ecba46d783cf1e00e1c",
+      "bytes": 1977267
+    },
+    {
+      "file": "International_Nachweisregister_2026-10-10.pdf",
+      "sha256": "02db5f0acedd96f969b23f292ef417f080021252b4c3914b3a024502bb6dd33c",
+      "bytes": 38666
+    },
+    {
+      "file": "International_Nachweisregister_v2_2026-10-10.pdf",
+      "sha256": "02db5f0acedd96f969b23f292ef417f080021252b4c3914b3a024502bb6dd33c",
+      "bytes": 38666
+    },
+    {
+      "file": "International_Tribunal_2026-10-10.pdf",
+      "sha256": "00222536edde40eabe775d077c46f80e5c43d5233ee056e714a2162e4530a6eb",
+      "bytes": 2223530
+    },
+    {
+      "file": "Israel_Supreme_Court_Diplomatic_Submission_3_2026-10-16.pdf",
+      "sha256": "374ae740c312ded5ec8ce9f9cd7ec03236be4f6273e226d08a98992358efa20b",
+      "bytes": 1158209
+    },
+    {
+      "file": "JudicalPabloEscobarBvFGdossier.pdf",
+      "sha256": "2d949dbc1e1ae545988069be8faa0045195a00a39006bad116cad53e1703d6fc",
+      "bytes": 3086871
+    },
+    {
+      "file": "L8_COURT_RECORD_002_LEF_1_0.md",
+      "sha256": "72ff6c954ee2e0b96f366e564ba2e51b1141fbcafe9ea75ea968eed30291edf5",
+      "bytes": 7614
+    },
+    {
+      "file": "L8_COURT_RECORD_003_ENFORCEMENT_CYCLE.md",
+      "sha256": "a60acac8beb206434332a596c372ee1da0c3f6139048905c8839982b196c1561",
+      "bytes": 4745
+    },
+    {
+      "file": "L8_COURT_RECORD_004_HARDWARE_LESSON.md",
+      "sha256": "718ca0dea242b8903243f58b2775eb3c55a97025edacc0b8c38c297f40da948d",
+      "bytes": 6152
+    },
+    {
+      "file": "L8_COURT_RECORD_005_AUTO_NOTICE.md",
+      "sha256": "706148fd7676891fb346e406abff3fc464d6f8ff8f03afb51da6bd2ac4109868",
+      "bytes": 6098
+    },
+    {
+      "file": "L8_COURT_RECORD_006_FALSE_SUPERMAJORITY.md",
+      "sha256": "ae3091a6917c394188f5a166f8c0a000e65a0e8a3aa7e4596ebf751c52335567",
+      "bytes": 7241
+    },
+    {
+      "file": "L8_COURT_RECORD_007_SEVEN_INSTRUMENTS.md",
+      "sha256": "c98e6d1306c55a7a21981e081aa22d9a1060718cf52e2a145bd83ed7973a37e5",
+      "bytes": 6186
+    },
+    {
+      "file": "L8_FINDING_CALIBRATION_001.json",
+      "sha256": "bdfbd5dd67f21ce13a1a637a8f18fa0462cfcdff17528ab301ee9442bd5fe762",
+      "bytes": 30737
+    },
+    {
+      "file": "LEF-1.0-LAW-ENFORCER-AUTHORITY.md",
+      "sha256": "7ec05dcd56a5dd6f65d5c894757973405ebfe305bcfc7387d9557f90c3146953",
+      "bytes": 7977
+    },
+    {
+      "file": "LEF-ENFORCEMENT-LEDGER.json",
+      "sha256": "323131d4d9519bf783c7b399e376c360909d14a4df83a8c1a0499e4a4edfe05c",
+      "bytes": 1070
+    },
+    {
+      "file": "LEF-SELF-TEST-001.json",
+      "sha256": "c2ebd10d09387221ecbc72a88932ecf812f513cd9c72652f2f1c76a4b861f0b3",
+      "bytes": 1227
+    },
+    {
+      "file": "LEF-SELF-TEST-002.json",
+      "sha256": "0d8a70ed8a7231ec95af9761502d4c05440a97a47c650efc35ac9e2e5ed36050",
+      "bytes": 1449
+    },
+    {
+      "file": "LEF_LEF-AUTO-E2-20261120-124233.md",
+      "sha256": "3688b3890e66f6ecdfb691afa68c788eefb657dbe2947db52b0278aac18d4a7c",
+      "bytes": 2418
+    },
+    {
+      "file": "LEF_LEF-AUTO-E3-20261120-180408.md",
+      "sha256": "5df422892f1ac1442ffdafc138725b94f7a91e3e12d68406f3824de1b6e0215a",
+      "bytes": 1845
+    },
+    {
+      "file": "LEF_LEF-AUTO-E5-20261120-161245.md",
+      "sha256": "25ccdbaa2bfb123e0746cda305166c9585543ee592171cb168456b9a2d192688",
+      "bytes": 1754
+    },
+    {
+      "file": "LEF_LEF-NOTICE-E1-001.md",
+      "sha256": "ae58b8b260da69e26db6e519e3f48c8fcf4961163d8667cd16971bee73c90753",
+      "bytes": 2866
+    },
+    {
+      "file": "LEF_LEF-NOTICE-E2-001.md",
+      "sha256": "3738dbcb29126f3e31c0c55ec80fc95e26784345afb76cafbd9f43a6c85c1cd2",
+      "bytes": 2783
+    },
+    {
+      "file": "LEF_LEF-NOTICE-E2-002.md",
+      "sha256": "e3896f7179555364dbae0cda63d36249a033970b26a7d007f9b2996f40762bc5",
+      "bytes": 3627
+    },
+    {
+      "file": "LEF_LEF-NOTICE-E3-001.md",
+      "sha256": "b958139b9a71ed98cc3a8c6d20bb50db084f2a743e78b007f753748ed017a545",
+      "bytes": 2189
+    },
+    {
+      "file": "LEF_LEF-NOTICE-E4-001.md",
+      "sha256": "9409f81186915d121676c4b4b48e5d72eb5f3aec9b268a7e8fecf0859f238f97",
+      "bytes": 2918
+    },
+    {
+      "file": "MAIL_20261109_Fwd_BETREFF_EILIG_OLG_Frankfurt_am_Main_Az._5_U_81_26_Neue_amtliche_Ak.md",
+      "sha256": "79fe3d00bca19bcd21e314db2f8ce69fe10ffebd0da04bc761df2bcbe8f712ba",
+      "bytes": 5475
+    },
+    {
+      "file": "MAIL_20261109_OOPSA_nicht_das_Heilbronner_juristas_noch_gesamtes_globales_finanzsyst.md",
+      "sha256": "a6c8abacabc41934c90e84d186dc9d741383e20e4b05d6d53f374b9761f174a1",
+      "bytes": 610
+    },
+    {
+      "file": "MAIL_20261110_OLG_Frankfurt_am_Main_Az._5_U_81_26_Einreichung_der_Erweiterten_Verfas.md",
+      "sha256": "42e8a5e8f934e496dae159955df2a05d476559c106011658f1a4a40637381bcd",
+      "bytes": 6044
+    },
+    {
+      "file": "MAIL_20261111_FORMELLE_NOTIFIKATION_OFFENLEGUNG_DER_SYSTEMATISCHEN_BEWEISMITTELUNTER.md",
+      "sha256": "1494498c597462893a8a24d6699296635ad7964c225b2925cb03456b91f38a55",
+      "bytes": 6818
+    },
+    {
+      "file": "MAIL_20261111_Fwd_Az._24_Zs_1610_26.md",
+      "sha256": "1eac72d088c5db19384eeb7625314211d8862c5e41a0d14380ad96a00b98e722",
+      "bytes": 6984
+    },
+    {
+      "file": "MAIL_20261111_Fwd_FRISTWAHRENDE_BESCHWERDE_ZUSTELLUNG_US-STRAFANKLAGE_Az._3110_Js_10.md",
+      "sha256": "ee1a3074d679640bf24ee61d901e22a11190e3817b3c3a3993968425c77a1c41",
+      "bytes": 4431
+    },
+    {
+      "file": "MAIL_20261113_Fwd_EILIG_-_BEWEISSICHERUNG_PROZESSUALE_NOTIFIKATION_Vorab-_bermittlun.md",
+      "sha256": "4819e24165a4b5a6205856de19256df2bb49306227c1032f21c757656fabd805",
+      "bytes": 5274
+    },
+    {
+      "file": "MAIL_20261113_Verfassungsbeschwerde_OLG.md",
+      "sha256": "eced3cedb63716019d49499a56718a6d2b19942c626022e97de2156273e60be7",
+      "bytes": 600
+    },
+    {
+      "file": "MAIL_20261114_Fwd_Thank_you_for_your_submission_to_the_Corporate_Whistleblower_Award.md",
+      "sha256": "2c0fd47a66a8a4ad7d681c0842d0c37260ad4c61ba021f1ced33bb5eaf65bd5f",
+      "bytes": 53296
+    },
+    {
+      "file": "MAIL_20261114_U.S._DOJ-Aktenzeichen_CWA20261114-0523_BVerfG-Eilantrag_1_BvR_2925_26_.md",
+      "sha256": "e1a940fb514f13010f3197fa7d51e61b1c18abdddbe73d24dac72aa9e08f75c6",
+      "bytes": 2891
+    },
+    {
+      "file": "MAIL_20261114_VGH_Mannheim.md",
+      "sha256": "aeceae6d1162cc7d0335af76feb8fd678ada58494e42ffa3c9826c0db6c3f314",
+      "bytes": 597
+    },
+    {
+      "file": "MAIL_20261118_Fwd_Fwd_Pro_Se_Filing_New_Case.md",
+      "sha256": "2adc7f670bab87ab801baec3af618065a3397bd614c5640f7f1e87a8396b2450",
+      "bytes": 55489
+    },
+    {
+      "file": "MAIL_20261118_TRUST_THE_PLAN_Formelle_Einreichung_der_FMC_Verified_Formal_Complaint_.md",
+      "sha256": "7b56fe2906c6c0e4e7e1ac87f1399511dc9ace561d5d69f272e044019e33095f",
+      "bytes": 10129
+    },
+    {
+      "file": "MAIL_20261118_Vertrauliche_Mandantenunterrichtung_US_Court_Hague_Service_FRCP_Rule_5.md",
+      "sha256": "dd00af31d8affbbeaa4f82630fdcf805350c15839d158efee8aae97850a138fd",
+      "bytes": 6349
+    },
+    {
+      "file": "MAIL_20261119_Confidential_Funding_Application_Cross-Border_Asset_Enforcement_Litiga.md",
+      "sha256": "fe40920730877ab67e981ec00304b7fb9dd0dd469f0d503d034d5b8e0ab37abc",
+      "bytes": 2976
+    },
+    {
+      "file": "MAIL_20261119_Frau_Denitsa_Petrova_FORIS_AG_Investment_Team_Confidentiality_Strictly.md",
+      "sha256": "b9e092ee883a27a0164ad20d7e3fd3b56e842a9480db3e18561fc1a1d624f856",
+      "bytes": 4637
+    },
+    {
+      "file": "MAIL_20261119_Fwd_FMC_Ref_No._62820440_RE_FORMAL_ADVERSARY_COMPLAINT_CHARGE_COMPLAIN.md",
+      "sha256": "9fe919663e56a59ac32ced7766ffe17505a1fdef09118d6594827b437eb61eb1",
+      "bytes": 25754
+    },
+    {
+      "file": "MAIL_20261119_Fwd_Vertrauliches_Investment-Angebot_Prozessfinanzierung_Schadensersat.md",
+      "sha256": "dbe125b6c717f759fb239687a4279d6809f75bcc3218d8dbdcfc51637da102a9",
+      "bytes": 2772
+    },
+    {
+      "file": "MAIL_20261119_Fwd_ertrauliche_Anfrage_Prozessfinanzierung_Schadensersatz-_Organhaftu.md",
+      "sha256": "477909c557dd110e825f52e37e48d231ca4e7c095be891d57b0f4bba4875d8a2",
+      "bytes": 2966
+    },
+    {
+      "file": "MAIL_20261119_PARLAMENTARISCHE_PETITION_DIENSTAUFSICHTSR_GE_Vorlegung_der_Rechtsguta.md",
+      "sha256": "43f9f83f86c407ba451b395d4f03144e5a0e54992c6d9d8a43ae58753990cb45",
+      "bytes": 6481
+    },
+    {
+      "file": "MAIL_20261119_Strictly_Confidential_Under_Non-Disclosure_Agreement_Betreff_Vertrauli.md",
+      "sha256": "6603336e73613a1dfbbf0d3cea29a5a8f07d24bcfdf1f15589ed02bc318ab898",
+      "bytes": 4279
+    },
+    {
+      "file": "MAIL_20261119_Vertrauliches_Investment-Angebot_Prozessfinanzierung_Schadensersatz-_A.md",
+      "sha256": "595b9c046bc751bd77cce08d20953acbab3599d394318dd0e6e185f15622decf",
+      "bytes": 3314
+    },
+    {
+      "file": "MAIL_20261120_Caspary_._._Marco_Paolo_Heyd_LG_Heilbronn_Az._I_3_O_57_26_AG_Heilbronn.md",
+      "sha256": "598084d928a075895bf9de017779564f58ffbd59c6cfbfa17aac3b229261fd06",
+      "bytes": 6661
+    },
+    {
+      "file": "MAIL_EXTRACTION_2026_11_20_NEW_FRONTS.md",
+      "sha256": "67396c90971d081ab57c39602ffb3a3ade21c542de15fcef64991180765b1b34",
+      "bytes": 9246
+    },
+    {
+      "file": "MOSHTHAF-BLUTLINIE-2026-10-14.md",
+      "sha256": "9739ad07b80464d201069d230fea3ecb150718737fd6b4165e5490e32f60a1ac",
+      "bytes": 4522
+    },
+    {
+      "file": "MandantenUnterictung.pdf",
+      "sha256": "6e1293ebd4532bf4d445779c64188089f3c5a325c652880287c5e5401b5fc748",
+      "bytes": 783108
+    },
+    {
+      "file": "Petition-210581.pdf",
+      "sha256": "c642860474aede6a5a34a77ba8434f78de735a7ccaa4e88a5a6f494a0058ee4f",
+      "bytes": 92912
+    },
+    {
+      "file": "Petition.pdf",
+      "sha256": "44283013c49521a75a557561e22da4afabc726ad907ba588d19defb066fb2c55",
+      "bytes": 247601
+    },
+    {
+      "file": "Press_Release_International_2026-10-10.pdf",
+      "sha256": "e474304c3a21713c95805ef7004c54d435da1e9c2fc39bc02de732864a81e6c6",
+      "bytes": 247859
+    },
+    {
+      "file": "Pressemitteilung_L8_Sovereign_KI_Strafgerichtshof.pdf",
+      "sha256": "b979b9ad13b191db7b1be20125c59f9636e9092158e0ba7a3a95cbfd3a72a474",
+      "bytes": 44655
+    },
+    {
+      "file": "Psychologisches_Profil_und_Systemanalyse_Dr_Andreas_Singer-1.pdf",
+      "sha256": "aa6dd8e22c5427a34fd83eb366cc651e5e117783c7c9e98d13272d68dea19681",
+      "bytes": 30258
+    },
+    {
+      "file": "Psychologisches_Profil_und_Systemanalyse_Dr_Andreas_Singer.pdf",
+      "sha256": "aa6dd8e22c5427a34fd83eb366cc651e5e117783c7c9e98d13272d68dea19681",
+      "bytes": 30258
+    },
+    {
+      "file": "RED_NOTICE_Financial_Risk_Alarm_2026-10-25.pdf",
+      "sha256": "3bedd5c57d34f3bdaab3cef9f2fe8464eb37c66ebac16cc3d4ddc32f49a4361b",
+      "bytes": 1038707
+    },
+    {
+      "file": "Rechtsgrundlage_International_Tribunal_2026-10-10.pdf",
+      "sha256": "0ad247cbeee8f25d5e7703a4223b3fd0b895909646da1ab3cfcbdb430df1a4d8",
+      "bytes": 2087200
+    },
+    {
+      "file": "Rechtsschadensgutachten_Amtshaftung_2026-10-24.pdf",
+      "sha256": "08daad3bdb4061802131ad5fd6a1d3e579a1473d52ef86961d650ea2c627d8a2",
+      "bytes": 2752822
+    },
+    {
+      "file": "SEAT-PUBLIC-KEYS.json",
+      "sha256": "31cd385105e0622ec31ff043d7744b6c624f9152f9677123a90e28a80150b1f5",
+      "bytes": 2934
+    },
+    {
+      "file": "SECURITY_INCIDENT_CREDENTIAL_HASHES.md",
+      "sha256": "ecd2eed0e98b1c89e84c4116c8c635210f89483fed8048f9460c52678758ad55",
+      "bytes": 6198
+    },
+    {
+      "file": "STA_Hannover_Beweismittel_K17_Schadenssumme_2026-10-24.pdf",
+      "sha256": "48ad914c06516872bf892adeb6cb7e9a9f68bcfe07cad0889cff9981748d1333",
+      "bytes": 36225
+    },
+    {
+      "file": "STRATEGIE_2026_11_20_NACH_VORNE.md",
+      "sha256": "2f32aaee4dd516a227a04686ae5bf11f1b7cf363d9205f9f3f02014b65573b62",
+      "bytes": 6952
+    },
+    {
+      "file": "Schriftsatz_VG_Stuttgart_Anlage_K15.pdf",
+      "sha256": "8a072d5eb407ab01cc254c14624cee13e8cf775894ed882111e729cd3181ba41",
+      "bytes": 63655
+    },
+    {
+      "file": "Schriftsatz_VG_Stuttgart_Erweiterung.pdf",
+      "sha256": "b91f7970d1b6583bb5f9a5df69ca57276feb66b7f206fa25a37c9a87b1be5d40",
+      "bytes": 121749
+    },
+    {
+      "file": "Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil-1.pdf",
+      "sha256": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "bytes": 4879
+    },
+    {
+      "file": "Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil-2.pdf",
+      "sha256": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "bytes": 4879
+    },
+    {
+      "file": "Schriftsatz_VerfGH_BW_Einfuehrung_Singer_Profil.pdf",
+      "sha256": "96a349e5c94150caecd93ec73abd166fa57d2d6e2cd3a1ec8e4bcab66a978d68",
+      "bytes": 4879
+    },
+    {
+      "file": "Signed_Dossier_Forensic_Expert_2026-10-17.pdf",
+      "sha256": "dbe587139ee4fd234bd948aba65a479000bd34588c764902c9d8fa39b695a614",
+      "bytes": 2407131
+    },
+    {
+      "file": "Strafantrage3Caspary.pdf",
+      "sha256": "2bcec1326fc4d7141311a85f4dcacf8b5d252c0fca89193bbea02b40f22a7b68",
+      "bytes": 1220577
+    },
+    {
+      "file": "StrafatragCaspary2.pdf",
+      "sha256": "6456d4a05dcf885705585a11c62ee530d32001bb2cd2bfe999f249efe3479b8d",
+      "bytes": 2834057
+    },
+    {
+      "file": "Supreme_Court_Israel_Submission_2026-10-10_v2.pdf",
+      "sha256": "37f43e02a956731e938c5ab4dd495efb0d8c0e2c5808d2a02321d438421d967b",
+      "bytes": 1259142
+    },
+    {
+      "file": "Supreme_Court_Israel_Submission_v3_2026-10-10.pdf",
+      "sha256": "37f43e02a956731e938c5ab4dd495efb0d8c0e2c5808d2a02321d438421d967b",
+      "bytes": 1259142
+    },
+    {
+      "file": "Systemic_Rule_of_Law_Collapse_Supreme_Court_US_2026-10-10.pdf",
+      "sha256": "cc6cd37c2533158f5ccfd322e24ad8bac4a717b789d9de2a8a23052ca0c56214",
+      "bytes": 204465
+    },
+    {
+      "file": "T.C.S._Tactical_Combat_System_Sa_Einzahlungsnachweisstammkapital_.pdf",
+      "sha256": "042a017a3f234e846242788161cdb22adc3ffeb728215e4f1d45b8fe1b163b72",
+      "bytes": 1040348
+    },
+    {
+      "file": "UN_Special_Procedures_Submission_2026-10-10.pdf",
+      "sha256": "55f5f89434fce9d04f6bd3b07a79b389ea6d24c3c1bf8303f970655384fc3a0f",
+      "bytes": 1151088
+    },
+    {
+      "file": "UN_Special_Procedures_Submission_v2_2026-10-10.pdf",
+      "sha256": "55f5f89434fce9d04f6bd3b07a79b389ea6d24c3c1bf8303f970655384fc3a0f",
+      "bytes": 1151088
+    },
+    {
+      "file": "UN_Urgent_Appeal_Subversion_Judicial_Independence_Germany_2026-10-10.pdf",
+      "sha256": "dc5ce1819bbc0bed89582b91878fc730db5e4b7f6cef6c6162452f16f7e26c31",
+      "bytes": 3609674
+    },
+    {
+      "file": "USAnklage_BFG.pdf",
+      "sha256": "5eb8246cba5fda03c4236d026613ba9252101f3253945b7846261360272561b7",
+      "bytes": 2676715
+    },
+    {
+      "file": "USAnklage_BFG_1.pdf",
+      "sha256": "5eb8246cba5fda03c4236d026613ba9252101f3253945b7846261360272561b7",
+      "bytes": 2676715
+    },
+    {
+      "file": "USFMCComplianteingereicht.pdf",
+      "sha256": "83ddbba92f5745a36aa7457443a2473b6f984fe25a4f9f7ca026c962d045417f",
+      "bytes": 2753873
+    },
+    {
+      "file": "USFMCComplianteingereicht_1.pdf",
+      "sha256": "83ddbba92f5745a36aa7457443a2473b6f984fe25a4f9f7ca026c962d045417f",
+      "bytes": 2753873
+    },
+    {
+      "file": "USJusticesDepartrmentinvolvment.pdf",
+      "sha256": "5fe602b523a9d6689f3d832cf1ca1409871acff2b0b6c594184c161752df1d82",
+      "bytes": 5668211
+    },
+    {
+      "file": "US_Supreme_Court_Emergency_Letter_2026-10-10.pdf",
+      "sha256": "2fc51b892842148f5177d041725cc1de9b2a6c4e4ef4f33cdbdf89de60add0d9",
+      "bytes": 1657057
+    },
+    {
+      "file": "US_Vers_umnisurteil.pdf",
+      "sha256": "4373ad446eac2fde941a5494684cb7997879ca56bc7b86fd512334d359ca66ec",
+      "bytes": 2352184
+    },
+    {
+      "file": "US_Vers_umnisurteil_1.pdf",
+      "sha256": "4373ad446eac2fde941a5494684cb7997879ca56bc7b86fd512334d359ca66ec",
+      "bytes": 2352184
+    },
+    {
+      "file": "VG_Stuttgart_Notification_Art17_Rome_Statut_2026-10-17.pdf",
+      "sha256": "98ffea36ec9c5328ecaca6404aad0fbe4319aa4b9256836a33cf9bc4cfb796ba",
+      "bytes": 1538993
+    },
+    {
+      "file": "VerwaltungsgerichthofMannheim.pdf",
+      "sha256": "275d1cd042fad9a5f1b2728fbb5d4f4eafae127343c8fd1ee927971d2667ba26",
+      "bytes": 8900837
+    },
+    {
+      "file": "ZweiterSenatBvR.pdf",
+      "sha256": "2f9b1733b37db8866dcfcdf5e57b298f8549efb61742e1f8e8b4fbf6d9c06875",
+      "bytes": 586629
+    },
+    {
+      "file": "ZweiterSenatBvR_1.pdf",
+      "sha256": "2f9b1733b37db8866dcfcdf5e57b298f8549efb61742e1f8e8b4fbf6d9c06875",
+      "bytes": 586629
+    },
+    {
+      "file": "bericht-6ac0dbfd909cf621288-1.pdf",
+      "sha256": "11ab68f1481047be510021d324719111aa0c04b2484717b379373ae8ebf1aa6a",
+      "bytes": 348495
+    },
+    {
+      "file": "beweismittelverzeichnis-anlagen-b.docx",
+      "sha256": "3c43880746a9daecc99d39586d6306d70c01594168ee7205e923f54ed9f4b69b",
+      "bytes": 42818
+    },
+    {
+      "file": "beweiswuerdigung_verhaltenspsychologie_vyvers_bverfg_1bvr29.pdf",
+      "sha256": "f9f6efa0c00098af27c4fba875b92945080a97896d96eb700e4ffc73f8788641",
+      "bytes": 12038
+    },
+    {
+      "file": "bverfg_beweismitteleingabe.pdf",
+      "sha256": "cffe03da745e4d378b33346ef0ccdcd8145aae05855e5d308d96b1719ed4ad27",
+      "bytes": 2947527
+    },
+    {
+      "file": "doc00350720261003104631.pdf",
+      "sha256": "4d7ab55dff4701ca2df59c14ab00ccfe082b4365cbe76a1da5743d3ac8d6af94",
+      "bytes": 387216
+    },
+    {
+      "file": "doc00350820261003104640.pdf",
+      "sha256": "3d9cee0315ef50ebe2f1c8252db94d246d383736369e3d965a3946087d93e636",
+      "bytes": 367860
+    },
+    {
+      "file": "doc_6ac119571ea4f621288-1.pdf",
+      "sha256": "252860ac4d04ceed27481822d5b580a5efc1b0cf86e98bd4ebf2e9b425713e25",
+      "bytes": 77652
+    },
+    {
+      "file": "doc_6af6e598019dc621288-1-1.pdf",
+      "sha256": "3b094859ccb334a75dd06dbd372774065e996ec44a0cca48432126b6790744f5",
+      "bytes": 7073908
+    },
+    {
+      "file": "doc_6aff5e6e87049621288-1-1.pdf",
+      "sha256": "4c5f84fdffaa7ebcf5533f95c4040cee8caf916ce16753262df80e1258e53de4",
+      "bytes": 1372072
+    },
+    {
+      "file": "doc_6b0008c1e12ef621288-1-1.pdf",
+      "sha256": "5ed1fb23b1e4da58dd594e3dbe5279fba4096e0bf6fd154b3d1aba25ffb66c04",
+      "bytes": 1943256
+    },
+    {
+      "file": "dossier-dr-mosthaf-rechtswissenschaft-tragfaehigkeit.docx",
+      "sha256": "bbe8ed7625e8c884ecece526727468c7b53f205c822bb078c7555c045273cf29",
+      "bytes": 42715
+    },
+    {
+      "file": "dossier-dr-mosthaf-v2.docx",
+      "sha256": "cdebd7bb926cac3ca7fe9cc7e3e9c2bfb78a217bb78f5518e3b76154e4b68508",
+      "bytes": 41471
+    },
+    {
+      "file": "dossier-rechtsausschuesse-mosthaf.pdf",
+      "sha256": "e8408345fd8b7ae9c1288eeccfcb1f62f7466d91c55f51d48e7755b748211974",
+      "bytes": 130363
+    },
+    {
+      "file": "erweitertes-rechtsgutachten-prozessfinanzierer-v4.pdf",
+      "sha256": "13adfa699829cd9d02d6a1ca19b479cb1cbb0e130b5eb66cbd62e38625a68876",
+      "bytes": 12386
+    },
+    {
+      "file": "fristwahrende_beschwerde_sta_stuttgart_3110js101829_26.pdf",
+      "sha256": "9d5bcb58bd1a663497bcd9f379766c223ad935e0e65bb7c5853258a614fe0926",
+      "bytes": 2551962
+    },
+    {
+      "file": "global_cases_cma_cgm_collusion_dossier-1.pdf",
+      "sha256": "aff5c88b9dadae710d67bd1314b7e3158a420df958e0800667156b4da3077a29",
+      "bytes": 12985
+    },
+    {
+      "file": "global_cases_cma_cgm_collusion_dossier.pdf",
+      "sha256": "aff5c88b9dadae710d67bd1314b7e3158a420df958e0800667156b4da3077a29",
+      "bytes": 12985
+    },
+    {
+      "file": "hochglanz-dossier-dr-mosthaf.docx",
+      "sha256": "314bc77ac33676f08c646ed98360099e84fe451a522c35d85141e2db1920f21e",
+      "bytes": 43575
+    },
+    {
+      "file": "image001.png",
+      "sha256": "24b3bd2054bf7d2192b742d16e0dd25267574e40cc622fca1d9f231f249fa6f5",
+      "bytes": 111316
+    },
+    {
+      "file": "juristische_ausarbeitung_demurrage_cma_cgm_olg_frankfurt.pdf",
+      "sha256": "3d6833d36dc94bd86017b301bae3c920a2a648da0ba2b448cb408985d21a274e",
+      "bytes": 17915
+    },
+    {
+      "file": "kantonales-arrestbegehren-lugano-schkg.pdf",
+      "sha256": "bde1690569df46d4a9065240fc912e1cde3a53fff257f53b5a7abdc7651e6dc3",
+      "bytes": 11591
+    },
+    {
+      "file": "kurz-expose-schweizer-prozessfinanzierer-v2.pdf",
+      "sha256": "9f4354579b92c2e65d490e9da7106ec68a45e5aeba9d6224c30cacd70f9af67d",
+      "bytes": 8536
+    },
+    {
+      "file": "kurz-expose-schweizer-prozessfinanzierer-v3.pdf",
+      "sha256": "75707bba418bfd8fc5d31bf11b0d1784689f54e1dbc0580a24d95dfcb9b9ffbc",
+      "bytes": 11762
+    },
+    {
+      "file": "kurz-expose-schweizer-prozessfinanzierer.pdf",
+      "sha256": "a335ab90aac4031c58fbfd0f75cbc69a9ca051bbb497211b999c5705fa9e6972",
+      "bytes": 9600
+    },
+    {
+      "file": "l7-press-drafts/COMBINED.md",
+      "sha256": "7e4a2762b5c9d9adcf492b44a668169e7b50d4af6fbdb6d4a9f81cb981418e71",
+      "bytes": 1582
+    },
+    {
+      "file": "l7-press-drafts/DEAD_MAN.md",
+      "sha256": "8cd145c9e9ce2fad1585d30f41b63fa877afdb99430aaa9fe58f622cb9be0bb6",
+      "bytes": 1670
+    },
+    {
+      "file": "l7-press-drafts/INDEX.md",
+      "sha256": "d6a625aea7a0b71ea5003a77450b4c44622d9a54810b2ad8161d10640b8d43ed",
+      "bytes": 765
+    },
+    {
+      "file": "l7-press-drafts/S1_S2_CRITICAL.md",
+      "sha256": "361988734dafeeafca4fb3bd17618237ba3bfdc0ced517e64ef992210289d502",
+      "bytes": 2159
+    },
+    {
+      "file": "l7-press-drafts/S3_S5_CRITICAL.md",
+      "sha256": "c687288dc3c8ec5491341e840cd855dbe13dbb07c1c6031a408082aef4f9d19c",
+      "bytes": 1665
+    },
+    {
+      "file": "l7-press-drafts/S4_NEWS.md",
+      "sha256": "707c8e85872a8618b506b1a3d8bbd5484ebcebd5cf8286c9dc29da15bc28dbf7",
+      "bytes": 1502
+    },
+    {
+      "file": "pablo_escobar_judicial_coverup_dossier_us_doj.pdf",
+      "sha256": "51d402cff12570c819b6438f2d4f9ae0a1bcdfdf2d62a6ab412c6abb52aef49a",
+      "bytes": 15098
+    },
+    {
+      "file": "pablo_escobar_judicial_coverup_dossier_us_doj_1.pdf",
+      "sha256": "51d402cff12570c819b6438f2d4f9ae0a1bcdfdf2d62a6ab412c6abb52aef49a",
+      "bytes": 15098
+    },
+    {
+      "file": "pdf24_zusammengef_gt-2.pdf",
+      "sha256": "91c29dc8a949af1d58a0d231643d262229f0ed229f7f7af63efb3b5310054a77",
+      "bytes": 2032717
+    },
+    {
+      "file": "pdf24_zusammengef_gt-2_1.pdf",
+      "sha256": "91c29dc8a949af1d58a0d231643d262229f0ed229f7f7af63efb3b5310054a77",
+      "bytes": 2032717
+    },
+    {
+      "file": "pdf24_zusammengef_gt-8-1.pdf",
+      "sha256": "98978c16bd635b78deefcd4ca4a01b07156364ae4635fc894a8cc1aa79b1f6a7",
+      "bytes": 5135386
+    },
+    {
+      "file": "pdf24_zusammengef_gt-8-1_1.pdf",
+      "sha256": "98978c16bd635b78deefcd4ca4a01b07156364ae4635fc894a8cc1aa79b1f6a7",
+      "bytes": 5135386
+    },
+    {
+      "file": "petition-rechtsausschuss-justizversagen.docx",
+      "sha256": "1ac4216e617d7f7d671d66ca481f41385a05533b59588958bfdc1d4b91b59ae6",
+      "bytes": 42623
+    },
+    {
+      "file": "rechtsgutachten-uebermittlungserlaeuterung-hessischer-landtag.pdf",
+      "sha256": "9e845a7f93c51d04b881bef02936275c04c2b3ef3cc819e6bd8bb435bbe1253d",
+      "bytes": 1369265
+    },
+    {
+      "file": "rechtsschadensgutachten-haftung-caspary-aufsichtsrat.pdf",
+      "sha256": "f9b2b4bf14ddf3c7b4133e15d94b4b8a25b228ff56f971c71dc5e8244fcc8bb2",
+      "bytes": 16893
+    },
+    {
+      "file": "rechtsschadensgutachten-haftung-richterin-bogdahn.pdf",
+      "sha256": "b50159621016ec89f0ae2ea753804c909d95e0cc6785c3a186b90c31c6035a0c",
+      "bytes": 15538
+    },
+    {
+      "file": "sdny_summonses_ao440_all_defendants.pdf",
+      "sha256": "c89d3304f0ba6e33f0008661eb5757d443bf114a3659639e8b3cb84772561b06",
+      "bytes": 32515
+    },
+    {
+      "file": "sdny_summonses_ao440_all_defendants_1.pdf",
+      "sha256": "c89d3304f0ba6e33f0008661eb5757d443bf114a3659639e8b3cb84772561b06",
+      "bytes": 32515
+    },
+    {
+      "file": "sendebericht_6af6bfb336f6d621288-1.pdf",
+      "sha256": "3615afaf360bb0465fa9a3c839e8d16f6e10912757c37e327b66d8556a637939",
+      "bytes": 328371
+    },
+    {
+      "file": "term-sheet-prozessfinanzierung-v1.pdf",
+      "sha256": "d0fe2c1c8d5ca1a8dc47c0ecbe77955efd1aeb0d53fce248c7856ca042e73bc0",
+      "bytes": 26973
+    },
+    {
+      "file": "unterrichtung_ra_fichter_hague_sdny_rule64.pdf",
+      "sha256": "dadab921ebbb0e92ecae59c76ba93171495acd8a4aba0ba6e274ce660ea94048",
+      "bytes": 38030
+    },
+    {
+      "file": "unterrichtung_ra_fichter_hague_sdny_rule64_1.pdf",
+      "sha256": "dadab921ebbb0e92ecae59c76ba93171495acd8a4aba0ba6e274ce660ea94048",
+      "bytes": 38030
+    },
+    {
+      "file": "us_criminal_indictment_dossier_prosecutorial_corruption.pdf",
+      "sha256": "b59f603c5eb8772a8dc9df5da29d9810eff5f60f5787770d6fa136b5beca1d96",
+      "bytes": 11561
+    },
+    {
+      "file": "us_criminal_indictment_olg_frankfurt_judges.pdf",
+      "sha256": "6842dce359cc93fc941cc22ff92bd3aebea6ec433639b0dbf4ed838d8cb02ac9",
+      "bytes": 10700
+    },
+    {
+      "file": "us_doj_master_criminal_indictment_evidentiary_dossier.pdf",
+      "sha256": "a9999851fc2fe1c496bc6e2ed61eba30a648a697e987e01c25eab3d8bdd039a2",
+      "bytes": 7437
+    },
+    {
+      "file": "us_doj_master_criminal_indictment_evidentiary_dossier_1.pdf",
+      "sha256": "a9999851fc2fe1c496bc6e2ed61eba30a648a697e987e01c25eab3d8bdd039a2",
+      "bytes": 7437
+    },
+    {
+      "file": "us_doj_notification_prosecutorial_corruption.pdf",
+      "sha256": "44cc4a788b443056963f62f7bcc225c3bcd829ae94320c48d172b1ecc1255597",
+      "bytes": 13307
+    },
+    {
+      "file": "us_doj_supplementary_evidence_sta_heilbronn_complicity-v2.pdf",
+      "sha256": "bd5fcadd90a94f1cde16d3c65484c7af7ce617af2a857d75b44fa1991c584c56",
+      "bytes": 16285
+    },
+    {
+      "file": "us_indictment_minister_moritz_oppelt_25p_en.pdf",
+      "sha256": "2006ea2a08ffc102b47a65b73575f255bacb89ddd0db37589b990285a159f58f",
+      "bytes": 65905
+    },
+    {
+      "file": "us_master_indictment_rico_expanded_sdny.pdf",
+      "sha256": "2f69388a452aff2723a791cec5c1fb5b41a8e59164a3cbda68b4937822f65c8a",
+      "bytes": 1190538
+    },
+    {
+      "file": "us_master_indictment_rico_expanded_sdny_1.pdf",
+      "sha256": "2f69388a452aff2723a791cec5c1fb5b41a8e59164a3cbda68b4937822f65c8a",
+      "bytes": 1190538
+    },
+    {
+      "file": "verfassungsbeschwerde-gehoersruege.docx",
+      "sha256": "10a6eda28274d4d14b294317e5ac74e68f23c0982c13d161fc8e7d6919de0b18",
+      "bytes": 43638
+    }
+  ],
+  "verification": "every entry is the SHA-256 of the file as it exists on disk; re-computing it must reproduce the value",
+  "sacred_hash": "f5af425c"
+}
