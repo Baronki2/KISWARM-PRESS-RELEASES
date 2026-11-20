@@ -31,6 +31,17 @@ print("DID: {0}".format(notary.did), flush=True)
 # Secret material must never enter a public register.
 # Only the SHA-256 of evidence is published, but we still exclude key files
 # so no one can correlate a secret hash with a published proof.
+# NOTARIZER LESSON (2026-11-20, three passes):
+#   1. The secret filter missed 8 credential-bearing files. They are in the
+#      public register. Removal is impossible by API and SDK design.
+#   2. The filter then missed the L7 Shamir shares. Three of five reconstruct
+#      the L7 master key.
+#   3. The obvious broad fix ("share", "recovery") ALSO hid legitimate
+#      evidence (BRIDGE-RECOVERY, SENTINEL-RECOVERY). It was reverted.
+#      A filter that hides evidence is as wrong as one that leaks secrets.
+#   Rule: test the secret filter against a NAMED LIST of cases — both the
+#   things that must be blocked AND the things that must stay sealable.
+
 SECRET_PATTERNS = (
     "master-key", ".seed", ".pem", "id_khoj", "id_rsa", "id_ed25519",
     # 2026-11-20: 8 credential-bearing files slipped through the original list.
