@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T18:28:58.789361+00:00",
+  "generated": "2026-11-20T18:36:46.873526+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 219,
-  "total_bytes": 194565305,
+  "files_total": 222,
+  "total_bytes": 194574094,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -123,6 +123,16 @@
       "file": "Bundesverfassungsgericht_Ground_Zero_End_of_BRD_Rechtsstaat.pdf",
       "sha256": "561a60daf589abcf506f9a8e13f00b3844ba6597ca025fa2f0ad69d7adfbc910",
       "bytes": 8798935
+    },
+    {
+      "file": "CANONICAL-INDEX-HINWEIS.md",
+      "sha256": "f88b10e62ff2a174d8ae36e5a9f36a73ba93ff7861c0864f79c9df40c6c644dd",
+      "bytes": 903
+    },
+    {
+      "file": "CONSOLIDATED_CASE_COVER_MEMO.md",
+      "sha256": "f9eebb607400af383d29f587a17e05df83dee9d388e60991d521276d22ef01b2",
+      "bytes": 6066
     },
     {
       "file": "Cooperationsvereinbarung.pdf",
@@ -448,6 +458,11 @@
       "file": "LEF-SELF-TEST-002.json",
       "sha256": "0d8a70ed8a7231ec95af9761502d4c05440a97a47c650efc35ac9e2e5ed36050",
       "bytes": 1449
+    },
+    {
+      "file": "LEF_LEF-AUTO-E1-20261120-183112.md",
+      "sha256": "1d39b97c01128a850d600c111425c22b5c6c3f272c9eb1bc276b58c61ed6b9de",
+      "bytes": 1820
     },
     {
       "file": "LEF_LEF-AUTO-E2-20261120-124233.md",
@@ -1101,5 +1116,6 @@
     }
   ],
   "verification": "every entry is the SHA-256 of the file as it exists on disk; re-computing it must reproduce the value",
+  "predecessor_files_total": 219,
   "sacred_hash": "f5af425c"
 }
