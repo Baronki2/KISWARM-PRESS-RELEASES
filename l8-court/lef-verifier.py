@@ -113,12 +113,34 @@ def parse_legacy_manifest(text):
     return out
 
 
+def parse_canonical_json(text):
+    """Parse the canonical chain index: a single JSON with every file and its
+    SHA-256 as it exists on disk. This is the ONE index every checker reads —
+    the legacy MANIFEST.md and the content-addressed manifest are historical
+    views over the same truth, and two views meant two answers."""
+    try:
+        d = json.loads(text)
+    except Exception:
+        return []
+    out = []
+    for e in d.get("entries", []):
+        h = e.get("sha256")
+        f = e.get("file")
+        if not h or not f:
+            continue
+        # the canonical index stores paths relative to the evidence dir
+        out.append({"sha256": h, "file": f, "path": "evidence-bytes-local/" + f})
+    return out
+
+
 def check_e1(index_text, repo_base=None, local_dir=None, sample=None):
     """Re-hash every published blob and compare to the published index."""
     res = {"power": "LEF-E1", "domain": "evidence hash chain",
            "indexed": 0, "checked": 0, "match": 0, "mismatch": [], "missing": []}
 
-    entries = parse_content_addressed_index(index_text)
+    entries = parse_canonical_json(index_text)
+    if not entries:
+        entries = parse_content_addressed_index(index_text)
     if not entries:
         entries = parse_legacy_manifest(index_text)
     res["indexed"] = len(entries)
@@ -129,11 +151,14 @@ def check_e1(index_text, repo_base=None, local_dir=None, sample=None):
         data = None
         src = None
         if local_dir and e.get("path"):
-            p = os.path.join(local_dir, e["path"])
+            rel = e["path"]
+            if rel.startswith("evidence-bytes-local/"):
+                rel = rel[len("evidence-bytes-local/"):]
+            p = os.path.join(local_dir, rel)
             if os.path.exists(p):
                 with open(p, "rb") as f:
                     data = f.read()
-                src = "local:" + e["path"]
+                src = "local:" + rel
         elif local_dir and e.get("file"):
             p = os.path.join(local_dir, e["file"])
             if os.path.exists(p):
