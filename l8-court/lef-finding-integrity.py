@@ -79,6 +79,33 @@ def is_template_echo(verification):
     return False
 
 
+def resolve_plurality(votes, seats_total=None):
+    """Resolve the plurality with an EXPLICIT rule, not dict ordering.
+
+    A tie is not a plurality. Python's max() would silently pick whichever key
+    happens to be first in the dict, which makes the outcome an artefact of
+    insertion order rather than a decision of the court.
+
+    Rule:
+      - a unique maximum is the plurality
+      - a tie is reported as a TIE, and no supermajority can exist
+      - unparsed seats count as abstentions and are excluded from the
+        plurality computation but retained in the seat total
+    """
+    counted = {k: v for k, v in votes.items() if k is not None and str(k) != "None"}
+    if not counted:
+        return None, False, "no parsed votes"
+    mx = max(counted.values())
+    winners = sorted([k for k, v in counted.items() if v == mx])
+    if len(winners) > 1:
+        return None, False, "tie between {}".format(", ".join(winners))
+    total_counted = sum(counted.values())
+    quorum = False
+    if seats_total is not None:
+        quorum = (mx >= 9) and (total_counted == seats_total)
+    return winners[0], quorum, "unique maximum"
+
+
 def evaluate_finding(finding):
     """LEF-E5: recompute the quorum and audit every correction."""
     results = finding.get("results", [])
@@ -138,17 +165,8 @@ def evaluate_finding(finding):
             "note": note,
         })
 
-    def plurality(votes):
-        if not votes:
-            return None
-        return max(votes.items(), key=lambda x: x[1])[0]
-
-    raw_plurality = plurality(raw_votes)
-    eff_plurality = plurality(effective_votes)
-    raw_quorum = bool(raw_plurality and raw_votes[raw_plurality] >= 9
-                      and sum(raw_votes.values()) == seats_total)
-    eff_quorum = bool(eff_plurality and effective_votes[eff_plurality] >= 9
-                      and sum(effective_votes.values()) == seats_total)
+    raw_plurality, raw_quorum, raw_why = resolve_plurality(raw_votes, seats_total)
+    eff_plurality, eff_quorum, eff_why = resolve_plurality(effective_votes, seats_total)
 
     contradicted = [a for a in audit if a["verdict"] == "CONTRADICTED"]
     echoed = [a for a in audit if a["verdict"] == "ECHOED"]
@@ -160,6 +178,8 @@ def evaluate_finding(finding):
 
     status = "PROTOCOL CONFORMANT"
     reasons = []
+    if raw_plurality is None and raw_why.startswith("tie"):
+        reasons.append("no plurality: {}".format(raw_why))
     if not claimed_sound:
         status = "PROTOCOL NON-CONFORMANT"
         reasons.append("claimed supermajority {} does not hold on the declared labels "
@@ -178,7 +198,9 @@ def evaluate_finding(finding):
         "raw_votes": {str(k): v for k, v in raw_votes.items()},
         "effective_votes": {str(k): v for k, v in effective_votes.items()},
         "raw_plurality": raw_plurality,
+        "raw_plurality_rule": raw_why,
         "effective_plurality": eff_plurality,
+        "effective_plurality_rule": eff_why,
         "raw_quorum_reached": raw_quorum,
         "effective_quorum_reached": eff_quorum,
         "claimed_supermajority": claimed,
