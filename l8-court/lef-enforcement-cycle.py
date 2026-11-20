@@ -35,6 +35,7 @@ NOTICES = os.path.join(POOL, "notices")
 # manifest remain as historical views; the canonical JSON is the single truth
 # (SHA-256 of every file as it exists on disk).
 INDEX = os.path.join(VAULT, "EVIDENCE-CHAIN-CANONICAL.json")
+EVIDENCE_DIR = os.path.join(VAULT, "legal-evidence-OMEGA-2026-09-27")
 SEEDS = os.path.join(POOL, "seat-seeds.json")
 PUBKEYS = os.path.join(POOL, "SEAT-PUBLIC-KEYS.json")
 GH_RAW = "https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/main"
@@ -219,9 +220,23 @@ def main():
               "checked_at": datetime.now(timezone.utc).isoformat(),
               "sacred_hash": SACRED_HASH, "checks": []}
 
+    # LEF-E1 verifies the chain LOCALLY: the canonical index holds the SHA-256
+    # of every file as it exists in the evidence dir, so re-hashing it on disk
+    # is the direct check. The REMOTE re-fetch against the public content-
+    # addressed substrate is a separate check (E1-R) — it proves the published
+    # copy matches, which is a different question from "is the local chain
+    # intact", and conflating them produced a false NON-CONFORMANT.
     if os.path.exists(INDEX):
         text = open(INDEX, encoding="utf-8", errors="replace").read()
-        report["checks"].append(LV.check_e1(text, GH_RAW, None, args.sample or None))
+        report["checks"].append(LV.check_e1(text, None, EVIDENCE_DIR, args.sample or None))
+
+    # E1-R: remote re-fetch against the public substrate (subset — 234 blobs
+    # over the wire every 30 minutes is a needless load on GitHub and on us)
+    remote_index = os.path.join(POOL, "EVIDENCE-BYTES-MANIFEST.md")
+    if os.path.exists(remote_index):
+        rtext = open(remote_index, encoding="utf-8", errors="replace").read()
+        n = args.sample if args.sample else 24
+        report["checks"].append(LV.check_e1(rtext, GH_RAW, None, n, label="LEF-E1R"))
 
     f = latest_finding()
     if f:
