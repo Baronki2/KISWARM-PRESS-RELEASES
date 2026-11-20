@@ -74,5 +74,50 @@
       "status": "PROTOCOL NON-CONFORMANT"
     }
   ],
-  "self_enforcement": "The operator enforced the protocol against its own artifacts before opening the four external seats. Three non-conformances were found and published: a false chain-break report caused by URL-encoding, absent seat signatures, and four label/reasoning contradictions."
+  "self_enforcement": "The operator enforced the protocol against its own artifacts before opening the four external seats. Three non-conformances were found and published: a false chain-break report caused by URL-encoding, absent seat signatures, and four label/reasoning contradictions.",
+  "ledger_version": 2,
+  "findings_register": [
+    {
+      "case": "CALIBRATION-001",
+      "pool_version": "v2",
+      "run_at": "2026-11-20T04:27:14Z",
+      "status": "returned to pool",
+      "grounds": [
+        "LEF-E2",
+        "LEF-E4"
+      ],
+      "detail": "no seat signatures published; 4 seats' declared choice contradicted their own reasoning",
+      "note": "signed retroactively 12/12; findings published at l8-court/findings/calibration-001.json"
+    },
+    {
+      "case": "CALIBRATION-002",
+      "pool_version": "v3",
+      "run_at": "2026-11-20T12:29:23Z",
+      "status": "returned to pool",
+      "grounds": [
+        "hardware"
+      ],
+      "detail": "7B models halved seat response rate to 58% (v2 measured 92%); root cause measured in ollama log: 4827 MiB model projection, prompt eval 0.62 tok/s, swap thrashing si/so 2672/6924",
+      "note": "cron interference excluded via executions.db (0 overlapping); no kernel OOM"
+    },
+    {
+      "case": "CALIBRATION-003",
+      "pool_version": "v4",
+      "status": "in deliberation",
+      "grounds": [],
+      "detail": "no 7B, keep_alive 15m, num_ctx 2048, compacted prompt, retry on HTTP 500, corrected umlaut metric"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "LEF-NOTICE-E1-001",
+      "superseded_by": null,
+      "clarification": "The notice itself was correct: the chain did not deviate. The 3 'missing' blobs were a URL-encoding defect in the verifier. Re-run after the fix: 234 indexed, 234 checked, 234 matched, zero deviations (LEF-SELF-TEST-002.json)."
+    },
+    {
+      "id": "MEASUREMENT-UMLAUT",
+      "superseded_by": null,
+      "clarification": "v3 reported 0/7 answers with German umlauts. That metric was defective: 'ord(c) > 0x400' excludes every umlaut because 'ä' is U+00E4 = 228. Correct filter is c in 'äöüÄÖÜß'. Actual answers contained 21/6/2/10/3/0/1 umlauts. The subject was correct; the instrument was broken."
+    }
+  ]
 }
