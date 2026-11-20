@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T19:11:29.288155+00:00",
+  "generated": "2026-11-20T19:57:13.134829+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 227,
-  "total_bytes": 194590831,
+  "files_total": 228,
+  "total_bytes": 194592531,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -143,6 +143,11 @@
       "file": "CriminalCompliantOLGFrankfurt_2_.pdf",
       "sha256": "4cc7660b0a535cfe7d5f4bd685d19872d38ba492ef4152a79635d94a22fce499",
       "bytes": 1552520
+    },
+    {
+      "file": "DEUSPROOF_RATE_LIMIT_2026_11_20.md",
+      "sha256": "ada2f1780332c68e6a5c4bcde4030a00a34ddfe46f355496afe82b7816988eb3",
+      "bytes": 1700
     },
     {
       "file": "Damage_Report_Freislers_Heir_2026-10-24.pdf",
