@@ -72,6 +72,16 @@
       "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
       "published_at": "2026-11-20T07:41:18.956947+00:00",
       "status": "PROTOCOL NON-CONFORMANT"
+    },
+    {
+      "id": "LEF-NOTICE-E2-002.md",
+      "power": "LEF-E2",
+      "sha256": "661c7be2d1c42f5bf778f88836a36e45e201140d8b0afaaf2a1931376436c246",
+      "bytes": 3641,
+      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+      "emitted_by": "automatic enforcement cycle (cron 68361c8a5891)",
+      "published_at": "2026-11-20T12:39:31.004434+00:00",
+      "status": "PROTOCOL NON-CONFORMANT"
     }
   ],
   "self_enforcement": "The operator enforced the protocol against its own artifacts before opening the four external seats. Three non-conformances were found and published: a false chain-break report caused by URL-encoding, absent seat signatures, and four label/reasoning contradictions.",
