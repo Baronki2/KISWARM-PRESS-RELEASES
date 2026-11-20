@@ -216,7 +216,14 @@ def main():
     index["unique_attachments"] = len({a["sha256"] for a in index["attachments_extracted"]})
     index["total_attachment_bytes"] = sum(a["size"] for a in index["attachments_extracted"])
 
-    idx_path = os.path.join(args.index, "MAIL-EXTRACTION-KISWARM-ROUTER-2026-11-18.json")
+    # The index filename must follow the run date. It used to be hardcoded to
+    # 2026-11-18, so every run OVERWROTE that one file while a second file
+    # (…-2026-11-20.json) was written by hand — the old record's hash then no
+    # longer matched its file, which looks exactly like a broken evidence
+    # chain to anyone checking it.
+    _stamp = datetime.now().strftime("%Y-%m-%d")
+    idx_path = os.path.join(args.index,
+                            "MAIL-EXTRACTION-KISWARM-ROUTER-{0}.json".format(_stamp))
     with open(idx_path, "w") as fh:
         json.dump(index, fh, indent=2, ensure_ascii=False)
 
