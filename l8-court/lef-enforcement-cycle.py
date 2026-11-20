@@ -40,6 +40,7 @@ SACRED_HASH = "f5af425c"
 sys.path.insert(0, HERE)
 import lef_verifier as LV            # noqa: E402
 import lef_notice_verifier as LNV     # noqa: E402
+import lef_finding_integrity as LFI    # noqa: E402
 
 # The marker the notice verifier splits on. It is a constant here, and the
 # formatter below is the ONLY place it may appear in a notice.
@@ -166,6 +167,8 @@ def publish(report, extra_severity=None):
               for k in ("indexed", "checked", "match")},
         "e4_consistency_failures": next(
             (c.get("consistency_failures") for c in report["checks"] if c["power"] == "LEF-E4"), None),
+        "e5": next(({k: v for k, v in c.items() if k != "seat_audit"}
+                   for c in report["checks"] if c["power"] == "LEF-E5"), None),
         "notices": report.get("notices", {}).get("notices_verifiable"),
         "notices_total": report.get("notices", {}).get("notices_checked"),
         "nonconformant_checks": [c["power"] for c in nonconform],
@@ -205,6 +208,15 @@ def main():
         report["checks"].append(LV.check_e3(f))
         report["checks"].append(LV.check_e4(f))
         report["checks"].append(LV.check_e2(f))
+        # LEF-E5: recompute the quorum from the DECLARED labels and audit every
+        # correction against the seat's own reasoning. A quorum that exists only
+        # after the correction layer rewrote the votes is not a quorum.
+        try:
+            finding = json.load(open(f, encoding="utf-8"))
+            report["checks"].append(LFI.evaluate_finding(finding))
+        except Exception as e:
+            report["checks"].append({"power": "LEF-E5", "status": "PROTOCOL NON-CONFORMANT",
+                                     "nonconform_reason": "could not evaluate: {}".format(str(e)[:90])})
         report["finding"] = os.path.basename(f)
 
     report["notices"] = verify_all_notices()
@@ -217,7 +229,12 @@ def main():
 
     # The machine writes its own notice.
     if nonconform and not args.no_notice:
-        c = nonconform[0]
+        # Pick the power that actually explains the failure. A finding-integrity
+        # failure (E5) outranks a signature failure (E2): E2 is often the
+        # CONSEQUENCE of E5, and a notice naming the wrong ground is a notice
+        # that misinforms the reader.
+        priority = {"LEF-E5": 0, "LEF-E3": 1, "LEF-E4": 2, "LEF-E2": 3, "LEF-E1": 4}
+        c = sorted(nonconform, key=lambda x: priority.get(x.get("power", ""), 9))[0]
         power = c.get("power", "LEF-E1")
         detail = c.get("nonconform_reason") or c.get("status", "")
         p, ok = emit_notice(
