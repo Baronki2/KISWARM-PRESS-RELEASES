@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T19:58:18.722000+00:00",
+  "generated": "2026-11-20T20:05:58.880916+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 229,
-  "total_bytes": 194596904,
+  "files_total": 230,
+  "total_bytes": 194601381,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -183,6 +183,11 @@
       "file": "ENFORCEMENT_COMPLICITY_1.pdf",
       "sha256": "6f40901b237896484984ab060f6d4b58cf2f16f8da1ee03dd215e000486b8a34",
       "bytes": 626436
+    },
+    {
+      "file": "EVIDENCE_CHAIN_VERIFIED_STATE_2026_11_20.md",
+      "sha256": "3c37c5cdcbfd42bb1a9f609426083d75181413d98b28a02bf0088652ebbcc968",
+      "bytes": 4477
     },
     {
       "file": "EingereichteErweiterteVerfassungsbeschwerde.pdf",
