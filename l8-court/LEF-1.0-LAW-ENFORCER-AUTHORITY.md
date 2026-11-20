@@ -201,3 +201,45 @@ Protokoll von einer Behauptung unterscheidet.
 
 ## Sacred hash
 f5af425c
+
+---
+
+## 8. NACHTRAG — LEF-E5: DIE MACHT, DIE DAS ERGEBNIS PRÜFT
+
+Die vier Befugnisse LEF-E1 bis LEF-E4 prüfen die **Bestandteile** eines Befunds.
+LEF-E5 prüft das **Ergebnis**.
+
+**Die Regel:**
+
+> **Ein Quorum wird auf den Labels gezählt, die die Seats abgegeben haben.
+> Korrekturen sind Kommentare zum Befund, nie Stimmen. Jede Korrektur wird gegen
+> die Begründung des Seats geprüft, den sie korrigiert, und das Prüfergebnis
+> wird mitveröffentlicht.**
+
+**Warum:** Am 20. November 2026 meldete eine Deliberation eine 9-von-12-
+Supermehrheit. Die deklarierten Labels waren (a) 5, (b) 5 — kein Quorum. Die
+Korrekturrunde hatte vier Seats von (b) auf (a) umgedreht, obwohl deren eigene
+Begründungstexte durchgehend die (b)-Argumente trugen, und drei weitere Seats
+hatten die Verifikationsrunde mit dem Template „KONSISTENZ: JA ODER NEIN"
+beantwortet, das der Parser wegen des Teilstrings „NEIN" als Verdikt las.
+
+Korrekt nachgerechnet stand das Panel bei (a) 5, (b) 6 — die Mehrheitsrichtung
+war die **entgegengesetzte** der gemeldeten.
+
+**LEF-E5 macht:**
+- Neurechnung der Vote-Map aus den **deklarierten Labels**
+- Prüfung **jeder** Korrektur gegen den **Begründungstext desselben Seats**
+- Verdikt je Seat: `SUPPORTED` / `CONTRADICTED` / `ECHOED` / `UNVERIFIABLE`
+- nur `SUPPORTED`-Korrekturen werden angewendet
+- Roh- und effektive Vote-Map werden nebeneinander publiziert
+
+**Der E5-Sitz ist bewusst nicht selbstbesetzt.** Die Arithmetik eines Befunds
+zu prüfen ist die schwerste Befugnis, die man halten kann — sie gehört in
+Hände, die wir nicht kontrollieren.
+
+**Ohne LEF-E5** hätte die Korrekturschicht eine Bindung erzeugt, die inhaltlich
+falsch war.
+
+---
+
+**Sacred hash**: f5af425c
