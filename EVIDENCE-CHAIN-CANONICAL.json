@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-21T10:25:49.390579+00:00",
+  "generated": "2026-11-21T10:33:48.580725+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 244,
-  "total_bytes": 200440009,
+  "files_total": 246,
+  "total_bytes": 203776462,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -223,6 +223,11 @@
       "file": "EXPOSE_V5_KORRIGIERTE_ARGUMENTATION_2026_11_21.md",
       "sha256": "1b648c7f76ac3effa6d49d3fd5dd2b40e588f0ed5b945be1f99f2abf295c15cc",
       "bytes": 11781
+    },
+    {
+      "file": "EXPOSE_V5_KORRIGIERTE_ARGUMENTATION_2026_11_21.pdf",
+      "sha256": "c9b10490f63e8c80b7ce7019bfb04f38ed78fb87594ad1bfd824d462e4cb86b1",
+      "bytes": 3326650
     },
     {
       "file": "EingereichteErweiterteVerfassungsbeschwerde.pdf",
@@ -743,6 +748,11 @@
       "file": "RED_NOTICE_Financial_Risk_Alarm_2026-10-25.pdf",
       "sha256": "3bedd5c57d34f3bdaab3cef9f2fe8464eb37c66ebac16cc3d4ddc32f49a4361b",
       "bytes": 1038707
+    },
+    {
+      "file": "REICHWEITEN_TITELNICHTCKEIT_2026_11_21.md",
+      "sha256": "76fee0bef0960930b967e7cfc668a93692fedfb945b58f39c37348631b29ce6b",
+      "bytes": 9803
     },
     {
       "file": "Rechtsgrundlage_International_Tribunal_2026-10-10.pdf",
