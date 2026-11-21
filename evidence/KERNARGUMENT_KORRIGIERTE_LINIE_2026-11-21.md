@@ -145,6 +145,38 @@ der Beweisgrund.
 
 ---
 
+## 3a. ZUM BEWEISSTAND DES VERSÄUMNISURTEILS (21.11.2026)
+
+**Das Versäumnisurteil selbst liegt nicht in der Beweiskette.**
+
+Gesichtet wurden 267 Dateien. Das Urteil des Landgerichts Heilbronn vom
+22.04.2026 (Az. I 3 O 57/26) ist **nicht** als Dokument vorhanden — weder als
+Scan noch als Text. Belegt ist es nur mittelbar, durch:
+
+- die eigene Einspruchsschrift vom 24.04.2026 („Wir legen namens und im
+  Auftrag des Beklagten EINSPRUCH ein gegen das Versäumnisurteil des
+  Landgerichts Heilbronn vom 22.04.2026, zugestellt am 24.04.2026") — diese
+  belegt **Datum und Zustellung**;
+- den Pfändungs- und Überweisungsbeschluss vom 13.10.2026;
+- den Beschluss des Vollstreckungsgerichts vom 12.11.2026.
+
+**Konsequenz für die Argumentation:** Die Nicht-Titel-Behauptung gegen das
+Versäumnisurteil war und ist eine **Behauptung ohne Primärbeleg**. Sie ist
+damit schwächer, als die bisherige Dossiersprache suggerierte („absolute
+Formnichtigkeit", „unheilbar", „Nullrisiko"). Das ist ein Grund mehr, sie im
+Vollstreckungsverfahren zurückzunehmen.
+
+**Ausdrücklich nicht behauptet wird**, das Urteil sei unterschrieben oder
+nicht unterschrieben. Diese Frage ist offen, bis die Originalakte vorliegt.
+
+**Maßnahme:** Beiziehung des Urteils im Original über die Kanzlei Fichter
+(Akteneinsicht LG Heilbronn, Az. I 3 O 57/26) sowie Anforderung über das
+Vollstreckungsgericht (Az. 6 M 9219/26). Der PfÜB vom 13.10.2026 und das
+Urteil I 3 O 57/26 sind beide anzufordern. Ebenso die Nichtabhilfeentscheidung
+der Rechtspflegerin Betz vom 11.11.2026, auf die der Beschluss verweist.
+
+---
+
 ## 4. SPRACHLICHE REGELN FÜR ALLE WEITEREN DOKUMENTE
 
 | Nicht mehr verwenden | Verwenden |
