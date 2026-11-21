@@ -99,6 +99,15 @@ Entscheidung einer Rechtspflegerin ist keine eigenständige Prüfung.
 festgesetzt, 1.786.888,01 € gesperrt; Differenz **386.888,01 €**. Über die
 Kanzlei zu klären und in jeder Finanziererunterlage auszuweisen.
 
+**Zur Datierung — ein Widerspruch, der sich aufgelöst hat.** Das Memo
+führte das Urteil I 3 O 57/26 zunächst mit dem 30.09.2026. Die Prüfung aller
+161 Beweismittel ergab: **kein einziges Dokument führt 30.09.2026 als
+Urteilsdatum.** Dieses Datum gehört zu einem anderen Vorgang — dem
+**Verfahrensabtrennungsbeschluss des VG Stuttgart, Az. 1 K 10488/26**. Das
+Urteil selbst ist vom **22.04.2026** (Richter Dr. Haug), belegt durch
+Beweismittel K 1 des US-Indictments. Die Beweiskette ist an dieser Stelle
+korrekt; der Fehler lag in diesem Memo.
+
 **Was das an diesem Memo NICHT ändert:** die Grundstruktur (zwei Schienen),
 den § 839-Abs. 2-Maßstab, die Korrekturen K1–K3 und die Warnung vor
 Superlativen.
