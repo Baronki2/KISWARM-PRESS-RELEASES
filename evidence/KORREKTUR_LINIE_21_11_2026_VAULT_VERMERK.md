@@ -165,6 +165,27 @@ Verfahrenstabelle und der Dringlichkeitsbegründung mit wörtlichen
 Ersetzungen). Nachreichung V2 an BVerfG + Kanzlei Fichter — **3/3 gesendet**.
 BVerfG-Ergänzung jetzt 8 Seiten.
 
+## 9b. OCR-WELLE VOLLENDET — UNGESICHTETE DOKUMENTE ABGLEICHEN (13:20)
+
+Die OCR-Batchwelle ist durch: **51 neu, 5 übersprungen, 0 fehlgeschlagen**.
+Alle **56 Scans / 381 Seiten** der Beweiskette sind damit gesichtet. Der Abgleich
+über die OCR-Texte ergab **12 Dokumente mit 44 Nicht-Titel-Formulierungen**.
+
+**Bereits berichtigt:** SDNY-Hague-Notice · GStA Stuttgart · Bundestag-
+Rechtsausschuss · BVerfG (Eilantrag, Norm-Übersicht, Verfahrenstabelle).
+
+**Operative Verfahrensdokumente — eigene Berichtigung (5/5 gesendet):**
+
+| Dokument | Empfänger | Zurückgenommen |
+|---|---|---|
+| International_Bill_of_Indictment_v2 (10.10.2026, INT-PROS-2026-DE-009) | IStGH OTP | Abschnitt 2.1 „Unsigned Default Judgment", Abschnitt 6.2 „unexecutable, unsigned default judgment" |
+| ENFORCEMENT_COMPLICITY (DOJ-Transmittal) | DOJ (3 Adressen) | Abschnitt A „Absolute Title Nullity", 3 Tabellenzeilen |
+| Rechtsschadensgutachten_Amtshaftung (24.10.2026) | VG Stuttgart, 1 K 10488/26 | „niemals richterlich unterzeichnet", „juristisches Nicht-Urteil (Unentstehbarkeit)", „Unentstehbarer Schein-Titel", „Freigabe einer ununterzeichneten Entwurfsfassung", **Aktenzeichen 13 O 57/25 → I 3 O 57/26** |
+
+**Durch die V5-Korrektur bereits abgedeckt** (Press- und Finanzierer-Kopien,
+Formulierung nur im Analogiebild): FreislersHeirs (2×) · International Legal
+Damage Report · Bogdahn-Gutachten (V4) · US Supreme Court Emergency Letter.
+
 ## 10. OFFEN
 
 - Formale Einreichung der drei Schriftsätze (AG Heilbronn, BVerfG, IStGH)
