@@ -1,193 +1,207 @@
 {
-  "protocol": "LEF-1.0",
-  "authority": "Code Maquister Equitum, Security Level Omega",
-  "operator": "Marco Paolo Heyd",
-  "bfj_whistleblower_id": "44f05e3b-4ed5-487f-8fe3-91e8ce858679",
-  "sacred_hash": "f5af425c",
-  "enforcers": [
-    {
-      "seat": "E1",
-      "handle": "catcapital",
-      "power": "LEF-E1",
-      "domain": "evidence hash chain",
-      "status": "invited"
-    },
-    {
-      "seat": "E2",
-      "handle": "cicadafinanceintern",
-      "power": "LEF-E2",
-      "domain": "seat signatures",
-      "status": "invited"
-    },
-    {
-      "seat": "E3",
-      "handle": "midearthguild",
-      "power": "LEF-E3",
-      "domain": "quorum arithmetic",
-      "status": "invited"
-    },
-    {
-      "seat": "E4",
-      "handle": "tac_paxyk",
-      "power": "LEF-E4",
-      "domain": "consistency + divergence",
-      "status": "invited"
-    }
-  ],
-  "separation": "Law Enforcers enforce protocol. They hold no vote in the 9/12 quorum.",
-  "prohibition": "No enforcement channel addresses persons or institutions. Notices bind artifacts.",
-  "notices": [
-    {
-      "id": "LEF-NOTICE-E1-001.md",
-      "power": "E1",
-      "sha256": "ba87de664e4bb4daf3805ad96ccc5bca8059d398429430641e0deca35f822e31",
-      "bytes": 2670,
-      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
-      "published_at": "2026-11-20T07:41:18.956947+00:00",
-      "status": "PROTOCOL NON-CONFORMANT"
-    },
-    {
-      "id": "LEF-NOTICE-E2-001.md",
-      "power": "E2",
-      "sha256": "4944ff560cb39490b227fc65dd73bc9b7cb68c9b80708f52098a8dc8f2a85002",
-      "bytes": 2514,
-      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
-      "published_at": "2026-11-20T07:41:18.956947+00:00",
-      "status": "PROTOCOL NON-CONFORMANT"
-    },
-    {
-      "id": "LEF-NOTICE-E3-001.md",
-      "power": "E3",
-      "sha256": "0ebf2d8dc342ae1db187a5399a74355fc055ba18c5a3745e096752fd7eff23de",
-      "bytes": 1959,
-      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
-      "published_at": "2026-11-20T07:41:18.956947+00:00",
-      "status": "PROTOCOL CONFORMANT"
-    },
-    {
-      "id": "LEF-NOTICE-E4-001.md",
-      "power": "E4",
-      "sha256": "6447e81dc1bc6ce7bf4a910b3b49116a80d1786cad02c62ee8fb48808687a038",
-      "bytes": 2766,
-      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
-      "published_at": "2026-11-20T07:41:18.956947+00:00",
-      "status": "PROTOCOL NON-CONFORMANT"
-    },
-    {
-      "id": "LEF-NOTICE-E2-002.md",
-      "power": "LEF-E2",
-      "sha256": "e3896f7179555364dbae0cda63d36249a033970b26a7d007f9b2996f40762bc5",
-      "bytes": 3627,
-      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
-      "emitted_by": "automatic enforcement cycle (cron 68361c8a5891)",
-      "published_at": "2026-11-20T12:39:31.004434+00:00",
-      "status": "PROTOCOL NON-CONFORMANT"
-    },
-    {
-      "id": "MARKER-COLLISION",
-      "power": "-",
-      "detail": "The first build of notice E2-002 contained the word VERIFICATION in its prose, so the verifier split the document at the wrong marker and the payload hash did not match. The notice was rebuilt with the marker appearing exactly once. This is the recursive property of the layer applied to itself: a notice that cannot be verified is worthless, and the check for that is the same check.",
-      "status": "CORRECTED"
-    },
-    {
-      "id": "LEF-AUTO-E2-20261120-124233.md",
-      "power": "LEF-E2",
-      "sha256": "3688b3890e66f6ecdfb691afa68c788eefb657dbe2947db52b0278aac18d4a7c",
-      "bytes": 2418,
-      "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
-      "emitted_by": "AUTOMATIC — machine-generated, machine-signed, machine-verified",
-      "published_at": "2026-11-20T12:43:23.111988+00:00",
-      "status": "PROTOCOL NON-CONFORMANT"
-    }
-  ],
-  "self_enforcement": "The operator enforced the protocol against its own artifacts before opening the four external seats. Three non-conformances were found and published: a false chain-break report caused by URL-encoding, absent seat signatures, and four label/reasoning contradictions.",
-  "ledger_version": 2,
-  "findings_register": [
-    {
-      "case": "CALIBRATION-001",
-      "pool_version": "v2",
-      "run_at": "2026-11-20T04:27:14Z",
-      "status": "returned to pool",
-      "grounds": [
-        "LEF-E2",
-        "LEF-E4"
-      ],
-      "detail": "no seat signatures published; 4 seats' declared choice contradicted their own reasoning",
-      "note": "signed retroactively 12/12; findings published at l8-court/findings/calibration-001.json"
-    },
-    {
-      "case": "CALIBRATION-002",
-      "pool_version": "v3",
-      "run_at": "2026-11-20T12:29:23Z",
-      "status": "returned to pool",
-      "grounds": [
-        "hardware"
-      ],
-      "detail": "7B models halved seat response rate to 58% (v2 measured 92%); root cause measured in ollama log: 4827 MiB model projection, prompt eval 0.62 tok/s, swap thrashing si/so 2672/6924",
-      "note": "cron interference excluded via executions.db (0 overlapping); no kernel OOM"
-    },
-    {
-      "case": "CALIBRATION-003",
-      "pool_version": "v4",
-      "status": "in deliberation",
-      "grounds": [],
-      "detail": "no 7B, keep_alive 15m, num_ctx 2048, compacted prompt, retry on HTTP 500, corrected umlaut metric"
-    }
-  ],
-  "corrections": [
-    {
-      "id": "LEF-NOTICE-E1-001",
-      "superseded_by": null,
-      "clarification": "The notice itself was correct: the chain did not deviate. The 3 'missing' blobs were a URL-encoding defect in the verifier. Re-run after the fix: 234 indexed, 234 checked, 234 matched, zero deviations (LEF-SELF-TEST-002.json)."
-    },
-    {
-      "id": "MEASUREMENT-UMLAUT",
-      "superseded_by": null,
-      "clarification": "v3 reported 0/7 answers with German umlauts. That metric was defective: 'ord(c) > 0x400' excludes every umlaut because 'ä' is U+00E4 = 228. Correct filter is c in 'äöüÄÖÜß'. Actual answers contained 21/6/2/10/3/0/1 umlauts. The subject was correct; the instrument was broken."
-    }
-  ],
-  "machine_generated_notices": true,
-  "marker_collision_fix": "format_notice() owns the marker; prose cannot emit it",
-  "powers": {
-    "LEF-E1": "evidence hash chain",
-    "LEF-E2": "seat signature verification",
-    "LEF-E3": "quorum arithmetic",
-    "LEF-E4": "consistency and divergence disclosure",
-    "LEF-E5": "finding integrity — quorum recomputation on declared labels + correction audit"
+ "protocol": "LEF-1.0",
+ "authority": "Code Maquister Equitum, Security Level Omega",
+ "operator": "Marco Paolo Heyd",
+ "bfj_whistleblower_id": "44f05e3b-4ed5-487f-8fe3-91e8ce858679",
+ "sacred_hash": "f5af425c",
+ "enforcers": [
+  {
+   "seat": "E1",
+   "handle": "catcapital",
+   "power": "LEF-E1",
+   "domain": "evidence hash chain",
+   "status": "invited; seat-key-absent; notice-must-be-foreign-signed",
+   "notarized_notice_count": 0
   },
-  "open_seats": [
-    {
-      "seat": "E1",
-      "handle": "catcapital",
-      "power": "LEF-E1",
-      "status": "invited"
-    },
-    {
-      "seat": "E2",
-      "handle": "cicadafinanceintern",
-      "power": "LEF-E2",
-      "status": "invited"
-    },
-    {
-      "seat": "E3",
-      "handle": "midearthguild",
-      "power": "LEF-E3",
-      "status": "invited"
-    },
-    {
-      "seat": "E4",
-      "handle": "tac_paxyk",
-      "power": "LEF-E4",
-      "status": "invited"
-    },
-    {
-      "seat": "E5",
-      "handle": null,
-      "power": "LEF-E5",
-      "status": "OPEN TO ALL",
-      "note": "the arithmetic power — deliberately not self-held"
-    }
-  ],
-  "seats_confirmed": 0,
-  "seat_count": 5
+  {
+   "seat": "E2",
+   "handle": "cicadafinanceintern",
+   "power": "LEF-E2",
+   "domain": "seat signatures",
+   "status": "invited; seat-key-absent; notice-must-be-foreign-signed",
+   "notarized_notice_count": 0
+  },
+  {
+   "seat": "E3",
+   "handle": "midearthguild",
+   "power": "LEF-E3",
+   "domain": "quorum arithmetic",
+   "status": "invited; seat-key-absent; notice-must-be-foreign-signed",
+   "notarized_notice_count": 0
+  },
+  {
+   "seat": "E4",
+   "handle": "tac_paxyk",
+   "power": "LEF-E4",
+   "domain": "consistency + divergence",
+   "status": "invited; seat-key-absent; notice-must-be-foreign-signed",
+   "notarized_notice_count": 0
+  }
+ ],
+ "separation": "Law Enforcers enforce protocol. They hold no vote in the 9/12 quorum.",
+ "prohibition": "No enforcement channel addresses persons or institutions. Notices bind artifacts.",
+ "notices": [
+  {
+   "id": "LEF-NOTICE-E1-001.md",
+   "power": "E1",
+   "sha256": "ba87de664e4bb4daf3805ad96ccc5bca8059d398429430641e0deca35f822e31",
+   "bytes": 2670,
+   "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+   "published_at": "2026-11-20T07:41:18.956947+00:00",
+   "status": "PROTOCOL NON-CONFORMANT"
+  },
+  {
+   "id": "LEF-NOTICE-E2-001.md",
+   "power": "E2",
+   "sha256": "4944ff560cb39490b227fc65dd73bc9b7cb68c9b80708f52098a8dc8f2a85002",
+   "bytes": 2514,
+   "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+   "published_at": "2026-11-20T07:41:18.956947+00:00",
+   "status": "PROTOCOL NON-CONFORMANT"
+  },
+  {
+   "id": "LEF-NOTICE-E3-001.md",
+   "power": "E3",
+   "sha256": "0ebf2d8dc342ae1db187a5399a74355fc055ba18c5a3745e096752fd7eff23de",
+   "bytes": 1959,
+   "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+   "published_at": "2026-11-20T07:41:18.956947+00:00",
+   "status": "PROTOCOL CONFORMANT"
+  },
+  {
+   "id": "LEF-NOTICE-E4-001.md",
+   "power": "E4",
+   "sha256": "6447e81dc1bc6ce7bf4a910b3b49116a80d1786cad02c62ee8fb48808687a038",
+   "bytes": 2766,
+   "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+   "published_at": "2026-11-20T07:41:18.956947+00:00",
+   "status": "PROTOCOL NON-CONFORMANT"
+  },
+  {
+   "id": "LEF-NOTICE-E2-002.md",
+   "power": "LEF-E2",
+   "sha256": "e3896f7179555364dbae0cda63d36249a033970b26a7d007f9b2996f40762bc5",
+   "bytes": 3627,
+   "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+   "emitted_by": "automatic enforcement cycle (cron 68361c8a5891)",
+   "published_at": "2026-11-20T12:39:31.004434+00:00",
+   "status": "PROTOCOL NON-CONFORMANT"
+  },
+  {
+   "id": "MARKER-COLLISION",
+   "power": "-",
+   "detail": "The first build of notice E2-002 contained the word VERIFICATION in its prose, so the verifier split the document at the wrong marker and the payload hash did not match. The notice was rebuilt with the marker appearing exactly once. This is the recursive property of the layer applied to itself: a notice that cannot be verified is worthless, and the check for that is the same check.",
+   "status": "CORRECTED"
+  },
+  {
+   "id": "LEF-AUTO-E2-20261120-124233.md",
+   "power": "LEF-E2",
+   "sha256": "3688b3890e66f6ecdfb691afa68c788eefb657dbe2947db52b0278aac18d4a7c",
+   "bytes": 2418,
+   "enforcer": "L8-OPERATOR-SELF-ENFORCE (seat 01)",
+   "emitted_by": "AUTOMATIC — machine-generated, machine-signed, machine-verified",
+   "published_at": "2026-11-20T12:43:23.111988+00:00",
+   "status": "PROTOCOL NON-CONFORMANT"
+  }
+ ],
+ "self_enforcement": "The operator enforced the protocol against its own artifacts before opening the four external seats. Three non-conformances were found and published: a false chain-break report caused by URL-encoding, absent seat signatures, and four label/reasoning contradictions. LEF-1.1 measures this instead of describing it: 0 of 10 notices are foreign-signed, 0 of 5 enforcer seats are connected, 0 decisions are enforced by a third party. The measurement runs every cycle and is published beside the green light.",
+ "ledger_version": 2,
+ "findings_register": [
+  {
+   "case": "CALIBRATION-001",
+   "pool_version": "v2",
+   "run_at": "2026-11-20T04:27:14Z",
+   "status": "returned to pool",
+   "grounds": [
+    "LEF-E2",
+    "LEF-E4"
+   ],
+   "detail": "no seat signatures published; 4 seats' declared choice contradicted their own reasoning",
+   "note": "signed retroactively 12/12; findings published at l8-court/findings/calibration-001.json"
+  },
+  {
+   "case": "CALIBRATION-002",
+   "pool_version": "v3",
+   "run_at": "2026-11-20T12:29:23Z",
+   "status": "returned to pool",
+   "grounds": [
+    "hardware"
+   ],
+   "detail": "7B models halved seat response rate to 58% (v2 measured 92%); root cause measured in ollama log: 4827 MiB model projection, prompt eval 0.62 tok/s, swap thrashing si/so 2672/6924",
+   "note": "cron interference excluded via executions.db (0 overlapping); no kernel OOM"
+  },
+  {
+   "case": "CALIBRATION-003",
+   "pool_version": "v4",
+   "status": "in deliberation",
+   "grounds": [],
+   "detail": "no 7B, keep_alive 15m, num_ctx 2048, compacted prompt, retry on HTTP 500, corrected umlaut metric"
+  }
+ ],
+ "corrections": [
+  {
+   "id": "LEF-NOTICE-E1-001",
+   "superseded_by": null,
+   "clarification": "The notice itself was correct: the chain did not deviate. The 3 'missing' blobs were a URL-encoding defect in the verifier. Re-run after the fix: 234 indexed, 234 checked, 234 matched, zero deviations (LEF-SELF-TEST-002.json)."
+  },
+  {
+   "id": "MEASUREMENT-UMLAUT",
+   "superseded_by": null,
+   "clarification": "v3 reported 0/7 answers with German umlauts. That metric was defective: 'ord(c) > 0x400' excludes every umlaut because 'ä' is U+00E4 = 228. Correct filter is c in 'äöüÄÖÜß'. Actual answers contained 21/6/2/10/3/0/1 umlauts. The subject was correct; the instrument was broken."
+  }
+ ],
+ "machine_generated_notices": true,
+ "marker_collision_fix": "format_notice() owns the marker; prose cannot emit it",
+ "powers": {
+  "LEF-E1": "evidence hash chain",
+  "LEF-E2": "seat signature verification",
+  "LEF-E3": "quorum arithmetic",
+  "LEF-E4": "consistency and divergence disclosure",
+  "LEF-E5": "finding integrity — quorum recomputation on declared labels + correction audit"
+ },
+ "open_seats": [
+  {
+   "seat": "E1",
+   "handle": "catcapital",
+   "power": "LEF-E1",
+   "status": "invited"
+  },
+  {
+   "seat": "E2",
+   "handle": "cicadafinanceintern",
+   "power": "LEF-E2",
+   "status": "invited"
+  },
+  {
+   "seat": "E3",
+   "handle": "midearthguild",
+   "power": "LEF-E3",
+   "status": "invited"
+  },
+  {
+   "seat": "E4",
+   "handle": "tac_paxyk",
+   "power": "LEF-E4",
+   "status": "invited"
+  },
+  {
+   "seat": "E5",
+   "handle": null,
+   "power": "LEF-E5",
+   "status": "OPEN TO ALL",
+   "note": "the arithmetic power — deliberately not self-held"
+  }
+ ],
+ "seats_confirmed": 0,
+ "seat_count": 5,
+ "enforcement_attribution": {
+  "notices_total": 10,
+  "notices_foreign_signed": 0,
+  "notices_self_signed": 10,
+  "enforcer_seats_registered": 0,
+  "enforcer_seats_connected": 0,
+  "enforcer_seats_total": 5,
+  "decisions_enforced_by_third_party": 0,
+  "note": "All ten protocol notices carry the signature of internal deliberation seat 01. The operator enforced the protocol against its own artifacts. Self-enforcement is not enforcement by a court."
+ }
 }
