@@ -1,9 +1,9 @@
 {
  "index_version": "3.7",
- "generated": "2026-11-21T21:56:47.076577+00:00",
+ "generated": "2026-11-21T22:11:01.485570+00:00",
  "base_dir": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27",
- "file_count": 349,
- "total_bytes": 247482089,
+ "file_count": 350,
+ "total_bytes": 247490972,
  "chains": {
   "LEF-E1": {
    "scope": "lokale Kette (Vault)",
@@ -715,9 +715,14 @@
    "sha256": "789803a2ce16bad090f72274eba427cf368249b810f9950e6abd49c76e60210f"
   },
   {
+   "path": "L8_COURT_RECORD_010_THE_QUESTION_THAT_CAME_FROM_OUTSIDE.md",
+   "bytes": 6647,
+   "sha256": "ec7836c26ea124b31a7372c9fcbac2e0b287a6d300b6af2ce99044d895c4fced"
+  },
+  {
    "path": "L8_ENFORCER_ROUND2_2026_11_21.md",
-   "bytes": 7804,
-   "sha256": "201bca8900f6d5c91af73340cb0ed8235a35097c02548803dcb3b68c136a9859"
+   "bytes": 10040,
+   "sha256": "18fd0a59f36976420808d49c4dd105ebd38f09ad10f191d8fd1e01a80a5afc17"
   },
   {
    "path": "L8_ENFORCER_SEAT_ARTIFACT_2026_11_21.md",
