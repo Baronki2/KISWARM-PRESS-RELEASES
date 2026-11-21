@@ -1,9 +1,9 @@
 {
  "index_version": "3.7",
- "generated": "2026-11-21T22:11:01.485570+00:00",
+ "generated": "2026-11-21T22:17:49.833535+00:00",
  "base_dir": "/home/sah/.config/sah-vault/legal-evidence-OMEGA-2026-09-27",
- "file_count": 350,
- "total_bytes": 247490972,
+ "file_count": 351,
+ "total_bytes": 247498075,
  "chains": {
   "LEF-E1": {
    "scope": "lokale Kette (Vault)",
@@ -718,6 +718,11 @@
    "path": "L8_COURT_RECORD_010_THE_QUESTION_THAT_CAME_FROM_OUTSIDE.md",
    "bytes": 6647,
    "sha256": "ec7836c26ea124b31a7372c9fcbac2e0b287a6d300b6af2ce99044d895c4fced"
+  },
+  {
+   "path": "L8_COURT_RECORD_011_THE_SEAL_WAS_ON_THE_PATH.md",
+   "bytes": 7103,
+   "sha256": "69fb8bffe1808ddea175facc8950a9b793e3b0f21b2662cc3363f427647fdbdd"
   },
   {
    "path": "L8_ENFORCER_ROUND2_2026_11_21.md",
