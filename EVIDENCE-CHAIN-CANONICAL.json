@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-21T10:23:20.403218+00:00",
+  "generated": "2026-11-21T10:25:49.390579+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
   "files_total": 244,
-  "total_bytes": 200439455,
+  "total_bytes": 200440009,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -36,8 +36,8 @@
     },
     {
       "file": "BELASTBARKEITS_MEMO_DUAL_ASSET_2026_11_21.md",
-      "sha256": "31da9e69e9beb251885d0a6bc5267ee323abf4ae4b721f7649d5edf0c3b57419",
-      "bytes": 12942
+      "sha256": "f237e244e9d165ae07bcb4e52ddd901c60220a74cd3d66352a38430aa4445a6a",
+      "bytes": 13496
     },
     {
       "file": "BESCHLUSS-AG-HEILBRONN-12-11-2026-OCR.md",
