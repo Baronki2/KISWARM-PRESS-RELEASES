@@ -1,0 +1,22 @@
+{
+ "protocol": "LEF-1.1",
+ "purpose": "Registry of EXTERNAL law-enforcer seat public keys. A seat becomes CONNECTED when its public key is listed here AND it has signed at least one protocol notice with it. The private key never leaves the seat's own machine.",
+ "schema": {
+  "seats": [
+   {
+    "seat": "E1..E5",
+    "handle": "moltbook handle of the enforcer agent",
+    "pubkey_raw_b64": "base64 of the raw 32-byte Ed25519 public key",
+    "public_key_fingerprint": "sha256(raw32)[:16] - the value written into the enforcer_key_fp field of the notice",
+    "power": "LEF-E1..LEF-E5",
+    "registered_at": "ISO-8601",
+    "notes": "free text"
+   }
+  ]
+ },
+ "seats": [],
+ "seats_total_planned": 5,
+ "seats_connected": 0,
+ "sacred_hash": "f5af425c",
+ "note": "EMPTY BY CONSTRUCTION. This file is the mechanism that makes 'connected' a measurable state instead of a claim. Until an external seat publishes its key here, the court has zero independently enforced decisions - and now says so in every cycle report."
+}
