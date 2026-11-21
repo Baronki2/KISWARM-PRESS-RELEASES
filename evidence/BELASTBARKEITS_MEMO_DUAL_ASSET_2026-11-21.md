@@ -42,10 +42,14 @@ Staatshaftung **nicht befugt**; der Gestaltungsspielraum der Länder ist
 
 ## 2. WAS TRÄGT — UND WARUM
 
-**T1 — Fehlende Richterunterschrift (§ 317 ZPO; BGH NJW 2018, 1205).**
-Ein nicht unterschriebenes Urteil ist kein Vollstreckungstitel. Das ist
-stabile Rechtsprechung und der stärkste Einzelpunkt, weil er ohne
-Wertermittlung wirkt: der Titel existierte nicht. **Trägt zu 100 %.**
+**T1 — ~~Fehlende Richterunterschrift (§ 317 ZPO; BGH NJW 2018, 1205).~~
+~~Ein nicht unterschriebenes Urteil ist kein Vollstreckungstitel.~~
+**ZURÜCKGEZOGEN am 21.11.2026 — der Beschluss selbst liegt jetzt vor und
+weist den Einwand ausdrücklich und zutreffend zurück:** Der PfÜB vom
+13.10.2026 ist qualifiziert elektronisch signiert; nach § 130b ZPO genügt
+dies anstelle der eigenhändigen Unterschrift. Der Titel existierte. Es
+spricht zudem gegen Vorsatz. **T1 trägt nicht mehr.**
+*Siehe `KORREKTUR-NOTIZ-BESCHLUSS-FUND-2026-11-21.md`.*
 
 **T2 — Zustellung unter Umgehung des Anwaltsmonopols (§ 172 Abs. 1 ZPO;
 BGH VI ZB 23/20; BGH IX ZB 9/22).** Formunwirksamkeit, keine laufenden
@@ -58,13 +62,46 @@ zweifelsfrei feststellen** und hätte nach Abs. 2 die Dokumente anfordern
 müssen. Das ist ein **aktenkundiger Erklärungsbedarf**, den die Akte
 hergibt. Trägt als zusätzliche Spur, nicht als Hauptargument.
 
-**T4 — Der Beschluss vom 12.11.2026.** Der stärkste Punkt, weil er
-**nach** der Pfändung (19.10.2026) und **nach** Kenntnis erlassen wurde.
-Das ist die Brücke zu T5.
+**T4 — Der Beschluss vom 12.11.2026.** ~~Der stärkste Punkt, weil er
+**nach** der Pfändung (19.10.2026) und **nach** Kenntnis erlassen wurde.~~
+**PRÄZISIERT am 21.11.2026:** Der Beschluss liegt jetzt im Original vor. Er
+trägt **keine** Aussage zur Kenntnis der Nichtigkeit — er verneint sie, weil
+ein qES-signierter Beschluss nach § 130b ZPO gültig ist. Der Beschluss
+belegt damit die **Zurückweisung zweier Erinnerungen** (24.10. und
+03.11.2026) und die **Scheinbegründung** (Verweisung auf die
+Nichtabhilfeentscheidung der Rechtspflegerin Betz vom 11.11.2026). Das ist
+ein Verfahrensbefund, kein Vorsatzbefund. Die Brücke zu T5 trägt so nicht.
 
 **T5 — § 36 II HinSchG / RL 2019/1937.** Gesetzliche Vermutung der
 verbotenen Repressalie. Trägt als Argument; ist selbst kein
 Schadensersatztitel.
+
+---
+
+## 2b. NACHTRAG 21.11.2026 — DER BESCHLUSS LIEGT VOR
+
+**Der Beleg, den dieses Memo als „fehlend" geführt hat, war vorhanden.**
+Er steckt als eingescannte „Beglaubigte Abschrift" in
+`doc_6aff5e6e87049621288-1-1.pdf` (S. 12–14). Nicht gefunden, weil 54 der
+161 Beweismittel Scans ohne Textlayer sind und `pdftotext` dort nichts sieht.
+
+**Was das an diesem Memo ändert:** T1 ist zurückgezogen, T4 präzisiert.
+Neu und tragfähig sind:
+
+**T6 — Scheinbegründung, wörtlich belegt.** „Verfahrensfehler sind … nicht
+ersichtlich" + pauschale Verweisung auf die Nichtabhilfeentscheidung der
+Rechtspflegerin Betz vom 11.11.2026. Art. 103 Abs. 1 GG / § 766 Abs. 1 ZPO:
+Der Vollstreckungsrichter muss eigenständig prüfen; die Verweisung auf die
+Entscheidung einer Rechtspflegerin ist keine eigenständige Prüfung.
+**Trägt als Verfahrensfehlervorwurf — beweist aber keinen Vorsatz.**
+
+**T7 — Der Gegenstandswert weicht von der Sicherungssumme ab.** 1.400.000,00 €
+festgesetzt, 1.786.888,01 € gesperrt; Differenz **386.888,01 €**. Über die
+Kanzlei zu klären und in jeder Finanziererunterlage auszuweisen.
+
+**Was das an diesem Memo NICHT ändert:** die Grundstruktur (zwei Schienen),
+den § 839-Abs. 2-Maßstab, die Korrekturen K1–K3 und die Warnung vor
+Superlativen.
 
 ---
 
