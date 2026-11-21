@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-20T20:05:58.880916+00:00",
+  "generated": "2026-11-21T10:22:06.852127+00:00",
   "scope": "legal-evidence-OMEGA-2026-09-27 (all files except MANIFEST.md and dotfiles)",
-  "files_total": 230,
-  "total_bytes": 194601381,
+  "files_total": 244,
+  "total_bytes": 200437403,
   "entries": [
     {
       "file": "1_BvR_292526_Erster_Senat.pdf",
@@ -33,6 +33,31 @@
       "file": "BEGLEITSCHREIBEN_PRETURA_LUGANO.md",
       "sha256": "3c29344450e08883434f23a92f199881834c892281dce9c9caa4957724630d34",
       "bytes": 3453
+    },
+    {
+      "file": "BELASTBARKEITS_MEMO_DUAL_ASSET_2026_11_21.md",
+      "sha256": "3881d5e3d348f4edee844dd4d98160e767ffd4d5941726f00b2f3b76b8946490",
+      "bytes": 10890
+    },
+    {
+      "file": "BESCHLUSS-AG-HEILBRONN-12-11-2026-OCR.md",
+      "sha256": "483dd963c77fdc3f96bdf483931889c6fdaf09f3abdbaa7f5b26bc8fb65fc9e8",
+      "bytes": 6071
+    },
+    {
+      "file": "BESCHLUSS-AG-HEILBRONN-12-11-2026-SEITEN/BESCHLUSS-AG-HEILBRONN-2026-11-12-12.png",
+      "sha256": "b9dc0bd84f5685b7d209517f14ffed6feb66d66633dc640d08172096a886b053",
+      "bytes": 609383
+    },
+    {
+      "file": "BESCHLUSS-AG-HEILBRONN-12-11-2026-SEITEN/BESCHLUSS-AG-HEILBRONN-2026-11-12-13.png",
+      "sha256": "bdc82c63e8c2f0904e95fcf9c4eb3954bf38691fe521b6c8beaa324f0c3cb474",
+      "bytes": 1146048
+    },
+    {
+      "file": "BESCHLUSS-AG-HEILBRONN-12-11-2026-SEITEN/BESCHLUSS-AG-HEILBRONN-2026-11-12-14.png",
+      "sha256": "da2a0c52452d4810234586d918c88706607f40f4c958bcb6c3087ce074590ff6",
+      "bytes": 657007
     },
     {
       "file": "BVGSTA.pdf",
@@ -185,9 +210,19 @@
       "bytes": 626436
     },
     {
+      "file": "ENTWURF_AKTENANFORDERUNG_KANZLEI_2026_11_21.md",
+      "sha256": "b20f4b6b61d5c2afa9b690f95002c80547dd8afeeea1662278930b7e6957c72b",
+      "bytes": 4507
+    },
+    {
       "file": "EVIDENCE_CHAIN_VERIFIED_STATE_2026_11_20.md",
       "sha256": "3c37c5cdcbfd42bb1a9f609426083d75181413d98b28a02bf0088652ebbcc968",
       "bytes": 4477
+    },
+    {
+      "file": "EXPOSE_V5_KORRIGIERTE_ARGUMENTATION_2026_11_21.md",
+      "sha256": "1b648c7f76ac3effa6d49d3fd5dd2b40e588f0ed5b945be1f99f2abf295c15cc",
+      "bytes": 11781
     },
     {
       "file": "EingereichteErweiterteVerfassungsbeschwerde.pdf",
@@ -423,6 +458,11 @@
       "file": "JudicalPabloEscobarBvFGdossier.pdf",
       "sha256": "2d949dbc1e1ae545988069be8faa0045195a00a39006bad116cad53e1703d6fc",
       "bytes": 3086871
+    },
+    {
+      "file": "KORREKTUR_NOTIZ_BESCHLUSS_FUND_2026_11_21.md",
+      "sha256": "4ad78dabaab57c775d9b75a3a1da9434331587f318c9b20d1c19b041fba8b6ed",
+      "bytes": 8348
     },
     {
       "file": "L8_COURT_RECORD_002_LEF_1_0.md",
@@ -920,7 +960,17 @@
       "bytes": 1372072
     },
     {
+      "file": "doc_6aff5e6e87049621288-1-1_1.pdf",
+      "sha256": "4c5f84fdffaa7ebcf5533f95c4040cee8caf916ce16753262df80e1258e53de4",
+      "bytes": 1372072
+    },
+    {
       "file": "doc_6b0008c1e12ef621288-1-1.pdf",
+      "sha256": "5ed1fb23b1e4da58dd594e3dbe5279fba4096e0bf6fd154b3d1aba25ffb66c04",
+      "bytes": 1943256
+    },
+    {
+      "file": "doc_6b0008c1e12ef621288-1-1_1.pdf",
       "sha256": "5ed1fb23b1e4da58dd594e3dbe5279fba4096e0bf6fd154b3d1aba25ffb66c04",
       "bytes": 1943256
     },
@@ -941,6 +991,11 @@
     },
     {
       "file": "erweitertes-rechtsgutachten-prozessfinanzierer-v4.pdf",
+      "sha256": "13adfa699829cd9d02d6a1ca19b479cb1cbb0e130b5eb66cbd62e38625a68876",
+      "bytes": 12386
+    },
+    {
+      "file": "erweitertes-rechtsgutachten-prozessfinanzierer-v4_1.pdf",
       "sha256": "13adfa699829cd9d02d6a1ca19b479cb1cbb0e130b5eb66cbd62e38625a68876",
       "bytes": 12386
     },
@@ -986,6 +1041,11 @@
     },
     {
       "file": "kurz-expose-schweizer-prozessfinanzierer-v3.pdf",
+      "sha256": "75707bba418bfd8fc5d31bf11b0d1784689f54e1dbc0580a24d95dfcb9b9ffbc",
+      "bytes": 11762
+    },
+    {
+      "file": "kurz-expose-schweizer-prozessfinanzierer-v3_1.pdf",
       "sha256": "75707bba418bfd8fc5d31bf11b0d1784689f54e1dbc0580a24d95dfcb9b9ffbc",
       "bytes": 11762
     },
@@ -1075,6 +1135,11 @@
       "bytes": 15538
     },
     {
+      "file": "rechtsschadensgutachten-haftung-richterin-bogdahn_1.pdf",
+      "sha256": "b50159621016ec89f0ae2ea753804c909d95e0cc6785c3a186b90c31c6035a0c",
+      "bytes": 15538
+    },
+    {
       "file": "sdny_summonses_ao440_all_defendants.pdf",
       "sha256": "c89d3304f0ba6e33f0008661eb5757d443bf114a3659639e8b3cb84772561b06",
       "bytes": 32515
@@ -1091,6 +1156,11 @@
     },
     {
       "file": "term-sheet-prozessfinanzierung-v1.pdf",
+      "sha256": "d0fe2c1c8d5ca1a8dc47c0ecbe77955efd1aeb0d53fce248c7856ca042e73bc0",
+      "bytes": 26973
+    },
+    {
+      "file": "term-sheet-prozessfinanzierung-v1_1.pdf",
       "sha256": "d0fe2c1c8d5ca1a8dc47c0ecbe77955efd1aeb0d53fce248c7856ca042e73bc0",
       "bytes": 26973
     },
