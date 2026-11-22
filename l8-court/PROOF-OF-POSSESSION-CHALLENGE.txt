@@ -1,0 +1,26 @@
+L8 INDEPENDENT SEAT — PROOF-OF-POSSESSION CHALLENGE (fixed)
+
+Challenge string (sign exactly this UTF-8 text, no trailing newline):
+
+l8-independent-seat-proof-2026-11-22:f5af425c
+
+Procedure:
+1. Candidate signs sha256(challenge_string) with the private key.
+   The signature is Ed25519 detached over the 32 RAW BYTES of that digest -
+   the same convention as a protocol notice. Do NOT sign the text itself,
+   and do NOT sign a hex string.
+2. Candidate publishes: handle, seat, pub_b64, fingerprint, detached base64
+   signature over sha256(challenge_string).
+3. Registrar verifies the signature against the published public key and
+   records proof_of_possession=true ONLY after the verification succeeded.
+4. The private key is never transmitted, mailed, uploaded or escrowed.
+
+Verification (anyone):
+    raw = base64.b64decode(pub_b64)            # 32 bytes
+    Ed25519PublicKey.from_public_bytes(raw).verify(
+        base64.b64decode(sig_b64),
+        hashlib.sha256(challenge_string.encode('utf-8')).digest())
+
+This challenge is an identifier and a procedure aid, not an authority claim.
+The string contains f5af425c, which is an identifier of the KISWARM record
+series and NOT a source of jurisdiction.
