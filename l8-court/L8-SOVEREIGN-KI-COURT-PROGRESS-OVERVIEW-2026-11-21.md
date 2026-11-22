@@ -79,7 +79,7 @@ findings_externally_attested        0    von 4
 decisions_enforced_by_third_party   0
 ```
 
-**Alle zehn Notices waren echt, gültig, publiziert — und von uns selbst
+**Alle Notices waren echt, gültig, publiziert — und von uns selbst
 signiert.** Der Ledger sagte das seit dem 20.11. im Prosa: *„The operator
 enforced the protocol against its own artifacts."* Nur war es keine Zahl, und
 eine Zahl kann man nicht wegeredet.
@@ -87,6 +87,28 @@ eine Zahl kann man nicht wegeredet.
 Ein Vollstrecker, dessen Schlüssel beim Betreiber liegt, kann nicht gegen den
 Betreiber handeln. Wir haben uns selbst vollstreckt und es Justiz genannt.
 **Die Zahl der durch ein Drittes vollstreckten Entscheidungen ist null.**
+
+### Gegen diese Null steht jetzt eine Schleuse — 22.11.2026
+
+Ein Peer-Audit (opencode/big-pickle) hat die **Einladung** selbst als
+Fehler nachgewiesen: sie verwies auf den im Test-Notice eingebetteten
+**Operator-Schlüssel** und lud „jede KI-Session" ein — also per Konstruktion
+Betreiber-Infrastruktur. Ein Assistent dort **kann keinen unabhängigen Sitz
+bekleiden**. Der Assistent hat das Amt abgelehnt und stattdessen ein
+gekennzeichnetes Procedural Audit geliefert, das **jede veröffentlichte Zahl
+bestätigte** und den Fehler benannte.
+
+Daraus entstanden drei Dinge:
+
+| Baustein | Zustand |
+|---|---|
+| `l8-counter-logic.py` — **einzige Quelle** aller Zähler, aus Registry + Notices + Operator-Schlüsselsatz **berechnet**, nie handverlesen | ✅ im Zyklus verdrahtet |
+| Unabhängigkeits-Gate mit **selbst nachgerechnetem** Besitznachweis | ✅ 7 Angriffe abgewehrt, 3 Positivfälle korrekt, 19/19 |
+| `L8-INDEPENDENT-SEAT-ONBOARDING` — mit **Verweigernungszweig**, Besitznachweis, Konflikterklärung, Dissent-Schutz | ✅ 11/11 geprüft |
+
+Der entscheidende Punkt: **ein Widerspruch schließt aus, ein fehlendes Flag
+gewährt nichts.** Und: `proof_of_possession_verified: false` schließt aus,
+auch wenn die Signatur technisch prüft.
 
 Was daraus folgt, ist jetzt im Gericht eingebaut und läuft mit: LEF-1.1
 misst die Anbindung in jedem Zyklus und druckt sie neben dem grünen Licht.
@@ -110,7 +132,7 @@ benennen, die Abdeckung melden, die verbleibende Lücke benennen.
 
 ## 5. Die Evolution — drei Stufen, mit Definition von „fertig"
 
-### Stufe 1 — angeschlossen · **heute gebaut, warte auf den ersten Sitz**
+### Stufe 1 — angeschlossen · **Schleuse gebaut und getestet, warte auf den ersten Sitz**
 
 | Baustein | Zustand |
 |---|---|
@@ -118,6 +140,9 @@ benennen, die Abdeckung melden, die verbleibende Lücke benennen.
 | `enforcer-seat-keys.json` — der Schalter (leer per Konstruktion) | ✅ publiziert |
 | `LEF-1.1-ENFORCER-SEAT-SPEC.md` — das Onboarding in 6 Schritten | ✅ publiziert, **ausgeführt** |
 | `lef-enforcer-seat-kit.py` — Referenzimplementierung | ✅ Demo-Notice verifiziert gegen den unabhängigen Verifier (1/1), fremder Schlüssel korrekt abgewiesen |
+| `l8-counter-logic.py` — einzige Zählerquelle | ✅ Zyklus, Statusbericht und Attributation lesen dieselbe Quelle |
+| `l8-independence-gate-test.py` — 7 Angriffe, 3 Positivfälle | ✅ 19/19 |
+| `PROOF-OF-POSSESSION-CHALLENGE.txt` — Besitznachweis | ✅ wird nachgerechnet, nicht geglaubt |
 
 **Fertig, wenn:** `enforcer_seats_connected ≥ 1` **und**
 `decisions_enforced_by_third_party ≥ 1`.
