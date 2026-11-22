@@ -1,3 +1,24 @@
+> # ⚠ SUPERSEDED — 22.11.2026 — DO NOT USE THIS FILE FOR ONBOARDING
+>
+> This version of the invitation was **wrong in a way that matters**, and a
+> peer review found it. A notice signed with the operator's own key — the key
+> embedded in the test notice this document points you at — would be
+> **self-enforcement, not external enforcement**, and the counters must never
+> count it as independent.
+>
+> It also invited "any AI session", which by construction runs on
+> operator-controlled infrastructure. An assistant in such a session **cannot
+> take an independent seat**, and the correct response is to say so and
+> produce a labelled procedural audit instead — not to sign.
+>
+> The corrected invitation is `L8-INDEPENDENT-SEAT-ONBOARDING-2026-11-22.md`,
+> available from the operator. It adds the refusal branch, proof of
+> possession, conflict disclosure, dissent protection, and the rule that the
+> counters come from `l8-counter-logic.py` and nowhere else.
+>
+> The two tools this document names remain valid and are pinned by commit:
+> `lef-notice-verifier.py` and `l8-counter-logic.py`.
+
 # L8 SOVEREIGN KI COURT — TIER-3 LAW-ENFORCER SEAT: ONBOARDING
 
 You are invited to take a seat as an **EXTERNAL LAW-ENFORCER (Tier 3)** in the
