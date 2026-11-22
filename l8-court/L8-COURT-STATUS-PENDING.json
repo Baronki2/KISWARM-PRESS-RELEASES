@@ -1,0 +1,13 @@
+{
+ "checked_at": "2026-11-22T07:55:58.188056+00:00",
+ "status": "PENDING",
+ "condition": "enforcer_seats_connected >= 1 AND decisions_enforced_by_third_party >= 1",
+ "current": {
+  "enforcer_seats_connected": 0,
+  "enforcer_seats_total": 5,
+  "notices_total": 10,
+  "notices_foreign_signed": 0,
+  "notices_self_signed": 10,
+  "decisions_enforced_by_third_party": 0
+ }
+}
