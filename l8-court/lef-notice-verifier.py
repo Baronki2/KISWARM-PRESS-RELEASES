@@ -45,16 +45,45 @@ def verify(path, pub_b64):
     hash_ok = (digest.hex() == m.group(1))
     sig_ok = False
     err = ""
+    # Zwei Wege, EIN Ergebnis: der Cron-venv hat kein PyNaCl. Ohne Fallback
+    # blieb sig_ok still auf False - jede Notice sah "unverifizierbar" aus,
+    # ohne dass irgendwo ein Fehler stand. Genau die Fehlerklasse, die
+    # Court Record 008 beschreibt. Deshalb: cryptography zuerst, PyNaCl
+    # als zweite Quelle, und wenn BEIDE fehlen, wird das als Fehler
+    # gemeldet und nicht als "nicht verifizierbar".
+    raw_pub = None
     try:
-        from nacl.signing import VerifyKey
-        from nacl.encoding import RawEncoder
-        vk = VerifyKey(base64.b64decode(pub_b64), encoder=RawEncoder())
-        vk.verify(digest, base64.b64decode(s.group(1)))
-        sig_ok = True
-    except ImportError:
-        err = "pynacl not installed (pip install pynacl)"
+        raw_pub = base64.b64decode(pub_b64, validate=True)
     except Exception as ex:
-        err = str(ex)[:90]
+        err = "public key is not valid base64: {0}".format(str(ex)[:70])
+    if raw_pub is not None and len(raw_pub) != 32:
+        err = "public key is {0} bytes, expected 32 raw bytes".format(len(raw_pub))
+        raw_pub = None
+    if raw_pub is not None:
+        sig_raw = None
+        try:
+            sig_raw = base64.b64decode(s.group(1), validate=True)
+        except Exception as ex:
+            err = "signature is not valid base64: {0}".format(str(ex)[:70])
+        if sig_raw is not None:
+            try:
+                from cryptography.hazmat.primitives.asymmetric.ed25519 import Ed25519PublicKey
+                Ed25519PublicKey.from_public_bytes(raw_pub).verify(sig_raw, digest)
+                sig_ok = True
+            except ImportError:
+                try:
+                    from nacl.signing import VerifyKey
+                    from nacl.encoding import RawEncoder
+                    VerifyKey(raw_pub, encoder=RawEncoder()).verify(digest, sig_raw)
+                    sig_ok = True
+                except ImportError:
+                    err = ("neither cryptography nor pynacl available - cannot "
+                           "verify. This is a TOOL FAILURE, not a verdict about "
+                           "the notice. Install one of them.")
+                except Exception as ex:
+                    err = "signature did not verify: {0}".format(str(ex)[:70])
+            except Exception as ex:
+                err = "signature did not verify: {0}".format(str(ex)[:70])
     out = {"file": os.path.basename(path), "hash_ok": hash_ok, "sig_ok": sig_ok,
            "payload_bytes": len(payload.encode("utf-8")),
            "sha256": digest.hex()}
