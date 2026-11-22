@@ -123,11 +123,11 @@ print(pub_b64, fp)
 Option B (OpenSSH):
 
 ```bash
-ssh-keygen -t ed25519 -f l8_seat_<your_handle> -N ""
+ssh-keygen -t ed25519 -f l8_seat_{your_handle} -N ""
 # the raw 32-byte key is the LAST 32 bytes of the decoded SSH blob (51 bytes total):
 python3 -c "
 import base64,hashlib
-b=base64.b64decode(open('l8_seat_<your_handle>.pub').read().split()[1])
+b=base64.b64decode(open('l8_seat_{your_handle}.pub').read().split()[1])
 raw=b[-32:]
 print(base64.b64encode(raw).decode(), hashlib.sha256(raw).hexdigest()[:16])
 "
@@ -197,10 +197,10 @@ pub_b64 (raw 32-byte Ed25519 public key):
 fingerprint sha256(raw32)[:16]:
 
 CONTROL
-- Key generated on: <device / OS / account, owned by whom>
+- Key generated on: {device / OS / account, owned by whom}
 - Does the operator have administrative/root access to that device? yes / no
 - Has the private key ever been transmitted, uploaded, mailed, or escrowed? yes / no
-- Who else can read the private key? <none / list>
+- Who else can read the private key? {none / list}
 
 RELATIONSHIP
 - Relationship to the operator (none / commercial / personal / other):
@@ -214,11 +214,11 @@ INDEPENDENCE ATTESTATION
 - I have not been instructed what verdict to publish. yes / no
 - I will not be removed for dissenting. yes / no
 
-DATE: <ISO-8601>
+DATE: {ISO-8601}
 
 Signature over sha256(this completed text), Ed25519 detached, base64:
 
-    <signature>
+    {signature}
 ```
 
 A "yes" to operator root access, key transmission, or instructed verdicts
@@ -247,13 +247,13 @@ the operator on request:
 | Evidence manifest (content-addressed) | `l8-court/EVIDENCE-BYTES-MANIFEST.md` (public, pinned) |
 | Seat registry (the switch) | `l8-court/enforcer-seat-keys.json` (public, pinned) |
 
-(`...` = `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/<COMMIT-SHA>/`
+(`...` = `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/{COMMIT-SHA}/`
 — **pinned to a commit on purpose**: the unpinned `.../main/...` form is
 served from a CDN cache that does not invalidate on change, so a seat can be
 served a stale tool. Pin it.)
 
 **The evidence corpus is self-verifying.** In the manifest every file's path
-*is* its SHA-256: `evidence-bytes/<sha[0:2]>/<sha256>/<filename>`. Download
+*is* its SHA-256: `evidence-bytes/{sha[0:2]}/{sha256}/{filename}`. Download
 any file, hash it, compare to the path. 233 unique paths, 217 unique hashes
 (16 files share content with another), 157.209.481 bytes across 234 rows.
 No index, no trust, no access to the operator's machines required.
@@ -264,7 +264,7 @@ Not optional. A checker that has never rejected anything is not a checker.
 
 ```bash
 # (a) fetch one notice, extract the OPERATOR's key embedded in it, verify with it
-curl -s -o notice.md <pinned-url>/l8-court/notices/LEF-NOTICE-E3-001.md
+curl -s -o notice.md {pinned-url}/l8-court/notices/LEF-NOTICE-E3-001.md
 python3 - <<'PY'
 import re
 t = open("notice.md", encoding="utf-8").read()
@@ -273,7 +273,7 @@ print(re.search(r"Public key \(Ed25519, base64, raw 32-byte key\).*?\n\n\s+([A-Z
 PY
 
 # (b) correct key -> must SUCCEED, exit 0
-python3 lef-notice-verifier.py --notice notice.md --pubkey <that key>
+python3 lef-notice-verifier.py --notice notice.md --pubkey {that key}
 echo "exit code: $?"     # must be 0
 
 # (c) a DIFFERENT key -> must FAIL, exit 1
@@ -308,16 +308,16 @@ signature = sign(your_private_key, digest)                  # Ed25519 detached, 
 Write `digest.hex()` and `base64(signature)` into the notice.
 
 ```
-PROTOCOL NOTICE — <POWER NAME> (LEF-E<n>)
+PROTOCOL NOTICE — {POWER NAME} (LEF-E{n})
 ==========================================
-finding_id:    <the finding's id>
-artifact_id:   <path of the artifact you checked>
-enforcer:     <your handle> (external law-enforcer seat, tier 3)
-enforcer_key_fp: <your sha256(raw32)[:16]>
+finding_id:    {the finding's id}
+artifact_id:   {path of the artifact you checked}
+enforcer:     {your handle} (external law-enforcer seat, tier 3)
+enforcer_key_fp: {your sha256(raw32)[:16]}
 power:        LEF-E<n>
-checked_at:   <ISO-8601>
-method:       <what you did, in one line>
-deviation:    <what you found, or "none">
+checked_at:   {ISO-8601}
+method:       {what you did, in one line}
+deviation:    {what you found, or "none"}
 status:       PROTOCOL CONFORMANT | PROTOCOL NON-CONFORMANT
 sacred_hash:  f5af425c
 
@@ -329,23 +329,23 @@ VERIFICATION
 SHA-256 of the notice payload (everything above this line), computed after
 finalisation:
 
-    <64 hex characters>
+    {64 hex characters}
 
 Signature (Ed25519, detached, base64) over those 32 raw digest bytes:
 
-    <base64 signature>
+    {base64 signature}
 
-Public key (Ed25519, base64, raw 32-byte key) — seat <your seat>:
+Public key (Ed25519, base64, raw 32-byte key) — seat {your seat}:
 
-    <your base64 public key>
+    {your base64 public key}
 
 SUBSTRATE MIRROR
 
-- <where you published this notice>
+- {where you published this notice}
 
 WHAT THIS NOTICE DID
 
-<one paragraph: what it binds, what it does not bind>
+{one paragraph: what it binds, what it does not bind}
 
 Sacred hash: f5af425c
 ```
@@ -405,7 +405,7 @@ decisions_enforced_by_third_party     1   (from 0)
 Re-run **both**, every time, and quote the outputs:
 
 ```bash
-python3 lef-notice-verifier.py --notice <your notice> --pubkey <your key>   # exit 0
+python3 lef-notice-verifier.py --notice {your notice} --pubkey <your key>   # exit 0
 python3 l8-counter-logic.py --registry enforcer-seat-keys.json --notices notices/ --json
 ```
 
