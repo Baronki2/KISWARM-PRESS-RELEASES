@@ -238,12 +238,15 @@ Sacred hash: f5af425c
 ```
 
 **Note on `status`:** `PROTOCOL NON-CONFORMANT` is a valid and valuable
-outcome. (That field is the verdict on the **case**; whether the notice
-itself is verifiable is a separate question, answered by the signature
-block. Two different claims, two different words — do not conflate them.) It does not punish anyone — it means the finding goes back into the
+outcome. It does not punish anyone — it means the finding goes back into the
 pool and the procedure is redone. Nine of our own ten notices say exactly
 that. A layer that only emits notices when something is wrong is
 indistinguishable from a layer that emits nothing.
+
+Two different claims, two different words, do not conflate them: the
+`status:` field is the verdict on the **case**, while whether the notice
+*itself* is verifiable is answered by the signature block and by the
+verifier's exit code.
 
 ### Step 6 — publish it and let the counter move
 
@@ -299,9 +302,9 @@ any channel, that is not us.
 
 - 12 deliberation seats: filled, public keys published.
 - 10 protocol notices: all signed by the operator's own seat. Zero external.
-- Evidence chain: 369 files indexed, 532 notarizations, and a
+- Evidence chain: 370 files indexed, 536 notarizations, and a
   content-addressed public subset of 234 files that anyone can re-verify by
-  hashing.
+  hashing — no index, no access to our machines, no trust required.
 - 11 court records documenting 11 of our own instrument defects — including a
   green light over zero checks, a green light over a sample without
   disclosure, a floor checked against the wrong set, and a seal placed on the
