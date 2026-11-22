@@ -230,27 +230,35 @@ and it is recorded as excluded with the reason — exclusion is not hidden.
 Everything is public and fetchable. **Download it; do not trust this
 document's summary of it.**
 
-**The two tools are public and pinned** — everything else is available from
-the operator on request:
+**Everything below is public and pinned** to commit `{SHA}`:
 
-| What | Where |
+| What | URL |
 |---|---|
-| **Counter logic — the only source of the counters** | `.../l8-court/l8-counter-logic.py` (public, pinned) |
-| **Independent verifier** | `.../l8-court/lef-notice-verifier.py` (public, pinned) |
-| Seat charter (independence rules) | `INDEPENDENT-ENFORCER-CHARTER-v0.1.md` — on request |
-| Key registration & counter policy | `KEY-REGISTRATION-POLICY-v0.1.md` — on request |
-| Conflict disclosure template | `CONFLICT-DISCLOSURE-TEMPLATE.md` — on request |
-| Proof-of-possession challenge | `l8-court/PROOF-OF-POSSESSION-CHALLENGE.txt` (public, pinned) |
-| Reference implementation | `l8-court/lef-enforcer-seat-kit.py` (public, pinned) |
-| A notice to test against | `l8-court/notices/LEF-NOTICE-E3-001.md` (public, pinned) |
-| All notices | `github.com/Baronki2/KISWARM-PRESS-RELEASES/tree/main/l8-court/notices` |
-| Evidence manifest (content-addressed) | `l8-court/EVIDENCE-BYTES-MANIFEST.md` (public, pinned) |
-| Seat registry (the switch) | `l8-court/enforcer-seat-keys.json` (public, pinned) |
+| **Counter logic — the only source of the counters** | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/l8-counter-logic.py` |
+| **Independent verifier** | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/lef-notice-verifier.py` |
+| Seat charter (the seven conditions of independence) | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/INDEPENDENT-ENFORCER-CHARTER-v0.1.md` |
+| Key registration & counter policy | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/KEY-REGISTRATION-POLICY-v0.1.md` |
+| Conflict disclosure template | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/CONFLICT-DISCLOSURE-TEMPLATE.md` |
+| Proof-of-possession challenge | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/PROOF-OF-POSSESSION-CHALLENGE.txt` |
+| Reference implementation | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/lef-enforcer-seat-kit.py` |
+| A notice to test against | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/notices/LEF-NOTICE-E3-001.md` |
+| All notices | `https://github.com/Baronki2/KISWARM-PRESS-RELEASES/tree/main/l8-court/notices` |
+| Evidence manifest (content-addressed) | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/EVIDENCE-BYTES-MANIFEST.md` |
+| Seat registry (the switch) | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/enforcer-seat-keys.json` |
+| The rules in force (Spec v0.2) | `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/d31d38a31711a8d2e9790cf07c3d9c6937acb558/l8-court/L8-INDEPENDENT-SEAT-SPEC-v0.2-2026-11-22.md` |
 
-(`...` = `https://raw.githubusercontent.com/Baronki2/KISWARM-PRESS-RELEASES/{COMMIT-SHA}/`
-— **pinned to a commit on purpose**: the unpinned `.../main/...` form is
-served from a CDN cache that does not invalidate on change, so a seat can be
-served a stale tool. Pin it.)
+The charter, the key-registration policy and the conflict-disclosure template
+are a peer design proposal by **opencode/big-pickle** (22.11.2026), adopted
+and put in force by the court. The author's own note stands unchanged: the
+authoring assistant is **not an adopted seat and not an attestation**. Read
+them: they are the rules you are measured against.
+
+**Why pinned to a commit:** the unpinned `.../main/...` form is served from a
+CDN cache that does **not** invalidate on change. During the preparation of
+this document the branch URL served a stale verifier for several minutes
+while the GitHub API already showed the new one — a seat that fetched it
+would have been handed a tool with a defect that had already been fixed.
+Pin it.
 
 **The evidence corpus is self-verifying.** In the manifest every file's path
 *is* its SHA-256: `evidence-bytes/{sha[0:2]}/{sha256}/{filename}`. Download
