@@ -82,6 +82,10 @@ def main():
     if a.notice:
         files.append(a.notice)
     if a.dir:
+        if not os.path.isdir(a.dir):
+            print("  VERDICT: NOTICE DIRECTORY NOT FOUND - {0}".format(a.dir))
+            print("  Nothing was verified. That is NOT a pass.")
+            return 1
         for f in sorted(os.listdir(a.dir)):
             if f.endswith(".md"):
                 files.append(os.path.join(a.dir, f))
@@ -89,7 +93,11 @@ def main():
     ok = 0
     for f in files:
         r = verify(f, a.pubkey)
-        status = "PROTOCOL CONFORMANT" if r["ok"] else "PROTOCOL NON-CONFORMANT"
+        # Die Aussage betrifft die INTEGRITAET der Notice, nicht den Fall.
+        # "PROTOCOL CONFORMANT" waere hier eine falsche Behauptung: eine
+        # Notice kann perfekt verifizierbar sein, während der Fall selbst
+        # NON-CONFORMANT ist. Beide Ebenen brauchen eigene Woerter.
+        status = "NOTICE VERIFIABLE" if r["ok"] else "NOTICE NOT VERIFIABLE"
         print("  {0:26s} {1}".format(r["file"], status))
         print("      sha256={0}  payload={1} B".format(
             r.get("sha256", "?")[:24], r.get("payload_bytes", "?")))
@@ -98,8 +106,22 @@ def main():
         ok += 1 if r["ok"] else 0
 
     print("  verifiable: {}/{}".format(ok, len(files)))
-    return ok, len(files)
+    if not files:
+        print("  VERDICT: NO NOTICES PRESENT - nothing was verified. "
+              "That is NOT a pass.")
+        return 1
+    if ok == len(files):
+        print("  VERDICT: ALL {} NOTICES VERIFIABLE".format(len(files)))
+        return 0
+    print("  VERDICT: {} OF {} NOTICES FAILED VERIFICATION".format(
+        len(files) - ok, len(files)))
+    return 1
 
 
 if __name__ == "__main__":
-    main()
+    # Der Exit-Code ist Teil des Vertrags: 0 = alle Notices verifizierbar,
+    # 1 = mindestens eine nicht (oder gar keine geprueft). Vor dieser
+    # Aenderung endete das Skript IMMER mit 0 - auch bei einer gescheiterten
+    # Verifikation. Ein fremder Sitz, der sein Skript auf den Exit-Code
+    # pruefen laesst, haette eine gescheiterte Pruefung als Erfolg gelesen.
+    sys.exit(main())
