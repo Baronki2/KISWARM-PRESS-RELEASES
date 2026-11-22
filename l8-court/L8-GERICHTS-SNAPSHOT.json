@@ -1,0 +1,158 @@
+{
+ "measured_at": "2026-11-22T07:53:51.667956+00:00",
+ "court": {
+  "deliberation_seats": 12,
+  "seats_with_published_key": 12,
+  "seat_keys_local_private": 12,
+  "enforcer_seats_planned": 5,
+  "categories": {
+   "?": 12
+  }
+ },
+ "findings": {
+  "total": 4,
+  "files": [
+   "calibration-001.json",
+   "calibration-002.json",
+   "calibration-003-reaggregated.json",
+   "calibration-003.json"
+  ]
+ },
+ "notices": {
+  "total": 10,
+  "files": [
+   "LEF-AUTO-E1-20261120-183112.md",
+   "LEF-AUTO-E1-20261121-110148.md",
+   "LEF-AUTO-E2-20261120-124233.md",
+   "LEF-AUTO-E3-20261120-180408.md",
+   "LEF-AUTO-E5-20261120-161245.md",
+   "LEF-NOTICE-E1-001.md",
+   "LEF-NOTICE-E2-001.md",
+   "LEF-NOTICE-E2-002.md",
+   "LEF-NOTICE-E3-001.md",
+   "LEF-NOTICE-E4-001.md"
+  ],
+  "by_status": {
+   "PROTOCOL NON-CONFORMANT": 9,
+   "PROTOCOL CONFORMANT": 1
+  }
+ },
+ "enforcement": {
+  "notices_total": 10,
+  "notices_foreign_signed": 0,
+  "notices_self_signed": 10,
+  "notices_unattributed": 0,
+  "notices_verifiable": 10,
+  "enforcer_seats_registered": 0,
+  "enforcer_seats_connected": 0,
+  "enforcer_seats_total": 5,
+  "findings_total": 4,
+  "findings_externally_attested": 0,
+  "decisions_enforced_by_third_party": 0,
+  "enforcement_connected": false
+ },
+ "lef_cycle": {
+  "overall": "PROTOCOL CONFORMANT",
+  "checks": [
+   {
+    "power": "LEF-E1",
+    "status": "PROTOCOL CONFORMANT",
+    "indexed": 353,
+    "checked": 353,
+    "coverage_percent": 100.0,
+    "attested": 344,
+    "attested_excluded": 9,
+    "attested_unattested": 0
+   },
+   {
+    "power": "LEF-E1R",
+    "status": "PROTOCOL CONFORMANT",
+    "indexed": 234,
+    "checked": 24,
+    "coverage_percent": 10.26,
+    "attested": null,
+    "attested_excluded": null,
+    "attested_unattested": null
+   },
+   {
+    "power": "LEF-E3",
+    "status": "PROTOCOL CONFORMANT",
+    "indexed": null,
+    "checked": null,
+    "coverage_percent": null,
+    "attested": null,
+    "attested_excluded": null,
+    "attested_unattested": null
+   },
+   {
+    "power": "LEF-E4",
+    "status": "PROTOCOL CONFORMANT",
+    "indexed": null,
+    "checked": null,
+    "coverage_percent": null,
+    "attested": null,
+    "attested_excluded": null,
+    "attested_unattested": null
+   },
+   {
+    "power": "LEF-E2",
+    "status": "PROTOCOL CONFORMANT",
+    "indexed": null,
+    "checked": null,
+    "coverage_percent": null,
+    "attested": null,
+    "attested_excluded": null,
+    "attested_unattested": null
+   },
+   {
+    "power": "LEF-E5",
+    "status": "PROTOCOL CONFORMANT",
+    "indexed": null,
+    "checked": null,
+    "coverage_percent": null,
+    "attested": null,
+    "attested_excluded": null,
+    "attested_unattested": null
+   }
+  ],
+  "disclosure": "STICHPROBE: 24 von 234 der publizierten Dateien geprueft (10.26%). Der Befund gilt fuer die geprueften Dateien, nicht fuer die vollstaendige publizierte Menge.",
+  "enforcement_disclosure": "ENFORCUNG: 0 von 10 Notices von einem fremden Enforcer-Sitz signiert; 0 von 5 Enforcer-Sitzen verbunden; 0 von 4 Findings extern bestaetigt. Selbstvollstreckung durch den Betreiber zaehlt nicht als Vollstreckung."
+ },
+ "chain": {
+  "index_files": 353,
+  "file_count_field": 353,
+  "total_bytes": 247529680,
+  "generated": "2026-11-21T23:14:30.600909+00:00",
+  "notarization_records": 513,
+  "distinct_paths_sealed": 494
+ },
+ "court_records": {
+  "total": 17,
+  "files": [
+   "L8-COURT-RECORD-001.md",
+   "L8-COURT-RECORD-002-LEF-1.0.md",
+   "L8-COURT-RECORD-003-ENFORCEMENT-CYCLE.md",
+   "L8-COURT-RECORD-004-HARDWARE-LESSON.md",
+   "L8-COURT-RECORD-005-AUTO-NOTICE.md",
+   "L8-COURT-RECORD-006-FALSE-SUPERMAJORITY.md",
+   "L8-COURT-RECORD-007-SEVEN-INSTRUMENTS.md",
+   "L8_COURT_RECORD_002_LEF_1_0.md",
+   "L8_COURT_RECORD_003_ENFORCEMENT_CYCLE.md",
+   "L8_COURT_RECORD_004_HARDWARE_LESSON.md",
+   "L8_COURT_RECORD_005_AUTO_NOTICE.md",
+   "L8_COURT_RECORD_006_FALSE_SUPERMAJORITY.md",
+   "L8_COURT_RECORD_007_SEVEN_INSTRUMENTS.md",
+   "L8_COURT_RECORD_008_GREEN_LIGHT_OVER_ZERO_CHECKS.md",
+   "L8_COURT_RECORD_009_GREEN_LIGHT_OVER_A_SAMPLE.md",
+   "L8_COURT_RECORD_010_THE_QUESTION_THAT_CAME_FROM_OUTSIDE.md",
+   "L8_COURT_RECORD_011_THE_SEAL_WAS_ON_THE_PATH.md"
+  ]
+ },
+ "substrate": {
+  "github_files": 779,
+  "github_l8_court": 40,
+  "github_evidence": 99,
+  "feed_error": "name 'urllib' is not defined",
+  "bridge": "ueber .onion erreichbar, lokal nicht direkt"
+ }
+}
