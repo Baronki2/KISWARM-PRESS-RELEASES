@@ -498,6 +498,19 @@
    "nennungen": 51,
    "verfahren": 1,
    "muster_ueber_mehrere_verfahren": 0
+  },
+  {
+   "label": "Rpfl. Wurst (AG Heilbronn)",
+   "kind": "named_person",
+   "aliases": [
+    "Rechtspflegerin Wurst",
+    "Wurst AG Heilbronn",
+    "Court Clerk Wurst"
+   ],
+   "basis": "In 19 Dateien der versiegelten Beweiskette namentlich genannt; in den 11 Vollbild-Dossiers war sie NICHT enthalten und wurde deshalb am 23.11.2026 nachgetragen. Untersuchung nur ueber oeffentliche, unabhaengige Quellen.",
+   "nennungen": 19,
+   "verfahren": null,
+   "muster_ueber_mehrere_verfahren": 0
   }
  ],
  "allowed_actions": [
@@ -509,7 +522,7 @@
  "expires_at": "2026-12-23T00:00:00Z",
  "approver": "Baron Marco Paolo Ialongo (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679)",
  "notes": "Default-deny. The target list contains ONLY parties named in the proceedings (each with its case reference) plus the operator's OWN matter, sensors and evidence corpus. No wildcard, no inference, no expansion. A case-scoped list of named parties is not a list of suspects: 60.000 people of Heilbronn have not been charged, and a list of them would be a suspect pool, not a case. A party named in a proceeding is not a suspect. Pattern analysis means counting how the SAME procedural step fails across DIFFERENT proceedings — it does not mean asserting that a person is corrupt. Explicitly NOT authorized: nmap/nuclei/trivy/prowler against any third-party host, any scanning or blocking of persons, any doxxing, any mass surveillance, any collection of new personal data about third parties, any external accusation or report without a named human approver, and any legal conclusion. Every output is an AI-generated draft requiring human review.",
- "target_count": 47,
+ "target_count": 48,
  "provenance_note": "Zielarten: named_person/named_office = in der Akte belegt; matter/operator_attested_party = vom Betreiber benannt (Baron Marco Paolo Ialongo, BfJ-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679) und deshalb NICHT in der versiegelten Beweiskette. Fuer diese Ziele gilt: nur oeffentliche Quellen, keine Schlussfolgerung aus der Benennung, Befund nur bei mehreren unabhaengigen Quellen.",
  "zweck": " | ERWEITERUNG 23.11.2026b: alle 11 im versiegelten Korpus dokumentierten Personen sind als Scope-Ziele aufgenommen, damit der Sentinel Case Officer zu jedem namentlich unabhaengige Intel beschaffen kann (Entscheidungsdatenbanken, Pressearchiv, Parlaments- und Registerdaten). Die eigene Beweiskette bleibt als koerperinterne Quelle markiert und darf eigene Vorwuerfe nicht bestaetigen."
 }
