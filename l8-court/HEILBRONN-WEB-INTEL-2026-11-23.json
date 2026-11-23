@@ -1,25 +1,209 @@
 {
  "case_id": "HEILBRONN-KISWARM",
  "tool": "sentinel_web_intel.py",
- "generated_at": "2026-11-23",
+ "generated_at": "2026-11-23T04:45Z",
  "independence_rule": "eigene Artefakte koennen eigene Vorwuerfe nicht bestaetigen",
+ "lead_rule": "Suchtreffer sind Leads ohne Artefakt-Hash; erst --url versiegelt den Seiteninhalt",
  "counts": {
-  "facts": 54,
+  "facts": 73,
   "by_claim_kind": {
-   "factual_observation": 18,
-   "search_lead": 36
+   "factual_observation": 21,
+   "search_lead": 52
   },
   "by_source": {
    "wikipedia": 15,
-   "duckduckgo_lite": 36,
-   "direct_url": 3
+   "duckduckgo_lite": 52,
+   "direct_url": 6
   },
   "by_target": {
    "Michèle Kiesewetter": 46,
-   "NSU Made in Germany": 8
+   "NSU Made in Germany": 8,
+   "Andreas Amlung": 8,
+   "Landgericht Heilbronn": 11
   },
-  "with_artifact_hash": 18,
-  "empty_string_hash": 0
+  "with_artifact_hash": 21,
+  "empty_string_hash": 0,
+  "social_profiles_discarded": 0
+ },
+ "primary_sources": [
+  {
+   "url": "https://de.wikipedia.org/?curid=6594293",
+   "sha256": "e08de92605c4b31dc0e07c06dcb6977b3fcf7a6f548c714d37a0817cad0e1488",
+   "bytes": 243,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:22.262782+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=2288341",
+   "sha256": "6d7c4de01427beab7458cd3bd6311859f636c4fab1ecfe0f534ee33fb30eb92a",
+   "bytes": 1747,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:22.262782+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6573302",
+   "sha256": "60808e07f1281575b184a6eb2f3786676f176d8a619057957187c3cf48e28ac8",
+   "bytes": 2972,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:22.262782+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6576716",
+   "sha256": "3ee8afa280686557a3672155e2e63b31904cff4c521dd4652e8b237fc2089f02",
+   "bytes": 718,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:22.262782+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6594293",
+   "sha256": "e08de92605c4b31dc0e07c06dcb6977b3fcf7a6f548c714d37a0817cad0e1488",
+   "bytes": 243,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:38.149875+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=2288341",
+   "sha256": "6d7c4de01427beab7458cd3bd6311859f636c4fab1ecfe0f534ee33fb30eb92a",
+   "bytes": 1747,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:38.149875+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6573302",
+   "sha256": "60808e07f1281575b184a6eb2f3786676f176d8a619057957187c3cf48e28ac8",
+   "bytes": 2972,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:38.149875+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6576716",
+   "sha256": "3ee8afa280686557a3672155e2e63b31904cff4c521dd4652e8b237fc2089f02",
+   "bytes": 718,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:38:38.149875+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6594293",
+   "sha256": "e08de92605c4b31dc0e07c06dcb6977b3fcf7a6f548c714d37a0817cad0e1488",
+   "bytes": 243,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:01.289838+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6573302",
+   "sha256": "60808e07f1281575b184a6eb2f3786676f176d8a619057957187c3cf48e28ac8",
+   "bytes": 2972,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:01.289838+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6576716",
+   "sha256": "3ee8afa280686557a3672155e2e63b31904cff4c521dd4652e8b237fc2089f02",
+   "bytes": 718,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:01.289838+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6594293",
+   "sha256": "e08de92605c4b31dc0e07c06dcb6977b3fcf7a6f548c714d37a0817cad0e1488",
+   "bytes": 243,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:23.743102+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=2288341",
+   "sha256": "6d7c4de01427beab7458cd3bd6311859f636c4fab1ecfe0f534ee33fb30eb92a",
+   "bytes": 1747,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:23.743102+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6573302",
+   "sha256": "60808e07f1281575b184a6eb2f3786676f176d8a619057957187c3cf48e28ac8",
+   "bytes": 2972,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:23.743102+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://de.wikipedia.org/?curid=6576716",
+   "sha256": "3ee8afa280686557a3672155e2e63b31904cff4c521dd4652e8b237fc2089f02",
+   "bytes": 718,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:23.743102+00:00",
+   "independence": "independent_public"
+  },
+  {
+   "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rk20220930_2bvr222221.html",
+   "sha256": "8c99c060f23f4ab3c20d50c4bfed48cbf422d692b80e5445fa4173967b2c0858",
+   "bytes": 186030,
+   "target": "NSU Made in Germany",
+   "retrieved_at": "2026-11-23T04:39:44.454078+00:00",
+   "independence": "independent_public_pending_tier"
+  },
+  {
+   "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2022/bvg22-082.html",
+   "sha256": "dda5967d788ce422392a59ce88bc919125fc47a6c0974f87cf05e91ade3a7612",
+   "bytes": 112808,
+   "target": "NSU Made in Germany",
+   "retrieved_at": "2026-11-23T04:39:45.083129+00:00",
+   "independence": "independent_public_pending_tier"
+  },
+  {
+   "url": "https://www.archivportal-d.de/content/themenportale/rechte-gewalt/case/nsu-der-mord-michele-kiesewetter",
+   "sha256": "86fe36534339be5434379d9bbe9576db2b8f95c69d84cb5acfac44c2603fdd64",
+   "bytes": 3401,
+   "target": "Michèle Kiesewetter",
+   "retrieved_at": "2026-11-23T04:39:45.432695+00:00",
+   "independence": "independent_public_pending_tier"
+  },
+  {
+   "url": "https://www.besoldung-baden-wuerttemberg.de/baden_wuerttemberg_landesbesoldungsordnung_r",
+   "sha256": "3a1160bcb3100823ca216e543cd3f9e198c978bf26625767b652ae621c717bdf",
+   "bytes": 31445,
+   "target": "Landgericht Heilbronn",
+   "retrieved_at": "2026-11-23T04:43:44.820517+00:00",
+   "independence": "independent_public_pending_tier"
+  },
+  {
+   "url": "https://www.landesrecht.online/BW/LBesGBW",
+   "sha256": "8876e4a17139fc65b08e15bc52c24b834cb8f52df5e6ab6d8a1ed115a8b95173",
+   "bytes": 99632,
+   "target": "Landgericht Heilbronn",
+   "retrieved_at": "2026-11-23T04:43:45.294553+00:00",
+   "independence": "independent_public_pending_tier"
+  },
+  {
+   "url": "https://infos-oeffentlicher-dienst.de/beamte/besoldung/baden-wuerttemberg/2025-2026/b",
+   "sha256": "c116b932f73f26b1ef8d039becc0d20a4566815142c4eb30289704beaa776538",
+   "bytes": 50714,
+   "target": "Landgericht Heilbronn",
+   "retrieved_at": "2026-11-23T04:44:06.370886+00:00",
+   "independence": "independent_public_pending_tier"
+  }
+ ],
+ "official_income_baseline": {
+  "quelle": "Landesbesoldungsordnung R (BW) - versiegelte Artefakte",
+  "befund": "Besoldungsgruppe R 1 umfasst Richter am Landgericht UND Staatsanwalt gleichermassen; R 3/R 4 mit Amtszulage nach Anlage 13 ab 16 Richterplanstellen",
+  "artefakt_sha256": [
+   "3a1160bcb3100823ca216e543cd3f9e198c978bf26625767b652ae621c717bdf",
+   "8876e4a17139fc65b08e15bc52c24b834cb8f52df5e6ab6d8a1ed115a8b95173",
+   "c116b932f73f26b1ef8d039becc0d20a4566815142c4eb30289704beaa776538"
+  ],
+  "eurobetraege": "noch nicht maschinell extrahiert - die versiegelten Artefakte enthalten die Quelle; die Betragszeilen sind manuell zu uebernehmen"
  },
  "facts": [
   {
@@ -1334,6 +1518,442 @@
    "bytes": 3401,
    "retrieved_at": "2026-11-23T04:39:45.432695+00:00",
    "stored": "/home/sah/ARTEX/data/tasks/HEILBRONN-KISWARM/web-intel/michele-kiesewetter/86fe36534339be5434379d9bbe9576db2b8f95c69d84cb5acfac44c2603fdd64.bin",
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-000",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Organigramm | verfassungsschutz.hessen.de",
+   "source_url": "https://lfv.hessen.de/Themen-A-Z/organigramm",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz",
+    "hessen"
+   ],
+   "sha256": null,
+   "bytes": 41,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-001",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Startseite Landesamt für Verfassungsschutz Hessen | verfassungsschutz ...",
+   "source_url": "https://verfassungsschutz.lfv.hessen.de/",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz",
+    "hessen"
+   ],
+   "sha256": null,
+   "bytes": 74,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-002",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "So viel Hessen-AfD steckt im Verfassungsschutz-Gutachten",
+   "source_url": "https://www.hessenschau.de/politik/so-viel-hessen-afd-steckt-im-verfassungsschutzbericht-v3,afd-gutachten-100.html",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz",
+    "hessen"
+   ],
+   "sha256": null,
+   "bytes": 56,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-003",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Geheimschutz | verfassungsschutz.hessen.de",
+   "source_url": "https://lfv.hessen.de/weitere-aufgabenfelder/geheimschutz",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz",
+    "hessen"
+   ],
+   "sha256": null,
+   "bytes": 42,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-004",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Verfassungsschutz wappnet sich gegen Spionage und hybride Bedrohungen ...",
+   "source_url": "https://hessen.de/presse/verfassungsschutz-wappnet-sich-gegen-spionage-und-hybride-bedrohungen",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz"
+   ],
+   "sha256": null,
+   "bytes": 73,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-005",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Verfassungsschutz wappnet sich gegen Spionage und hybride Bedrohungen ...",
+   "source_url": "https://landesregierung.hessen.de/presse/verfassungsschutz-wappnet-sich-gegen-spionage-und-hybride-bedrohungen",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz"
+   ],
+   "sha256": null,
+   "bytes": 73,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-006",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Verfassungsschutz Hessen: Aufgaben, Kontrolle, Leitung",
+   "source_url": "https://nachrichtendienste.org/dienste/verfassungsschutz-hessen/",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz",
+    "hessen"
+   ],
+   "sha256": null,
+   "bytes": 54,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044211-008",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Andreas Amlung",
+   "target_kind": "operator_attested_party",
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter.",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Verfassungsschutzbericht 2025 vorgestellt | HESSEN Landesregierung",
+   "source_url": "https://hessen.de/presse/verfassungsschutzbericht-2025-vorgestellt",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "verfassungsschutz",
+    "hessen"
+   ],
+   "sha256": null,
+   "bytes": 66,
+   "retrieved_at": "2026-11-23T04:42:11.934953+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-001",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Besoldungstabelle B - Baden-Württemberg (2025-2026) | ÖD-Infoportal",
+   "source_url": "https://infos-oeffentlicher-dienst.de/beamte/besoldung/baden-wuerttemberg/2025-2026/b",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "baden-württemberg"
+   ],
+   "sha256": null,
+   "bytes": 69,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-002",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Besoldungstabelle A - Baden-Württemberg (2025-2026) | ÖD-Infoportal",
+   "source_url": "https://infos-oeffentlicher-dienst.de/beamte/besoldung/baden-wuerttemberg/2025-2026",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "baden-württemberg"
+   ],
+   "sha256": null,
+   "bytes": 69,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-004",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Landesbesoldungsgesetz Baden-Württemberg (LBesGBW)",
+   "source_url": "https://www.landesrecht.online/BW/LBesGBW",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "landesbesoldungsgesetz",
+    "baden-württemberg"
+   ],
+   "sha256": null,
+   "bytes": 51,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-005",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Baden-Württemberg - Richterbesoldung (DRB)",
+   "source_url": "https://www.richterbesoldung.de/bundeslaender-a-m/baden-wuerttemberg",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "baden-württemberg",
+    "richter"
+   ],
+   "sha256": null,
+   "bytes": 43,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-006",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Besoldungstabellen Baden-Württemberg 01.04.2026 - 29.02.2027",
+   "source_url": "https://www.oeffentlichen-dienst.de/beamte/besoldung/bw/besoldungstabellen/4444-2026.html",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "baden-württemberg"
+   ],
+   "sha256": null,
+   "bytes": 61,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-007",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Landesbesoldungsgesetz Baden-Württemberg / Besoldungsgruppe R 1 - Haufe",
+   "source_url": "https://www.haufe.de/id/norm/landesbesoldungsgesetz-baden-wuerttemberg-besoldungsgruppe-r-1-HI2595501.html",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "landesbesoldungsgesetz",
+    "baden-württemberg",
+    "besoldungsgruppe"
+   ],
+   "sha256": null,
+   "bytes": 72,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-008",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Gehalt als Richter in Baden-Württemberg (Stand: 2026)",
+   "source_url": "https://www.jurinsight.de/jura-berufseinstieg/gehalt-richter-baden-wuerttemberg",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "baden-württemberg",
+    "richter"
+   ],
+   "sha256": null,
+   "bytes": 54,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-044333-010",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "search_lead",
+   "needs_fetch": true,
+   "summary": "Landesbesoldungsordnung R von Baden-Württemberg",
+   "source_url": "https://besoldung-baden-wuerttemberg.de/baden_wuerttemberg_landesbesoldungsordnung_r",
+   "source": "duckduckgo_lite",
+   "tier": "search_lead",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "matched_terms": [
+    "baden-württemberg"
+   ],
+   "sha256": null,
+   "bytes": 48,
+   "retrieved_at": "2026-11-23T04:43:33.526283+00:00",
+   "stored": null,
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-D-3a1160bcb310",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "factual_observation",
+   "summary": "Landesbesoldungsordnung R von Baden-W�rttemberg Startseite Besoldung in Baden-W�rttemberg Beamtenrecht in Baden-W�rttemberg Amtsangemessene Alimentation Arbeitszeitverordnung Baden-W�rttemberg Beihilfeverordnung Baden-W�rttemberg Besoldungsrecht in Baden-W�rttemberg Landesbesoldungsgesetz Landesbesoldungsordnung A Landesbesoldungsordnung B Landesbesoldungsordnung R Auslandsbesoldung Zweite Besoldungs�bergangsverordnung Sonderzahlungen Baden-W�rttemberg Besoldungs- und Versorgungsanpassung 2025 Besoldungs- und Versorgungsanpassung 2026 Heilf�rsorgeverordnung Baden-W�rttemberg Landesbeamtengesetz Baden-W�rttemberg Landesbeamtenversorgungsgesetz von Baden-W�rttemberg Landespersonalvertretungsgesetz Baden-W�rttemberg Laufbahnverordnung Innenministerium Mehrarbeitsverg�tungsverordnung Reisekosten in Baden-W�rttemberg Informationen f�r Besch�ftigte in Baden-W�rttemberg Service Kontakt Hohe Nac",
+   "source_url": "https://www.besoldung-baden-wuerttemberg.de/baden_wuerttemberg_landesbesoldungsordnung_r",
+   "source": "direct_url",
+   "tier": "unknown_requires_tiering",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "sha256": "3a1160bcb3100823ca216e543cd3f9e198c978bf26625767b652ae621c717bdf",
+   "bytes": 31445,
+   "retrieved_at": "2026-11-23T04:43:44.820517+00:00",
+   "stored": "/home/sah/ARTEX/data/tasks/HEILBRONN-KISWARM/web-intel/landgericht-heilbronn/3a1160bcb3100823ca216e543cd3f9e198c978bf26625767b652ae621c717bdf.bin",
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-D-8876e4a17139",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "factual_observation",
+   "summary": "Landesbesoldungsgesetz Baden-Württemberg (LBesGBW) Beta Start · Blog Baden-Württemberg Landesbesoldungsgesetz Baden-Württemberg (LBesGBW) 18.11.2025 i Inhaltsübersicht 1. Abschnitt Allgemeine Vorschriften § 1 Geltungsbereich § 2 Gleichstellungsbestimmung § 3 Regelung durch Gesetz § 4 Anspruch auf Besoldung § 5 Zahlungsweise § 6 Verjährung von Ansprüchen § 7 Besoldung bei mehreren Hauptämtern § 8 Besoldung bei Teilzeitbeschäftigung § 9 Besoldung bei begrenzter Dienstfähigkeit § 10 Verminderung der Besoldung bei Gewährung einer Versorgung durch eine zwischenstaatliche oder überstaatliche Einrichtung § 11 Verlust der Besoldung bei schuldhaftem Fernbleiben vom Dienst § 12 Anrechnung anderer Einkünfte auf die Besoldung § 13 Anrechnung von Sachbezügen auf die Besoldung § 14 Abtretung von Bezügen, Verpfändung, Aufrechnungs- und Zurückbehaltungsrecht § 15 Rückforderung von Bezügen § 16 Anpassung",
+   "source_url": "https://www.landesrecht.online/BW/LBesGBW",
+   "source": "direct_url",
+   "tier": "unknown_requires_tiering",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "sha256": "8876e4a17139fc65b08e15bc52c24b834cb8f52df5e6ab6d8a1ed115a8b95173",
+   "bytes": 99632,
+   "retrieved_at": "2026-11-23T04:43:45.294553+00:00",
+   "stored": "/home/sah/ARTEX/data/tasks/HEILBRONN-KISWARM/web-intel/landgericht-heilbronn/8876e4a17139fc65b08e15bc52c24b834cb8f52df5e6ab6d8a1ed115a8b95173.bin",
+   "assertion": false
+  },
+  {
+   "fact_id": "WIF-D-c116b932f73f",
+   "case_id": "HEILBRONN-KISWARM",
+   "target": "Landgericht Heilbronn",
+   "target_kind": "named_office",
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "claim_kind": "factual_observation",
+   "summary": "Besoldungstabelle B - Baden-Württemberg (2025-2026) | ÖD-Infoportal --> Unabhängiges Infoportal close_small --> ÖD-Infoportal Beamte keyboard_arrow_down Übersicht Besoldungstabellen Krankenversicherung Dienstunfähigkeit Tarifbeschäftigte keyboard_arrow_down Übersicht Tarifverträge Krankenversicherung Berufsunfähigkeit Politiker keyboard_arrow_down Übersicht Gehaltstabellen Tools keyboard_arrow_down Übersicht aller Tools Allgemein Brutto-Netto-Rechner Gehaltsvergleich KV-Assistent Für Beamte Pensionsrechner Dienstunfähigkeitsrechner Nachzahlungsrechner Für Tarifbeschäftigte Höhergruppierungsrechner BU-Assistent News Mehr keyboard_arrow_down Über dieses Portal API & KI-Schnittstelle MCP-Server Gehalts-Widget Reddit Community open_in_new menu arrow_back Zur Übersicht Baden-Württemberg Besoldungstabellen › Baden-Württemberg › 2025-2026 › BesGr. B Besoldungstabelle B - Baden-Württemberg Beamt",
+   "source_url": "https://infos-oeffentlicher-dienst.de/beamte/besoldung/baden-wuerttemberg/2025-2026/b",
+   "source": "direct_url",
+   "tier": "unknown_requires_tiering",
+   "independence": "independent_public_pending_tier",
+   "independence_note": "oeffentliche Quelle, Tierschwerung erst bei Volltextpruefung",
+   "sha256": "c116b932f73f26b1ef8d039becc0d20a4566815142c4eb30289704beaa776538",
+   "bytes": 50714,
+   "retrieved_at": "2026-11-23T04:44:06.370886+00:00",
+   "stored": "/home/sah/ARTEX/data/tasks/HEILBRONN-KISWARM/web-intel/landgericht-heilbronn/c116b932f73f26b1ef8d039becc0d20a4566815142c4eb30289704beaa776538.bin",
    "assertion": false
   }
  ]
