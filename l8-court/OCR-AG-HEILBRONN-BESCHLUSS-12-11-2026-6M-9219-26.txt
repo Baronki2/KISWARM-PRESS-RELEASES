@@ -1,0 +1,128 @@
+ARTEFAKT: OCR-VOLLTEXT
+QUELLE: ANLAGE_K_1_BESCHLUSS_AG_HEILBRONN_12_11_2026.pdf
+QUELLE_SHA256: c22b1d77856467629459bddd4ae46b44294424eb178648922ff0f2cc8a778743
+TEXT_SHA256: 8f24d8f010dcdb04cf22edcba10610069edecfff4eeb5f1a572fdc5bdddf2ca2
+SEITEN: 3
+METHODE: pdftoppm-200dpi-gray + tesseract deu+eng
+ERZEUGT: 2026-11-23T06:51:02.733090+00:00
+ERZEUGER: kiswarm-sah6 (Hermes Agent, autonom)
+HINWEIS: Beglaubigte Abschrift des AG-Heilbronn-Beschlusses vom 12.11.2026, Az. 6 M 9219/26, ausgefertigt durch die Urkundsbeamtin der Geschaeftsstelle (Kumpf, JAng\u0027e) am 13.11.2026. Zentraler Fremdbeleg der Handlungskette: weist den Einwand der fehlenden rechtspflegerischen Unterschrift ausdruecklich zurueck, verweist auf die Nichtabhilfeentscheidung vom 11.11.2026 und nennt PERSONEN NICHHT (Betz 0x, Wurst 0x, Murrweiss 0x, Haug 0x).
+PROVENIENZ: OCR eines Scans. Der Text ist maschinell gelesen; fuer Zitate gegenueber Dritten ist die Seite am Scan zu pruefen. Fehler der Texterkennung sind moeglich (Ziffern/L/U/I, Umlaute).
+==============================================================================
+ANLAGE K-1
+
+Beschluss des Amtsgerichts Heilbronn — Vollstreckungsgericht — vom 12.11.2026, Az. 6 M 9219/26. Beglaubigte
+Abschrift vom 13.11.2026, ausgefertigt durch die Urkundsbeamtin der Geschäftsstelle (Kumpf, JAng'e). Die
+nachfolgenden drei Seiten sind die uneinheitlich beglaubigte Abschrift des Beschlusses.
+
+Beglaubigte Abschrift
+Aktenzeichen:
+6 M 9219/26
+AL
+Amtsgericht Heilbronn
+VOLLSTRECKUNGSGERICHT
+Beschluss
+
+In der Zwangsvollstreckungssache
+
+Alexander Caspary, Schweizer Platz 56, 60594 Frankfurt
+- Gläubiger -
+
+Prozessbevollmächtigter:
+Rechtsanwalt Bernd Karwiese, Adelheidstraße 13, 30171 Hannover, Gz.: 160/25
+
+gegen
+
+Marco Heyd, Römerstraße 70, 74078 Heilbronn
+- Schuldner -
+
+hat das Amtsgericht Heilbronn am 12.11.2026 beschlossen:
+
+1 Die Erinnerung des Schuldners Marco Heyd vom 24.10.2026 und 03.11.2026 wird zurück-
+
+gewiesen.
+2. Die Kosten des Verfahrens hat der Schuldner zu tragen.
+
+3. Der Gegenstandswert wird auf 1.400.000,00 € festgesetzt.
+
+Gründe:
+
+Die Erinnerung ist unbegründet.
+
+
+6 N 9219/26 -2-
+
+Gegenstand der Vollstreckungserinnerung ist die richterliche Überprüfung der Zwangsvollstre-
+ckung auf Verfahrensfehler. Verfahrensfehler sind auf Grundlage der Akten des Amtsgerichts
+Heilbronn und der Schreiben des Schuldners vom 24.10.2026 und 03.11.2026 nicht ersichtlich.
+Die Vollstreckung erfolgt vielmehr nach den Vorschriften der Zivilprozessordnung, die auch für
+den hiesigen Schuldner gilt. Die allgemeinen Voraussetzungen der Zwangsvollstreckung nach §
+750 ZPO liegen vor.
+
+Soweit mit der Erinnerung gerügt wird, dass der Pfändungs- und Überweisungsbeschluss vom
+13.10.2026 keine rechtspflegerische Unterschrift enthalte, ist klarzustellen, dass es einer eigen-
+händigen Unterschrift auf dem Beschluss in Papierform nicht bedurfte. Der Beschluss trägt den
+Namen der verantwortenden Rechtspflegerin und ist durch sie qualifiziert elektronisch signiert.
+Die Voraussetzungen des $ 130b ZPO sind damit erfüllt.
+
+Im Übrigen wird auf die Gründe der Nichtabhilfeentscheidung vom 11.11.2026 Bezug genommen.
+
+Die Kostenentscheidung beruht auf § 91 ZPO.
+
+Rechtsbehelfsbelehrung:
+
+Gegen die Entscheidung kann die sofortige Beschwerde (im Folgenden: Beschwerde) eingelegt werden.
+Die Beschwerde ist binnen einer Notfrist von zwei Wochen bei dem
+‚Amtsgericht Heilbronn
+
+Knorrstraße 1
+74074 Heilbronn
+
+oder bei dem
+Landgericht Heilbronn
+Wilhelmstraße 8
+74072 Heilbronn
+einzulegen.
+
+Die Frist beginnt mit der Zustellung der Entscheidung, spätestens mit dem Ablauf von fünf Monaten nach der
+Verkündung der Entscheidung.
+
+Die Beschwerde ist schriftlich einzulegen oder durch Erklärung zu Protokoll der Geschäftsstelle eines der ge-
+nannten Gerichte. Sie kann auch vor der Geschäftsstelle jedes Amtsgerichts zu Protokoll erklärt werden; die
+
+Frist ist jedoch nur gewahrt, wenn das Protokoll rechtzeitig bei einem der oben genannten Gerichte eingeht.
+
+Eine anwaltliche Mitwirkung ist nicht vorgeschrieben.
+
+Die Beschwerdeschrift muss die Bezeichnung der angefochtenen Entscheidung sowie die Erklärung enthal-
+ten, dass Beschwerde gegen diese Entscheidung eingelegt werde.
+
+
+6M 0219/26 é = ga
+
+Rechtsbehelfe können auch als elektronisches Dokument eingelegt werden. Eine Einlegung per E-Mail ist
+nicht zulässig. Wie Sie bei Gericht elektronisch einreichen können, wird auf www,elustice-bw.de beschrie-
+ben.
+
+Schriftlich einzureichende Anträge und Erklärungen, die durch eine Rechtsanwältin, einen Rechtsanwalt,
+durch eine Notarin, einen Notar, durch eine Behörde oder durch eine juristische Person des öffentlichen
+Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse ein-
+gereicht werden, sind als elektronisches Dokument zu übermitteln. Ist dies aus technischen Gründen vor-
+übergehend nicht möglich, bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. Die vorüberge-
+hende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anfor-
+derung ist ein elektronisches Dokument nachzureichen.
+
+Bogdahn
+Richterin
+
+Beglaubigt
+Heilbronn, 13.11.2026
+
+BADEN-
+WÜRTTEMBERG
+
+Kumpf, JAng’e
+Urkundsbeamtin der Geschäftsstelle
+
+Durch maschinelle Bearbeitung beglaubigt
+- ohne Unterschrift gültig
