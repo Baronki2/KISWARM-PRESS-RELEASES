@@ -365,6 +365,139 @@
     "interne Kommunikation Heilbronn"
    ],
    "basis": "BETREIBER-ATTESTATION 2026-11-23: Behauptung einer koordinierten internen Kommunikation. Wird NUR ueber aeussere Spuren geprueft (Entscheidungsabfolge, Zitiermuster, Veroeffentlichungen, vorhandene Audit-Trails) - KEINE Entschlüsselung, KEINE Ueberwachung, KEIN Zugriff auf private Kanaele."
+  },
+  {
+   "label": "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "kind": "named_person",
+   "aliases": [
+    "Mosthaf"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Mosthaf",
+   "nennungen": 144,
+   "verfahren": 9,
+   "muster_ueber_mehrere_verfahren": 8
+  },
+  {
+   "label": "RA Karwiese (Creditor Attorney)",
+   "kind": "named_person",
+   "aliases": [
+    "Karwiese"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Karwiese",
+   "nennungen": 60,
+   "verfahren": 8,
+   "muster_ueber_mehrere_verfahren": 4
+  },
+  {
+   "label": "GV Murrweiß (AG Heilbronn)",
+   "kind": "named_person",
+   "aliases": [
+    "Murrweiß"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Murrweiß",
+   "nennungen": 27,
+   "verfahren": 7,
+   "muster_ueber_mehrere_verfahren": 5
+  },
+  {
+   "label": "Rpfl. Betz (AG Heilbronn)",
+   "kind": "named_person",
+   "aliases": [
+    "Betz"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Betz",
+   "nennungen": 17,
+   "verfahren": 3,
+   "muster_ueber_mehrere_verfahren": 0
+  },
+  {
+   "label": "OStAin Geiger (GStA Stuttgart)",
+   "kind": "named_person",
+   "aliases": [
+    "Geiger"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Geiger",
+   "nennungen": 22,
+   "verfahren": 6,
+   "muster_ueber_mehrere_verfahren": 6
+  },
+  {
+   "label": "OStA Krause (StA Heilbronn)",
+   "kind": "named_person",
+   "aliases": [
+    "Krause"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Krause",
+   "nennungen": 76,
+   "verfahren": 10,
+   "muster_ueber_mehrere_verfahren": 3
+  },
+  {
+   "label": "OStA Krumm (StA Frankfurt)",
+   "kind": "named_person",
+   "aliases": [
+    "Krumm"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Krumm",
+   "nennungen": 25,
+   "verfahren": 6,
+   "muster_ueber_mehrere_verfahren": 1
+  },
+  {
+   "label": "RA Arnecke Sibeth Dabelstein",
+   "kind": "named_person",
+   "aliases": [
+    "Arnecke",
+    "Dabelstein"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Arnecke",
+   "nennungen": 11,
+   "verfahren": 3,
+   "muster_ueber_mehrere_verfahren": 2
+  },
+  {
+   "label": "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)",
+   "kind": "named_person",
+   "aliases": [
+    "Haug"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Haug",
+   "nennungen": 55,
+   "verfahren": 11,
+   "muster_ueber_mehrere_verfahren": 7
+  },
+  {
+   "label": "RA Fichter & Kollegen",
+   "kind": "named_person",
+   "aliases": [
+    "Fichter"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Fichter",
+   "nennungen": 82,
+   "verfahren": 13,
+   "muster_ueber_mehrere_verfahren": 5
+  },
+  {
+   "label": "Hans Freisler (historisch, OLG-Präsident 1933-1943)",
+   "kind": "named_person",
+   "aliases": [
+    "Freisler"
+   ],
+   "basis": "in den Akten des Verfahrens HEILBRONN-KISWARM benannt (Dossier aus dem versiegelten Korpus, 11 Dossiers). Untersuchung ausschliesslich ueber oeffentliche, unabhaengige Quellen sowie die eigene Beweiskette.",
+   "searchbegriff": "Freisler",
+   "nennungen": 51,
+   "verfahren": 1,
+   "muster_ueber_mehrere_verfahren": 0
   }
  ],
  "allowed_actions": [
@@ -376,6 +509,7 @@
  "expires_at": "2026-12-23T00:00:00Z",
  "approver": "Baron Marco Paolo Ialongo (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679)",
  "notes": "Default-deny. The target list contains ONLY parties named in the proceedings (each with its case reference) plus the operator's OWN matter, sensors and evidence corpus. No wildcard, no inference, no expansion. A case-scoped list of named parties is not a list of suspects: 60.000 people of Heilbronn have not been charged, and a list of them would be a suspect pool, not a case. A party named in a proceeding is not a suspect. Pattern analysis means counting how the SAME procedural step fails across DIFFERENT proceedings — it does not mean asserting that a person is corrupt. Explicitly NOT authorized: nmap/nuclei/trivy/prowler against any third-party host, any scanning or blocking of persons, any doxxing, any mass surveillance, any collection of new personal data about third parties, any external accusation or report without a named human approver, and any legal conclusion. Every output is an AI-generated draft requiring human review.",
- "target_count": 36,
- "provenance_note": "Zielarten: named_person/named_office = in der Akte belegt; matter/operator_attested_party = vom Betreiber benannt (Baron Marco Paolo Ialongo, BfJ-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679) und deshalb NICHT in der versiegelten Beweiskette. Fuer diese Ziele gilt: nur oeffentliche Quellen, keine Schlussfolgerung aus der Benennung, Befund nur bei mehreren unabhaengigen Quellen."
+ "target_count": 47,
+ "provenance_note": "Zielarten: named_person/named_office = in der Akte belegt; matter/operator_attested_party = vom Betreiber benannt (Baron Marco Paolo Ialongo, BfJ-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679) und deshalb NICHT in der versiegelten Beweiskette. Fuer diese Ziele gilt: nur oeffentliche Quellen, keine Schlussfolgerung aus der Benennung, Befund nur bei mehreren unabhaengigen Quellen.",
+ "zweck": " | ERWEITERUNG 23.11.2026b: alle 11 im versiegelten Korpus dokumentierten Personen sind als Scope-Ziele aufgenommen, damit der Sentinel Case Officer zu jedem namentlich unabhaengige Intel beschaffen kann (Entscheidungsdatenbanken, Pressearchiv, Parlaments- und Registerdaten). Die eigene Beweiskette bleibt als koerperinterne Quelle markiert und darf eigene Vorwuerfe nicht bestaetigen."
 }
