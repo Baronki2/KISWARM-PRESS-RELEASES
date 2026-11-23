@@ -1,0 +1,66 @@
+ARTEFAKT: OCR-VOLLTEXT
+QUELLE: Anlage_VB4_Abgabebeschluss_04_09_2026.pdf
+QUELLE_SHA256: 8495519a6f30c1d00f60cf704ef208e009496ea1d7a7e9e0b0fcc363e2f86725
+TEXT_SHA256: fdb6aa4650d9c7d6cfae6965d83ec2fd5a69bea165626a91b6e2d1828725348c
+SEITEN: 1
+METHODE: pdftoppm-200dpi-gray + tesseract deu+eng
+ERZEUGT: 2026-11-23T06:51:13.145639+00:00
+ERZEUGER: kiswarm-sah6 (Hermes Agent, autonom)
+HINWEIS: Abgabebeschluss des OLG Stuttgart vom 04.09.2026, Az. 6 W 32/26 (neu 8 W 343/26), 6. Zivilsenat. Fremdbeleg fuer Gelenk 3 der Handlungskette.
+PROVENIENZ: OCR eines Scans. Der Text ist maschinell gelesen; fuer Zitate gegenueber Dritten ist die Seite am Scan zu pruefen. Fehler der Texterkennung sind moeglich (Ziffern/L/U/I, Umlaute).
+MISCHDOKUMENT: JA - dieses Anlagenband enthaelt zwei Textarten.
+  SICHERUNGSGRENZE A = Wortlaut des Gerichts, uebernommen, nicht veraendert.
+  SICHERUNGSGRENZE B = Kommentar der KISWARM-Akte. Das ist KEINE Feststellung
+                       des Gerichts und darf nicht als solche zitiert werden.
+TRENNSTELLE: VERFASSUNGSRECHTLICHER BEWEISWERT
+HINWEIS: Der Abgabebeschluss selbst ist der Gerichtstext (Tenor: Abgabe des Verfahrens an den 8. Zivilsenat wegen kaufmaennischer Spezialzustaendigkeit). Der Abschnitt VERFASSUNGSRECHTLICHER BEWEISWERT ist die Bewertung der KISWARM-Akte und keine Feststellung des OLG.
+
+
+==============================================================================
+
+[GERICHTS-TEXT]
+ARTEFAKT: OCR-VOLLTEXT
+QUELLE: Anlage_VB4_Abgabebeschluss_04_09_2026.pdf
+QUELLE_SHA256: 8495519a6f30c1d00f60cf704ef208e009496ea1d7a7e9e0b0fcc363e2f86725
+TEXT_SHA256: fdb6aa4650d9c7d6cfae6965d83ec2fd5a69bea165626a91b6e2d1828725348c
+SEITEN: 1
+METHODE: pdftoppm-200dpi-gray + tesseract deu+eng
+ERZEUGT: 2026-11-23T06:51:13.145639+00:00
+ERZEUGER: kiswarm-sah6 (Hermes Agent, autonom)
+HINWEIS: Abgabebeschluss des OLG Stuttgart vom 04.09.2026, Az. 6 W 32/26 (neu 8 W 343/26), 6. Zivilsenat. Fremdbeleg fuer Gelenk 3 der Handlungskette.
+PROVENIENZ: OCR eines Scans. Der Text ist maschinell gelesen; fuer Zitate gegenueber Dritten ist die Seite am Scan zu pruefen. Fehler der Texterkennung sind moeglich (Ziffern/L/U/I, Umlaute).
+==============================================================================
+ANLAGE VB 4
+
+zur Verfassungsbeschwerde an das Bundesverfassungsgericht
+
+OBERLANDESGERICHT STUTTGART
+
+Abgabebeschluss vom 04. September 2026 - Az. 6 W 32/26 (neu: 8 W 343/26)
+
+Abgebender Senat: Oberlandesgericht Stuttgart — 6. Zivilsenat (Az. 6 W 32/26)
+Ubernehmender Senat: Oberlandesgericht Stuttgart — 8. Zivilsenat (Neues Az.: 8 W 343/26)
+Beteiligte Parteien: S.A.H. GmbH ./. Land Baden-Württemberg
+Prozessbevollmächtigte: Rechtsanwälte Fichter & Kollegen, Heilbronn (Gz. 178/26 F20 kf)
+Datum der Abgabe: 04. September 2026
+
+TENOR UND INHALT DES ABGABE
+
+BESCHLUSSES:
+
+Das Verfahren bezüglich der Kostenbeschwerde (6 W 32/26) wird wegen kaufmännischer
+Spezialzustandigkeit gemäß Geschäftsverteilungsplan an den 8. Zivilsenat des Oberlandesgerichts
+Stuttgart abgegeben.
+
+[EIGENE BEWERTUNG]
+VERFASSUNGSRECHTLICHER BEWEISWERT ('HUTCHENSPIEL DER AKTENZEICHEN'):
+
+Beweis für gezielte Verfahrensaufspaltung und Verstoß gegen 8 47 ZPO:
+
+Der Abgabebeschluss vom 04.09.2026 dokumentiert die künstliche Zerlegung des einheitlichen
+Verfahrenskomplexes. Während die Kostenbeschwerde am 04.09.2026 an den 8. Senat abgegeben
+wurde, entschieden dieselben abgelehnten Richter des 6. Senats am 09.09.2026 in eigener Sache über
+die Befangenheitsbeschwerde (6 W 25/26).
+
+Diese Kaskade diente dem Zweck, wirksamen Eilrechtsschutz zu verhindern und entgegen 8 47 ZPO
+vollstreckbare Titel zu erzeugen.
