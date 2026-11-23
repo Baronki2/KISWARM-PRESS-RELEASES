@@ -1,0 +1,1111 @@
+{
+ "case_id": "HEILBRONN-KISWARM",
+ "generated_at": "2026-11-23T03:30:25.277117+00:00",
+ "basis": "Vollstaendig aus dem Beweiscorpus gemessen (OCR-VOLLTEXT, 56 Dokumente). Keine Person, kein Aktenzeichen und kein Belegpfad wurde von Hand eingetragen.",
+ "verfahren_gesamt": 59,
+ "verfahren": [
+  {
+   "aktenzeichen": "6 W 25/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 121,
+   "beleg_dokumente": [
+    "1_BvR_292526_Erster_Senat.txt",
+    "BVG_STA.txt",
+    "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+    "Borkenkaefer_Dossier_v2_2026-10-10.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "I 3 O 57/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 55,
+   "beleg_dokumente": [
+    "1_BvR_292526_Erster_Senat.txt",
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt",
+    "ErweiterteVerfassungsbeschwerde.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 81/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 55,
+   "beleg_dokumente": [
+    "Befangenheitsr_geOLG2.txt",
+    "CriminalCompliantOLGFrankfurt_2_.txt",
+    "ErweiterteVerfassungsbeschwerde.txt",
+    "ForensicIndictment.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "6 U 59/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 48,
+   "beleg_dokumente": [
+    "BVG_STA.txt",
+    "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+    "Borkenkaefer_Dossier_v2_2026-10-10.txt",
+    "ENFORCEMENT_COMPLICITY.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "6 W 32/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 40,
+   "beleg_dokumente": [
+    "1_BvR_292526_Erster_Senat.txt",
+    "BVG_STA.txt",
+    "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+    "Borkenkaefer_Dossier_v2_2026-10-10.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "257 Js 31024/26",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 31,
+   "beleg_dokumente": [
+    "1_BvR_292526_Erster_Senat.txt",
+    "BVG_STA.txt",
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "6 M 9219/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 26,
+   "beleg_dokumente": [
+    "1_BvR_292526_Erster_Senat.txt",
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt",
+    "ErweiterteVerfassungsbeschwerde.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "3110 Js 101829/26",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 25,
+   "beleg_dokumente": [
+    "1_BvR_292526_Erster_Senat.txt",
+    "BVG_STA.txt",
+    "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+    "bverfg_beweismitteleingabe.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "8 W 343/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 22,
+   "beleg_dokumente": [
+    "FreislersHeirs.txt",
+    "FreislersHeirs_1.txt",
+    "Freislers_Heirs_Continuity_Analysis_Signed_2026-10-17.txt",
+    "International_Bill_of_Indictment_v2_2026-10-10.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1021 Js 115878/26",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 17,
+   "beleg_dokumente": [
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt",
+    "FORM_JS-44.txt",
+    "FORM_JS-44_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "7480 Js 252525/24",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 15,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt",
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt",
+    "ForensicIndictment.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "13 O 57/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 12,
+   "beleg_dokumente": [
+    "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+    "Borkenkaefer_Dossier_v2_2026-10-10.txt",
+    "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+    "Strafantrage3Caspary.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "02 O 79/24",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 9,
+   "beleg_dokumente": [
+    "Befangenheitsr_geOLG2.txt",
+    "CriminalCompliantOLGFrankfurt_2_.txt",
+    "ForensicIndictment.txt",
+    "MandantenUnterictung.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "552 Js 37220/26",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 9,
+   "beleg_dokumente": [
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt",
+    "ForensicIndictment.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "7 AR 20/24",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 8,
+   "beleg_dokumente": [
+    "Befangenheitsr_geOLG2.txt",
+    "CriminalCompliantOLGFrankfurt_2_.txt",
+    "ErweiterteVerfassungsbeschwerde.txt",
+    "ForensicIndictment.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1 K 9416/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 7,
+   "beleg_dokumente": [
+    "Signed_Dossier_Forensic_Expert_2026-10-17.txt",
+    "VG_Stuttgart_Notification_Art17_Rome_Statut_2026-10-17.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "2 SIR 54/24",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 5,
+   "beleg_dokumente": [
+    "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+    "Borkenkaefer_Dossier_v2_2026-10-10.txt",
+    "CriminalCompliantOLGFrankfurt_2_.txt",
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 81/28",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 5,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1 VB 65/17",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 5,
+   "beleg_dokumente": [
+    "International_Tribunal_2026-10-10.txt",
+    "Rechtsgrundlage_International_Tribunal_2026-10-10.txt",
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1 K 7376/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 4,
+   "beleg_dokumente": [
+    "VG_Stuttgart_Notification_Art17_Rome_Statut_2026-10-17.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 81/25",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 3,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt",
+    "ForensicIndictment.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1 SIR 165/19",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 3,
+   "beleg_dokumente": [
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt",
+    "Signed_Dossier_Forensic_Expert_2026-10-17.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5E1918/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "Bundesverfassungsgericht2.txt",
+    "Bundesverfassungsgericht2_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "4 K 2409/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "Bundesverfassungsgericht2.txt",
+    "Bundesverfassungsgericht2_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 31/28",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt",
+    "ForensicIndictment.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 31/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "6 WV 25/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "552 Js 37220/25",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "ENFORCEMENT_COMPLICITY.txt",
+    "ENFORCEMENT_COMPLICITY_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "8 M 9219/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "MandantenUnterictung.txt",
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1 ZR 190/20",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "3 U 124/21",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "Strafantrage3Caspary.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "3 O 57/28",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "UN_Urgent_Appeal_Subversion_Judicial_Independence_Germany_2026-10-10.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "4 O 252/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "US_Vers_umnisurteil.txt",
+    "US_Vers_umnisurteil_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "6M 9219/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "ZweiterSenatBvR.txt",
+    "ZweiterSenatBvR_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "6U 59/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "ZweiterSenatBvR.txt",
+    "ZweiterSenatBvR_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 124/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "us_master_indictment_rico_expanded_sdny.txt",
+    "us_master_indictment_rico_expanded_sdny_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 M 9219/25",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "us_master_indictment_rico_expanded_sdny.txt",
+    "us_master_indictment_rico_expanded_sdny_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "257 Js 31024/25",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 2,
+   "beleg_dokumente": [
+    "us_master_indictment_rico_expanded_sdny.txt",
+    "us_master_indictment_rico_expanded_sdny_1.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "3110 Js 62027/26",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "BVG_STA.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "2 BYR 2144/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "Befangenheitsr_geOLG2.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 21/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "407 HKO 20/22",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 61/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "15 U 31/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 U 31/25",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "3 U 81/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "CriminalCompliantOLGFrankfurt_2_.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "36 II 2019/19",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "ErweiterteVerfassungsbeschwerde.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5U 81/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "ErweiterteVerfassungsbeschwerde.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "24 ZS 1610/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "7 VB 65/17",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "International_Tribunal_2026-10-10.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1 BYR 2925/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "MandantenUnterictung.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "13 O 57/25",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "5 VW 32/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "8 WW 343/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1021 Js 115378/26",
+   "behoerde": "Staatsanwaltschaft",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "13 O 37/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "Strafantrage3Caspary.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1K 9416/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "VG_Stuttgart_Notification_Art17_Rome_Statut_2026-10-17.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "1 BVR 2925/26",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "bverfg_beweismitteleingabe.txt"
+   ]
+  },
+  {
+   "aktenzeichen": "02 O 115/25",
+   "behoerde": "Gericht / Behörde",
+   "mentions": 1,
+   "beleg_dokumente": [
+    "sendebericht_6af6bfb336f6d621288-1.txt"
+   ]
+  }
+ ],
+ "parteien": [
+  {
+   "name": "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "art": "Person",
+   "rolle_im_verfahren": "Rechtsbeugung § 339 StGB (6 W 25/26, 6 W 32/26)",
+   "aliases": [
+    "Mosthaf"
+   ],
+   "suchbegriff": "Mosthaf",
+   "nennungen": 144,
+   "aktenzeichen": [
+    "6 W 25/26",
+    "I 3 O 57/26",
+    "6 W 32/26",
+    "3110 Js 101829/26",
+    "257 Js 31024/26",
+    "6 U 59/26"
+   ],
+   "hauptreferenz": "6 W 25/26",
+   "belege": [
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "kontext": "fahren gemäß $ 152 Abs. 2 StPO wegen Rechtsbeugung (8 339 StGB) gegen Richter des Oberlandesgerichts Stuttgart (VRiOLG Dr. Oliver Mosthaf) und des Landgerichts Heilbronn (RiLG Haug) den Zirkelschluss der verfassungswidrigen Justizverweigerung vollendet. « Einstweilige Anordnung"
+    },
+    {
+     "dokument": "BVG_STA.txt",
+     "kontext": "4078 Heilbronn Fax. 0800 66449281648 Aktenzeichen 3110 Js 101829/26 : (Bitte bei Antwort angeben) Anzeigensache gegen Dr. Oliver Mosthaf ö wegen Rechtsbeugung . Sehr geehrter Herr Heyd, ie i in dem oben genannten Verfahren habe ich mit Verfügung vom 30.10.2026 folgende Entschei-"
+    },
+    {
+     "dokument": "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+     "kontext": "=== SEITE 1 === Dr. Oliver Mosthaf - Systematische Rechtsbeugung, Selbstermächtigung und die Gefährdung der freiheitlichen demokratischen Grundordnung Se | Deutscher Bundestag"
+    }
+   ]
+  },
+  {
+   "name": "RA Karwiese (Creditor Attorney)",
+   "art": "Person",
+   "rolle_im_verfahren": "Gewerbsmäßiger Betrug § 263 StGB (StA Hannover 1021 Js 115878/26)",
+   "aliases": [
+    "Karwiese"
+   ],
+   "suchbegriff": "Karwiese",
+   "nennungen": 60,
+   "aktenzeichen": [
+    "1021 Js 115878/26",
+    "13 O 57/26",
+    "6 M 9219/26",
+    "3 U 124/21",
+    "552 Js 37220/26",
+    "552 Js 37220/25"
+   ],
+   "hauptreferenz": "1021 Js 115878/26",
+   "belege": [
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "kontext": "Line: +49 7131 6436551) in response to the formal criminal complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROSECUTORS ICC oTP Pa"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "kontext": "Line: +49 7131 6436551) in response to the formal criminal complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROSECUTORS ICC oTP Pa"
+    },
+    {
+     "dokument": "FORM_JS-44.txt",
+     "kontext": "44f05e3b-4ed5-487f-8fe3-91e8ce858679) 4. Kreissparkasse Heilbronn Petitions Lead, German Bundestag (Pet. Reg. 210581) 5. RA Bernd Karwiese & Kleeberg Römerstraße 70, 74078 Heilbronn, Germany 6. Alexander Caspary & Melmac Ventures UG Email: sahgreenki@gmail.com 7. Judges of OLG Fr"
+    }
+   ]
+  },
+  {
+   "name": "GV Murrweiß (AG Heilbronn)",
+   "art": "Person",
+   "rolle_im_verfahren": "Pfändungs- und Überweisungsbeschluss 19.10.2026",
+   "aliases": [
+    "Murrweiß"
+   ],
+   "suchbegriff": "Murrweiß",
+   "nennungen": 27,
+   "aktenzeichen": [
+    "6 M 9219/26",
+    "6 W 25/26",
+    "1021 Js 115878/26",
+    "1021 Js 115378/26",
+    "8 M 9219/26",
+    "3 O 57/26"
+   ],
+   "hauptreferenz": "6 M 9219/26",
+   "belege": [
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "kontext": "a Non-Existent Title On October 19, 2026, the judicial collapse culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947,"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "kontext": "a Non-Existent Title On October 19, 2026, the judicial collapse culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947,"
+    },
+    {
+     "dokument": "ErweiterteVerfassungsbeschwerde.txt",
+     "kontext": ".2026 AG Heilbronn / VR Bank Vollzug der Exzess-Kontensperre über 1,78 Mio. € auf Basis des Nicht-Titels durch Az. 6 M 9219/26 GV Murrweiß. Totaler Liquiditätsstopp. 29.10.2026 OLG Frankfurt a.M. Hinweisbeschluss nach 8 522 ZPO zur Berufungsverwerfung unter Ignorierung der Az. 5U"
+    }
+   ]
+  },
+  {
+   "name": "Rpfl. Betz (AG Heilbronn)",
+   "art": "Person",
+   "rolle_im_verfahren": "Nichtabhilfeentscheidung 11.11.2026",
+   "aliases": [
+    "Betz"
+   ],
+   "suchbegriff": "Betz",
+   "nennungen": 17,
+   "aktenzeichen": [
+    "6 M 9219/26",
+    "3 O 57/26",
+    "6 W 25/26"
+   ],
+   "hauptreferenz": "6 M 9219/26",
+   "belege": [
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "kontext": "1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947, issued by Court Clerk Fiona Betz on Oct 13, 2026) at VR Bank Heilbronn Schwäbisch Hall eG for the amount of €1,786,888.01 EUR. A. Absolute Title Nullity (§ 317 ZPO ! BGH NJW 201"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "kontext": "1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947, issued by Court Clerk Fiona Betz on Oct 13, 2026) at VR Bank Heilbronn Schwäbisch Hall eG for the amount of €1,786,888.01 EUR. A. Absolute Title Nullity (§ 317 ZPO ! BGH NJW 201"
+    },
+    {
+     "dokument": "ForensicIndictment.txt",
+     "kontext": "Node BW-1 (Baden-Württ) Judge Dr. Haug, Rpfl. Wurst, Rpfl, Asset-Stripping Engine: Issued 214 machine-generated void LG Heilbronn Betz, Bailiff Murrweiß judgments lacking signatures ($ 317 ZPO); executed €1.78M account garnishment on VR Bank Heilbronn eG based on non-existent tit"
+    }
+   ]
+  },
+  {
+   "name": "OStAin Geiger (GStA Stuttgart)",
+   "art": "Person",
+   "rolle_im_verfahren": "Einstellungsverfahren 24 Zs 1610/26",
+   "aliases": [
+    "Geiger"
+   ],
+   "suchbegriff": "Geiger",
+   "nennungen": 22,
+   "aktenzeichen": [
+    "3110 Js 101829/26",
+    "13 O 57/26",
+    "257 Js 31024/26",
+    "3 O 57/26",
+    "6 W 25/26",
+    "6 M 9219/26"
+   ],
+   "hauptreferenz": "3110 Js 101829/26",
+   "belege": [
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "kontext": "01829/26 — Oberstaatsanwältin Arndt) und der Generalstaatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 24 Zs 1610/26 - Staatsanwalt Geiger) werden als formelle Beweismittel in das Verfahren 2 BvR 2144/26 eingeführt. « Feststellung des Rechtsschutzversagens (*Denegatio Iustitiae*)"
+    },
+    {
+     "dokument": "BVG_STA.txt",
+     "kontext": "neralstaatsanwalt ‘ Generalstaatsanwaltschaft Stuttgart, Werastr. 23, . 70182 Stuttgart . . Datum 30.10.2026/woel Herrn Name Herr Geiger Marco Paolo Heyd . Römerstr. 70 Durchwahl Tel. 0711 212 2866 74078 Heilbronn Fax. 0711 212 2899 N Aktenzeichen 24 Zs 1610/26 (Bitte bei Antwort"
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "kontext": "Bundestag (Pet.-Reg. 210581) Angefochtener Bescheid: Generalstaatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 24 Zs 1610/26, StA Geiger) Verknüpft mit Einstellungsverfügung StA Stuttgart vom 30.10.2026 (Az. 3110 Js 101829/26) BVerfG Hauptregister Dockets: 2 BvR 2144/26 (Zweiter"
+    }
+   ]
+  },
+  {
+   "name": "OStA Krause (StA Heilbronn)",
+   "art": "Person",
+   "rolle_im_verfahren": "Ermittlungen 552 Js 37220/26",
+   "aliases": [
+    "Krause"
+   ],
+   "suchbegriff": "Krause",
+   "nennungen": 76,
+   "aktenzeichen": [
+    "552 Js 37220/26",
+    "6 W 25/26",
+    "7480 Js 252525/24",
+    "1021 Js 115878/26",
+    "552 Js 37220/25",
+    "1 SIR 165/19"
+   ],
+   "hauptreferenz": "552 Js 37220/26",
+   "belege": [
+    {
+     "dokument": "Diplomatic_Submission_Bagatz_2026-10-16.txt",
+     "kontext": "mmitted by its own bench. SUMMARY OF ATTACHED FORENSIC PROOFS & GBA FAILURE (FILE AR 1577/26) Forensic Focus Präsidium officials (Krause-Reul / Ehrler) admitted | GBA dismissed criminal charges via in writing (Oct 1, 2026) to withholding emergency | standardized form letter on Oc"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "kontext": "rial obstruction of justice in office (Section 258a StGB) and becomes personally liable as a co-conspirator. A. Public Prosecutor Krause (Staatsanwaltschaft Heilbronn — Docket Ref. 552 Js 37220/26): On October 22, 2026, Public Prosecutor Krause issued an official termination decr"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "kontext": "rial obstruction of justice in office (Section 258a StGB) and becomes personally liable as a co-conspirator. A. Public Prosecutor Krause (Staatsanwaltschaft Heilbronn — Docket Ref. 552 Js 37220/26): On October 22, 2026, Public Prosecutor Krause issued an official termination decr"
+    }
+   ]
+  },
+  {
+   "name": "OStA Krumm (StA Frankfurt)",
+   "art": "Person",
+   "rolle_im_verfahren": "Ermittlungen 7480 Js 252525/24",
+   "aliases": [
+    "Krumm"
+   ],
+   "suchbegriff": "Krumm",
+   "nennungen": 25,
+   "aktenzeichen": [
+    "7480 Js 252525/24",
+    "552 Js 37220/25",
+    "5 U 61/26",
+    "5 U 81/28",
+    "5 U 81/26"
+   ],
+   "hauptreferenz": "7480 Js 252525/24",
+   "belege": [
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "kontext": "nt) CO-CONSPIRATORS 2. Arnecke Sibeth Dabelstein (Defense Counsel / Ex-Parte Information Recipient) 3. Senior Public Prosecutor Krumm (Public Prosecutor's Office Frankfurt, Ref. 7480 Js 252525/24) 4. Notary Harald Münch (Frankfurt am Main / Collusive Lien Execution Coordinator)"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "kontext": "judges personally signed decrees dismissing recusal motions against themselves (violating BGH 2 StR 54/24). €. Public Prosecutor Krumm (Staatsanwaltschaft Frankfurt am Main — Docket Ref. 7480 Js 252525/24): Documented evidence establishes that Prosecutor Krumm received €45,000.0"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "kontext": "judges personally signed decrees dismissing recusal motions against themselves (violating BGH 2 StR 54/24). €. Public Prosecutor Krumm (Staatsanwaltschaft Frankfurt am Main — Docket Ref. 7480 Js 252525/24): Documented evidence establishes that Prosecutor Krumm received €45,000.0"
+    }
+   ]
+  },
+  {
+   "name": "RA Arnecke Sibeth Dabelstein",
+   "art": "Person",
+   "rolle_im_verfahren": "Beklagtenvertretung",
+   "aliases": [
+    "Arnecke",
+    "Dabelstein"
+   ],
+   "suchbegriff": "Arnecke",
+   "nennungen": 11,
+   "aktenzeichen": [
+    "5 U 81/26",
+    "02 O 79/24"
+   ],
+   "hauptreferenz": "5 U 81/26",
+   "belege": [
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "kontext": ") Antragstellerin / Parteien: S.A.H. GmbH i.L., vertr. d. GF Marco Paolo Heyd ./. QCS Quick Cargo Service GmbH (vertr. d. Kanzlei Arnecke Sibeth Dabelstein / RA Vyvers) Whistleblower & BVerfG BfJ Whistleblower-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679 | BVerfG Hauptaz.: 1 BvR Stat"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "kontext": "Retaliation Case) CRIMINAL 1. QCS Quick Cargo Service GmbH (Logistics Entity / Excessive Demurrage Claimant) CO-CONSPIRATORS 2. Arnecke Sibeth Dabelstein (Defense Counsel / Ex-Parte Information Recipient) 3. Senior Public Prosecutor Krumm (Public Prosecutor's Office Frankfurt,"
+    },
+    {
+     "dokument": "USFMCComplianteingereicht.txt",
+     "kontext": "logistics proxy acting on behalf of CMA CGM S.A. at Kurhessenstraße 3, D-64546 Mörfelden-Walldorf / Frankfurt am Main, Germany. * Arnecke Sibeth Dabelstein Rechtsanwälte: Legal counsel representing QCS and CMA CGM at Hamburger Allee 2-4, D-60486 Frankfurt am Main, Germany. ll. CO"
+    }
+   ]
+  },
+  {
+   "name": "OLG-Richter Haug (OLG Stuttgart)",
+   "art": "Person",
+   "rolle_im_verfahren": "Befangenheitsverfahren",
+   "aliases": [
+    "Haug"
+   ],
+   "suchbegriff": "Haug",
+   "nennungen": 55,
+   "aktenzeichen": [
+    "I 3 O 57/26",
+    "257 Js 31024/26",
+    "6 M 9219/26",
+    "3110 Js 101829/26",
+    "6 U 59/26",
+    "552 Js 37220/25"
+   ],
+   "hauptreferenz": "I 3 O 57/26",
+   "belege": [
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "kontext": "gung (8 339 StGB) gegen Richter des Oberlandesgerichts Stuttgart (VRiOLG Dr. Oliver Mosthaf) und des Landgerichts Heilbronn (RiLG Haug) den Zirkelschluss der verfassungswidrigen Justizverweigerung vollendet. « Einstweilige Anordnung gemäß $ 32 BVerfGG: Aussetzung aller Vollstrec"
+    },
+    {
+     "dokument": "BVG_STA.txt",
+     "kontext": "Tel. 0711 212 2866 74078 Heilbronn Fax. 0711 212 2899 N Aktenzeichen 24 Zs 1610/26 (Bitte bei Antwort angeben) Strafanzeige gegen Haug wegen Rechtsbeugung Beschwerde vom 16.09.2026 gegen die Verfügung der Staatsanwaltschaft Heilbronn vom 03.09.2026 (Az.: 257 Js 31024/26) Sehr gee"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "kontext": "Dr. Andreas Singer issued a summary termination decree quashing criminal judicial corruption charges against Presiding Judge Dr. Haug (LG Heilbronn) and OLG Siuttgart judges. Dr. Singer invoked fictitious ‘judicial evaluation discretion’ (Wertungsspielraum) while explicitly refu"
+    }
+   ]
+  },
+  {
+   "name": "RA Fichter & Kollegen",
+   "art": "Person",
+   "rolle_im_verfahren": "Prozessbevollmächtigter",
+   "aliases": [
+    "Fichter"
+   ],
+   "suchbegriff": "Fichter",
+   "nennungen": 82,
+   "aktenzeichen": [
+    "6 W 25/26",
+    "5 U 81/26",
+    "257 Js 31024/26",
+    "6 W 32/26",
+    "5 U 124/26",
+    "3 O 57/26"
+   ],
+   "hauptreferenz": "6 W 25/26",
+   "belege": [
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "kontext": "n Überprüfung am 12. November 2026 zwischen dem Geschäftsführer der Klägerin und dem Prozessbevollmächtigten Rechtsanwalt Gerhard Fichter (Kanzlei Fichter & Kollegen, Heilbronn) wurde ein beispielloser prozessualer Täuschungsakt des 5. Zivilsenats aufgedeckt: 1. Gesetzliches Zust"
+    },
+    {
+     "dokument": "Ergänzender Beweissubstanzvortrag .txt",
+     "kontext": "schbehauptung der fehlenden Anwaltsvertretung' im Beschluss vom 09.09.2026 (trotz OLG-Bestätigungsschreiben vom 16.07.2026 an RAe Fichter & Kollegen) bleibt ungeahndet. 3. Abschneiden künftigen Vorbringens: Die Ankündigung des OLG-Präsidenten, künftige Eingaben nicht mehr zu bean"
+    },
+    {
+     "dokument": "ErweiterteVerfassungsbeschwerde.txt",
+     "kontext": "olo Heyd Whistleblower-Reg.-ID (BfJ): 44f05e3b-4ed5-487f-8fe3-91e8ce858679 | BT-Pet. 210581 Prozessbevollmächtigte: Rechtsanwälte Fichter & Kollegen, Bahnhofstraße 7, 74072 Heilbronn (Gz. 178/26 F20 kf) Anfechtungsgegenstand: Hinweisbeschluss OLG Frankfurt am Main v. 29.10.2026 ("
+    }
+   ]
+  },
+  {
+   "name": "Hans Freisler (historisch, OLG-Präsident 1933-1943)",
+   "art": "Person",
+   "rolle_im_verfahren": "Gleichschaltung der Justiz — historischer Bezug",
+   "aliases": [
+    "Freisler"
+   ],
+   "suchbegriff": "Freisler",
+   "nennungen": 51,
+   "aktenzeichen": [
+    "6 W 25/26"
+   ],
+   "hauptreferenz": "6 W 25/26",
+   "belege": [
+    {
+     "dokument": "Diplomatic_Submission_Bagatz_2026-10-16.txt",
+     "kontext": "procedural coercion, and denial of fundamental rights that historically characterized the National Socialist judicial machinery (\"Freisler's Heirs\"). Nothing of substance has changed regarding the state apparatus's inability and unwillingness to prosecute judicial crimes committe"
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "kontext": "odern judicial institutions replicate the structural arbitrary mechanics of Nazi-era show trials (*Volksgerichtshof* under Roland Freisler) under the guise of technocratic procedural formalism. | Target Case & Jurisdiction: S.A.H. GmbH ./. Land Baden-Württemberg (VG Stuttgart Az."
+    },
+    {
+     "dokument": "FreislersHeirs_1.txt",
+     "kontext": "odern judicial institutions replicate the structural arbitrary mechanics of Nazi-era show trials (*Volksgerichtshof* under Roland Freisler) under the guise of technocratic procedural formalism. | Target Case & Jurisdiction: S.A.H. GmbH ./. Land Baden-Württemberg (VG Stuttgart Az."
+    }
+   ]
+  },
+  {
+   "name": "AG Heilbronn",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Amtsgericht Heilbronn",
+   "nennungen": 46,
+   "aktenzeichen": [
+    "6 M 9219/26",
+    "I 3 O 57/26",
+    "7480 Js 252525/24",
+    "5 U 81/26",
+    "6 W 25/26",
+    "7 AR 20/24"
+   ],
+   "hauptreferenz": "6 M 9219/26",
+   "belege": []
+  },
+  {
+   "name": "LG Heilbronn",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Landgericht Heilbronn",
+   "nennungen": 146,
+   "aktenzeichen": [
+    "I 3 O 57/26",
+    "6 U 59/26",
+    "6 W 25/26",
+    "6 M 9219/26",
+    "257 Js 31024/26",
+    "13 O 57/26"
+   ],
+   "hauptreferenz": "I 3 O 57/26",
+   "belege": []
+  },
+  {
+   "name": "OLG Stuttgart",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Oberlandesgericht Stuttgart",
+   "nennungen": 234,
+   "aktenzeichen": [
+    "6 W 25/26",
+    "6 U 59/26",
+    "3 O 57/26",
+    "257 Js 31024/26",
+    "6 W 32/26",
+    "1021 Js 115878/26"
+   ],
+   "hauptreferenz": "6 W 25/26",
+   "belege": []
+  },
+  {
+   "name": "OLG Frankfurt",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Oberlandesgericht Frankfurt am Main",
+   "nennungen": 82,
+   "aktenzeichen": [
+    "5 U 81/26",
+    "7 AR 20/24",
+    "5 U 31/26",
+    "5 U 81/25",
+    "7480 Js 252525/24",
+    "3 O 57/26"
+   ],
+   "hauptreferenz": "5 U 81/26",
+   "belege": []
+  },
+  {
+   "name": "VG Stuttgart",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Verwaltungsgericht Stuttgart",
+   "nennungen": 62,
+   "aktenzeichen": [
+    "6 U 59/26",
+    "257 Js 31024/26",
+    "1 K 9416/26",
+    "1 K 7376/26",
+    "6 W 32/26",
+    "6 W 25/26"
+   ],
+   "hauptreferenz": "6 U 59/26",
+   "belege": []
+  },
+  {
+   "name": "StA Hannover",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Staatsanwaltschaft Hannover",
+   "nennungen": 16,
+   "aktenzeichen": [
+    "1021 Js 115878/26",
+    "6 M 9219/26",
+    "6 U 59/26",
+    "6 W 25/26"
+   ],
+   "hauptreferenz": "1021 Js 115878/26",
+   "belege": []
+  },
+  {
+   "name": "StA Frankfurt",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Staatsanwaltschaft Frankfurt am Main",
+   "nennungen": 7,
+   "aktenzeichen": [
+    "02 O 79/24",
+    "7 AR 20/24"
+   ],
+   "hauptreferenz": "02 O 79/24",
+   "belege": []
+  },
+  {
+   "name": "StA Heilbronn",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Staatsanwaltschaft Heilbronn",
+   "nennungen": 34,
+   "aktenzeichen": [
+    "257 Js 31024/26",
+    "6 U 59/26",
+    "6 W 25/26",
+    "257 Js 31024/25",
+    "3 O 57/26",
+    "3 O 57/28"
+   ],
+   "hauptreferenz": "257 Js 31024/26",
+   "belege": []
+  },
+  {
+   "name": "StA Stuttgart",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Staatsanwaltschaft Stuttgart",
+   "nennungen": 43,
+   "aktenzeichen": [
+    "3110 Js 101829/26",
+    "257 Js 31024/26",
+    "6 W 25/26",
+    "13 O 57/26"
+   ],
+   "hauptreferenz": "3110 Js 101829/26",
+   "belege": []
+  },
+  {
+   "name": "GStA",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Generalstaatsanwaltschaft",
+   "nennungen": 2,
+   "aktenzeichen": [
+    "7 AR 20/24"
+   ],
+   "hauptreferenz": "7 AR 20/24",
+   "belege": []
+  },
+  {
+   "name": "BGH",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Bundesgerichtshof",
+   "nennungen": 155,
+   "aktenzeichen": [
+    "5 U 81/26",
+    "6 W 25/26",
+    "3 O 57/26",
+    "2 SIR 54/24",
+    "1 VB 65/17",
+    "6 W 32/26"
+   ],
+   "hauptreferenz": "5 U 81/26",
+   "belege": []
+  },
+  {
+   "name": "BVerfG",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Bundesverfassungsgericht",
+   "nennungen": 362,
+   "aktenzeichen": [
+    "6 W 25/26",
+    "6 U 59/26",
+    "I 3 O 57/26",
+    "5 U 81/26",
+    "3110 Js 101829/26",
+    "6 M 9219/26"
+   ],
+   "hauptreferenz": "6 W 25/26",
+   "belege": []
+  },
+  {
+   "name": "IStGH",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Internationaler Strafgerichtshof",
+   "nennungen": 2,
+   "aktenzeichen": [
+    "1K 9416/26"
+   ],
+   "hauptreferenz": "1K 9416/26",
+   "belege": []
+  },
+  {
+   "name": "EPPO",
+   "art": "Behörde / Gericht",
+   "rolle_im_verfahren": "Europäische Staatsanwaltschaft",
+   "nennungen": 62,
+   "aktenzeichen": [
+    "5 U 81/26",
+    "1021 Js 115878/26",
+    "7 AR 20/24",
+    "6 W 25/26",
+    "6 U 59/26",
+    "5 U 31/26"
+   ],
+   "hauptreferenz": "5 U 81/26",
+   "belege": []
+  }
+ ],
+ "personen_gesamt": 11,
+ "behoerden_gesamt": 14,
+ "beweispfade": {
+  "anzahl": 233,
+  "unique_sha256": 217,
+  "bytes": 157206019
+ }
+}
