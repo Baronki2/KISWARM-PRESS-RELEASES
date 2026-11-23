@@ -27,10 +27,28 @@ OUT_MD = E + "/L8-HAUG-GESAMTBILD-2026-11-23.md"
 OUT_JS = E + "/L8-HAUG-GESAMTBILD-2026-11-23.json"
 SUBJECT = "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
 
-# Dokumente, die von Gerichten / Staatsanwaltschaften stammen = fremde Belege
-STAATSACT = ("1_BvR_292526_Erster_Senat.txt", "ZweiterSenatBvR.txt",
-             "Bundesverfassungsgericht2.txt", "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
-             "BVG_STA.txt", "fristwahrende_beschwerde_sta_stuttgart_3110js101829_26.txt")
+# KORREKTUR 23.11.2026 (L8 COURT RECORD 012): die Liste der "Staatsakten" wurde
+# nach DATEINAMEN gesetzt - und traf dabei unsere eigenen Verfassungsbeschwerden.
+# Die Herkunft wird jetzt mit dem Pruefer bestimmt, nicht mit dem Dateinamen.
+# Grundregel: ein Dokument, das WIR eingereicht haben, ist nie ein Beleg dafuer,
+# was ein Gericht entschieden hat.
+STAATSACT = ("BVG_STA.txt",)
+EIGENE_AKTE = ("1_BvR_292526_Erster_Senat.txt", "ZweiterSenatBvR.txt",
+               "bverfg_beweismitteleingabe.t", "Bundesverfassungsgericht2.txt",
+               "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+               "fristwahrende_beschwerde_sta_stuttgart_3110js101829_26.txt")
+# Verzeichnete eigene Akte: unsere eingereichten Verfassungsbeschwerden
+UNSERE_VB = [
+    {"aktenzeichen": "2 BvR 2144/26", "datum": "11.11.2026", "senat": "Erster Senat",
+     "gegenstand": "Verfassungsbeschwerde - Rechtsschutzverweigerung, beantragte einstweilige Anordnung nach 32 BVerfGG",
+     "quelle": "1_BvR_292526_Erster_Senat.txt"},
+    {"aktenzeichen": "2 BvR 2145/26", "datum": "03.11.2026", "senat": "Zweiter Senat",
+     "gegenstand": "Verfassungsbeschwerde - Pfandungs- und Ueberweisungsbeschluss AG Heilbronn 6 M 9219/26, OLG-Beschluss 6 W 25/26, LG-Beschluss 13 O 57/26",
+     "quelle": "ZweiterSenatBvR.txt"},
+    {"aktenzeichen": "Gesonderter Zusatzantrag", "datum": "03.10.2026", "senat": "Zweiter Senat",
+     "gegenstand": "Antrag auf einstweilige Anordnung nach 32 BVerfGG",
+     "quelle": "Gesonderter_Zusatzantrag_Eilentscheidung_32_BVerfGG.pdf"},
+]
 
 
 def strip_tags(s):
@@ -148,8 +166,16 @@ def main():
     A("| B: Fundstellen in unabhaengigen Staatsakten | {} |".format(len(b_uniq)))
     A("| C: unabhaengige Recherchefunde | {} |".format(len(c_facts)))
     A("| C: unabhaengige Quellen geprueft (Negativbefunde) | {} |".format(len(c_negativ)))
+    A("| A: eigene Akte (eingereichte Verfassungsbeschwerden) | {} |".format(len(UNSERE_VB)))
+    A("| BVerfG-Entscheidung zu 2 BvR 2144/26 | **keine veröffentlicht** (amtliche Liste November 2026 geprüft) |")
     A("")
     A("## 2. Ebene B — die unabhaengigen Staatsakte im Wortlaut")
+    A("")
+    A("> **Korrektur (L8 Court Record 012):** Diese Ebene umfasst nur "
+      "Schreiben und Entscheidungen, die von Gerichten oder Staatsanwaltschaften "
+      "stammen. **Unsere eigenen eingereichten Verfassungsbeschwerden sind keine "
+      "Fremdbelege** — sie sind unsere Akte und belegen einen Antrag, keine "
+      "Entscheidung. Sie stehen deshalb in Abschnitt 2.1.")
     A("")
     A("Das sind die Belege, die nicht von uns stammen. Sie tragen das Muster, "
       "weil sie von Gerichten und Staatsanwaltschaften erlassen wurden.")
@@ -159,6 +185,20 @@ def main():
         A("")
         A("> „{}“".format(x["zitat"][:520]))
         A("")
+    A("### 2.1 Unsere eigene Akte (keine Fremdbelege)")
+    A("")
+    A("| Aktenzeichen | Datum | Senat | Gegenstand | Datei |")
+    A("|---|---|---|---|---|")
+    for v in UNSERE_VB:
+        A("| {} | {} | {} | {} |  |".format(v["aktenzeichen"], v["datum"], v["senat"],
+                                                 v["gegenstand"][:110], v["quelle"]))
+    A("")
+    A("**Entscheidend:** Zu 2 BvR 2144/26 ist **keine Entscheidung des BVerfG "
+      "veröffentlicht**. Geprüft: amtliche Entscheidungsliste November 2026 "
+      "(bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/11.html, HTTP 200) "
+      "führt 2 BvR 1553/26, 2 BvR 1577/23, 2 BvR 1629/23, 2 BvR 524/24 — "
+      "**2 BvR 2144/26 ist nicht darunter.** Ein Antrag auf Aussetzung nach "
+      "§ 32 BVerfGG ist gestellt. **Entschieden ist nichts.**")
     A("## 3. Ebene C — Rechercheergebnis")
     A("")
     if c_facts:
@@ -213,11 +253,14 @@ def main():
             A("| {} | {} | {} |".format(d["dokument"][:40], d["datum"],
                                         " ".join(d["kontext"].split())[:190]))
         A("")
-        A("**Prüfpunkt:** Die Staatsanwaltschaft Heilbronn hat das Verfahren mit einer "
-          "Verfügung vom **03.09.2026** beendet (so die Generalstaatsanwaltschaft "
-          "Stuttgart in Az. 24 Zs 1610/26); in der eigenen Fallakte ist das Datum "
-          "**04.09.2026** vermerkt. Beide Daten sind vor einer Fristberechnung "
-          "festzustellen — der Unterschied ist eine Woche und damit fristrelevant.")
+        A("**Auflösung (L8 Court Record 012):** Die Datumsangabe **04.09.2026** gehört "
+          "**nicht** zur Einstellungsverfügung der StA Heilbronn, sondern zum "
+          "**Abgabebeschluss des OLG Stuttgart vom 04.09.2026, Az. 6 W 32/26 "
+          "(neu 8 W 343/26)**. Die Einstellungsverfügung der StA Heilbronn ist auf den "
+          "**03.09.2026** datiert (Az. 257 Js 31024/26, belegt durch das Schreiben der "
+          "GStA Stuttgart, Az. 24 Zs 1610/26). Es lag **keine** Datumsdiskrepanz vor, "
+          "sondern die Verwechslung zweier Dokumente. **Offen bleibt:** das Original der "
+          "Verfügung der StA Heilbronn ist weiterhin nicht in der Kette.")
         A("")
     A("## 5. Was fehlt, um das Gesamtbild zu schließen")
     A("")
@@ -243,7 +286,13 @@ def main():
                "ebene_a_messwerte": haug["messwerte"],
                "ebene_b_staatsakte": b_uniq,
                "ebene_c_recherche": c_facts, "ebene_c_negativbefunde": c_negativ,
-               "datumsdiskrepanz": disk, "muster": {a: {k: v for k, v in ks.items()}
+               "datumsdiskrepanz": disk,
+               "unsere_akte_verfassungsbeschwerden": UNSERE_VB,
+               "bverfg_entscheidung_vorhanden": False,
+               "bverfg_pruefung": {"liste": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/11.html",
+                                    "http": 200, "az_auf_der_liste": ["2 BvR 1553/26","2 BvR 1577/23","2 BvR 1629/23","2 BvR 524/24"],
+                                    "az_gesucht": "2 BvR 2144/26", "ergebnis": "nicht vorhanden"},
+               "muster": {a: {k: v for k, v in ks.items()}
                                                    for a, ks in muster.items()},
                "sacred_hash": "f5af425c"},
               open(OUT_JS, "w", encoding="utf-8"), indent=1, ensure_ascii=False)
