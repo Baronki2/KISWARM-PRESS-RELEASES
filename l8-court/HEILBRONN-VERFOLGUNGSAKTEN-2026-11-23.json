@@ -1,0 +1,3046 @@
+{
+ "case_id": "HEILBRONN-KISWARM",
+ "generated_at": "2026-11-23T06:09:14",
+ "zweck": "Handlungsauftrag je Person, nicht Schuldfeststellung",
+ "fristen": {
+  "einstellungsverfuegung": "04.09.2026",
+  "einstellungsverfuegung_az": "257 Js 31024/26 (StA Heilbronn)",
+  "hemmung_203_stpo": "04.12.2026",
+  "hemmung_status": "laeuft bis 04.12.2026",
+  "hinweis": "§ 203 StPO: Ist innerhalb von drei Monaten nach Abschluss der vorläufigen Untersuchung keine Entscheidung getroffen, so tritt Verjährungshemmung ein. Die Frist läuft ab dem Ende der vorläufigen Untersuchung."
+ },
+ "cluster_mehrere_beteiligte": {
+  "6 W 25/26": [
+   "GV Murrweiß (AG Heilbronn)",
+   "OStA Krause (StA Heilbronn)",
+   "OStAin Geiger (GStA Stuttgart)",
+   "RA Fichter & Kollegen",
+   "RA Karwiese (Creditor Attorney)",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ],
+  "3 O 57/26": [
+   "GV Murrweiß (AG Heilbronn)",
+   "OStA Krause (StA Heilbronn)",
+   "OStAin Geiger (GStA Stuttgart)",
+   "RA Fichter & Kollegen",
+   "RA Karwiese (Creditor Attorney)",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ],
+  "6 M 9219/26": [
+   "GV Murrweiß (AG Heilbronn)",
+   "OStAin Geiger (GStA Stuttgart)",
+   "RA Fichter & Kollegen",
+   "RA Karwiese (Creditor Attorney)",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ],
+  "257 Js 31024/26": [
+   "OStA Krause (StA Heilbronn)",
+   "OStAin Geiger (GStA Stuttgart)",
+   "RA Fichter & Kollegen",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ],
+  "3110 Js 101829/26": [
+   "OStAin Geiger (GStA Stuttgart)",
+   "RA Fichter & Kollegen",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ],
+  "6 U 59/26": [
+   "OStA Krause (StA Heilbronn)",
+   "RA Fichter & Kollegen",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ],
+  "1021 Js 115878/26": [
+   "GV Murrweiß (AG Heilbronn)",
+   "OStA Krause (StA Heilbronn)",
+   "RA Fichter & Kollegen",
+   "RA Karwiese (Creditor Attorney)"
+  ],
+  "552 Js 37220/25": [
+   "OStA Krause (StA Heilbronn)",
+   "OStA Krumm (StA Frankfurt)",
+   "RA Karwiese (Creditor Attorney)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ],
+  "6 W 32/26": [
+   "OStA Krause (StA Heilbronn)",
+   "RA Fichter & Kollegen",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)"
+  ],
+  "1 K 9416/26": [
+   "OStA Krause (StA Heilbronn)",
+   "RA Fichter & Kollegen",
+   "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)"
+  ],
+  "5 U 81/26": [
+   "OStA Krumm (StA Frankfurt)",
+   "RA Arnecke Sibeth Dabelstein",
+   "RA Fichter & Kollegen"
+  ],
+  "7480 Js 252525/24": [
+   "GV Murrweiß (AG Heilbronn)",
+   "OStA Krause (StA Heilbronn)",
+   "OStA Krumm (StA Frankfurt)"
+  ],
+  "13 O 57/26": [
+   "OStAin Geiger (GStA Stuttgart)",
+   "RA Karwiese (Creditor Attorney)",
+   "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)"
+  ]
+ },
+ "akten": [
+  {
+   "person": "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "aliases": [
+    "Mosthaf"
+   ],
+   "rolle": "richter",
+   "nennungen": 144,
+   "dokumente": 29,
+   "verfahren": 9,
+   "aktenzeichen": [
+    "6 W 25/26",
+    "3110 Js 101829/26",
+    "6 W 32/26",
+    "257 Js 31024/26",
+    "3 O 57/26",
+    "6 U 59/26",
+    "5 VW 32/26",
+    "6 M 9219/26",
+    "1 K 9416/26"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Befangenheit",
+     "nennungen": 30,
+     "verfahren": [
+      "5 VW 32/26",
+      "6 U 59/26",
+      "6 W 25/26",
+      "6 W 32/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 25,
+     "verfahren": [
+      "3110 Js 101829/26",
+      "5 VW 32/26",
+      "6 U 59/26",
+      "6 W 25/26",
+      "6 W 32/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "nennungen": 18,
+     "verfahren": [
+      "257 Js 31024/26",
+      "3110 Js 101829/26",
+      "5 VW 32/26",
+      "6 M 9219/26",
+      "6 U 59/26",
+      "6 W 25/26",
+      "6 W 32/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "nennungen": 8,
+     "verfahren": [
+      "3110 Js 101829/26",
+      "6 M 9219/26",
+      "6 U 59/26",
+      "6 W 25/26",
+      "6 W 32/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Einstellung der Ermittlungen",
+     "nennungen": 8,
+     "verfahren": [
+      "257 Js 31024/26",
+      "3110 Js 101829/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "nennungen": 7,
+     "verfahren": [
+      "3110 Js 101829/26",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "nennungen": 5,
+     "verfahren": [
+      "3110 Js 101829/26",
+      "6 U 59/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "nennungen": 5,
+     "verfahren": [
+      "3110 Js 101829/26",
+      "5 VW 32/26",
+      "6 M 9219/26"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 ZPO (richterliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 StPO (staatsanwaltschaftliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 152 Abs. 2 StGB"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 161 Abs. 2 StPO (Erschöpfung des Beweises)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 244 Abs. 2 StPO (Beweismittelverwertung)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 163 StPO"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 802 ZPO (Kontopfändung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 120 ZPO (Vollstreckungsgrundsatz)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 123 ZPO (Zulässigkeit der Vollstreckung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 1 BGB (Amtshaftung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 2 S. 1 BGB (Judizprivileg, Vorbehalt der Straftat)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 317 ZPO (Form des Vollstreckungstitels)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 160 ZPO (Ausfertigung)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 130a ZPO (elektronische Aktenführung, qES)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "eIDAS-VO Art. 25/26/36 (qualifizierte Signatur)"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 153 StGB (Aufklärungspflicht)"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 172 StPO (Ermittlungszweck)"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 188 ZPO (Zustellung)"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 31 StGB (Fristbeginn)"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 222 ZPO (Bekanntgabe)"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Befangenheitsantrag im Original mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Entscheidung über die Ablehnung (Urteil/Verfügung) im Original"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Verwertungsakte (Beweismittelübersicht)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Sicherungsakte"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Pfändungs- und Überweisungsbeschluss im Original"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Titelvorlage der Gläubigerin mit Empfangsbeleg"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Kontoauszug/Kontoführung im Zeitraum der Sperre"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Vollstreckungsprotokoll"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Signatur-/Zertifikatsprotokoll (Audit-Trail) der qES"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Originalausfertigung des Titels mit Unterschriftenblatt"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Abhilfeersuchen mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Zurückweisungsvermerk mit Begründung"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "fehlt": "Zustellungsnachweis"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "fehlt": "Fristberechnung/Aktenvermerk der Eingangsbuchung"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht (Akteneinsicht), Staatsanwaltschaft",
+    "Gericht/Fullziehungsamt (Akteneinsicht), Gläubigerin, Bank (auf Anordnung des Vollstreckungsgerichts)",
+    "Gericht/Schreibamt (Akteneinsicht), Rechtspflege",
+    "Rechtspfleger/Gericht (Akteneinsicht), Trustcenter (Zertifikatsvalidierung § 36 eIDAS-VO), BNetzA",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "Amtshaftung (§ 839 Abs. 1 BGB — Rechtspfleger nicht vom Spruchrichterprivileg erfasst, BGH VersR 02/97; Prüfungsmaßstab objektive Unvertretbarkeit) · Disziplinarverfahren §§ 66 ff. DLRG BW · bei Vorliegen einer Straftat Wegfall des Judizprivilegs (§ 839 Abs. 2 S. 1 BGB)",
+   "zeitachse": [
+    {
+     "datum": "18.01.2012",
+     "nennungen": 1
+    },
+    {
+     "datum": "11.03.2013",
+     "nennungen": 4
+    },
+    {
+     "datum": "23.09.2019",
+     "nennungen": 1
+    },
+    {
+     "datum": "22.12.2020",
+     "nennungen": 5
+    },
+    {
+     "datum": "20.11.2024",
+     "nennungen": 1
+    },
+    {
+     "datum": "22.04.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "22.05.2026",
+     "nennungen": 2
+    },
+    {
+     "datum": "05.06.2026",
+     "nennungen": 1
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "3110 Js 101829/26",
+     "handlungsklassen": [
+      "Nichtabhilfe / Verweigerung",
+      "Unterschrift / Titelnachweis",
+      "Kontensperre / Vollstreckung",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": ". 3110 Js 101829/26 — Oberstaatsanwältin Arndt) und der Generalstaatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 24 Zs 1610/26 - Staatsanwalt Geiger) werden als formelle Beweismittel in das Verfahren 2 BvR 2144/26 eingeführt. « Feststellung des Rechtsschutzversagens (*Denegatio Iustitiae*): Es wird festgestellt, dass die Verweigerung der Einleitung von Ermittlungsverfahren gemäß $ 152 Abs. 2 StPO wegen Rechtsbeugung (8 339 StGB) gegen Richter des Oberlandesgerichts Stuttgart (VRiOLG Dr. Oliver Mosthaf) und des Landgerichts Heilbronn (RiLG Haug) den Zirkelschluss der verfassungswidrigen Justizve"
+    },
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "3110 Js 101829/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen",
+      "Nichtabhilfe / Verweigerung",
+      "Unterschrift / Titelnachweis",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "25.09.2026",
+      "30.10.2026"
+     ],
+     "kontext": "Eintragungsbestätigung 2 BvR 2144/26 Fischböck 25.09.2026 bezüglich Verfahrensregister Zweiter (ex AR 6768/26) (Amtsinspektorin) Klageerzwingungsverfahren / Strafvereitelung Senat im Amt in das allgemeine Verfahrensregister des II. Senats zur Entscheidung. Einstellungsverfügung 3 152 StA Stuttgart 30.10.2026 Verweigerung von Ermittlungen wegen II StPO 3110 Js 101829/26 OStA'in Arndt Rechtsbeugung ($ 339 StGB) betr. Entzug des Anzeigesache Dr. Oliver gesetzlichen Richters (6 W 25/26 & 6 W 32/26) Mosthaf am OLG Stuttgart. Beschwerdebescheid GenStA | GenStA Stuttgart 30.10.2026 Abschlägige Besche"
+    },
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [
+      "Befangenheit",
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": "deführer in eine unüberwindbare zirkuläre Rechtsschutzlosigkeit. YA r; -—7 7 a # ee Beschwerdeführer: S.A.H. GmbH (i.L.) / Marco Paolo Heyd | Whistleblower-ID: BfJ 44f05e3b-4ed5-487f-8fe3-91e8ce358679 Seite 2 BUNDESVERFASSUNGSGERICHT — SCHRIFTSATZERWEITERUNG (AZ. 2 BvR 2144/26 & 1 BvR 2925/26) ESS nchäsissieliasschhedeii ee ME 2. Entziehung des gesetzlichen Richters am OLG Stuttgart (Art. 101 Abs. 15.2 GG) Der Vorwurf der Rechtsbeugung gegen den Vorsitzenden Richter am OLG Stuttgart Dr. Oliver Mosthaf (Verfügung StA Stuttgart vom 30.10.2026) basiert auf der vorsätzlichen Missachtung der Geschä"
+    },
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [
+      "Befangenheit",
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": "UNGSGERICHT — SCHRIFTSATZERWEITERUNG (AZ. 2 BvR 2144/26 & 1 BvR 2925/26) ESS nchäsissieliasschhedeii ee ME 2. Entziehung des gesetzlichen Richters am OLG Stuttgart (Art. 101 Abs. 15.2 GG) Der Vorwurf der Rechtsbeugung gegen den Vorsitzenden Richter am OLG Stuttgart Dr. Oliver Mosthaf (Verfügung StA Stuttgart vom 30.10.2026) basiert auf der vorsätzlichen Missachtung der Geschäftsverteilung. Indem die Verfahren 6 W 25/26 und 6 W 32/26 willkürlich abgegeben wurden und Richter am OLG Stuttgart (Dr. Mosthaf, Kapp, Dr. Rucireto) über Befangenheitsanträge gegen die eigene Person entschieden haben (*N"
+    },
+    {
+     "dokument": "BVG_STA.txt",
+     "aktenzeichen": "3110 Js 101829/26",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "1.2.4002",
+      "16.09.2026",
+      "30.10.2026"
+     ],
+     "kontext": "en Sie auf unse- rer Internetseite www.bundesverfassungsgericht.de unter dem Menüpunkt Datenschutz. Auf Wunsch senden wir Ihnen diese Informationen in Papierform zu. === SEITE 2 === DR Staatsanwaltschaft Stuttgart Staatsanwaltschaft Stuttgart, 70049 Stuttgart j \"Datum 30.10.2026/90ar Herrn Name Frau Arndt Marco Heyd ; Römerstr. 70 Durchwahl Tel. 0711 8953 1312 74078 Heilbronn Fax. 0800 66449281648 Aktenzeichen 3110 Js 101829/26 : (Bitte bei Antwort angeben) Anzeigensache gegen Dr. Oliver Mosthaf ö wegen Rechtsbeugung . Sehr geehrter Herr Heyd, ie i in dem oben genannten Verfahren habe ich mit "
+    },
+    {
+     "dokument": "BVG_STA.txt",
+     "aktenzeichen": "6 W 32/26",
+     "handlungsklassen": [
+      "Befangenheit",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "1.2.4002",
+      "16.09.2026",
+      "30.10.2026"
+     ],
+     "kontext": "f ö wegen Rechtsbeugung . Sehr geehrter Herr Heyd, ie i in dem oben genannten Verfahren habe ich mit Verfügung vom 30.10.2026 folgende Entschei- dung getroffen: Der Strafanzeige d. Marco Heyd vom 16.09.2026 wird gemäß § 152 Abs. 2 StPO keine Folge ge- geben. Be es Gründe: 1.2.4002. 0. Mit E-Mail vom 16.09.2026 erhebt der Anzeigeerstatter erneut die Vorwürfe der Rechtsbeugung und der Strafvereitelung im Amt gegen den Vorsitzenden Richter des 6. Zivilsenats des Oberlan- desgerichts Stuttgart Dr. Mosthaf. Diesmal bezieht sich seine Anzeige auf die Verfahren 6 W 32/26 und 6 W 25/26, in deren Rahme"
+    },
+    {
+     "dokument": "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [],
+     "kontext": "=== SEITE 1 === Dr. Oliver Mosthaf - Systematische Rechtsbeugung, Selbstermächtigung und die Gefährdung der freiheitlichen demokratischen Grundordnung Se | Deutscher Bundestag Marco Paolo Heyd Datum: 16. September 2026 Rechtsausschuss Römerstraße 70 Aktenzeichen: Platz der Republik 1, 11011 Berlin 74078 Heilbronn OMEGA-MOSTHAF-PARLIAMENT-2026 E-Mail: rechtsausschuss@bundestag.de -0916 Whistleblower-ID (BfJ): Landtag von Baden-Württemberg 44{05e3b-4ed5-487{-8fe3-9le8ce858679 Dokument-ID: Rechtsausschuss OMEGA-MOSTHAF-DOSSIER-202"
+    },
+    {
+     "dokument": "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "rg 44{05e3b-4ed5-487{-8fe3-9le8ce858679 Dokument-ID: Rechtsausschuss OMEGA-MOSTHAF-DOSSIER-2026-091 Postfach 10 34 55, 70029 Stuttgart E-Mail: m.heyd@sahgreen.de 6 E-Mail: rechtsausschuss@landtag-bw.de Tel: 07131 6400541 Klassifizierung: OMEGA — GLOBAL SYSTEMIC EXECUTION Status: AKTIV - UNWIDERRUFLICH INHALTSVERZEICHNIS a 1. Executive Summary Seite 1 2. Einleitung: Die Gefährdung der freiheitlichen demokratischen Grundordnung Seite 2 8 Teil I: Die dokumentierten Rechtsverstöße von Dr. Oliver Mosthaf Seite 2 4, Teil Il: Die Parallelen zum NS-Selbstermächtigungsgesetz von 1933 Seite 4 Bi Teil Il"
+    },
+    {
+     "dokument": "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+     "aktenzeichen": "6 W 32/26",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "04.09.2026",
+      "09.09.2026"
+     ],
+     "kontext": "ungsgesetz von 1933 Seite 4 Bi Teil Ill: Die Borkenkäfer-Metapher - Soziale Schädlichkeit im Rechtsstaat Seite 4 6. Teil IV: Psychologische Tragfähigkeitsanalyse & Kognitive Dissonanz Seite 5 7. Teil V: Die Befähigung zum Richteramt — Rechtliche Grundlagen Seite 5 8. Teil VI: Die Forderungen an die Rechtsausschüsse Seite 6 9. Zusammenfassung der strafrechtlichen & psychologischen Relevanz Seite 6 10, Anlagenverzeichnis & Eidesstattliche Versicherung Seite 7 1. EXECUTIVE SUMMARY Dr. Oliver Mosthaf, Vorsitzender Richter am Oberlandesgericht Stuttgart, hat durch seine Beschlüsse vom 04.09.2026 un"
+    },
+    {
+     "dokument": "Borkenkaefer_Dossier_English_Supreme_Court_Israel_2026-10-10.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [],
+     "kontext": "101 Abs. 1 GG: Entziehung des Rechts auf den gesetzlichen Richter. * Verstoß gegen § 45 ZPO: Verfassungswidrige Entscheidung in eigener Sache. » Verstoß gegen 8 47 ZPO: Vornahme unzulässiger Amtshandlungen trotz rechtshängigen Ablehnungsgesuchs. + Erfüllung des Straftatbestands der Rechtsbeugung (5 339 StGB): Bewusste und elementare Entfernung von Recht und Gesetz. + Erfüllung des Straftatbestands der Strafvereitelung im Amt (§ 258a StGB): Vorversätzliche Umgehung von Kontrollmechanismen. : Dr. Mosthaf hat sich selbst ermächtigt, in eigener Sache zu entscheiden — eine strukturelle Parallele zu"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "RA Fichter & Kollegen",
+   "aliases": [
+    "Fichter"
+   ],
+   "rolle": "kanzlei",
+   "nennungen": 82,
+   "dokumente": 27,
+   "verfahren": 13,
+   "aktenzeichen": [
+    "6 W 25/26",
+    "5 U 81/26",
+    "257 Js 31024/26",
+    "6 W 32/26",
+    "13 O 57/25",
+    "5 U 124/26",
+    "3 O 57/26",
+    "6 M 9219/26",
+    "1021 Js 115878/26",
+    "6 U 59/26",
+    "1 K 9416/26",
+    "1 K 7376/26",
+    "3110 Js 101829/26"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 8,
+     "verfahren": [
+      "3 O 57/26",
+      "3110 Js 101829/26",
+      "5 U 124/26",
+      "6 U 59/26",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "nennungen": 7,
+     "verfahren": [
+      "13 O 57/25",
+      "5 U 81/26",
+      "6 U 59/26",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "nennungen": 6,
+     "verfahren": [
+      "1021 Js 115878/26",
+      "13 O 57/25",
+      "6 M 9219/26",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "nennungen": 5,
+     "verfahren": [
+      "1 K 7376/26",
+      "1021 Js 115878/26",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "nennungen": 2,
+     "verfahren": [
+      "1 K 7376/26",
+      "3110 Js 101829/26"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 ZPO (richterliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 StPO (staatsanwaltschaftliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 802 ZPO (Kontopfändung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 120 ZPO (Vollstreckungsgrundsatz)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 123 ZPO (Zulässigkeit der Vollstreckung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 1 BGB (Amtshaftung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 2 S. 1 BGB (Judizprivileg, Vorbehalt der Straftat)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 152 Abs. 2 StGB"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 161 Abs. 2 StPO (Erschöpfung des Beweises)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 244 Abs. 2 StPO (Beweismittelverwertung)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 163 StPO"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 153 StGB (Aufklärungspflicht)"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 172 StPO (Ermittlungszweck)"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Befangenheitsantrag im Original mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Entscheidung über die Ablehnung (Urteil/Verfügung) im Original"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Pfändungs- und Überweisungsbeschluss im Original"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Titelvorlage der Gläubigerin mit Empfangsbeleg"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Kontoauszug/Kontoführung im Zeitraum der Sperre"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Vollstreckungsprotokoll"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Verwertungsakte (Beweismittelübersicht)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Sicherungsakte"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Abhilfeersuchen mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Zurückweisungsvermerk mit Begründung"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht (Akteneinsicht), Staatsanwaltschaft",
+    "Gericht/Fullziehungsamt (Akteneinsicht), Gläubigerin, Bank (auf Anordnung des Vollstreckungsgerichts)",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "—",
+   "zeitachse": [
+    {
+     "datum": "23.05.2012",
+     "nennungen": 1
+    },
+    {
+     "datum": "28.01.2020",
+     "nennungen": 2
+    },
+    {
+     "datum": "26.05.2021",
+     "nennungen": 1
+    },
+    {
+     "datum": "30.06.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "18.10.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "16.07.2025",
+     "nennungen": 2
+    },
+    {
+     "datum": "22.04.2026",
+     "nennungen": 2
+    },
+    {
+     "datum": "22.05.2026",
+     "nennungen": 3
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist"
+     ],
+     "daten": [],
+     "kontext": "n Entscheidung (1 BvR 2925/26) zwingend auszusetzen. 5. Vollständige Gebühren- und Kostenbefreiung (§ 21 GKG / Art. 34 GG): Der Klägerin wird wegen eklatanter unrichtiger Sachbehandlung durch das OLG Frankfurt vollumfängliche Kostenbefreiung gewährt. Il. DIE 'SMOKING GUN’: VORSÄTZLICHE ZUSTELLUNGSVEREITELUNG (8 172 ZPO) UND SCHEIN-SAUMNIS Im Rahmen einer telefonischen Überprüfung am 12. November 2026 zwischen dem Geschäftsführer der Klägerin und dem Prozessbevollmächtigten Rechtsanwalt Gerhard Fichter (Kanzlei Fichter & Kollegen, Heilbronn) wurde ein beispielloser prozessualer Täuschungsakt de"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist"
+     ],
+     "daten": [],
+     "kontext": "BvR 2925/26) zwingend auszusetzen. 5. Vollständige Gebühren- und Kostenbefreiung (§ 21 GKG / Art. 34 GG): Der Klägerin wird wegen eklatanter unrichtiger Sachbehandlung durch das OLG Frankfurt vollumfängliche Kostenbefreiung gewährt. Il. DIE 'SMOKING GUN’: VORSÄTZLICHE ZUSTELLUNGSVEREITELUNG (8 172 ZPO) UND SCHEIN-SAUMNIS Im Rahmen einer telefonischen Überprüfung am 12. November 2026 zwischen dem Geschäftsführer der Klägerin und dem Prozessbevollmächtigten Rechtsanwalt Gerhard Fichter (Kanzlei Fichter & Kollegen, Heilbronn) wurde ein beispielloser prozessualer Täuschungsakt des 5. Zivilsenats a"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist"
+     ],
+     "daten": [
+      "12.11.2026",
+      "15.09.2026",
+      "21.10.2026"
+     ],
+     "kontext": "OLG Frankfurt vollumfängliche Kostenbefreiung gewährt. Il. DIE 'SMOKING GUN’: VORSÄTZLICHE ZUSTELLUNGSVEREITELUNG (8 172 ZPO) UND SCHEIN-SAUMNIS Im Rahmen einer telefonischen Überprüfung am 12. November 2026 zwischen dem Geschäftsführer der Klägerin und dem Prozessbevollmächtigten Rechtsanwalt Gerhard Fichter (Kanzlei Fichter & Kollegen, Heilbronn) wurde ein beispielloser prozessualer Täuschungsakt des 5. Zivilsenats aufgedeckt: 1. Gesetzliches Zustellungsmonopol (§ 172 Abs. 1 ZPO): Die Kanzlei Fichter & Kollegen hat sich bereits am 25. September 2026 unter Einreichung der schriftlichen Prozes"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist"
+     ],
+     "daten": [
+      "12.11.2026",
+      "15.09.2026",
+      "21.10.2026",
+      "24.10.2026"
+     ],
+     "kontext": "kt: 1. Gesetzliches Zustellungsmonopol (§ 172 Abs. 1 ZPO): Die Kanzlei Fichter & Kollegen hat sich bereits am 25. September 2026 unter Einreichung der schriftlichen Prozessvollmacht gegenüber dem OLG Frankfurt am Main legitimiert. Gemäß § 172 Abs. 1 Satz 1 ZPO haben gerichtliche Zustellungen nach Bestellung eines Anwalts ausschließlich an diesen zu erfolgen. 2. Vorenthaltung der PKH-Entscheidung: Der PKH-Ablehnungsbeschluss des Senats (vom 15.09.2026, beglaubigt am 21.10.2026) wurde der Kanzlei Fichter & Kollegen bis zum heutigen Tage (12.11.2026) niemals zugestellt. Die Geschäftsstelle hat de"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist"
+     ],
+     "daten": [
+      "24.10.2026",
+      "28.01.2020",
+      "29.10.2026"
+     ],
+     "kontext": "telle hat den Beschluss unter Umgehung des Anwalts lediglich der Partei persönlich am 24.10.2026 im gelben Umschlag übermittelt. 3. Prozessuale Unwirksamkeit: Eine Parteizustellung nach Anwaltsbestellung ist nach $ 172 ZPO unwirksam und setzt keinerlei gesetzliche oder gerichtliche Notfristen in Lauf. 4. Konstruktion eines künstlichen Säumnistatbestands: Indem der 5. Zivilsenat nur 5 Tage nach der Parteizustellung am 29.10.2026 einen Hinweisbeschluss nach § 522 Abs. 1 ZPO erließ und behauptete, Fichter habe keine Wiedereinsetzung beantragt, verfälschte das Gericht vorsätzlich den Verfahrensabl"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist",
+      "Befangenheit"
+     ],
+     "daten": [
+      "05.11.2026",
+      "28.01.2020",
+      "29.10.2026"
+     ],
+     "kontext": "enat nur 5 Tage nach der Parteizustellung am 29.10.2026 einen Hinweisbeschluss nach § 522 Abs. 1 ZPO erließ und behauptete, Fichter habe keine Wiedereinsetzung beantragt, verfälschte das Gericht vorsätzlich den Verfahrensablauf. Nach der gefestigten Rechtsprechung des Bundesgerichtshofs (BGH, Beschluss vom 28.01.2020 - VI ZB 23/20) ist die Partei bis zur formwirksamen Bekanntgabe der PKH-Entscheidung an ihren Anwalt unverschuldet an der Vertretung gehindert (§ 233 ZPO). Da die Bekanntgabe an RA Fichter unterblieben ist, hat die Berufungsfrist nie zu laufen begonnen. Il. PROZESSUALE KOLLUSION M"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist",
+      "Befangenheit",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "25.09.2026"
+     ],
+     "kontext": "kollegium und Beklagtenvertreter gegen die Befangenheitsrüge offenbart eine verfassungswidrige Kollusion (Judicial Capture) und zerstört jegliches Vertrauen in die Objektivität des Spruchkörpers. IV. RECHTSNORMEN- UND SUBSUMTIONSMATRIX DER GERICHTSVERFEHLUNGEN Rechtsnorm / Konkreter Tatbestand am OLG Frankfurt (5 U Prozessuale & Verfassungsrechtliche Grundrecht 81/26) Folge § 172 Abs. 1 ZPO Nichtzustellung des PKH-Beschlusses an Anwalt Zustellung unwirksam: kein Fristbeginn; (Zustellungszwang) Fichter trotz Bestellung am 25.09.2026. Schein-Säumnis. § 233 ZPO / BGH VI ZB Gehörsvereitelung durch"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Zustellung / Frist",
+      "Befangenheit"
+     ],
+     "daten": [],
+     "kontext": "NG (AFFIDAVIT UNDER OATH / 28 U.S.C. § 1746) Ich, Marco Paolo Heyd, versichere in meiner Eigenschaft als Geschäftsführer der Klägerin S.A.H. GmbH i.L. und als beim Bundesamt für Justiz staatlich registrierter Whistleblower (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679) an Eides statt und unter Berufung auf die strafrechtlichen Folgen einer falschen Versicherung, dass sämtliche in diesem Befangenheitsantrag v_MAX angegebenen Tatsachenbezüge bezüglich der unterbliebenen Zustellung an Rechtsanwalt Fichter und des Verfahrensablaufs der vollen Wahrheit entsprechen. Heilbronn / Frankfurt am Main, de"
+    },
+    {
+     "dokument": "Ergänzender Beweissubstanzvortrag .txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Nichtabhilfe / Verweigerung"
+     ],
+     "daten": [
+      "09.09.2026",
+      "16.07.2026",
+      "24.09.2026"
+     ],
+     "kontext": "mit steht fest, dass verfassungsrechtlicher Schutz ausschließlich durch den Verfassungsgerichtshof gewährt werden kann. 2. Systemischer Schutz verfassungswidriger Verfahrensakte: Die pauschale Ablehnung unter Berufung auf Art. 97 GG offenbart, dass der verfassungsrechtliche Notstand am OLG Stuttgart von der obersten Gerichtsleitung geduldet wird. Die nachgewiesene Falschbehauptung der fehlenden Anwaltsvertretung' im Beschluss vom 09.09.2026 (trotz OLG-Bestätigungsschreiben vom 16.07.2026 an RAe Fichter & Kollegen) bleibt ungeahndet. 3. Abschneiden künftigen Vorbringens: Die Ankündigung des OLG"
+    },
+    {
+     "dokument": "ErweiterteVerfassungsbeschwerde.txt",
+     "aktenzeichen": "5 U 81/26",
+     "handlungsklassen": [],
+     "daten": [
+      "04.11.2026",
+      "22.04.2026",
+      "29.10.2026"
+     ],
+     "kontext": "BUNDESVERFASSUNGSGERICHT — ERSTER SENAT | AZ. 1 BvR 2925/26 ERWEITERTE VERFASSUNGSBESCHWERDE & RECHTSGUTACHTEN a Tr N BUNDESVERFASSUNGSGERICHT — ERSTER SENAT EILANTRAG (8 32 BVerfGG) & INTEGRATION DES ESS Verfahrens-Aktenzeichen: 1 BvR 2925/26 (übertragen aus AR 6768/26 per 04.11.2026) Beschwerdeführerin: S.A.H. GmbH (in Liquidation), vertr. d. GF Marco Paolo Heyd Whistleblower-Reg.-ID (BfJ): 44f05e3b-4ed5-487f-8fe3-91e8ce858679 | BT-Pet. 210581 Prozessbevollmächtigte: Rechtsanwälte Fichter & Kollegen, Bahnhofstraße 7, 74072 Heilbronn (Gz. 178/26 F20 kf) Anfechtungsgegenstand: Hinweisbeschluss"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "OStA Krause (StA Heilbronn)",
+   "aliases": [
+    "Krause"
+   ],
+   "rolle": "staatsanwaltschaft",
+   "nennungen": 76,
+   "dokumente": 21,
+   "verfahren": 10,
+   "aktenzeichen": [
+    "552 Js 37220/26",
+    "7480 Js 252525/24",
+    "257 Js 31024/26",
+    "6 W 25/26",
+    "1021 Js 115878/26",
+    "552 Js 37220/25",
+    "3 O 57/26",
+    "6 W 32/26",
+    "6 U 59/26",
+    "1 K 9416/26"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 6,
+     "verfahren": [
+      "257 Js 31024/26",
+      "552 Js 37220/25"
+     ]
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "nennungen": 2,
+     "verfahren": [
+      "257 Js 31024/26",
+      "6 W 32/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "nennungen": 2,
+     "verfahren": [
+      "6 W 25/26",
+      "6 W 32/26"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 153 StGB (Aufklärungspflicht)"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 172 StPO (Ermittlungszweck)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 ZPO (richterliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 StPO (staatsanwaltschaftliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "Art. 103 Abs. 1 GG"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Abhilfeersuchen mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Zurückweisungsvermerk mit Begründung"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Befangenheitsantrag im Original mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Entscheidung über die Ablehnung (Urteil/Verfügung) im Original"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht (Akteneinsicht), Staatsanwaltschaft",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "Dienstaufsicht (§ 75 StPO) · Disziplinarverfahren §§ 66 ff. DLRG BW · Verfolgungspflichtverletzung (§ 152 II StGB, § 158 StPO) · Verjährung § 78 Abs. 1 Nr. 5 StGB",
+   "zeitachse": [
+    {
+     "datum": "30.06.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "18.10.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "31.12.2024",
+     "nennungen": 1
+    },
+    {
+     "datum": "05.04.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "22.04.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "06.05.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "16.07.2026",
+     "nennungen": 3
+    },
+    {
+     "datum": "04.09.2026",
+     "nennungen": 5
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "Diplomatic_Submission_Bagatz_2026-10-16.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "n apparatus continue to exhibit the exact structural patterns of institutional self-protection, procedural coercion, and denial of fundamental rights that historically characterized the National Socialist judicial machinery (\"Freisler's Heirs\"). Nothing of substance has changed regarding the state apparatus's inability and unwillingness to prosecute judicial crimes committed by its own bench. SUMMARY OF ATTACHED FORENSIC PROOFS & GBA FAILURE (FILE AR 1577/26) Forensic Focus Präsidium officials (Krause-Reul / Ehrler) admitted | GBA dismissed criminal charges via in writing (Oct 1, 2026) to with"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen"
+     ],
+     "daten": [],
+     "kontext": "ection 152(2) of the German Code of Criminal Procedure (§ 152 |! StPO) to shield corrupt judicial officers and creditor attorneys from criminal accountability. Under binding precedent of the German Federal Court of Justice (BGH, Judgment of Dec 22, 2020 - 1 StR 165/19), a prosecutor who consciously fails to investigate documented judicial malfeasance commits prosecutorial obstruction of justice in office (Section 258a StGB) and becomes personally liable as a co-conspirator. A. Public Prosecutor Krause (Staatsanwaltschaft Heilbronn — Docket Ref. 552 Js 37220/26): On October 22, 2026, Public Pro"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen"
+     ],
+     "daten": [],
+     "kontext": "nd creditor attorneys from criminal accountability. Under binding precedent of the German Federal Court of Justice (BGH, Judgment of Dec 22, 2020 - 1 StR 165/19), a prosecutor who consciously fails to investigate documented judicial malfeasance commits prosecutorial obstruction of justice in office (Section 258a StGB) and becomes personally liable as a co-conspirator. A. Public Prosecutor Krause (Staatsanwaltschaft Heilbronn — Docket Ref. 552 Js 37220/26): On October 22, 2026, Public Prosecutor Krause issued an official termination decree (Einstellungsverftigung, Ref. 552 Js 37220/26, Direct L"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen"
+     ],
+     "daten": [],
+     "kontext": "torial obstruction of justice in office (Section 258a StGB) and becomes personally liable as a co-conspirator. A. Public Prosecutor Krause (Staatsanwaltschaft Heilbronn — Docket Ref. 552 Js 37220/26): On October 22, 2026, Public Prosecutor Krause issued an official termination decree (Einstellungsverftigung, Ref. 552 Js 37220/26, Direct Line: +49 7131 6436551) in response to the formal criminal complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROS"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "1021 Js 115878/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "al complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROSECUTORS ICC oTP Page 1 of 4 x é === SEITE 2 === U.S. DOJ SUPPLEMENTARY EVIDENTIARY TRANSMISSION | MLARS & CCIFS REF: 12 0.5.C. $§ 1930, 1961 (RICO) investigation under § 152(2) StPO regarding Karwiese's commercial execution fraud (§ 263 StGB / StA Hannover Ref. 1021 Js 115878/26). Prosecutor Krause deliberately ignored the fact that Karwiese initiated a €1.78M account garnishment on an un-sig"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "anwaltschaft Frankfurt am Main — Docket Ref. 7480 Js 252525/24): Documented evidence establishes that Prosecutor Krumm received €45,000.00 in illicit payments fram CMA-CGM Securities BV and operated under a direct conflict of interest (his spouse being employed at Freshfields Brucknaus Deringer). On November 2, 2024, Krumm attempted to delete criminal file 7480 Js 252525/24, following a konspirative night meeting on October 22, 2024 (23:41 CET) with Notary Harald Münch. D, Regierungsdirektorin Krause-Reul (Federal Constitutional Court - BVerfG Ref. AR 6768/26): On October 1, 2026, Senior Regis"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "umm received €45,000.00 in illicit payments fram CMA-CGM Securities BV and operated under a direct conflict of interest (his spouse being employed at Freshfields Brucknaus Deringer). On November 2, 2024, Krumm attempted to delete criminal file 7480 Js 252525/24, following a konspirative night meeting on October 22, 2024 (23:41 CET) with Notary Harald Münch. D, Regierungsdirektorin Krause-Reul (Federal Constitutional Court - BVerfG Ref. AR 6768/26): On October 1, 2026, Senior Registry Official Krause-Reul issued an official written admission (Ref. AR 6768/26) stating: ‘Daher ist davon abgesehen"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "al file 7480 Js 252525/24, following a konspirative night meeting on October 22, 2024 (23:41 CET) with Notary Harald Münch. D, Regierungsdirektorin Krause-Reul (Federal Constitutional Court - BVerfG Ref. AR 6768/26): On October 1, 2026, Senior Registry Official Krause-Reul issued an official written admission (Ref. AR 6768/26) stating: ‘Daher ist davon abgesehen worden, eine richterliche Entscheidung herbeizuftihren.' ('Therefore, bringing about a judicial decision has been refrained from.’), Krause-Reul systematically isolated over 10 emergency stay petitions (§ 32 BVerfGG) in the General Reg"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/25",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "04.09.2026",
+      "22.10.2026"
+     ],
+     "kontext": "& PRIVILEGED | TRANSMITTED To U.S, FEDERAL PROSECUTORS & ICC OTP Page 2 of4 oe = === SEITE 3 === nn nn nn, the burden of proof. The State of Baden-Württemberg and enforcing actors carry absolute joint liability for the certified enterprise destruction baseline of €156,849,028.59 EUR. 3. Matrix of Implicated State Actors & Statutory Subsumption St DEE en innnsnnis Implicated Official / Official Capacity & Documented Unlawful Act Statutory & Criminal Entity Docket Subsumption Public Prosecutor Krause Staalsanwaltschaft Issued termination decree refusing to § 258a StGB (Obstruction) Heilbronn inv"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "257 Js 31024/26",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "01.10.2026",
+      "04.09.2026",
+      "19.10.2026"
+     ],
+     "kontext": "GB (Obstruction) Ref. 257 Js 31024/26 against Judge Dr, Haug and OLG judges 5339 StGB (Rechtsbeugung) (04.09.2026) wilhout file inspection BGH 1 SIR 165/19 Public Prosecutor Krumm Staatsanwaltschaft Accepted €45k bribe fram CMA-CGM: § 331/332 StGB (Bribary) Frankfurt a.M. attempted file deletion: konspirative § 258a StG8 (Odstruction) Ref. 7480 Js 252525/24 night meeting with Notary Münch 18 U.5.C. $ 201 /RiCO Regierungsdirektorin BVerfG Regisiry Written admission of withholding Art. 101(1)2 GG Krause-Reul Administration emergency stay petitions (§ 32 Art. 19(4) GG Ref. AR 6768126 BVeriGG) fro"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "RA Karwiese (Creditor Attorney)",
+   "aliases": [
+    "Karwiese"
+   ],
+   "rolle": "kanzlei",
+   "nennungen": 60,
+   "dokumente": 9,
+   "verfahren": 8,
+   "aktenzeichen": [
+    "1021 Js 115878/26",
+    "3 U 124/21",
+    "13 O 57/26",
+    "552 Js 37220/26",
+    "6 M 9219/26",
+    "6 W 25/26",
+    "3 O 57/26",
+    "552 Js 37220/25"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "nennungen": 10,
+     "verfahren": [
+      "1021 Js 115878/26",
+      "3 U 124/21",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "nennungen": 6,
+     "verfahren": [
+      "1021 Js 115878/26",
+      "3 U 124/21",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 5,
+     "verfahren": [
+      "552 Js 37220/25",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "nennungen": 4,
+     "verfahren": [
+      "3 U 124/21",
+      "6 W 25/26"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 802 ZPO (Kontopfändung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 120 ZPO (Vollstreckungsgrundsatz)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 123 ZPO (Zulässigkeit der Vollstreckung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 1 BGB (Amtshaftung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 2 S. 1 BGB (Judizprivileg, Vorbehalt der Straftat)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 152 Abs. 2 StGB"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 161 Abs. 2 StPO (Erschöpfung des Beweises)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 244 Abs. 2 StPO (Beweismittelverwertung)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 163 StPO"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 ZPO (richterliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 StPO (staatsanwaltschaftliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "Art. 103 Abs. 1 GG"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Pfändungs- und Überweisungsbeschluss im Original"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Titelvorlage der Gläubigerin mit Empfangsbeleg"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Kontoauszug/Kontoführung im Zeitraum der Sperre"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Vollstreckungsprotokoll"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Verwertungsakte (Beweismittelübersicht)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Sicherungsakte"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Befangenheitsantrag im Original mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Entscheidung über die Ablehnung (Urteil/Verfügung) im Original"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht (Akteneinsicht), Staatsanwaltschaft",
+    "Gericht/Fullziehungsamt (Akteneinsicht), Gläubigerin, Bank (auf Anordnung des Vollstreckungsgerichts)",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "—",
+   "zeitachse": [
+    {
+     "datum": "28.01.2014",
+     "nennungen": 2
+    },
+    {
+     "datum": "11.02.2014",
+     "nennungen": 1
+    },
+    {
+     "datum": "06.06.2018",
+     "nennungen": 1
+    },
+    {
+     "datum": "03.07.2019",
+     "nennungen": 1
+    },
+    {
+     "datum": "16.09.2021",
+     "nennungen": 1
+    },
+    {
+     "datum": "12.05.2022",
+     "nennungen": 3
+    },
+    {
+     "datum": "30.06.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "18.10.2023",
+     "nennungen": 1
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen"
+     ],
+     "daten": [],
+     "kontext": "cial malfeasance commits prosecutorial obstruction of justice in office (Section 258a StGB) and becomes personally liable as a co-conspirator. A. Public Prosecutor Krause (Staatsanwaltschaft Heilbronn — Docket Ref. 552 Js 37220/26): On October 22, 2026, Public Prosecutor Krause issued an official termination decree (Einstellungsverftigung, Ref. 552 Js 37220/26, Direct Line: +49 7131 6436551) in response to the formal criminal complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | "
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ungsverftigung, Ref. 552 Js 37220/26, Direct Line: +49 7131 6436551) in response to the formal criminal complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROSECUTORS ICC oTP Page 1 of 4 x é === SEITE 2 === U.S. DOJ SUPPLEMENTARY EVIDENTIARY TRANSMISSION | MLARS & CCIFS REF: 12 0.5.C. $§ 1930, 1961 (RICO) investigation under § 152(2) StPO regarding Karwiese's commercial execution fraud (§ 263 StGB / StA Hannover Ref. 1021 Js 115878/26). Prosecutor K"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "1021 Js 115878/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "gainst Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROSECUTORS ICC oTP Page 1 of 4 x é === SEITE 2 === U.S. DOJ SUPPLEMENTARY EVIDENTIARY TRANSMISSION | MLARS & CCIFS REF: 12 0.5.C. $§ 1930, 1961 (RICO) investigation under § 152(2) StPO regarding Karwiese's commercial execution fraud (§ 263 StGB / StA Hannover Ref. 1021 Js 115878/26). Prosecutor Krause deliberately ignored the fact that Karwiese initiated a €1.78M account garnishment on an un-signed null-judgment while actively concealin"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "3 O 57/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "lbronn Case | 3 O 57/26 on April 22, 2026) that was never physically signed by the judge on the court record. Under settled Federal Court of Justice precedent, a judgment lacking a judge's handwritten signature is a legally non-existent 'null-judgment' (Nicht-Titel from which no execution may be conducted. Court Clerk Wurst nevertheless issued an execution clause on August 27, 2026 (§ 339 StGB). B. Commercial Execution Fraud (§ 263 StGB / StA Hannover 1021 Js 115878/26): Creditor Attorney Bemd Karwiese (Hannover) obtained the garnishment order by fraudulently misleading the execution court and"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/25",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "04.09.2026",
+      "22.10.2026"
+     ],
+     "kontext": "of proof. The State of Baden-Württemberg and enforcing actors carry absolute joint liability for the certified enterprise destruction baseline of €156,849,028.59 EUR. 3. Matrix of Implicated State Actors & Statutory Subsumption St DEE en innnsnnis Implicated Official / Official Capacity & Documented Unlawful Act Statutory & Criminal Entity Docket Subsumption Public Prosecutor Krause Staalsanwaltschaft Issued termination decree refusing to § 258a StGB (Obstruction) Heilbronn investigate Attorney Karwiese for 18 0.8.0. § 1962(9) RICO Ref, 552 Js 37220/25 execution fraud on a null title 1B U.S.C."
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [
+      "19.10.2026"
+     ],
+     "kontext": "f Bailiff Office AG Heilbronn Executed absolute €1.78M account § 766 ZPO, § 339 StGB Murrweiß Ref. DR II 1833/26 garnishment on unsigned null title § 340 StGB (Official Harm) (19.10.2026) despite formal HinSchG notice, § 36 HinSchG Violations Rechtspflegerin Wurst & LG/ AG Heilbronn Wurst issued €33k cost title on § 317 ZPO, § 339 StGB Clerk Betz Ref.13.0 57/28/6M unfinalized null judgment; Betz issued § 263 StGB (Execution Fraud) 9219/26 €1.78M PfÜB on Oct 13, 2026. § 36 HinSchG Attorney Bernd Karwiese Law Firm Kanwiess, Initiated €1.78M garnishment on void § 263 StGB (Process Fraud) Hannover"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "nd the $2.3M FMC Penaity Order (May 2024). 5. Formal Prayers for Relief & International Enforcement Demands me The Submitter formally petitions the U.S. Department of Justice (MLARS / CCIPS), FBI Cyber Division. and the FMC to: 1, Formal RICO & CFAA Indictment: Designate Public Prosecutor Krause (StA Heilbronn), Senior Prosecutor Dr. Andreas Singer (StA Stuttgart), Prosecutor Krumm (StA Frankfurt), Regierungsdirektorin Krause-Reul (BVerfG), Bailiff Murrweiß, Clerk Fiona Betz, and Attorney Bernd Karwiese as active co-conspirators in the pending U.S. federal racketeering and wire fraud investiga"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "552 Js 37220/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen"
+     ],
+     "daten": [],
+     "kontext": "cial malfeasance commits prosecutorial obstruction of justice in office (Section 258a StGB) and becomes personally liable as a co-conspirator. A. Public Prosecutor Krause (Staatsanwaltschaft Heilbronn — Docket Ref. 552 Js 37220/26): On October 22, 2026, Public Prosecutor Krause issued an official termination decree (Einstellungsverftigung, Ref. 552 Js 37220/26, Direct Line: +49 7131 6436551) in response to the formal criminal complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | "
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "552 Js 37220/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ungsverftigung, Ref. 552 Js 37220/26, Direct Line: +49 7131 6436551) in response to the formal criminal complaint filed on September 22, 2026 against Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROSECUTORS ICC oTP Page 1 of 4 x é === SEITE 2 === U.S. DOJ SUPPLEMENTARY EVIDENTIARY TRANSMISSION | MLARS & CCIFS REF: 12 0.5.C. $§ 1930, 1961 (RICO) investigation under § 152(2) StPO regarding Karwiese's commercial execution fraud (§ 263 StGB / StA Hannover Ref. 1021 Js 115878/26). Prosecutor K"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "1021 Js 115878/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "gainst Creditor Attorney Bernd Karwiese (Hannover). Prosecutor Krause summarily refused to initiate an CONFIDEN NAL & PRIVILEGED | TRANSMITTED TO U.S. FEDERAL PROSECUTORS ICC oTP Page 1 of 4 x é === SEITE 2 === U.S. DOJ SUPPLEMENTARY EVIDENTIARY TRANSMISSION | MLARS & CCIFS REF: 12 0.5.C. $§ 1930, 1961 (RICO) investigation under § 152(2) StPO regarding Karwiese's commercial execution fraud (§ 263 StGB / StA Hannover Ref. 1021 Js 115878/26). Prosecutor Krause deliberately ignored the fact that Karwiese initiated a €1.78M account garnishment on an un-signed null-judgment while actively concealin"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)",
+   "aliases": [
+    "Haug"
+   ],
+   "rolle": "richter",
+   "nennungen": 55,
+   "dokumente": 19,
+   "verfahren": 11,
+   "aktenzeichen": [
+    "257 Js 31024/26",
+    "6 M 9219/26",
+    "3110 Js 101829/26",
+    "3 O 57/26",
+    "6 W 25/26",
+    "13 O 57/26",
+    "I 3 O 57/26",
+    "6 U 59/26",
+    "552 Js 37220/25",
+    "13 O 57/25",
+    "3 U 124/21"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 13,
+     "verfahren": [
+      "13 O 57/26",
+      "257 Js 31024/26",
+      "3 O 57/26",
+      "3110 Js 101829/26",
+      "552 Js 37220/25",
+      "6 M 9219/26",
+      "6 W 25/26",
+      "I 3 O 57/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "nennungen": 11,
+     "verfahren": [
+      "13 O 57/25",
+      "13 O 57/26",
+      "257 Js 31024/26",
+      "3 O 57/26",
+      "3110 Js 101829/26",
+      "6 M 9219/26",
+      "6 W 25/26",
+      "I 3 O 57/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "nennungen": 9,
+     "verfahren": [
+      "13 O 57/25",
+      "13 O 57/26",
+      "3 U 124/21",
+      "6 M 9219/26",
+      "6 W 25/26",
+      "I 3 O 57/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "nennungen": 8,
+     "verfahren": [
+      "257 Js 31024/26",
+      "3110 Js 101829/26",
+      "6 M 9219/26",
+      "I 3 O 57/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Einstellung der Ermittlungen",
+     "nennungen": 7,
+     "verfahren": [
+      "257 Js 31024/26",
+      "3110 Js 101829/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "nennungen": 5,
+     "verfahren": [
+      "3110 Js 101829/26",
+      "6 M 9219/26",
+      "I 3 O 57/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "nennungen": 2,
+     "verfahren": [
+      "3 U 124/21",
+      "6 W 25/26"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 317 ZPO (Form des Vollstreckungstitels)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 160 ZPO (Ausfertigung)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 130a ZPO (elektronische Aktenführung, qES)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "eIDAS-VO Art. 25/26/36 (qualifizierte Signatur)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 802 ZPO (Kontopfändung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 120 ZPO (Vollstreckungsgrundsatz)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 123 ZPO (Zulässigkeit der Vollstreckung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 1 BGB (Amtshaftung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 2 S. 1 BGB (Judizprivileg, Vorbehalt der Straftat)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 152 Abs. 2 StGB"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 161 Abs. 2 StPO (Erschöpfung des Beweises)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 244 Abs. 2 StPO (Beweismittelverwertung)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 163 StPO"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 153 StGB (Aufklärungspflicht)"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "norm": "§ 172 StPO (Ermittlungszweck)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 ZPO (richterliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 StPO (staatsanwaltschaftliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "Art. 103 Abs. 1 GG"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Signatur-/Zertifikatsprotokoll (Audit-Trail) der qES"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Originalausfertigung des Titels mit Unterschriftenblatt"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Pfändungs- und Überweisungsbeschluss im Original"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Titelvorlage der Gläubigerin mit Empfangsbeleg"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Kontoauszug/Kontoführung im Zeitraum der Sperre"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Vollstreckungsprotokoll"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Verwertungsakte (Beweismittelübersicht)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Sicherungsakte"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Abhilfeersuchen mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Nichtabhilfe / Verweigerung",
+     "fehlt": "Zurückweisungsvermerk mit Begründung"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Befangenheitsantrag im Original mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Entscheidung über die Ablehnung (Urteil/Verfügung) im Original"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht (Akteneinsicht), Staatsanwaltschaft",
+    "Gericht/Fullziehungsamt (Akteneinsicht), Gläubigerin, Bank (auf Anordnung des Vollstreckungsgerichts)",
+    "Rechtspfleger/Gericht (Akteneinsicht), Trustcenter (Zertifikatsvalidierung § 36 eIDAS-VO), BNetzA",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "Amtshaftung (§ 839 Abs. 1 BGB — Rechtspfleger nicht vom Spruchrichterprivileg erfasst, BGH VersR 02/97; Prüfungsmaßstab objektive Unvertretbarkeit) · Disziplinarverfahren §§ 66 ff. DLRG BW · bei Vorliegen einer Straftat Wegfall des Judizprivilegs (§ 839 Abs. 2 S. 1 BGB)",
+   "zeitachse": [
+    {
+     "datum": "11.03.2013",
+     "nennungen": 1
+    },
+    {
+     "datum": "18.01.2018",
+     "nennungen": 1
+    },
+    {
+     "datum": "30.06.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "18.10.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "14.05.2024",
+     "nennungen": 1
+    },
+    {
+     "datum": "20.11.2024",
+     "nennungen": 1
+    },
+    {
+     "datum": "31.12.2024",
+     "nennungen": 2
+    },
+    {
+     "datum": "16.07.2025",
+     "nennungen": 1
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "I 3 O 57/26",
+     "handlungsklassen": [
+      "Nichtabhilfe / Verweigerung",
+      "Unterschrift / Titelnachweis",
+      "Kontensperre / Vollstreckung",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": ") und der Generalstaatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 24 Zs 1610/26 - Staatsanwalt Geiger) werden als formelle Beweismittel in das Verfahren 2 BvR 2144/26 eingeführt. « Feststellung des Rechtsschutzversagens (*Denegatio Iustitiae*): Es wird festgestellt, dass die Verweigerung der Einleitung von Ermittlungsverfahren gemäß $ 152 Abs. 2 StPO wegen Rechtsbeugung (8 339 StGB) gegen Richter des Oberlandesgerichts Stuttgart (VRiOLG Dr. Oliver Mosthaf) und des Landgerichts Heilbronn (RiLG Haug) den Zirkelschluss der verfassungswidrigen Justizverweigerung vollendet. « Einstweilige Anordnung"
+    },
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "3110 Js 101829/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen",
+      "Nichtabhilfe / Verweigerung",
+      "Unterschrift / Titelnachweis",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": "ngungsverfahren / Strafvereitelung Senat im Amt in das allgemeine Verfahrensregister des II. Senats zur Entscheidung. Einstellungsverfügung 3 152 StA Stuttgart 30.10.2026 Verweigerung von Ermittlungen wegen II StPO 3110 Js 101829/26 OStA'in Arndt Rechtsbeugung ($ 339 StGB) betr. Entzug des Anzeigesache Dr. Oliver gesetzlichen Richters (6 W 25/26 & 6 W 32/26) Mosthaf am OLG Stuttgart. Beschwerdebescheid GenStA | GenStA Stuttgart 30.10.2026 Abschlägige Bescheidung der Beschwerde Anzeigesache RiLG Haug 24 Zs 1610/26 Staatsanwalt Geiger gegen die Einstellung der Strafanzeige wegen (StA HN 257 Js 3"
+    },
+    {
+     "dokument": "BVG_STA.txt",
+     "aktenzeichen": "257 Js 31024/26",
+     "handlungsklassen": [
+      "Unterschrift / Titelnachweis",
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "03.09.2026",
+      "16.09.2026",
+      "30.10.2026"
+     ],
+     "kontext": "ltin ; . Dieses Schreiben wurde elektronisch erstellt und enthält deshalb keine Unterschrift, wofür um Verständnis gebeten wird. === SEITE 4 === | Generalstaatsanwaltschaft Stuttgart Der Generalstaatsanwalt ‘ Generalstaatsanwaltschaft Stuttgart, Werastr. 23, . 70182 Stuttgart . . Datum 30.10.2026/woel Herrn Name Herr Geiger Marco Paolo Heyd . Römerstr. 70 Durchwahl Tel. 0711 212 2866 74078 Heilbronn Fax. 0711 212 2899 N Aktenzeichen 24 Zs 1610/26 (Bitte bei Antwort angeben) Strafanzeige gegen Haug wegen Rechtsbeugung Beschwerde vom 16.09.2026 gegen die Verfügung der Staatsanwaltschaft Heilbron"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "6 U 59/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "utor Krause deliberately ignored the fact that Karwiese initiated a €1.78M account garnishment on an un-signed null-judgment while actively concealing pending appeals before the Higher Regional Court (OLG Stuttgart 6 U 59/26). B. Senior Prosecutor Dr. Andreas Singer (Staatsanwaltschaft Stuttgart - Docket Ref. 257 Js 31024126): On September 4, 2026, Senior Prosecutor Dr. Andreas Singer issued a summary termination decree quashing criminal judicial corruption charges against Presiding Judge Dr. Haug (LG Heilbronn) and OLG Siuttgart judges. Dr. Singer invoked fictitious ‘judicial evaluation discr"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "6 M 9219/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947, issued by Court Clerk Fiona Betz on Oct 13, 2026) at VR Bank Heilbronn Schwäbisch Hall eG for the amount of €1,786,888.01 EUR. A. Absolute Title Nullity (§ 317 ZPO ! BGH NJW 2018, 1205): The garnishment was executed on the basis of a default judgment rendered by Presiding Judge Dr. Haug (LG Heilbronn Case | 3 O 57/26 on April 22, 2026) that was never physically signed by the judge o"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "552 Js 37220/25",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "04.09.2026",
+      "22.10.2026"
+     ],
+     "kontext": "Capacity & Documented Unlawful Act Statutory & Criminal Entity Docket Subsumption Public Prosecutor Krause Staalsanwaltschaft Issued termination decree refusing to § 258a StGB (Obstruction) Heilbronn investigate Attorney Karwiese for 18 0.8.0. § 1962(9) RICO Ref, 552 Js 37220/25 execution fraud on a null title 1B U.S.C. § 1519 (22.10.2026) LStA Dr. Andreas Singer Staatsanwaltschaft Stuttgart Quashed judicial corruption complaints § 258a StGB (Obstruction) Ref. 257 Js 31024/26 against Judge Dr, Haug and OLG judges 5339 StGB (Rechtsbeugung) (04.09.2026) wilhout file inspection BGH 1 SIR 165/19 P"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": ". Operation Black Vault (April 22, 2026): On April 22, 2026 at 14:03:12 CEST, an unauthorized remote cyber-attack was executed directly from judicial workstation LG-HN-V-13-ADMIN (Landgericht Heilbronn) against the U.S. Google Cloud infrastructure hosting account sahgreenki@gmail.com (Google Security Alert ID: GL-8842-FRANKFURT). At 14:18 CEST, official e-balance tax files (EGVP_EBILANZ_2024.xml proving €657,028.59 liquid inventory) were remotely deleted from court databases, allowing Judge Dr. Haug to issue an unsigned default judgment at 15:02 CEST under false insolvency premises. B. U.S. St"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "6 U 59/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "utor Krause deliberately ignored the fact that Karwiese initiated a €1.78M account garnishment on an un-signed null-judgment while actively concealing pending appeals before the Higher Regional Court (OLG Stuttgart 6 U 59/26). B. Senior Prosecutor Dr. Andreas Singer (Staatsanwaltschaft Stuttgart - Docket Ref. 257 Js 31024126): On September 4, 2026, Senior Prosecutor Dr. Andreas Singer issued a summary termination decree quashing criminal judicial corruption charges against Presiding Judge Dr. Haug (LG Heilbronn) and OLG Siuttgart judges. Dr. Singer invoked fictitious ‘judicial evaluation discr"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "6 M 9219/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947, issued by Court Clerk Fiona Betz on Oct 13, 2026) at VR Bank Heilbronn Schwäbisch Hall eG for the amount of €1,786,888.01 EUR. A. Absolute Title Nullity (§ 317 ZPO ! BGH NJW 2018, 1205): The garnishment was executed on the basis of a default judgment rendered by Presiding Judge Dr. Haug (LG Heilbronn Case | 3 O 57/26 on April 22, 2026) that was never physically signed by the judge o"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "552 Js 37220/25",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "04.09.2026",
+      "22.10.2026"
+     ],
+     "kontext": "Capacity & Documented Unlawful Act Statutory & Criminal Entity Docket Subsumption Public Prosecutor Krause Staalsanwaltschaft Issued termination decree refusing to § 258a StGB (Obstruction) Heilbronn investigate Attorney Karwiese for 18 0.8.0. § 1962(9) RICO Ref, 552 Js 37220/25 execution fraud on a null title 1B U.S.C. § 1519 (22.10.2026) LStA Dr. Andreas Singer Staatsanwaltschaft Stuttgart Quashed judicial corruption complaints § 258a StGB (Obstruction) Ref. 257 Js 31024/26 against Judge Dr, Haug and OLG judges 5339 StGB (Rechtsbeugung) (04.09.2026) wilhout file inspection BGH 1 SIR 165/19 P"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "Hans Freisler (historisch, OLG-Präsident 1933-1943)",
+   "aliases": [
+    "Freisler"
+   ],
+   "rolle": "sonstige",
+   "nennungen": 51,
+   "dokumente": 11,
+   "verfahren": 1,
+   "aktenzeichen": [
+    "6 W 25/26"
+   ],
+   "muster": [],
+   "normen": [],
+   "beweisluecken": [],
+   "zustaendiges_amt": [],
+   "exponierung": "—",
+   "zeitachse": [
+    {
+     "datum": "09.10.2026",
+     "nennungen": 1
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "Diplomatic_Submission_Bagatz_2026-10-16.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "tural failure, systemic incompetence, and state complicity of the highest German prosecution authority—the Federal Prosecutor General (Generalbundesanwalt - GBA) in Karlsruhe. This dossier provides undeniable proof that the contemporary German judiciary and state prosecution apparatus continue to exhibit the exact structural patterns of institutional self-protection, procedural coercion, and denial of fundamental rights that historically characterized the National Socialist judicial machinery (\"Freisler's Heirs\"). Nothing of substance has changed regarding the state apparatus's inability and u"
+    },
+    {
+     "dokument": "Diplomatic_Submission_Bagatz_2026-10-16.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ossier_Generalbundesanwalt_AR1577_26.pdf into Bagatz Universal Jurisdiction Archives. * 2. Recognition of Domestic Breakdown: Note and record the unassailable evidence of total domestic legal breakdown and state-sanctioned impunity for judicial crimes in the Federal Republic of Germany. * 3. International Judicial Notification: Transmit these findings to the International Association of Judges (IAJ), the European Court of Human Rights (ECtHR), and UN Special Rapporteurs as evidence of systemic 'Freisler's Heirs’ continuity. « 4. Protective Directives: Issue international observer directives re"
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "rical-Legal Investigation into Modern German Judicial Misconduct LEGAL WARNING & DIPLOMATIC NOTICE: This dossier presents immutable forensic, cryptographic, and documentary evidence detailing the systemic collapse of judicial oversight and constitutional guarantees in the State of Baden-Württemberg, Germany. It provides a comparative legal analysis demonstrating how modern judicial institutions replicate the structural arbitrary mechanics of Nazi-era show trials (*Volksgerichtshof* under Roland Freisler) under the guise of technocratic procedural formalism. | Target Case & Jurisdiction: S.A.H."
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "nwaltschaft Stuttgart Cryptographic Integrity Hash: SHA256 Qualified Electronic Signature Audit Certificates (Sept 10, 2026) Author & Submitting Entity: S.A.H, GmbH (represented by CEO Marco Paolo Heyd) / KISWARM Network és P cy E£E eR Submitted to: ICC Press Gallery, EPPO, UN Special Rapporteur, ECtHR & Global Investigative Media Date: October 2026 === SEITE 02 === FREISLER'S HEIRS: GERMAN JUDICIAL CORRUPTION DOSSIER GLOBAL LEGAL DOSSIER & EVIDENCE TABLE OF CONTENTS eee 1. Executive Summary: Freisler's Heirs in Modern Robes Page 3 2. Historical Profile: Dr. Roland Freisler & The Volksgerichts"
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ronic Signature Audit Certificates (Sept 10, 2026) Author & Submitting Entity: S.A.H, GmbH (represented by CEO Marco Paolo Heyd) / KISWARM Network és P cy E£E eR Submitted to: ICC Press Gallery, EPPO, UN Special Rapporteur, ECtHR & Global Investigative Media Date: October 2026 === SEITE 02 === FREISLER'S HEIRS: GERMAN JUDICIAL CORRUPTION DOSSIER GLOBAL LEGAL DOSSIER & EVIDENCE TABLE OF CONTENTS eee 1. Executive Summary: Freisler's Heirs in Modern Robes Page 3 2. Historical Profile: Dr. Roland Freisler & The Volksgerichtshof Paradigm Page 5 3. Technocratic Coercion (Formular-Despotismus): 1933 "
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "l continuity: the systemic inversion of judicial independence (*Art. 97 GG*) into absolute personal impunity for judicial perpetrators. This dossier exposes a documented case of state-level judicial corruption and procedural perversion in Baden-Württemberg. It demonstrates how modern senior judges at the Higher Regional Court (OLG Stuttgart) and regional district courts (LG Heilbronn), supported by public prosecutors, systematically deploy the exact structural mechanics pioneered by Dr. Roland Freisler during the National Socialist dictatorship. While Freisler operated through screaming overt "
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ce (*Art. 97 GG*) into absolute personal impunity for judicial perpetrators. This dossier exposes a documented case of state-level judicial corruption and procedural perversion in Baden-Württemberg. It demonstrates how modern senior judges at the Higher Regional Court (OLG Stuttgart) and regional district courts (LG Heilbronn), supported by public prosecutors, systematically deploy the exact structural mechanics pioneered by Dr. Roland Freisler during the National Socialist dictatorship. While Freisler operated through screaming overt aggression, his modern successors operate through Technocra"
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "al conflict of interest and committing abuse of office (*Parteienverrat § 356 StGB*) by defending the state against civil claims arising from the very judicial crimes it refused to investigate. CONFIDENTIAL / INTERNATIONAL LEGAL & HUMAN RIGHTS OBSERVATION Page 3 === SEITE 04 === FREISLER'S HEIRS: GERMAN JUDICIAL CORRUPTION DOSSIER GLOBAL LEGAL DOSSIER & EVIDENCE ——— nn eS ee BE ER TERESNGE CHAPTER 2: HISTORICAL PROFILE: DR. ROLAND FREISLER & THE VOLKSGERICHTSHOF PARADIGM nn nn Dr. Karl Roland Freisler (October 30, 1893 - February 3, 1945) stands as the historical embodiment of perverted justic"
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "S HEIRS: GERMAN JUDICIAL CORRUPTION DOSSIER GLOBAL LEGAL DOSSIER & EVIDENCE ——— nn eS ee BE ER TERESNGE CHAPTER 2: HISTORICAL PROFILE: DR. ROLAND FREISLER & THE VOLKSGERICHTSHOF PARADIGM nn nn Dr. Karl Roland Freisler (October 30, 1893 - February 3, 1945) stands as the historical embodiment of perverted justice. As State Secretary in the Reich Ministry of Justice, participant in the 1942 Wannsee Conference, and President of the Volksgerichtshof (People's Court) from August 1942 until his death, Freisler was responsible for approximately 2,600 judicial murders, including the show trials of the "
+    },
+    {
+     "dokument": "FreislersHeirs.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "r 30, 1893 - February 3, 1945) stands as the historical embodiment of perverted justice. As State Secretary in the Reich Ministry of Justice, participant in the 1942 Wannsee Conference, and President of the Volksgerichtshof (People's Court) from August 1942 until his death, Freisler was responsible for approximately 2,600 judicial murders, including the show trials of the White Rose resistance (Sophie Scholl, Hans Scholl) and the July 20 anti-Hitler conspirators. While popular memory focuses on Freisler's theatrical rage and verbal humiliation of defendants, juridical analysis demonstrates tha"
+    }
+   ],
+   "status": "NO_PATTERN_IN_CORPUS"
+  },
+  {
+   "person": "GV Murrweiß (AG Heilbronn)",
+   "aliases": [
+    "Murrweiß"
+   ],
+   "rolle": "richter",
+   "nennungen": 27,
+   "dokumente": 11,
+   "verfahren": 7,
+   "aktenzeichen": [
+    "6 M 9219/26",
+    "7480 Js 252525/24",
+    "6 W 25/26",
+    "1021 Js 115878/26",
+    "1021 Js 115378/26",
+    "8 M 9219/26",
+    "3 O 57/26"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "nennungen": 6,
+     "verfahren": [
+      "3 O 57/26",
+      "6 M 9219/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "nennungen": 4,
+     "verfahren": [
+      "1021 Js 115378/26",
+      "3 O 57/26",
+      "6 M 9219/26",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 4,
+     "verfahren": [
+      "1021 Js 115378/26",
+      "6 M 9219/26",
+      "6 W 25/26",
+      "8 M 9219/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "nennungen": 3,
+     "verfahren": [
+      "1021 Js 115378/26",
+      "6 W 25/26",
+      "8 M 9219/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "nennungen": 2,
+     "verfahren": [
+      "1021 Js 115378/26",
+      "8 M 9219/26"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 317 ZPO (Form des Vollstreckungstitels)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 160 ZPO (Ausfertigung)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 130a ZPO (elektronische Aktenführung, qES)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "eIDAS-VO Art. 25/26/36 (qualifizierte Signatur)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 802 ZPO (Kontopfändung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 120 ZPO (Vollstreckungsgrundsatz)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 123 ZPO (Zulässigkeit der Vollstreckung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 1 BGB (Amtshaftung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 2 S. 1 BGB (Judizprivileg, Vorbehalt der Straftat)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 188 ZPO (Zustellung)"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 31 StGB (Fristbeginn)"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 222 ZPO (Bekanntgabe)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 152 Abs. 2 StGB"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 161 Abs. 2 StPO (Erschöpfung des Beweises)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 244 Abs. 2 StPO (Beweismittelverwertung)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 163 StPO"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Signatur-/Zertifikatsprotokoll (Audit-Trail) der qES"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Originalausfertigung des Titels mit Unterschriftenblatt"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Pfändungs- und Überweisungsbeschluss im Original"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Titelvorlage der Gläubigerin mit Empfangsbeleg"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Kontoauszug/Kontoführung im Zeitraum der Sperre"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Vollstreckungsprotokoll"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "fehlt": "Zustellungsnachweis"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "fehlt": "Fristberechnung/Aktenvermerk der Eingangsbuchung"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Verwertungsakte (Beweismittelübersicht)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Sicherungsakte"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht/Fullziehungsamt (Akteneinsicht), Gläubigerin, Bank (auf Anordnung des Vollstreckungsgerichts)",
+    "Gericht/Schreibamt (Akteneinsicht), Rechtspflege",
+    "Rechtspfleger/Gericht (Akteneinsicht), Trustcenter (Zertifikatsvalidierung § 36 eIDAS-VO), BNetzA",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "Amtshaftung (§ 839 Abs. 1 BGB — Rechtspfleger nicht vom Spruchrichterprivileg erfasst, BGH VersR 02/97; Prüfungsmaßstab objektive Unvertretbarkeit) · Disziplinarverfahren §§ 66 ff. DLRG BW · bei Vorliegen einer Straftat Wegfall des Judizprivilegs (§ 839 Abs. 2 S. 1 BGB)",
+   "zeitachse": [
+    {
+     "datum": "24.10.2025",
+     "nennungen": 1
+    },
+    {
+     "datum": "22.04.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "05.06.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "27.08.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "09.09.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "10.09.2026",
+     "nennungen": 2
+    },
+    {
+     "datum": "01.10.2026",
+     "nennungen": 2
+    },
+    {
+     "datum": "06.10.2026",
+     "nennungen": 1
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "6 M 9219/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "decision has been refrained from.’), Krause-Reul systematically isolated over 10 emergency stay petitions (§ 32 BVerfGG) in the General Register, withholding them from Constitutional Judges to ensure that unconstitutional executions proceeded unhindered while scheduling record destruction under § 35b BVerfGG. 2. Execution Breakdown: The €1.78M Absolute Garnishment on a Non-Existent Title On October 19, 2026, the judicial collapse culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment o"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [
+      "01.10.2026",
+      "19.10.2026"
+     ],
+     "kontext": "t a.M. attempted file deletion: konspirative § 258a StG8 (Odstruction) Ref. 7480 Js 252525/24 night meeting with Notary Münch 18 U.5.C. $ 201 /RiCO Regierungsdirektorin BVerfG Regisiry Written admission of withholding Art. 101(1)2 GG Krause-Reul Administration emergency stay petitions (§ 32 Art. 19(4) GG Ref. AR 6768126 BVeriGG) from Constitutional Judges. § 2582 SIGB / § 339 StGB (01.10.2026) Enforcement Bailiff Bailiff Office AG Heilbronn Executed absolute €1.78M account § 766 ZPO, § 339 StGB Murrweiß Ref. DR II 1833/26 garnishment on unsigned null title § 340 StGB (Official Harm) (19.10.202"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "sung Electronics America complaint (Oct 2026) and the $2.3M FMC Penaity Order (May 2024). 5. Formal Prayers for Relief & International Enforcement Demands me The Submitter formally petitions the U.S. Department of Justice (MLARS / CCIPS), FBI Cyber Division. and the FMC to: 1, Formal RICO & CFAA Indictment: Designate Public Prosecutor Krause (StA Heilbronn), Senior Prosecutor Dr. Andreas Singer (StA Stuttgart), Prosecutor Krumm (StA Frankfurt), Regierungsdirektorin Krause-Reul (BVerfG), Bailiff Murrweiß, Clerk Fiona Betz, and Attorney Bernd Karwiese as active co-conspirators in the pending U.S"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "6 M 9219/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "decision has been refrained from.’), Krause-Reul systematically isolated over 10 emergency stay petitions (§ 32 BVerfGG) in the General Register, withholding them from Constitutional Judges to ensure that unconstitutional executions proceeded unhindered while scheduling record destruction under § 35b BVerfGG. 2. Execution Breakdown: The €1.78M Absolute Garnishment on a Non-Existent Title On October 19, 2026, the judicial collapse culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment o"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [
+      "01.10.2026",
+      "19.10.2026"
+     ],
+     "kontext": "t a.M. attempted file deletion: konspirative § 258a StG8 (Odstruction) Ref. 7480 Js 252525/24 night meeting with Notary Münch 18 U.5.C. $ 201 /RiCO Regierungsdirektorin BVerfG Regisiry Written admission of withholding Art. 101(1)2 GG Krause-Reul Administration emergency stay petitions (§ 32 Art. 19(4) GG Ref. AR 6768126 BVeriGG) from Constitutional Judges. § 2582 SIGB / § 339 StGB (01.10.2026) Enforcement Bailiff Bailiff Office AG Heilbronn Executed absolute €1.78M account § 766 ZPO, § 339 StGB Murrweiß Ref. DR II 1833/26 garnishment on unsigned null title § 340 StGB (Official Harm) (19.10.202"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "sung Electronics America complaint (Oct 2026) and the $2.3M FMC Penaity Order (May 2024). 5. Formal Prayers for Relief & International Enforcement Demands me The Submitter formally petitions the U.S. Department of Justice (MLARS / CCIPS), FBI Cyber Division. and the FMC to: 1, Formal RICO & CFAA Indictment: Designate Public Prosecutor Krause (StA Heilbronn), Senior Prosecutor Dr. Andreas Singer (StA Stuttgart), Prosecutor Krumm (StA Frankfurt), Regierungsdirektorin Krause-Reul (BVerfG), Bailiff Murrweiß, Clerk Fiona Betz, and Attorney Bernd Karwiese as active co-conspirators in the pending U.S"
+    },
+    {
+     "dokument": "ErweiterteVerfassungsbeschwerde.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [
+      "Zustellung / Frist",
+      "Kontensperre / Vollstreckung",
+      "Befangenheit",
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "04.11.2026",
+      "05.06.2026",
+      "07.11.2026",
+      "09.09.2026",
+      "19.10.2026",
+      "29.10.2026"
+     ],
+     "kontext": "VRiLG Dr. Az.130 57/26 Haug. E-Bilanz 2024 ignoriert. 05.06.2026 EPPO Luxemburg Anklageerhebung wegen gewerbsmäßigen Betrugs & Rechtsbeugung. Beantragung PP.00997_2026_DE der Zivilaussetzung (8 149 ZPO). 09.09.2026 OLG Stuttgart Selbstentscheidung abgelehnter Richter (Mosthaf/Kapp) über eigene Befangenheit Az. 6 W 25/26 entgegen Art. 10112 GG (elDAS Audit Log). 19.10.2026 AG Heilbronn / VR Bank Vollzug der Exzess-Kontensperre über 1,78 Mio. € auf Basis des Nicht-Titels durch Az. 6 M 9219/26 GV Murrweiß. Totaler Liquiditätsstopp. 29.10.2026 OLG Frankfurt a.M. Hinweisbeschluss nach 8 522 ZPO zur"
+    },
+    {
+     "dokument": "FORM_JS-44.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "=== SEITE 1 === CIVIL COVER SHEET (FORM JS-44) — PRO SE DOCKET PACKAGE EEE 1. PLAINTIFFS & DEFENDANTS PLAINTIFF: DEFENDANTS (12 CO-CONSPIRATOR NODES): MARCO PAOLO HEYD 1. Moritz Oppelt (Minister of Justice BW) Individual & State-Registered Whistleblower 2. Jan Murrweiß (Bailiff, AG Heilbronn) (Federal Ministry of Justice BfJ-ID: 3. VR Bank Heilbronn eG Executive Board 44f05e3b-4ed5-487f-8fe3-91e8ce858679) 4. Kreissparkasse Heilbronn Petitions Lead, German Bundestag (Pet. Reg. 210581) 5. RA Bernd Karwiese & Kleeberg Römerstraße 70, 74078 Heilbronn, Germany 6. Alexander Caspary & Melmac Ventures"
+    },
+    {
+     "dokument": "FORM_JS-44_1.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "=== SEITE 1 === CIVIL COVER SHEET (FORM JS-44) — PRO SE DOCKET PACKAGE EEE 1. PLAINTIFFS & DEFENDANTS PLAINTIFF: DEFENDANTS (12 CO-CONSPIRATOR NODES): MARCO PAOLO HEYD 1. Moritz Oppelt (Minister of Justice BW) Individual & State-Registered Whistleblower 2. Jan Murrweiß (Bailiff, AG Heilbronn) (Federal Ministry of Justice BfJ-ID: 3. VR Bank Heilbronn eG Executive Board 44f05e3b-4ed5-487f-8fe3-91e8ce858679) 4. Kreissparkasse Heilbronn Petitions Lead, German Bundestag (Pet. Reg. 210581) 5. RA Bernd Karwiese & Kleeberg Römerstraße 70, 74078 Heilbronn, Germany 6. Alexander Caspary & Melmac Ventures"
+    },
+    {
+     "dokument": "ForensicIndictment.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [],
+     "daten": [
+      "10.09.2026"
+     ],
+     "kontext": "g Judge Willoughby. Dr. Civil & Criminal Firewall: OLG Frankfurt enforces illegal demurrage OLG & StA Frankfurt Nordmeier, Dr, Otto (OLG); titles; SLA Krumm accepted €45% bribe from CMA-CGM Securities BY StA Krumm (StA Frankfurt): and attempted file deletion (Ref. 7480 Js 252525724); GStA Höra OStAin Héra (GS#A Frankfurt) blocked state liability claims. Node BW-1 (Baden-Württ) Judge Dr. Haug, Rpfl. Wurst, Rpfl, Asset-Stripping Engine: Issued 214 machine-generated void LG Heilbronn Betz, Bailiff Murrweiß judgments lacking signatures ($ 317 ZPO); executed €1.78M account garnishment on VR Bank He"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "OStA Krumm (StA Frankfurt)",
+   "aliases": [
+    "Krumm"
+   ],
+   "rolle": "staatsanwaltschaft",
+   "nennungen": 25,
+   "dokumente": 4,
+   "verfahren": 6,
+   "aktenzeichen": [
+    "7480 Js 252525/24",
+    "5 U 61/26",
+    "5 U 81/26",
+    "552 Js 37220/25",
+    "02 O 79/24",
+    "5 U 81/28"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 3,
+     "verfahren": [
+      "552 Js 37220/25",
+      "7480 Js 252525/24"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "Dienstaufsicht (§ 75 StPO) · Disziplinarverfahren §§ 66 ff. DLRG BW · Verfolgungspflichtverletzung (§ 152 II StGB, § 158 StPO) · Verjährung § 78 Abs. 1 Nr. 5 StGB",
+   "zeitachse": [
+    {
+     "datum": "22.10.2024",
+     "nennungen": 2
+    },
+    {
+     "datum": "04.09.2026",
+     "nennungen": 2
+    },
+    {
+     "datum": "01.10.2026",
+     "nennungen": 2
+    },
+    {
+     "datum": "22.10.2026",
+     "nennungen": 2
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "02 O 79/24",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "l against LG Frankfurt 3-02 O 79/24) COMPLAINANT S.A.H. GmbH (in liquidation), represented by Managing Director Marco Paolo Heyd BiJ Whistleblower ID: 44{05e3b-4ed5-487f-8fe3-91e8ce858679 (HinSchG / EU 2019/1937) Bundestag Petition: Reg. No. 210531 (Whistleblower Retaliation Case) CRIMINAL 1. QCS Quick Cargo Service GmbH (Logistics Entity / Excessive Demurrage Claimant) CO-CONSPIRATORS 2. Arnecke Sibeth Dabelstein (Defense Counsel / Ex-Parte Information Recipient) 3. Senior Public Prosecutor Krumm (Public Prosecutor's Office Frankfurt, Ref. 7480 Js 252525/24) 4. Notary Harald Münch (Frankfurt "
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "kfurt am Main (Node HE-1) Within the transnational criminal architecture investigated under European Public Prosecutor's Office (EPPO) Docket Ref. PP.00997_2026 DE and U.S. DOJ Racketeer Influenced and Corrupt Organizations Act (RICO) frameworks, the Higher Regional Court (OLG) Frankfurt am Main—specifically its 5th Civil Senate—functions as a vital domestic protective barrier (‘Procedural Shield’). Operating in concert with the Public Prosecutor's Office in Frankfurt am Main (Senior Prosecutor Krumm, Ref. 7480 Js 252525/24) and regional freight forwarders (QCS Quick Cargo Service GmbH), the 5"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "5 U 61/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "cheme (‘Operation Seshandel'). By refusing to stay proceedings, the 5th Civil Senate actively shielded ithe ongoing criminal enterprise from judicial exposure. = Se - Mr 2 Ze é = Ref: OLG Frankfurt 5 U 61/26 | EPPO PP.00997_2026_DE | 13 U.S.C. § 1981 RICO Page $ of 15 === SEITE 07 === INTERNATIONAL LEGAL INDICTMENT: OLG FRANKFURT AM MAIN [5 U 31125) CONFIGDENTIAL /U.5. DOJ &ICC SUBMISSION CHAPTER IV: THE PROSECUTORIAL COLLUSION NODE — STA FRANKFURT & NIGHT MEETING 4.1 Senior Public Prosecutor Krumm's Bribery & File Deletion Attempt The judicial capture of the Frankfurt legal forum extends dire"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "5 U 61/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ankfurt 5 U 61/26 | EPPO PP.00997_2026_DE | 13 U.S.C. § 1981 RICO Page $ of 15 === SEITE 07 === INTERNATIONAL LEGAL INDICTMENT: OLG FRANKFURT AM MAIN [5 U 31125) CONFIGDENTIAL /U.5. DOJ &ICC SUBMISSION CHAPTER IV: THE PROSECUTORIAL COLLUSION NODE — STA FRANKFURT & NIGHT MEETING 4.1 Senior Public Prosecutor Krumm's Bribery & File Deletion Attempt The judicial capture of the Frankfurt legal forum extends directly into the Public Prosecutor's Office in Frankfurt am Main. Senior Public Prosecutor Krumm, who was assigned to investigate commercial logistics fraud under Docket 7480 Js 252525/24, was "
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "V: THE PROSECUTORIAL COLLUSION NODE — STA FRANKFURT & NIGHT MEETING 4.1 Senior Public Prosecutor Krumm's Bribery & File Deletion Attempt The judicial capture of the Frankfurt legal forum extends directly into the Public Prosecutor's Office in Frankfurt am Main. Senior Public Prosecutor Krumm, who was assigned to investigate commercial logistics fraud under Docket 7480 Js 252525/24, was corrupted by offshore financial transfers. Forensic intelligence confirms that on November 2, 2024, Prosecutor Krumm received an illicit transfer of €45,000.00 EUR originating from CMA-CGM Securities BV (routed "
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "capture of the Frankfurt legal forum extends directly into the Public Prosecutor's Office in Frankfurt am Main. Senior Public Prosecutor Krumm, who was assigned to investigate commercial logistics fraud under Docket 7480 Js 252525/24, was corrupted by offshore financial transfers. Forensic intelligence confirms that on November 2, 2024, Prosecutor Krumm received an illicit transfer of €45,000.00 EUR originating from CMA-CGM Securities BV (routed via Belgian intermediary accounts). In exchange, Krumm initiated an unauthorized system command to erase electronic file 7480 Js 252525/24 from the ce"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [
+      "22.10.2024"
+     ],
+     "kontext": "mber 2, 2024, Prosecutor Krumm received an illicit transfer of €45,000.00 EUR originating from CMA-CGM Securities BV (routed via Belgian intermediary accounts). In exchange, Krumm initiated an unauthorized system command to erase electronic file 7480 Js 252525/24 from the central Hessian judicial database. 4.2 The Conspiratorial Night Meeting of October 22, 2024 (23:41 CET) Telecommunications location data and IMEI tracking logs capture a conspiratorial meeting between Senior Public Prosecutor Krumm and Frankfurt Public Notary Harald Münch on October 22, 2024, at 23:41 CET in Frankfurt am Main"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "7480 Js 252525/24",
+     "handlungsklassen": [],
+     "daten": [
+      "22.10.2024"
+     ],
+     "kontext": "n intermediary accounts). In exchange, Krumm initiated an unauthorized system command to erase electronic file 7480 Js 252525/24 from the central Hessian judicial database. 4.2 The Conspiratorial Night Meeting of October 22, 2024 (23:41 CET) Telecommunications location data and IMEI tracking logs capture a conspiratorial meeting between Senior Public Prosecutor Krumm and Frankfurt Public Notary Harald Münch on October 22, 2024, at 23:41 CET in Frankfurt am Main: Forensic Parameter | Prosecutor Krumm (StA | Notary Harald Munch Conspiratorial Objective Frankfurt) (Frankfurt) Device IMEI 49-01567"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "C SUBMISSION ih chsh eer eA hh hk ite An tk sehe tk Beda ieh 4.3 Suppression of Extortionate Warehouse Lien Threat Investigations Following the conspiratorial night meeting, Notary Harald Munch issued formal notices threatening the immediate public auction and lien sale of S.A.H. GmbH'’s proprietary battery autarky prototypes held at QCS’s Frankfurt warehouse facility. When the Complainant filed urgent criminal charges documenting that the lien was legally void under Section 440 HGB, Prosecutor Krumm issued a summary refusal to investigate, explicitly concealing the pending EPPO indictment and"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "5 U 81/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "hreatening the immediate public auction and lien sale of S.A.H. GmbH'’s proprietary battery autarky prototypes held at QCS’s Frankfurt warehouse facility. When the Complainant filed urgent criminal charges documenting that the lien was legally void under Section 440 HGB, Prosecutor Krumm issued a summary refusal to investigate, explicitly concealing the pending EPPO indictment and blocking all criminal discovery. RICO PREDICTE ACT (18 U.S.C. § 1961): The coordinated actions of Senior Prosecutor Krumm, Notary Harald Munch, QCS Quick Cargo Service GmbH, and the 5th Civil Senate of OLG Frankfurt "
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "OStAin Geiger (GStA Stuttgart)",
+   "aliases": [
+    "Geiger"
+   ],
+   "rolle": "staatsanwaltschaft",
+   "nennungen": 22,
+   "dokumente": 5,
+   "verfahren": 6,
+   "aktenzeichen": [
+    "3110 Js 101829/26",
+    "6 W 25/26",
+    "13 O 57/26",
+    "257 Js 31024/26",
+    "6 M 9219/26",
+    "3 O 57/26"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "nennungen": 9,
+     "verfahren": [
+      "13 O 57/26",
+      "257 Js 31024/26",
+      "3110 Js 101829/26",
+      "6 W 25/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Einstellung der Ermittlungen",
+     "nennungen": 9,
+     "verfahren": [
+      "13 O 57/26",
+      "257 Js 31024/26",
+      "3110 Js 101829/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "nennungen": 7,
+     "verfahren": [
+      "13 O 57/26",
+      "257 Js 31024/26",
+      "3 O 57/26",
+      "3110 Js 101829/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "nennungen": 6,
+     "verfahren": [
+      "257 Js 31024/26",
+      "3110 Js 101829/26",
+      "6 M 9219/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "nennungen": 4,
+     "verfahren": [
+      "257 Js 31024/26",
+      "3110 Js 101829/26",
+      "6 M 9219/26"
+     ]
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "nennungen": 4,
+     "verfahren": [
+      "13 O 57/26",
+      "3 O 57/26",
+      "6 M 9219/26"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "§ 339 StGB (Rechtsbeugung)"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 317 ZPO (Form des Vollstreckungstitels)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 160 ZPO (Ausfertigung)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "§ 130a ZPO (elektronische Aktenführung, qES)"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "norm": "eIDAS-VO Art. 25/26/36 (qualifizierte Signatur)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 152 Abs. 2 StGB"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 161 Abs. 2 StPO (Erschöpfung des Beweises)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 244 Abs. 2 StPO (Beweismittelverwertung)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 163 StPO"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 188 ZPO (Zustellung)"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 31 StGB (Fristbeginn)"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "norm": "§ 222 ZPO (Bekanntgabe)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 802 ZPO (Kontopfändung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 120 ZPO (Vollstreckungsgrundsatz)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 123 ZPO (Zulässigkeit der Vollstreckung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 1 BGB (Amtshaftung)"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "norm": "§ 839 Abs. 2 S. 1 BGB (Judizprivileg, Vorbehalt der Straftat)"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "zugrunde liegende Urkunde mit Ausfertigungsmerkmalen"
+    },
+    {
+     "handlungsklasse": "Rechtsbeugung",
+     "fehlt": "Kenntnisnachweis (Zustellung/Zugang) zum Zeitpunkt der Entscheidung"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Signatur-/Zertifikatsprotokoll (Audit-Trail) der qES"
+    },
+    {
+     "handlungsklasse": "Unterschrift / Titelnachweis",
+     "fehlt": "Originalausfertigung des Titels mit Unterschriftenblatt"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Verwertungsakte (Beweismittelübersicht)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Sicherungsakte"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "fehlt": "Zustellungsnachweis"
+    },
+    {
+     "handlungsklasse": "Zustellung / Frist",
+     "fehlt": "Fristberechnung/Aktenvermerk der Eingangsbuchung"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Pfändungs- und Überweisungsbeschluss im Original"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Titelvorlage der Gläubigerin mit Empfangsbeleg"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Kontoauszug/Kontoführung im Zeitraum der Sperre"
+    },
+    {
+     "handlungsklasse": "Kontensperre / Vollstreckung",
+     "fehlt": "Vollstreckungsprotokoll"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht/Fullziehungsamt (Akteneinsicht), Gläubigerin, Bank (auf Anordnung des Vollstreckungsgerichts)",
+    "Gericht/Schreibamt (Akteneinsicht), Rechtspflege",
+    "Rechtspfleger/Gericht (Akteneinsicht), Trustcenter (Zertifikatsvalidierung § 36 eIDAS-VO), BNetzA",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO, Gericht (als Tatortbeweis)"
+   ],
+   "exponierung": "Dienstaufsicht (§ 75 StPO) · Disziplinarverfahren §§ 66 ff. DLRG BW · Verfolgungspflichtverletzung (§ 152 II StGB, § 158 StPO) · Verjährung § 78 Abs. 1 Nr. 5 StGB",
+   "zeitachse": [
+    {
+     "datum": "22.12.2020",
+     "nennungen": 1
+    },
+    {
+     "datum": "30.06.2023",
+     "nennungen": 1
+    },
+    {
+     "datum": "14.05.2024",
+     "nennungen": 2
+    },
+    {
+     "datum": "05.04.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "22.04.2026",
+     "nennungen": 4
+    },
+    {
+     "datum": "06.05.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "16.07.2026",
+     "nennungen": 4
+    },
+    {
+     "datum": "03.09.2026",
+     "nennungen": 1
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "3110 Js 101829/26",
+     "handlungsklassen": [
+      "Nichtabhilfe / Verweigerung",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": "lgende Anträge: se f E46 EL A Vertraulicher Justiz- & Verfassungs-Schriftsatz | Eilbedürftige Vorlage gemäß 8 32 BVerf66 Seite 1 BUNDESVERFASSUNGSGERICHT — SCHRIFTSATZERWEITERUNG (AZ. 2 BvR 2144/26 & 1 BvR 2925/26) re siehst sales: ae ee te: ° Beiziehung und Beizug der amtlichen Dokumente: Die Verfügungen der Staatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 3110 Js 101829/26 — Oberstaatsanwältin Arndt) und der Generalstaatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 24 Zs 1610/26 - Staatsanwalt Geiger) werden als formelle Beweismittel in das Verfahren 2 BvR 2144/26 eingeführt. « Feststellung de"
+    },
+    {
+     "dokument": "1_BvR_292526_Erster_Senat.txt",
+     "aktenzeichen": "3110 Js 101829/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen",
+      "Nichtabhilfe / Verweigerung",
+      "Unterschrift / Titelnachweis",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": "ng Senat im Amt in das allgemeine Verfahrensregister des II. Senats zur Entscheidung. Einstellungsverfügung 3 152 StA Stuttgart 30.10.2026 Verweigerung von Ermittlungen wegen II StPO 3110 Js 101829/26 OStA'in Arndt Rechtsbeugung ($ 339 StGB) betr. Entzug des Anzeigesache Dr. Oliver gesetzlichen Richters (6 W 25/26 & 6 W 32/26) Mosthaf am OLG Stuttgart. Beschwerdebescheid GenStA | GenStA Stuttgart 30.10.2026 Abschlägige Bescheidung der Beschwerde Anzeigesache RiLG Haug 24 Zs 1610/26 Staatsanwalt Geiger gegen die Einstellung der Strafanzeige wegen (StA HN 257 Js 31024/26) Rechtsbeugung beim unun"
+    },
+    {
+     "dokument": "BVG_STA.txt",
+     "aktenzeichen": "257 Js 31024/26",
+     "handlungsklassen": [
+      "Unterschrift / Titelnachweis",
+      "Zustellung / Frist",
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "03.09.2026",
+      "16.09.2026",
+      "30.10.2026"
+     ],
+     "kontext": "chaft Stuttgart erheben. Die Beschwerde kann innerhalb dieser Frist auch bei der Staatsanwaltschaft Stuttgart eingelegt werden. Mit freundlichen Grüßen : gez. Arndt Oberstaatsanwaltin ; . Dieses Schreiben wurde elektronisch erstellt und enthält deshalb keine Unterschrift, wofür um Verständnis gebeten wird. === SEITE 4 === | Generalstaatsanwaltschaft Stuttgart Der Generalstaatsanwalt ‘ Generalstaatsanwaltschaft Stuttgart, Werastr. 23, . 70182 Stuttgart . . Datum 30.10.2026/woel Herrn Name Herr Geiger Marco Paolo Heyd . Römerstr. 70 Durchwahl Tel. 0711 212 2866 74078 Heilbronn Fax. 0711 212 2899"
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "aktenzeichen": "3110 Js 101829/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": "Justizministerium Baden-Württemberg (z. Hd. Minister Moritz Oppelt) Verfahrens- & Notifikationsparameter | Amtliche Register & Aktenzeichen Beschwerdeführerin & Whistleblowerin: | S.A.H. GmbH i.L., vertr. d. GF Marco Paolo Heyd, Römerstr. 70, 74078 Heilbronn Staatlich registrierter Whistleblower (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679) Petitionsführer Deutscher Bundestag (Pet.-Reg. 210581) Angefochtener Bescheid: Generalstaatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 24 Zs 1610/26, StA Geiger) Verknüpft mit Einstellungsverfügung StA Stuttgart vom 30.10.2026 (Az. 3110 Js 101829/26) BVerf"
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "aktenzeichen": "257 Js 31024/26",
+     "handlungsklassen": [
+      "Einstellung der Ermittlungen",
+      "Zustellung / Frist",
+      "Rechtsbeugung",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "30.10.2026"
+     ],
+     "kontext": "berlandesgericht Stuttgart Dr. Oliver Mosthaf, Presiding Judge Dr. Haug (LG Heilbronn) sowie Staatsanwalt Jäger wegen des Verdachts der Rechtsbeugung (§ 339 StGB) und der Strafvereitelung im Amt (8 258a StGB) legt die Anzeigestattende und Beschwerdeführerin hiermit binnen der gesetzlichen Frist ab Zugang formell BESCHWERDE, GEGENVORSTELLUNG & REMONSTRATION gegen den Bescheid der Generalstaatsanwaltschaft Stuttgart vom 30. Oktober 2026 (Az. 24 Zs 1610/26, gezeichnet von Erster Staatsanwalt Geiger) ein. °e 1. Den Bescheid der Generalstaatsanwaltschaft Stuttgart vom 30.10.2026 (Az. 24 Zs 1610/26)"
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "aktenzeichen": "6 M 9219/26",
+     "handlungsklassen": [
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [
+      "22.04.2026",
+      "30.10.2026"
+     ],
+     "kontext": "6 / AG Heilbronn Az. 6 M 9219/26) sowie die Freigabe des gesperrten Geschäftskontos bei der VR Bank Heilbronn eG gemäß $ 36 HinSchG unter Beachtung der gesetzlichen Beweislastumkehr anzuordnen. » 4. Die Beiziehung sämmtlicher Handakten zur Übermittlung an das Bundesverfassungsgericht zu den Hauptregisterverfahren Az. 2 BvR 2144/26 und Az. 1 BvR 2925/26 zu veranlassen. 2. Begründung I: Vorsätzliche Deckung des formell nichtigen Schein-Urteils (LG Heilbronn Az. 13 O 57/26) Erster Staatsanwalt Geiger behauptet im angefochtenen Bescheid vom 30.10.2026 (Az. 24 Zs 1610/26) wahrheitswidrig, dass kein"
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "aktenzeichen": "3 O 57/26",
+     "handlungsklassen": [
+      "Unterschrift / Titelnachweis",
+      "Kontensperre / Vollstreckung"
+     ],
+     "daten": [
+      "16.07.2026",
+      "22.04.2026",
+      "30.06.2023"
+     ],
+     "kontext": "h § 317 ZPO (BGH NJW 2018, 1205): Das Versäumnisurteil des Landgerichts Heilbronn vom 22.04.2026 (Az. | 3 O 57/26, Richter Dr. Haug) trägt im gerichtlichen Originalakt keine eigenhändige richterliche Unterschrift. Nach gefestigter BGH-Rechtsprechung handelt es sich um einen rechtlich nicht existenten Nicht-Titel (Nicht-Urteil). Eine Vollstreckung hieraus (AG Heilbronn Az. 6 M 9219/26 über 1.786.888,01 EUR) ist rechtswidrig per se. » Ununterbrochene Anhängigkeit beim OLG Stuttgart: Staatsanwalt Geiger ignoriert vorsätzlich, dass das Berufungs- und Beschwerdeverfahren (Az. 6 W 25/26, 6 W 32/26, "
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "09.09.2026",
+      "14.05.2024"
+     ],
+     "kontext": "die 1.622.488,71 EUR an Gesamtvermögen sowie 657.028,59 EUR an betrieblichem Vorrat für das Steuerungssystem »Green Safe House« (Serial No. 1) ausweist. . Tatvorsatz des Insider-Aufsichtsrats Caspary: Alexander Caspary ist seit dem 14.05.2024 eingetragenes Aufsichtsratsmitglied der T.C.S. S.A. Gemäß § 111 AktG trifft ihn die zwingende Einsichtspflicht in die Bilanzen. Das Behaupten einer Privatnutzung wider besseres Wissen begründet seinen direkten Prozessbetrugsvorsatz (8 263 StGB), den StA Geiger wissentlich schützt. 3. Begründung Il: Vorsätzliche Abdeckung der Grundrechtsverletzung (Art. 10"
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [
+      "Rechtsbeugung"
+     ],
+     "daten": [
+      "09.09.2026",
+      "14.05.2024",
+      "16.07.2026"
+     ],
+     "kontext": "No. 1) ausweist. . Tatvorsatz des Insider-Aufsichtsrats Caspary: Alexander Caspary ist seit dem 14.05.2024 eingetragenes Aufsichtsratsmitglied der T.C.S. S.A. Gemäß § 111 AktG trifft ihn die zwingende Einsichtspflicht in die Bilanzen. Das Behaupten einer Privatnutzung wider besseres Wissen begründet seinen direkten Prozessbetrugsvorsatz (8 263 StGB), den StA Geiger wissentlich schützt. 3. Begründung Il: Vorsätzliche Abdeckung der Grundrechtsverletzung (Art. 101 Abs. 1 S. 2 GG) Staatsanwalt Geiger wies die Beschwerden gegen die Vorwürfe der Rechtsbeugung (8 339 StGB) gegen VRiOLG Dr. Oliver Mos"
+    },
+    {
+     "dokument": "GENERALSTAATSANWALTSCHAFT_STUTTGART_AZ._24_ZS.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [
+      "Befangenheit"
+     ],
+     "daten": [
+      "09.09.2026",
+      "10.09.2026",
+      "16.07.2026"
+     ],
+     "kontext": "sen vom 09.09.2026 (Az. 6 W 25/26) behauptete VRIOLG Dr. Mosthaf wahrheitswidrig, der Beschwerdeführerin fehle die ordnungsgemäße Anwaltsvertretung (§ 78 ZPO). Er unterschlug, dass das OLG Stuttgart selbst am 16.07.2026 unter Gz. 178/26 F20 kf die Bestellung der Kanzlei Fichter & Kollegen schriftlich bestätigt hatte. Whistleblower BiJ-ID: 44f05e3b-4ed5-487f-8fe3-9128ce858679 | Pet.-Reg. 210581 Ps x EL a Seite 2 === SEITE 3 === » Abdeckung der Selbstentscheidung (Nemo iudex in causa sua): StA Geiger deckte ab, dass VRIOLG Dr. Mosthaf und RiOLG Kapp am 09.09.2026 das gegen sie persönlich gericht"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  },
+  {
+   "person": "Rpfl. Betz (AG Heilbronn)",
+   "aliases": [
+    "Betz"
+   ],
+   "rolle": "richter",
+   "nennungen": 17,
+   "dokumente": 7,
+   "verfahren": 3,
+   "aktenzeichen": [
+    "6 M 9219/26",
+    "3 O 57/26",
+    "6 W 25/26"
+   ],
+   "muster": [],
+   "normen": [],
+   "beweisluecken": [],
+   "zustaendiges_amt": [],
+   "exponierung": "Amtshaftung (§ 839 Abs. 1 BGB — Rechtspfleger nicht vom Spruchrichterprivileg erfasst, BGH VersR 02/97; Prüfungsmaßstab objektive Unvertretbarkeit) · Disziplinarverfahren §§ 66 ff. DLRG BW · bei Vorliegen einer Straftat Wegfall des Judizprivilegs (§ 839 Abs. 2 S. 1 BGB)",
+   "zeitachse": [
+    {
+     "datum": "10.09.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "01.10.2026",
+     "nennungen": 4
+    },
+    {
+     "datum": "19.10.2026",
+     "nennungen": 4
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": "6 M 9219/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "nal Judges to ensure that unconstitutional executions proceeded unhindered while scheduling record destruction under § 35b BVerfGG. 2. Execution Breakdown: The €1.78M Absolute Garnishment on a Non-Existent Title On October 19, 2026, the judicial collapse culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947, issued by Court Clerk Fiona Betz on Oct 13, 2026) at VR Bank Heilbronn Schwäbisch Hall eG for the amount of €1,786,888.01 EUR. A. "
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [
+      "01.10.2026",
+      "19.10.2026"
+     ],
+     "kontext": "n emergency stay petitions (§ 32 Art. 19(4) GG Ref. AR 6768126 BVeriGG) from Constitutional Judges. § 2582 SIGB / § 339 StGB (01.10.2026) Enforcement Bailiff Bailiff Office AG Heilbronn Executed absolute €1.78M account § 766 ZPO, § 339 StGB Murrweiß Ref. DR II 1833/26 garnishment on unsigned null title § 340 StGB (Official Harm) (19.10.2026) despite formal HinSchG notice, § 36 HinSchG Violations Rechtspflegerin Wurst & LG/ AG Heilbronn Wurst issued €33k cost title on § 317 ZPO, § 339 StGB Clerk Betz Ref.13.0 57/28/6M unfinalized null judgment; Betz issued § 263 StGB (Execution Fraud) 9219/26 €"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [
+      "01.10.2026",
+      "19.10.2026"
+     ],
+     "kontext": ". AR 6768126 BVeriGG) from Constitutional Judges. § 2582 SIGB / § 339 StGB (01.10.2026) Enforcement Bailiff Bailiff Office AG Heilbronn Executed absolute €1.78M account § 766 ZPO, § 339 StGB Murrweiß Ref. DR II 1833/26 garnishment on unsigned null title § 340 StGB (Official Harm) (19.10.2026) despite formal HinSchG notice, § 36 HinSchG Violations Rechtspflegerin Wurst & LG/ AG Heilbronn Wurst issued €33k cost title on § 317 ZPO, § 339 StGB Clerk Betz Ref.13.0 57/28/6M unfinalized null judgment; Betz issued § 263 StGB (Execution Fraud) 9219/26 €1.78M PfÜB on Oct 13, 2026. § 36 HinSchG Attorney "
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ca complaint (Oct 2026) and the $2.3M FMC Penaity Order (May 2024). 5. Formal Prayers for Relief & International Enforcement Demands me The Submitter formally petitions the U.S. Department of Justice (MLARS / CCIPS), FBI Cyber Division. and the FMC to: 1, Formal RICO & CFAA Indictment: Designate Public Prosecutor Krause (StA Heilbronn), Senior Prosecutor Dr. Andreas Singer (StA Stuttgart), Prosecutor Krumm (StA Frankfurt), Regierungsdirektorin Krause-Reul (BVerfG), Bailiff Murrweiß, Clerk Fiona Betz, and Attorney Bernd Karwiese as active co-conspirators in the pending U.S. federal racketeering"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": "6 M 9219/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "nal Judges to ensure that unconstitutional executions proceeded unhindered while scheduling record destruction under § 35b BVerfGG. 2. Execution Breakdown: The €1.78M Absolute Garnishment on a Non-Existent Title On October 19, 2026, the judicial collapse culminated in an absolute execution crisis. Enforcement Bailiff Murrweiß (Bailiff Office AG Heilbronn, Ref. DR II 1833/26) executed a total bank account garnishment order (PfÜB Ref. 6 M 9219/26 / ProDok-Ref. 57947, issued by Court Clerk Fiona Betz on Oct 13, 2026) at VR Bank Heilbronn Schwäbisch Hall eG for the amount of €1,786,888.01 EUR. A. "
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [
+      "01.10.2026",
+      "19.10.2026"
+     ],
+     "kontext": "n emergency stay petitions (§ 32 Art. 19(4) GG Ref. AR 6768126 BVeriGG) from Constitutional Judges. § 2582 SIGB / § 339 StGB (01.10.2026) Enforcement Bailiff Bailiff Office AG Heilbronn Executed absolute €1.78M account § 766 ZPO, § 339 StGB Murrweiß Ref. DR II 1833/26 garnishment on unsigned null title § 340 StGB (Official Harm) (19.10.2026) despite formal HinSchG notice, § 36 HinSchG Violations Rechtspflegerin Wurst & LG/ AG Heilbronn Wurst issued €33k cost title on § 317 ZPO, § 339 StGB Clerk Betz Ref.13.0 57/28/6M unfinalized null judgment; Betz issued § 263 StGB (Execution Fraud) 9219/26 €"
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [
+      "01.10.2026",
+      "19.10.2026"
+     ],
+     "kontext": ". AR 6768126 BVeriGG) from Constitutional Judges. § 2582 SIGB / § 339 StGB (01.10.2026) Enforcement Bailiff Bailiff Office AG Heilbronn Executed absolute €1.78M account § 766 ZPO, § 339 StGB Murrweiß Ref. DR II 1833/26 garnishment on unsigned null title § 340 StGB (Official Harm) (19.10.2026) despite formal HinSchG notice, § 36 HinSchG Violations Rechtspflegerin Wurst & LG/ AG Heilbronn Wurst issued €33k cost title on § 317 ZPO, § 339 StGB Clerk Betz Ref.13.0 57/28/6M unfinalized null judgment; Betz issued § 263 StGB (Execution Fraud) 9219/26 €1.78M PfÜB on Oct 13, 2026. § 36 HinSchG Attorney "
+    },
+    {
+     "dokument": "ENFORCEMENT_COMPLICITY_1.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ca complaint (Oct 2026) and the $2.3M FMC Penaity Order (May 2024). 5. Formal Prayers for Relief & International Enforcement Demands me The Submitter formally petitions the U.S. Department of Justice (MLARS / CCIPS), FBI Cyber Division. and the FMC to: 1, Formal RICO & CFAA Indictment: Designate Public Prosecutor Krause (StA Heilbronn), Senior Prosecutor Dr. Andreas Singer (StA Stuttgart), Prosecutor Krumm (StA Frankfurt), Regierungsdirektorin Krause-Reul (BVerfG), Bailiff Murrweiß, Clerk Fiona Betz, and Attorney Bernd Karwiese as active co-conspirators in the pending U.S. federal racketeering"
+    },
+    {
+     "dokument": "ForensicIndictment.txt",
+     "aktenzeichen": "6 W 25/26",
+     "handlungsklassen": [],
+     "daten": [
+      "10.09.2026"
+     ],
+     "kontext": "esse) Presiding Judge Willoughby. Dr. Civil & Criminal Firewall: OLG Frankfurt enforces illegal demurrage OLG & StA Frankfurt Nordmeier, Dr, Otto (OLG); titles; SLA Krumm accepted €45% bribe from CMA-CGM Securities BY StA Krumm (StA Frankfurt): and attempted file deletion (Ref. 7480 Js 252525724); GStA Höra OStAin Héra (GS#A Frankfurt) blocked state liability claims. Node BW-1 (Baden-Württ) Judge Dr. Haug, Rpfl. Wurst, Rpfl, Asset-Stripping Engine: Issued 214 machine-generated void LG Heilbronn Betz, Bailiff Murrweiß judgments lacking signatures ($ 317 ZPO); executed €1.78M account garnishment"
+    },
+    {
+     "dokument": "USAnklage_BFG.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "f the Federal Rules of Civil Procedure, the following underlying evidence dossiers are formally bound as sworn court exhibits and integrated into this Complaint for all purposes: Primary Document Title Originating Authority & Evidentiary Function Date EXHIBIT A BVerfG Letter AR 6768/26 Admission BVerfG Registry (Oct 1, 2026) Written confession of withholding emergency filings from judges. EXHIBIT B 35-Page Bailiff Murrweiß Indictment AG Heilbronn / SDNY Filing Un-signed execution order (Rpfl'in Betz blank line / BGH NJW 2018. 1205) EXHIBIT C 25-Page Minister Oppelt Indictment Stuttgart / SDNY "
+    }
+   ],
+   "status": "NO_PATTERN_IN_CORPUS"
+  },
+  {
+   "person": "RA Arnecke Sibeth Dabelstein",
+   "aliases": [
+    "Arnecke",
+    "Dabelstein"
+   ],
+   "rolle": "kanzlei",
+   "nennungen": 11,
+   "dokumente": 6,
+   "verfahren": 3,
+   "aktenzeichen": [
+    "5 U 81/26",
+    "2 BYR 2144/26",
+    "7 AR 20/24"
+   ],
+   "muster": [
+    {
+     "handlungsklasse": "Befangenheit",
+     "nennungen": 4,
+     "verfahren": [
+      "2 BYR 2144/26",
+      "5 U 81/26",
+      "7 AR 20/24"
+     ]
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "nennungen": 2,
+     "verfahren": [
+      "2 BYR 2144/26",
+      "7 AR 20/24"
+     ]
+    }
+   ],
+   "normen": [
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 ZPO (richterliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "§ 45 StPO (staatsanwaltschaftliche Befangenheit)"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "norm": "Art. 103 Abs. 1 GG"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 152 Abs. 2 StGB"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 161 Abs. 2 StPO (Erschöpfung des Beweises)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 244 Abs. 2 StPO (Beweismittelverwertung)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "norm": "§ 163 StPO"
+    }
+   ],
+   "beweisluecken": [
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Befangenheitsantrag im Original mit Eingangsstempel"
+    },
+    {
+     "handlungsklasse": "Befangenheit",
+     "fehlt": "Entscheidung über die Ablehnung (Urteil/Verfügung) im Original"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Verwertungsakte (Beweismittelübersicht)"
+    },
+    {
+     "handlungsklasse": "Ermittlungsverfahren / Verwertung",
+     "fehlt": "Sicherungsakte"
+    }
+   ],
+   "zustaendiges_amt": [
+    "Gericht (Akteneinsicht), Staatsanwaltschaft",
+    "Staatsanwaltschaft, Generalstaatsanwaltschaft, EPPO"
+   ],
+   "exponierung": "—",
+   "zeitachse": [
+    {
+     "datum": "06.07.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "05.11.2026",
+     "nennungen": 1
+    },
+    {
+     "datum": "09.11.2026",
+     "nennungen": 2
+    }
+   ],
+   "aktenlage_belege": [
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": "2 BYR 2144/26",
+     "handlungsklassen": [
+      "Befangenheit",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [],
+     "kontext": "MAX BVERFG AZ. 1 BvR 2925/26 & 2 BYR 2144/26 OBERLANDESGERICHT FRANKFURT AM MAIN — Geschäftsstelle des 5. Zivilsenats / Vertretungssenat — Zeil 42, 60313 Frankfurt am Main GEMÄSS § 42 ZPO 1.V.M. ART. 101 ABS. 1 S. 2 GG, ART. 103 ABS. 1 GG UND § 36 HINSCHG Verfahren / Aktenzeichen: OLG Frankfurt am Main — Az. 5 U 81/26 (Vorinstanz: LG Frankfurt am Main Az. 3-02 O 79/24) Antragstellerin / Parteien: S.A.H. GmbH i.L., vertr. d. GF Marco Paolo Heyd ./. QCS Quick Cargo Service GmbH (vertr. d. Kanzlei Arnecke Sibeth Dabelstein / RA Vyvers) Whistleblower & BVerfG BfJ Whistleblower-ID: 44f05e3b-4ed5-48"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": "7 AR 20/24",
+     "handlungsklassen": [
+      "Zustellung / Frist",
+      "Befangenheit",
+      "Ermittlungsverfahren / Verwertung"
+     ],
+     "daten": [],
+     "kontext": "s: 2925/26 & 2 BvR 2144/26 Parallel-Ermittlungen: EPPO Ref. PP.00997_2026_DE | GenStA Frankfurt 7 AR 20/24 | US Civil RICO Demand: $470,55 Mio. USD DRINGENDE FORMELLE ERKLÄRUNG: Gegen die Richter des 5. Zivilsenats (VorsRi'inOLG Willoughby, RiOLG Dr. Nordmeier, RiOLG Dr. Otto) wird hiermit wegen unheilbarer Besorgnis der Befangenheit (§ 42 ZPO), vorsätzlicher Zustellungsvereitelung (§ 172 ZPO), systematischer Gehörsvereitelung (Art. 103 | GG), kollusiver Parteinahme mit der Beklagtenvertretung (Arnecke Sibeth Dabelstein) und Missachtung bindender BGH-Rechtsprechung (BGH VI ZB 23/20) der Erneue"
+    },
+    {
+     "dokument": "Befangenheitsr_geOLG2.txt",
+     "aktenzeichen": "5 U 81/26",
+     "handlungsklassen": [
+      "Befangenheit"
+     ],
+     "daten": [
+      "05.11.2026",
+      "09.11.2026"
+     ],
+     "kontext": "IT DER BEKLAGTENVERTRETUNG (ARNECKE SIBETH DABELSTEIN) Ein weiterer unanfechtbarer Beleg für die Zerstörung der richterlichen Unparteilichkeit ergibt sich aus dem Verfahrensablauf nach Einreichung des ersten Befangenheitsgesuchs: 1. Abgabe dienstlicher Erklärungen (05.11.2026): Die abgelehnten Richter Willoughby, Dr. Nordmeier und Dr. Otto gaben am 05.11.2026 dienstliche Erklärungen ab. 2. Ex-Parte-Einbindung der Gegenseite (09.11.2026): Mit Schriftsatz vom 09.11.2026 reichte RA Vyvers (Kanzlei Arnecke Sibeth Dabelstein) im Namen der Beklagten QCS Quick Cargo Service GmbH eine Stellungnahme ei"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "5 U 81/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "ed Judges: Presiding Judge Willoughby, Judge Dr. Nordmeier, Judge Dr. Otto Docket Number: 5 U 81/26 (Appeal against LG Frankfurt 3-02 O 79/24) COMPLAINANT S.A.H. GmbH (in liquidation), represented by Managing Director Marco Paolo Heyd BiJ Whistleblower ID: 44{05e3b-4ed5-487f-8fe3-91e8ce858679 (HinSchG / EU 2019/1937) Bundestag Petition: Reg. No. 210531 (Whistleblower Retaliation Case) CRIMINAL 1. QCS Quick Cargo Service GmbH (Logistics Entity / Excessive Demurrage Claimant) CO-CONSPIRATORS 2. Arnecke Sibeth Dabelstein (Defense Counsel / Ex-Parte Information Recipient) 3. Senior Public Prosecut"
+    },
+    {
+     "dokument": "CriminalCompliantOLGFrankfurt_2_.txt",
+     "aktenzeichen": "5 U 81/26",
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "G § 522(1) ZPO Notice Order Fabricated summary dismissal Final blockade of appeal 2.4 Ex-Parte Information Leakage & Equality of Arms Violation Forensic inspection of court communication logs reveals a severe breach of judicial neutrality and equality of arms (Waffengleichheit) under Article 3(1) GG. On multiple occasions, internal court drafts and unserved interlocutory decisions of the Sth Civil Senate were leaked ex-parte to defense counsel representing QCS Quick Cargo Service GmbH (Law Firm Arnecke Sibeth Dabelstein, Lead Attorney Carsten Vyvers). This advance knowledge allowed the corpora"
+    },
+    {
+     "dokument": "USFMCComplianteingereicht.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "rfolk, VA 23502. » CMA CGM Securities B.V.: An offshore treasury, financial intermediary, and billing entity operating in Belgium, the Netherlands, and Colombia, utilized by CMA CGM S.A. to route unearned demurrage revenues outside direct corporate invoicing channels. 5. Respondent Local Logistics & Legal Proxies: * QCS Quick Cargo Service GmbH: Freight forwarder and logistics proxy acting on behalf of CMA CGM S.A. at Kurhessenstraße 3, D-64546 Mörfelden-Walldorf / Frankfurt am Main, Germany. * Arnecke Sibeth Dabelstein Rechtsanwälte: Legal counsel representing QCS and CMA CGM at Hamburger All"
+    },
+    {
+     "dokument": "USFMCComplianteingereicht.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "rder (dated Sept 15, 2026) from Attorney Fichter. On Oct 24, 2026, the court executed an invalid direct mailing to the unrepresented party. * Fabricated Default (§ 522 ZPO): On October 29, 2026, the Senate issued a dismissal hint order under § 522 ZPO, falsely alleging a procedural default. This violated binding federal law (BGH VI ZB 23/20) and breached the court's own written assurance of July 6, 2026. » Ex-Parte Protective Filings: On November 5 & 9, 2026, opposing counsel RA Carsten Vyvers (Arnecke Sibeth Dabelstein) submitted unrequested ex-parte filings acting as a protective shield for "
+    },
+    {
+     "dokument": "USFMCComplianteingereicht_1.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "rfolk, VA 23502. » CMA CGM Securities B.V.: An offshore treasury, financial intermediary, and billing entity operating in Belgium, the Netherlands, and Colombia, utilized by CMA CGM S.A. to route unearned demurrage revenues outside direct corporate invoicing channels. 5. Respondent Local Logistics & Legal Proxies: * QCS Quick Cargo Service GmbH: Freight forwarder and logistics proxy acting on behalf of CMA CGM S.A. at Kurhessenstraße 3, D-64546 Mörfelden-Walldorf / Frankfurt am Main, Germany. * Arnecke Sibeth Dabelstein Rechtsanwälte: Legal counsel representing QCS and CMA CGM at Hamburger All"
+    },
+    {
+     "dokument": "USFMCComplianteingereicht_1.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [],
+     "daten": [],
+     "kontext": "rder (dated Sept 15, 2026) from Attorney Fichter. On Oct 24, 2026, the court executed an invalid direct mailing to the unrepresented party. * Fabricated Default (§ 522 ZPO): On October 29, 2026, the Senate issued a dismissal hint order under § 522 ZPO, falsely alleging a procedural default. This violated binding federal law (BGH VI ZB 23/20) and breached the court's own written assurance of July 6, 2026. » Ex-Parte Protective Filings: On November 5 & 9, 2026, opposing counsel RA Carsten Vyvers (Arnecke Sibeth Dabelstein) submitted unrequested ex-parte filings acting as a protective shield for "
+    },
+    {
+     "dokument": "rechtsgutachten-uebermittlungserlaeuterung-hessischer-landtag.txt",
+     "aktenzeichen": null,
+     "handlungsklassen": [
+      "Nichtabhilfe / Verweigerung",
+      "Zustellung / Frist",
+      "Befangenheit"
+     ],
+     "daten": [
+      "06.07.2026",
+      "09.11.2026"
+     ],
+     "kontext": "r Fristversäumung. Dies bricht bindende BGH-Rechtsprechung (BGH VI ZB 23/20, IX ZB 9/22), wonach Fristen bis zur Anwaltszustellung nicht laufen. Bruch der eigenen Selbstbindung Mit Schreiben vom 06.07.2026 sicherte VorsRi'inOLG Willoughby schriftlich zu, dass bis zur PKH-Bescheidung unverschuldetes Fehlen der Postulationsfähigkeit vorliegt. Der spätere Verwerfungsversuch verstößt treuwidrig gegen Art. 20 Abs. 3 GG. Kollusion & Gehörsverletzung (Art. 103 GG) Der Beklagtenvertreter (RA Vyvers / Arnecke Sibeth Dabelstein) fungierte in Ex-Parte-Schriftsätzen (05./09.11.2026) als Schutzschild für d"
+    }
+   ],
+   "status": "CORROBORATED_PATTERN"
+  }
+ ]
+}
