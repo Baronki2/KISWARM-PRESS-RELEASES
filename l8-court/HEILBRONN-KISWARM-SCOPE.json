@@ -1,7 +1,7 @@
 {
  "case_id": "HEILBRONN-KISWARM",
  "legal_basis": "Art. 98 GG (Richteranklage), § 839 BGB (Amtshaftung), § 36 HinSchG (Beweislastumkehr), Art. 3 I GG, §§ 129a/129/339/263 StGB, § 7 BRAO, § 24 DRiG; BfJ-Whistleblower-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679",
- "purpose": "Case-scoped pattern analysis over EXISTING, already sealed evidence for the parties NAMED in the proceedings, plus live correlates from the operator's OWN sensors and case telemetry. Objective: establish whether the documented conduct forms a recurring modus operandi across proceedings (same procedural step failing, same office, same pattern) rather than an isolated incident. Consolidation, correlation, timeline and reporting. NOT a dragnet, NOT a city-wide suspect pool, NOT collection of new personal data about third parties.",
+ "purpose": "Case-scoped pattern analysis over EXISTING, already sealed evidence for the parties NAMED in the proceedings, plus live correlates from the operator's OWN sensors and case telemetry. Objective: establish whether the documented conduct forms a recurring modus operandi across proceedings (same procedural step failing, same office, same pattern) rather than an isolated incident. Consolidation, correlation, timeline and reporting. NOT a dragnet, NOT a city-wide suspect pool, NOT collection of new personal data about third parties. | ERWEITERUNG 23.11.2026: Musteranalyse ueber Verfahren (Modus operandi) UND unabhaengige Web/OSINT-Intel zu den vom Betreiber benannten Parteien, die in der versiegelten Beweiskette nicht vorkommen. Kernregel: eigene Dokumente koennen eigene Vorwuerfe nicht bestaetigen - fuer diese Klasse von Behauptungen ist eine unabhaengige Quelle zwingend.",
  "authorized_targets": [
   {
    "target": "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
@@ -85,12 +85,12 @@
    "basis": "in den Akten des Verfahrens benannt"
   },
   {
-   "target": "OLG-Richter Haug (OLG Stuttgart)",
+   "target": "Vorsitzender Richter Dr. Haug (LG Heilbronn, 3. Zivilkammer)",
    "kind": "named_person",
    "aliases": [
     "Haug"
    ],
-   "role": "Befangenheitsverfahren",
+   "role": "Versäumnisurteil 22.04.2026 (I 3 O 57/26); Befangenheitsantrag abgewiesen 08.06.2026",
    "reference": "I 3 O 57/26",
    "basis": "in den Akten des Verfahrens benannt"
   },
@@ -287,6 +287,84 @@
    "role": "Versiegelter Beweiskorpus, Pfad = SHA-256",
    "reference": "233 Pfade / 217 unique SHA-256 / 157.206.019 B",
    "basis": "eigener Beweisbestand des Betreibers"
+  },
+  {
+   "label": "Landgericht Heilbronn",
+   "kind": "named_office",
+   "aliases": [
+    "LG Heilbronn",
+    "Landgericht Heilbronn",
+    "LG HE"
+   ],
+   "basis": "in der Akte genannt (Primaerakte I 3 O 57/26) + Betreiberbenennung 2026-11-23",
+   "note": "institutioneller Fokus: Verfahren, Aktenzeichen, Veroeffentlichungen, IT-/Signaturprotokolle"
+  },
+  {
+   "label": "Staatsanwaltschaft Heilbronn",
+   "kind": "named_office",
+   "aliases": [
+    "StA Heilbronn",
+    "Staatsanwaltschaft Heilbronn"
+   ],
+   "basis": "in der Akte genannt (Az. 257 Js 31024/26) + Betreiberbenennung 2026-11-23"
+  },
+  {
+   "label": "Amtsgericht Heilbronn",
+   "kind": "named_office",
+   "aliases": [
+    "AG Heilbronn",
+    "Amtsgericht Heilbronn",
+    "AG HE"
+   ],
+   "basis": "in der Akte genannt (Az. 6 M 9219/26)"
+  },
+  {
+   "label": "Michèle Kiesewetter",
+   "kind": "matter",
+   "aliases": [
+    "Michele Kiesewetter",
+    "Kiesewetter",
+    "Fall Kiesewetter",
+    "Kiesewetter-Fall"
+   ],
+   "basis": "BETREIBER-ATTESTATION 2026-11-23: der Betreiber war im Heilbronner Fall Kiesewetter persoenlich beteiligt. Diese Namesbasis ist eine andere als 'in der Akte genannt' - der Namensraum liegt AUSSERHALB der versiegelten Beweiskette (0 Korpus-Treffer) und wird deshalb ausschliesslich ueber unabhaengige oeffentliche Quellen erschlossen.",
+   "name_correction": "Der Vorname wurde am 23.11.2026 durch unabhaengige Quellen (Wikipedia, BR, ag-friedensforschung, BVerfG) korrigiert: MICHÈLE Kiesewetter. Die Betreiber-Attestation hatte nur den Nachnamen genannt. Korrekturtag: 23.11.2026."
+  },
+  {
+   "label": "Andreas Amlung",
+   "kind": "operator_attested_party",
+   "aliases": [
+    "Amlung"
+   ],
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (ex-GF des Betreibers, Bezug Verfassungsschutz Hessen). NICHT in der Beweiskette (0 Korpus-Treffer) - Untersuchung nur ueber oeffentliche Register und Quellen Dritter."
+  },
+  {
+   "label": "Heinz Fromm",
+   "kind": "operator_attested_party",
+   "aliases": [
+    "Fromm"
+   ],
+   "basis": "BETREIBER-ATTESTATION 2026-11-23 (frueherer Leiter des Verfassungsschutzes Hessen). NICHT in der Beweiskette (0 Korpus-Treffer)."
+  },
+  {
+   "label": "NSU Made in Germany",
+   "kind": "matter",
+   "aliases": [
+    "NSU",
+    "Made in Germany",
+    "NSU-Fall",
+    "NSU Deckung"
+   ],
+   "basis": "BETREIBER-ATTESTATION 2026-11-23: konstruierter Fall zur Lasten des Betreibers. 0 Korpus-Treffer - Pruefung nur ueber unabhaengige Quellen."
+  },
+  {
+   "label": "Richterkammer communication Heilbronn",
+   "kind": "matter",
+   "aliases": [
+    "Kommunikation LG Heilbronn",
+    "interne Kommunikation Heilbronn"
+   ],
+   "basis": "BETREIBER-ATTESTATION 2026-11-23: Behauptung einer koordinierten internen Kommunikation. Wird NUR ueber aeussere Spuren geprueft (Entscheidungsabfolge, Zitiermuster, Veroeffentlichungen, vorhandene Audit-Trails) - KEINE Entschlüsselung, KEINE Ueberwachung, KEIN Zugriff auf private Kanaele."
   }
  ],
  "allowed_actions": [
@@ -297,5 +375,7 @@
  ],
  "expires_at": "2026-12-23T00:00:00Z",
  "approver": "Baron Marco Paolo Ialongo (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679)",
- "notes": "Default-deny. The target list contains ONLY parties named in the proceedings (each with its case reference) plus the operator's OWN matter, sensors and evidence corpus. No wildcard, no inference, no expansion. A case-scoped list of named parties is not a list of suspects: 60.000 people of Heilbronn have not been charged, and a list of them would be a suspect pool, not a case. A party named in a proceeding is not a suspect. Pattern analysis means counting how the SAME procedural step fails across DIFFERENT proceedings — it does not mean asserting that a person is corrupt. Explicitly NOT authorized: nmap/nuclei/trivy/prowler against any third-party host, any scanning or blocking of persons, any doxxing, any mass surveillance, any collection of new personal data about third parties, any external accusation or report without a named human approver, and any legal conclusion. Every output is an AI-generated draft requiring human review."
+ "notes": "Default-deny. The target list contains ONLY parties named in the proceedings (each with its case reference) plus the operator's OWN matter, sensors and evidence corpus. No wildcard, no inference, no expansion. A case-scoped list of named parties is not a list of suspects: 60.000 people of Heilbronn have not been charged, and a list of them would be a suspect pool, not a case. A party named in a proceeding is not a suspect. Pattern analysis means counting how the SAME procedural step fails across DIFFERENT proceedings — it does not mean asserting that a person is corrupt. Explicitly NOT authorized: nmap/nuclei/trivy/prowler against any third-party host, any scanning or blocking of persons, any doxxing, any mass surveillance, any collection of new personal data about third parties, any external accusation or report without a named human approver, and any legal conclusion. Every output is an AI-generated draft requiring human review.",
+ "target_count": 36,
+ "provenance_note": "Zielarten: named_person/named_office = in der Akte belegt; matter/operator_attested_party = vom Betreiber benannt (Baron Marco Paolo Ialongo, BfJ-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679) und deshalb NICHT in der versiegelten Beweiskette. Fuer diese Ziele gilt: nur oeffentliche Quellen, keine Schlussfolgerung aus der Benennung, Befund nur bei mehreren unabhaengigen Quellen."
 }
