@@ -62,6 +62,32 @@ def load_ledger():
     return out
 
 
+def rebuild_private_chain():
+    """Baut die private Kette reproduzierbar aus dem Ledger.
+    Das Ledger ist die Wahrheit, die Kette ist das Siegel darueber."""
+    pchain = os.path.join(INTAKE_DIR, "PRIVATE-CHAIN.json")
+    entries = load_ledger()
+    sealed, prev = [], "genesis"
+    for e in entries:
+        body = json.dumps({"intake_id": e["intake_id"], "sha256": e["sha256"],
+                           "bytes": e["bytes"], "title": e["title"],
+                           "provenance": e["provenance"], "submission": e["submission"]},
+                          ensure_ascii=False, sort_keys=True)
+        seal = hashlib.sha256((prev + "|" + body).encode()).hexdigest()
+        sealed.append({**e, "seal": seal, "prev_seal": prev})
+        prev = seal
+    chain = {"chain": "l8-private-intake", "entries": sealed,
+             "sealed": [e["seal"] for e in sealed], "rebuilt_from": "intake-ledger.jsonl",
+             "note": "Private Kette. NICHT veroeffentlichen: die Hashes privater Originale "
+                     "sind Brute-Force-Orakel. Der oeffentliche Index bleibt unberuehrt."}
+    os.makedirs(INTAKE_DIR, exist_ok=True)
+    tmp = pchain + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(chain, f, indent=1, ensure_ascii=False)
+    os.replace(tmp, pchain)
+    return chain
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--file")
@@ -104,8 +130,10 @@ def main():
     rows = load_ledger()
     for r in rows:
         if r["sha256"] == sha:
+            rebuild_private_chain()
             print(json.dumps({"status": "ALREADY_IN_CHAIN", "sha256": sha,
-                              "intake_id": r["intake_id"], "title": r["title"]},
+                              "intake_id": r["intake_id"], "title": r["title"],
+                              "chain": "PRIVATE (unveraendert, neu versiegelt)"},
                              ensure_ascii=False))
             return 0
 
@@ -142,24 +170,42 @@ def main():
     with open(LEDGER, "a", encoding="utf-8") as f:
         f.write(json.dumps(rec, ensure_ascii=False) + "\n")
 
-    # In den kanonischen Index aufnehmen (damit Notarisierung greift)
-    idx = {}
-    if os.path.exists(INDEX):
-        idx = json.load(open(INDEX, encoding="utf-8"))
-    files = idx.get("files", [])
-    rel = "l8-intake/" + os.path.basename(dest)
-    if not any(f["path"] == rel for f in files):
-        files.append({"path": rel, "bytes": size, "sha256": sha})
-        idx["files"] = files
-        idx["file_count"] = len(files)
-        tmp = INDEX + ".tmp"
-        with open(tmp, "w", encoding="utf-8") as f:
-            json.dump(idx, f, indent=1, ensure_ascii=False)
-        os.replace(tmp, INDEX)
+    # PRIVATE KETTE: die aufgenommenen Belege gehen NICHT in den oeffentlichen
+    # kanonischen Index. Grund: der oeffentliche Index wird veroeffentlicht;
+    # ein Hash eines privaten Originals darin ist ein Brute-Force-Orakel
+    # (Vorlage + Variablen genuegen). Die privaten Belege werden stattdessen
+    # in einer eigenen, lokalen Hashkette versiegelt - mit Verkettung: jeder
+    # Eintrag versiegelt den Siegelwert des Vorgaengers.
+    # Die Kette wird REPRODUZIERBAR aus dem Ledger gebaut: das Ledger ist die
+    # Wahrheit, die Kette ist das Siegel darueber. So kann ein Dublettentreffer
+    # die Kette nicht unversiegelt lassen.
+    pchain = os.path.join(INTAKE_DIR, "PRIVATE-CHAIN.json")
+    entries = load_ledger()
+    sealed, prev = [], "genesis"
+    for e in entries:
+        body = json.dumps({"intake_id": e["intake_id"], "sha256": e["sha256"],
+                           "bytes": e["bytes"], "title": e["title"],
+                           "provenance": e["provenance"], "submission": e["submission"]},
+                          ensure_ascii=False, sort_keys=True)
+        seal = hashlib.sha256((prev + "|" + body).encode()).hexdigest()
+        sealed.append({**e, "seal": seal, "prev_seal": prev})
+        prev = seal
+    chain = {"chain": "l8-private-intake", "entries": sealed, "sealed": [e["seal"] for e in sealed],
+             "rebuilt_from": "intake-ledger.jsonl", "note":
+             "Private Kette. NICHT veroeffentlichen: die Hashes privater Originale "
+             "sind Brute-Force-Orakel. Der oeffentliche Index bleibt unberuehrt."}
+    tmp = pchain + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(chain, f, indent=1, ensure_ascii=False)
+    os.replace(tmp, pchain)
+    seal = sealed[-1]["seal"] if sealed else "genesis"
+    prev = sealed[-2]["seal"] if len(sealed) > 1 else "genesis"
 
     print(json.dumps({"status": "INTAKED", "intake_id": intake_id,
                       "sha256": sha, "bytes": size, "stored": dest,
-                      "index_entries": len(files),
+                      "chain": "PRIVATE (nicht in der oeffentlichen Kette, nicht publiziert)",
+                      "private_chain_seal": seal[:32], "prev_seal": prev[:16],
+                      "public_index_touched": False,
                       "provenance": rec["provenance"],
                       "submission": rec["submission"]}, indent=1, ensure_ascii=False))
     return 0
