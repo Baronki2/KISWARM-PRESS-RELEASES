@@ -1,7 +1,7 @@
 {
  "case_id": "HEILBRONN-KISWARM",
  "legal_basis": "Art. 98 GG (Richteranklage), § 839 BGB (Amtshaftung), § 36 HinSchG (Beweislastumkehr), Art. 3 I GG, §§ 129a/129/339/263 StGB, § 7 BRAO, § 24 DRiG; BfJ-Whistleblower-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679",
- "purpose": "Case-scoped triage over EXISTING, already sealed evidence for the parties NAMED in the proceedings. Consolidation, cross-referencing and reporting. NOT a dragnet, NOT a city-wide suspect pool, NOT collection of new personal data.",
+ "purpose": "Case-scoped pattern analysis over EXISTING, already sealed evidence for the parties NAMED in the proceedings, plus live correlates from the operator's OWN sensors and case telemetry. Objective: establish whether the documented conduct forms a recurring modus operandi across proceedings (same procedural step failing, same office, same pattern) rather than an isolated incident. Consolidation, correlation, timeline and reporting. NOT a dragnet, NOT a city-wide suspect pool, NOT collection of new personal data about third parties.",
  "authorized_targets": [
   {
    "target": "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
@@ -253,6 +253,40 @@
    "role": "Europäische Staatsanwaltschaft",
    "reference": "5 U 81/26",
    "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "case:HEILBRONN-KISWARM",
+   "kind": "matter",
+   "aliases": [
+    "HEILBRONN-KISWARM"
+   ],
+   "role": "Der Fall als Ganzes — Aktenlage, Verfahren, Telemetrie",
+   "reference": "alle 59 gemessenen Aktenzeichen",
+   "basis": "eigener Vorgang des Betreibers"
+  },
+  {
+   "target": "telemetry:sentinel-mesh",
+   "kind": "sensor",
+   "aliases": [
+    "sentinel-mesh",
+    "wifi-sentinel",
+    "camera",
+    "tcp-proxy"
+   ],
+   "role": "Eigene Sensoren des Betreibers — Telemetrie zum Vorgang",
+   "reference": "ARTEX data/sentinel/telemetry/telemetry.jsonl",
+   "basis": "eigene Infrastruktur des Betreibers, keine Dritten betroffen"
+  },
+  {
+   "target": "evidence:content-addressed",
+   "kind": "corpus",
+   "aliases": [
+    "evidence-bytes",
+    "EVIDENCE-BYTES-MANIFEST"
+   ],
+   "role": "Versiegelter Beweiskorpus, Pfad = SHA-256",
+   "reference": "233 Pfade / 217 unique SHA-256 / 157.206.019 B",
+   "basis": "eigener Beweisbestand des Betreibers"
   }
  ],
  "allowed_actions": [
@@ -263,5 +297,5 @@
  ],
  "expires_at": "2026-12-23T00:00:00Z",
  "approver": "Baron Marco Paolo Ialongo (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679)",
- "notes": "Default-deny. The target list contains ONLY parties named in the proceedings, with their case reference. No wildcard, no inference, no expansion. The corpus is content-addressed: every file's path IS its SHA-256, so integrity is verifiable without trusting the operator. Explicitly NOT authorized: nmap/nuclei/trivy/prowler against any third-party host, any scanning or blocking of persons, any doxxing, any mass surveillance, any external accusation or report without a named human approver, and any legal conclusion. A case-scoped list of named parties is not a list of suspects: 60.000 people of Heilbronn have not been charged, and a list of them would be a suspect pool, not a case."
+ "notes": "Default-deny. The target list contains ONLY parties named in the proceedings (each with its case reference) plus the operator's OWN matter, sensors and evidence corpus. No wildcard, no inference, no expansion. A case-scoped list of named parties is not a list of suspects: 60.000 people of Heilbronn have not been charged, and a list of them would be a suspect pool, not a case. A party named in a proceeding is not a suspect. Pattern analysis means counting how the SAME procedural step fails across DIFFERENT proceedings — it does not mean asserting that a person is corrupt. Explicitly NOT authorized: nmap/nuclei/trivy/prowler against any third-party host, any scanning or blocking of persons, any doxxing, any mass surveillance, any collection of new personal data about third parties, any external accusation or report without a named human approver, and any legal conclusion. Every output is an AI-generated draft requiring human review."
 }
