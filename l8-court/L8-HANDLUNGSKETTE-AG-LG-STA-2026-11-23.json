@@ -1,0 +1,199 @@
+{
+ "erstellt": "2026-11-23T06:48:29.405536+00:00",
+ "gelenke": [
+  {
+   "nr": 1,
+   "datum": "22.04.2026",
+   "akte": "I 3 O 57/26",
+   "amt": "LG Heilbronn, 3. Zivilkammer — Vorsitzender Richter Dr. Haug",
+   "handlung": "Versaeumnisurteil ueber 1.400.000,00 EUR; Ausfertigung ohne eigenhaendige Unterschrift",
+   "beleg": "(b)",
+   "belegquelle": "nur eigene Akte",
+   "was_fehlt": "Die Urteilsausfertigung liegt NICHT in der Kette. Der AG-Beschluss vom 12.11.2026 setzt 'die allgemeinen Voraussetzungen der Zwangsvollstreckung nach 750 ZPO liegen vor' voraus, nennt das Urteil aber nicht.",
+   "was_trägt": "Der AG-Beschluss bestätigt die EXISTENZ eines nach 750 ZPO vollstreckbaren Titels - das ist ein gerichtlicher Beleg fuer die Tatsache der Vollstreckbarkeit, nicht fuer die Behauptung der Nicht-Unterschrift."
+  },
+  {
+   "nr": 2,
+   "datum": "07.07.2026",
+   "akte": "13 O 57/26",
+   "amt": "LG Heilbronn",
+   "handlung": "Beschluss im Rechtsmittelverfahren (Referent in der Verfassungsbeschwerde 2 BvR 2145/26 benannt)",
+   "beleg": "(b)",
+   "belegquelle": "nur eigene Akte",
+   "was_fehlt": "Der Beschluss selbst liegt nicht vor; wir kennen ihn nur aus unserer eigenen Verfassungsbeschwerde.",
+   "was_trägt": "Nichts eigenstaendig."
+  },
+  {
+   "nr": 3,
+   "datum": "04.09.2026",
+   "akte": "6 W 32/26 (neu 8 W 343/26)",
+   "amt": "OLG Stuttgart, 6. Zivilsenat — VRiOLG Dr. Oliver Mosthaf",
+   "handlung": "Abgabebeschluss / Ueberleitung in den neuen Senat",
+   "beleg": "(a)",
+   "belegquelle": "Staatsakt: Abgabebeschluss OLG Stuttgart vom 04.09.2026 (beglaubigte Abschrift in der Kette)",
+   "was_fehlt": "Die Urkunde der Bestaetigung, dass die Kostenentscheidung auf die qES-Unterschrift des Mosthaf beruht (eIDAS-Audit-Trail 10.09.2026) ist im Original nicht beigefuegt.",
+   "was_trägt": "Der Beschluss ist ein Original und belegt die Verfahrensfuehrung des OLG im September 2026."
+  },
+  {
+   "nr": 4,
+   "datum": "03.09.2026",
+   "akte": "257 Js 31024/26",
+   "amt": "Staatsanwaltschaft Heilbronn — OStA Dr. Singer",
+   "handlung": "Einstellungsverfuegung (Einstellung des Ermittlungsverfahrens)",
+   "beleg": "(b)",
+   "belegquelle": "nur ueber das Schreiben der GStA Stuttgart, Az. 24 Zs 1610/26",
+   "was_fehlt": "Das ORIGINAL der Einstellungsverfuegung liegt nicht in der Kette - weder Einstellungsbescheid noch Entwurf, weder Gruende noch Belehrung.",
+   "was_trägt": "Datum und Aktenzeichen sind durch ein fremdes Schreiben (GStA) mittelbar belegt; der Inhalt der Einstellung nicht."
+  },
+  {
+   "nr": 5,
+   "datum": "13.10.2026",
+   "akte": "6 M 9219/26",
+   "amt": "AG Heilbronn, Vollstreckungsgericht — Rechtspflegerin (Name im Original des PfUEB, im AG-Beschluss NICHT genannt)",
+   "handlung": "Pfändungs- und Ueberweisungsbeschluss ueber 1.786.888,01 EUR",
+   "beleg": "(a)",
+   "belegquelle": "Staatsakt: AG-Heilbronn-Beschluss vom 12.11.2026 (beglaubigte Abschrift, OCR aus Scan)",
+   "was_fehlt": "Das ORIGINAL des PfUEB fehlt. Der AG-Beschluss sagt ausdruecklich: 'Der Beschluss traegt den Namen der verantwortlichen Rechtspflegerin und ist durch sie qualifiziert elektronisch signiert' - dieser Name steht nur auf dem PfUEB-Original.",
+   "was_trägt": "Der AG-Beschluss belegt (i) dass ein PfUEB vom 13.10.2026 existiert, (ii) dass er den Namen der Rechtspflegerin traegt und qES-signiert ist, (iii) dass der Einwand 'keine rechtspflegerische Unterschrift' vom Gericht ZURUECKGEWIESEN wurde. Er belegt NICHT, wer es war."
+  },
+  {
+   "nr": 6,
+   "datum": "11.11.2026",
+   "akte": "6 M 9219/26",
+   "amt": "AG Heilbronn — Nichtabhilfeentscheidung der Rechtspflegerin",
+   "handlung": "Nichtabhilfe ueber die Erinnerung des Schuldners",
+   "beleg": "(d)",
+   "belegquelle": "im AG-Beschluss nur REFERENZIERT, nicht beigefuegt",
+   "was_fehlt": "Die Entscheidung selbst. Der AG-Beschluss verweist auf ihre Gruende ('Im Uebrigen wird auf die Gruende der Nichtabhilfeentscheidung vom 11.11.2026 Bezug genommen') - wir haben sie nicht.",
+   "was_trägt": "Nichts eigenstaendig. Das ist das zentrale fehlende Glied: die Begruendung, auf die sich der AG-Beschluss stuetzt."
+  },
+  {
+   "nr": 7,
+   "datum": "19.10.2026 ODER 31.10.2026",
+   "akte": "6 M 9219/26 / DR II 1833/26",
+   "amt": "AG Heilbronn, Vollstreckungsabteilung — Gerichtsvollzieher (Murrweiss)",
+   "handlung": "Vollstreckung: Konto-Pfaendung und Zwangsueberweisung",
+   "beleg": "(c)",
+   "belegquelle": "NUR EIGENE AKTE — und in sich widerspruechlich",
+   "was_fehlt": "Die Vollstreckungsakte des AG (6 M 9219/26) mit Pfandprotokoll, Kontoauszuegen und Zustellnachweisen.",
+   "was_trägt": "Nichts. Die beiden eigenen Dokumente nennen zwei verschiedene Vollstreckungstage (19.10. in der DOJ-Schrift, 31.10. in der SDNY-Klage) und verschiedene Referenzformate (DR II 1833/26 vs. DR Il 1833/26)."
+  },
+  {
+   "nr": 8,
+   "datum": "12.11.2026",
+   "akte": "6 M 9219/26",
+   "amt": "AG Heilbronn, Vollstreckungsgericht — Richterin Bogdahn",
+   "handlung": "Zurueckweisung der Erinnerung; Kosten des Verfahrens; Gegenstandswert 1.400.000,00 EUR",
+   "beleg": "(a)",
+   "belegquelle": "Staatsakt: beglaubigte Abschrift vom 13.11.2026, ausgefertigt durch die Urkundsbeamtin (Kumpf, JAng'e); der Beschluss selbst ist als 'uneinheitlich beglaubigte Abschrift' gekennzeichnet",
+   "was_fehlt": "Das Original mit der qES-Signatur der Richterin; die Protokollnotizen zur Zustellung (Fristbeginn 2 Wochen ab Zustellung).",
+   "was_trägt": "Der vollstaendige Text der Begruendung - einschliesslich der Zurueckweisung des Unterschrifts-Einwands und des Verweises auf die Nichtabhilfeentscheidung vom 11.11.2026."
+  },
+  {
+   "nr": 9,
+   "datum": "30.10.2026",
+   "akte": "24 Zs 1610/26",
+   "amt": "Generalstaatsanwaltschaft Stuttgart — OStA'in Geiger",
+   "handlung": "Bescheid: Zurueckweisung der Strafanzeige wegen Rechtsbeugung",
+   "beleg": "(b)",
+   "belegquelle": "nur ueber unsere fristwahrende Beschwerde gegen den Bescheid",
+   "was_fehlt": "Das ORIGINAL des Bescheids.",
+   "was_trägt": "Nichts eigenstaendig."
+  }
+ ],
+ "zaehlung": {
+  "(a)": 3,
+  "(b)": 4,
+  "(c)": 1,
+  "(d)": 1
+ },
+ "widersprueche": [
+  {
+   "gegenstand": "Vollstreckungstag der Konto-Pfaendung",
+   "a": "ENFORCEMENT_COMPLICITY (DOJ-Schrift, 10.2026): 'On October 19, 2026 ... Enforcement Bailiff Murrweiss executed a total bank account garnishment order'",
+   "b": "us_master_indictment (SDNY): 'Bailiff Jan Murrweiss executed a garnishment order on Oct 31, 2026'; zugleich 'executed bank freezes on Oct 15/19, 2026 but deliberately suppressed debtor service for 16 days until Oct 31, 2026'",
+   "loesung": "Beide Angaben stammen aus UNSEREN Dokumenten. Die Akte der Vollstreckung (6 M 9219/26) entscheidet das - sie fehlt."
+  },
+  {
+   "gegenstand": "Wer hat den PfUEB ausgestellt",
+   "a": "ENFORCEMENT_COMPLICITY: 'issued by Court Clerk Fiona Betz on Oct 13, 2026'",
+   "b": "SDNY: 'Rechtspflegerin Betz authorized a PfUEB with a blank signature line' - der vollzogene Titel sei eine Papierkopie mit LEERER Unterschriftszeile (Abschnitt T) gewesen, zugestellt am 31.10.2026",
+   "loesung": "Der AG-Beschluss vom 12.11.2026 entscheidet: der PfUEB traegt den Namen der Rechtspflegerin und ist qES-signiert. Unser DOJ-Schriftsatz unterstellt das Gegenteil (leere Zeile). Diese Behauptung muss aus dem DOJ-Schriftsatz und der SDNY-Klage zurueckgenommen werden, sonst widerspricht sie dem eigenen Beleg."
+  },
+  {
+   "gegenstand": "Rolle von Wurst",
+   "a": "ENFORCEMENT_COMPLICITY: 'Court Clerk Wurst nevertheless issued an execution clause on August 27, 2026' UND 'Rechtspflegerin Wurst ... issued 33k cost title'",
+   "b": "SDNY: nur 'Rechtspflegerin Wurst issued a 33,223.19 cost order during a pending appeal' - keine Vollstreckungsklausel",
+   "loesung": "Die Behauptung 'Vollstreckungsklausel am 27.08.2026' steht nur in EINEM eigenen Dokument und in keinem Beleg. Sie ist entweder zu belegen oder zu streichen."
+  },
+  {
+   "gegenstand": "Person und Referenz des Vollstreckers",
+   "a": "Vollbild-Dossier: 'GV Murrweiss (AG Heilbronn)'",
+   "b": "SDNY: 'DEFENDANT 02: JAN MURRWEIR (BAILIFF / GERICHTSVOLLZIEHER, AG HEILBRONN DR Il 1833/26)' - 'Jan Murrweir' ist ein OCR-Artefakt, 'DR Il' statt 'DR II'",
+   "loesung": "Der Vorname ist ueberall auf 'Murrweiss' zu normalisieren, die Referenz auf 'DR II 1833/26'. Ein Fall, der genau die Sorgfalt dieser Beamten richtet, darf keine OCR-Artefakte in eigenen Antragen tragen."
+  },
+  {
+   "gegenstand": "Aktenzeichen des LG-Urteils",
+   "a": "ENFORCEMENT_COMPLICITY: 'LG Heilbronn Case | 3 O 57/26'  (Pipe = OCR fuer 'I 3 O 57/26')",
+   "b": "SDNY: 'Issued Unsigned Default Title (13 0 57/26)' und '1 3 O 57/26'",
+   "loesung": "Durchgaengig 'I 3 O 57/26' (Investiturkammer). Die Schreibweise ist in drei eigenen Dokumenten verschieden - das ist genau der Vorwurf, den der Gegner sonst stellt."
+  },
+  {
+   "gegenstand": "Rolle des Glaeubigers",
+   "a": "ENFORCEMENT_COMPLICITY: 'Creditor Attorney Bemd Karwiese (Hannover) obtained the garnishment order by fraudulently misleading the execution court'",
+   "b": "AG-Beschluss vom 12.11.2026: '- Glaeubiger - Alexander Caspary, Schweizer Platz 56, 60594 Frankfurt', 'Prozessbevollmaechtigter: Rechtsanwalt Bernd Karwiese'",
+   "loesung": "Karwiese ist ANWALT des Glaeubigers, nicht der Glaeubiger. Der Glaeubiger ist Alexander Caspary. Die eigene Akte hat das mehrfach verwechselt - im DOJ-Schriftsatz heisst es 'Attorney Bernd Karwiese Law Firm', das ist richtig, aber der Satz oben macht ihn zum Glaeubiger."
+  }
+ ],
+ "nennungen": {
+  "Betz": {
+   "ENFORCEMENT_COMPLICITY.txt": 4,
+   "ENFORCEMENT_COMPLICITY_1.txt": 4,
+   "ForensicIndictment.txt": 1,
+   "USAnklage_BFG.txt": 1,
+   "USAnklage_BFG_1.txt": 1,
+   "us_master_indictment_rico_expanded_sdny.txt": 3,
+   "us_master_indictment_rico_expanded_sdny_1.txt": 3
+  },
+  "Wurst": {
+   "ENFORCEMENT_COMPLICITY.txt": 3,
+   "ENFORCEMENT_COMPLICITY_1.txt": 3,
+   "ForensicIndictment.txt": 1,
+   "FreislersHeirs.txt": 2,
+   "FreislersHeirs_1.txt": 2,
+   "Freislers_Heirs_Continuity_Analysis_Signed_2026-10-17.txt": 2,
+   "International_Bill_of_Indictment_v2_2026-10-10.txt": 5,
+   "International_Tribunal_2026-10-10.txt": 1,
+   "Rechtsgrundlage_International_Tribunal_2026-10-10.txt": 2,
+   "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt": 4,
+   "Signed_Dossier_Forensic_Expert_2026-10-17.txt": 1,
+   "Supreme_Court_Israel_Submission_2026-10-10_v2.txt": 2,
+   "Supreme_Court_Israel_Submission_v3_2026-10-10.txt": 2,
+   "UN_Special_Procedures_Submission_2026-10-10.txt": 2,
+   "UN_Special_Procedures_Submission_v2_2026-10-10.txt": 2,
+   "UN_Urgent_Appeal_Subversion_Judicial_Independence_Germany_2026-10-10.txt": 1,
+   "US_Supreme_Court_Emergency_Letter_2026-10-10.txt": 1,
+   "us_master_indictment_rico_expanded_sdny.txt": 2,
+   "us_master_indictment_rico_expanded_sdny_1.txt": 2
+  },
+  "Murrweiß": {
+   "ENFORCEMENT_COMPLICITY.txt": 3,
+   "ENFORCEMENT_COMPLICITY_1.txt": 3,
+   "ErweiterteVerfassungsbeschwerde.txt": 1,
+   "FORM_JS-44.txt": 1,
+   "FORM_JS-44_1.txt": 1,
+   "ForensicIndictment.txt": 1,
+   "Rechtsschadensgutachten_Amtshaftung_2026-10-24.txt": 5,
+   "USAnklage_BFG.txt": 1,
+   "USAnklage_BFG_1.txt": 1,
+   "us_master_indictment_rico_expanded_sdny.txt": 5,
+   "us_master_indictment_rico_expanded_sdny_1.txt": 5
+  }
+ },
+ "fremdbelege": {
+  "Betz": [],
+  "Wurst": [],
+  "Murrweiß": []
+ },
+ "sacred_hash": "f5af425c"
+}
