@@ -16,7 +16,7 @@ Ausgabe: nur wenn sich etwas geaendert hat (Watchdog-Muster). Sonst bleibt
 stdout leer - ein Job, der taeglich "alles ok" sendet, wird nicht mehr gelesen.
 """
 from __future__ import annotations
-import json, os, subprocess, sys, time
+import json, os, re, subprocess, sys, time
 from datetime import datetime, timezone
 
 W = "/home/sah/ARTEX/data/sentinel/tools/sentinel_web_intel.py"
@@ -27,10 +27,48 @@ SCOPE = "/home/sah/ARTEX/data/sentinel/scopes/%s.json" % CASE
 
 # Suchprofile je Person: (Suchbegriff, Art)
 PROFILE = {
-    "default": [("{name} Richter OR Vorsitzender OR Urteil OR Entscheidung", "person"),
-                ("{name} Landgericht Heilbronn OR Staatsanwaltschaft", "person")],
-    "office": [("{name} Entscheidungen OR Urteile OR Pressemitteilung", "institutional")],
+    # Der Name steht in Anfuehrungszeichen; der Watcher filtert zusaetzlich auf
+    # das Vorkommen des Nachnamens im Titel - nur so bleibt das Journal frei von
+    # generischen Gerichtsportalen, die jedes Namens-Query zurueckgibt.
+    "default": [('"{name}"', "person"),
+                ('"{name}" Urteil OR Entscheidung OR Rechtsbeugung', "person"),
+                ('"{name}" Landgericht Heilbronn', "person")],
+    "office": [("{name} Pressemitteilung OR Entscheidung", "institutional")],
 }
+
+
+# Quellen, die Personendaten VERKAUFEN (Datenhaendler) oder nur Social-
+# Verzeichnisse sind. Aus ihnen wird nichts erhoben: das ist Datenhandel, und
+# die Fallakte hat damit nichts zu tun.
+BLOCKED_HOSTS = ("peoplecheck.de", "dasoertliche.de", "telefonbuch.de", "adresse.de",
+                 "wer-kennt-wen.de", "northdata.de/linked", "checkatrade.com",
+                 "linkedin.com/pub", "facebook.com/public", "xing.com/profile",
+                 "instagram.com", "pinterest.", "radaris.de", "lobste.rs",
+                 "www.whitepages.com", "www.peoplefinders", "leak-check.com",
+                 "web.de/ort/namens", "gelbe-seiten.de")
+# Der Treffer muss einen BEHORPDATEN-BEZUG haben. Ein Treffer, der nur den
+# Namen enthaelt, ist mit hoher Wahrscheinlichkeit eine Namenskollision (es
+# gibt viele Menschen namens Amlung, Haug, Krause).
+LEGAL_CTX = re.compile(
+    r"(richter|vorsitzend|gericht|landgericht|amtsgericht|oberlandesgericht|ol g\b|"
+    r"staatsanwalt|justiz|rechtsbeugung|befangenheit|vers[aä]umnisurteil|urteil|"
+    r"beschluss|bescheid|verfahren|aktenzeichen|kanzlei|rechtsanwalt|anwalt|"
+    r"bundesarbeitsgericht|verfassungsgericht|einstellungsv|feststellung|"
+    r"klage|zwangsversteiger|pf[aä]ndung|vollstreck|schutzschild|white.?paper)",
+    re.I)
+
+
+def nachname(target):
+    """Der Nachname des Ziel - Filter gegen generische Portale."""
+    for tr in target.split():
+        t = tr.strip("(),.")
+        if len(t) >= 4 and not t[0].isdigit() and t.lower() not in (
+                "richter", "dr", "vorsitzender", "landgericht", "amtsgericht", "oberlandesgericht",
+                "staatsanwaltschaft", "generalstaatsanwaltschaft", "rechtspflegerin", "rechtspfleger",
+                "creditor", "attorney", "kanzlei", "historisch", "olg", "stuttgart", "heilbronn",
+                "frankfurt", "geschaeftsfuehrer", "und", "der", "die", "das"):
+            return t
+    return target.split()[0] if target.split() else target
 
 
 def run(target, query, kind, limit=4):
@@ -64,7 +102,7 @@ def main():
             state = {}
     known = set(state.get("seen_urls", []))
 
-    new_urls, runs, errors = [], 0, []
+    new_urls, runs, errors, filtered = [], 0, [], 0
     for t in persons:
         name = t.get("label")
         if not name:
@@ -78,9 +116,22 @@ def main():
                 errors.append({"target": name, "query": q, "status": res.get("status"),
                                "reason": str(res.get("reason"))[:180]})
                 continue
+            nl = nachname(name).lower()
             for s in res.get("sample", []):
                 u = s.get("url")
-                if u and u not in known:
+                if not u:
+                    continue
+                host = u.split("/")[2].lower() if "//" in u else ""
+                if any(b in u.lower() for b in BLOCKED_HOSTS):
+                    filtered += 1
+                    continue
+                if nl and nl not in (s.get("title", "") + " " + u).lower():
+                    filtered += 1
+                    continue
+                if not LEGAL_CTX.search(s.get("title", "")):
+                    filtered += 1
+                    continue
+                if u not in known:
                     known.add(u)
                     new_urls.append({"target": name, "query": q, "url": u,
                                      "title": s.get("title", "")[:160],
@@ -88,9 +139,6 @@ def main():
                                      "tier": s.get("tier"),
                                      "sha256": s.get("sha256"),
                                      "found_at": datetime.now(timezone.utc).isoformat()})
-            # negative findings zaehlen als Ergebnis
-            for g in (res.get("sample") or []):
-                pass
     for t in offices:
         name = t.get("label")
         if not name:
@@ -102,9 +150,22 @@ def main():
             if res.get("status") in ("DENIED", "ERROR", "UNPARSED"):
                 errors.append({"target": name, "query": q, "status": res.get("status")})
                 continue
+            nl = nachname(name).lower()
             for s in res.get("sample", []):
                 u = s.get("url")
-                if u and u not in known:
+                if not u:
+                    continue
+                host = u.split("/")[2].lower() if "//" in u else ""
+                if any(b in u.lower() for b in BLOCKED_HOSTS):
+                    filtered += 1
+                    continue
+                if nl and nl not in (s.get("title", "") + " " + u).lower():
+                    filtered += 1
+                    continue
+                if not LEGAL_CTX.search(s.get("title", "")):
+                    filtered += 1
+                    continue
+                if u not in known:
                     known.add(u)
                     new_urls.append({"target": name, "query": q, "url": u,
                                      "title": s.get("title", "")[:160],
@@ -129,6 +190,7 @@ def main():
         return 0   # nichts Neues -> kein Output (Watchdog-Muster)
     print(json.dumps({"status": "NEU" if new_urls else "FEHLER",
                       "neue_funde": len(new_urls), "laeufe": runs,
+                      "verworfen_ohne_namensbezug": filtered,
                       "ziele": len(persons) + len(offices),
                       "fehler": errors[:5],
                       "funde": new_urls[:20]}, indent=1, ensure_ascii=False))
