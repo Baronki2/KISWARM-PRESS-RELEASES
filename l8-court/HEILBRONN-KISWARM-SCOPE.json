@@ -1,0 +1,267 @@
+{
+ "case_id": "HEILBRONN-KISWARM",
+ "legal_basis": "Art. 98 GG (Richteranklage), § 839 BGB (Amtshaftung), § 36 HinSchG (Beweislastumkehr), Art. 3 I GG, §§ 129a/129/339/263 StGB, § 7 BRAO, § 24 DRiG; BfJ-Whistleblower-ID 44f05e3b-4ed5-487f-8fe3-91e8ce858679",
+ "purpose": "Case-scoped triage over EXISTING, already sealed evidence for the parties NAMED in the proceedings. Consolidation, cross-referencing and reporting. NOT a dragnet, NOT a city-wide suspect pool, NOT collection of new personal data.",
+ "authorized_targets": [
+  {
+   "target": "VRiOLG Dr. Oliver Mosthaf (OLG Stuttgart)",
+   "kind": "named_person",
+   "aliases": [
+    "Mosthaf"
+   ],
+   "role": "Rechtsbeugung § 339 StGB (6 W 25/26, 6 W 32/26)",
+   "reference": "6 W 25/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "RA Karwiese (Creditor Attorney)",
+   "kind": "named_person",
+   "aliases": [
+    "Karwiese"
+   ],
+   "role": "Gewerbsmäßiger Betrug § 263 StGB (StA Hannover 1021 Js 115878/26)",
+   "reference": "1021 Js 115878/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "GV Murrweiß (AG Heilbronn)",
+   "kind": "named_person",
+   "aliases": [
+    "Murrweiß"
+   ],
+   "role": "Pfändungs- und Überweisungsbeschluss 19.10.2026",
+   "reference": "6 M 9219/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "Rpfl. Betz (AG Heilbronn)",
+   "kind": "named_person",
+   "aliases": [
+    "Betz"
+   ],
+   "role": "Nichtabhilfeentscheidung 11.11.2026",
+   "reference": "6 M 9219/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "OStAin Geiger (GStA Stuttgart)",
+   "kind": "named_person",
+   "aliases": [
+    "Geiger"
+   ],
+   "role": "Einstellungsverfahren 24 Zs 1610/26",
+   "reference": "3110 Js 101829/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "OStA Krause (StA Heilbronn)",
+   "kind": "named_person",
+   "aliases": [
+    "Krause"
+   ],
+   "role": "Ermittlungen 552 Js 37220/26",
+   "reference": "552 Js 37220/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "OStA Krumm (StA Frankfurt)",
+   "kind": "named_person",
+   "aliases": [
+    "Krumm"
+   ],
+   "role": "Ermittlungen 7480 Js 252525/24",
+   "reference": "7480 Js 252525/24",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "RA Arnecke Sibeth Dabelstein",
+   "kind": "named_person",
+   "aliases": [
+    "Arnecke",
+    "Dabelstein"
+   ],
+   "role": "Beklagtenvertretung",
+   "reference": "5 U 81/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "OLG-Richter Haug (OLG Stuttgart)",
+   "kind": "named_person",
+   "aliases": [
+    "Haug"
+   ],
+   "role": "Befangenheitsverfahren",
+   "reference": "I 3 O 57/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "RA Fichter & Kollegen",
+   "kind": "named_person",
+   "aliases": [
+    "Fichter"
+   ],
+   "role": "Prozessbevollmächtigter",
+   "reference": "6 W 25/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "Hans Freisler (historisch, OLG-Präsident 1933-1943)",
+   "kind": "named_person",
+   "aliases": [
+    "Freisler"
+   ],
+   "role": "Gleichschaltung der Justiz — historischer Bezug",
+   "reference": "6 W 25/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "AG Heilbronn",
+   "kind": "named_office",
+   "aliases": [
+    "AG Heilbronn"
+   ],
+   "role": "Amtsgericht Heilbronn",
+   "reference": "6 M 9219/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "LG Heilbronn",
+   "kind": "named_office",
+   "aliases": [
+    "LG Heilbronn"
+   ],
+   "role": "Landgericht Heilbronn",
+   "reference": "I 3 O 57/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "OLG Stuttgart",
+   "kind": "named_office",
+   "aliases": [
+    "OLG Stuttgart"
+   ],
+   "role": "Oberlandesgericht Stuttgart",
+   "reference": "6 W 25/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "OLG Frankfurt",
+   "kind": "named_office",
+   "aliases": [
+    "OLG Frankfurt"
+   ],
+   "role": "Oberlandesgericht Frankfurt am Main",
+   "reference": "5 U 81/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "VG Stuttgart",
+   "kind": "named_office",
+   "aliases": [
+    "VG Stuttgart"
+   ],
+   "role": "Verwaltungsgericht Stuttgart",
+   "reference": "6 U 59/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "StA Hannover",
+   "kind": "named_office",
+   "aliases": [
+    "StA Hannover"
+   ],
+   "role": "Staatsanwaltschaft Hannover",
+   "reference": "1021 Js 115878/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "StA Frankfurt",
+   "kind": "named_office",
+   "aliases": [
+    "StA Frankfurt"
+   ],
+   "role": "Staatsanwaltschaft Frankfurt am Main",
+   "reference": "02 O 79/24",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "StA Heilbronn",
+   "kind": "named_office",
+   "aliases": [
+    "StA Heilbronn"
+   ],
+   "role": "Staatsanwaltschaft Heilbronn",
+   "reference": "257 Js 31024/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "StA Stuttgart",
+   "kind": "named_office",
+   "aliases": [
+    "StA Stuttgart"
+   ],
+   "role": "Staatsanwaltschaft Stuttgart",
+   "reference": "3110 Js 101829/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "GStA",
+   "kind": "named_office",
+   "aliases": [
+    "GStA"
+   ],
+   "role": "Generalstaatsanwaltschaft",
+   "reference": "7 AR 20/24",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "BGH",
+   "kind": "named_office",
+   "aliases": [
+    "BGH"
+   ],
+   "role": "Bundesgerichtshof",
+   "reference": "5 U 81/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "BVerfG",
+   "kind": "named_office",
+   "aliases": [
+    "BVerfG"
+   ],
+   "role": "Bundesverfassungsgericht",
+   "reference": "6 W 25/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "IStGH",
+   "kind": "named_office",
+   "aliases": [
+    "IStGH"
+   ],
+   "role": "Internationaler Strafgerichtshof",
+   "reference": "1K 9416/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  },
+  {
+   "target": "EPPO",
+   "kind": "named_office",
+   "aliases": [
+    "EPPO"
+   ],
+   "role": "Europäische Staatsanwaltschaft",
+   "reference": "5 U 81/26",
+   "basis": "in den Akten des Verfahrens benannt"
+  }
+ ],
+ "allowed_actions": [
+  "evidence_pack",
+  "report_pack",
+  "telemetry_ingest",
+  "browser_readonly"
+ ],
+ "expires_at": "2026-12-23T00:00:00Z",
+ "approver": "Baron Marco Paolo Ialongo (BfJ-ID: 44f05e3b-4ed5-487f-8fe3-91e8ce858679)",
+ "notes": "Default-deny. The target list contains ONLY parties named in the proceedings, with their case reference. No wildcard, no inference, no expansion. The corpus is content-addressed: every file's path IS its SHA-256, so integrity is verifiable without trusting the operator. Explicitly NOT authorized: nmap/nuclei/trivy/prowler against any third-party host, any scanning or blocking of persons, any doxxing, any mass surveillance, any external accusation or report without a named human approver, and any legal conclusion. A case-scoped list of named parties is not a list of suspects: 60.000 people of Heilbronn have not been charged, and a list of them would be a suspect pool, not a case."
+}
